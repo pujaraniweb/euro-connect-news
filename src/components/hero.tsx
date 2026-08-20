@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Search } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
+import type { Article } from "@/lib/types";
 import { articles, imageUrl, localize } from "@/lib/mock-data";
 import { timeAgo } from "@/lib/utils";
 import { CategoryPill } from "@/components/category-pill";
@@ -16,14 +17,25 @@ const QUICK_LINKS = [
   "Sports",
 ] as const;
 
-export function Hero() {
+export function Hero({
+  leadArticles,
+  leadCategory = "India",
+}: {
+  leadArticles?: Article[];
+  leadCategory?: "India" | "Europe";
+}) {
   const t = useTranslations("common");
   const tq = useTranslations("home.quickLinks");
   const tcat = useTranslations("categories");
   const locale = useLocale();
-  const lead = articles.find((a) => a.featured) ?? articles[0];
+  // Location-aware first news: the lead + secondary stories come from the
+  // visitor's local category (India news for India visitors, Europe news for
+  // European visitors), supplied by the server. Fall back to the newest overall
+  // so the hero is never empty.
+  const pool = leadArticles && leadArticles.length > 0 ? leadArticles : articles;
+  const lead = pool.find((a) => a.featured) ?? pool[0];
   const leadText = localize(lead, locale);
-  const secondary = articles.filter((a) => a.id !== lead.id).slice(0, 3);
+  const secondary = pool.filter((a) => a.id !== lead.id).slice(0, 3);
 
   return (
     <section className="py-6">
@@ -76,7 +88,7 @@ export function Hero() {
                 </span>
               )}
               <span className="text-[11px] font-bold uppercase tracking-wider text-white/80">
-                {tcat(lead.category)}
+                {tcat(leadCategory)}
               </span>
             </div>
             <h1 className="max-w-3xl font-serif text-2xl font-bold leading-tight tracking-tight sm:text-4xl lg:text-5xl">
@@ -120,7 +132,7 @@ export function Hero() {
               </div>
               <div className="min-w-0">
                 <div className="mb-1 flex items-center gap-2">
-                  <CategoryPill category={a.category} />
+                  <CategoryPill category={leadCategory} />
                   {a.isLive && (
                     <span className="flex items-center gap-1 text-[10px] font-bold uppercase text-accent">
                       <span className="h-1.5 w-1.5 rounded-full bg-accent pulse-dot" />

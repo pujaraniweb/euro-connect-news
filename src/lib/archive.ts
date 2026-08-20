@@ -6,6 +6,7 @@ import {
   getArticleBySlug as getCurrentBySlug,
   type GeneratedItem,
 } from "./mock-data";
+import { VIRTUAL_CATEGORIES } from "./categories";
 
 /**
  * The persistent archive (current + historical items, newest first). This module
@@ -30,15 +31,6 @@ export function getSearchCorpus(): Article[] {
 export function allSources(): string[] {
   return [...new Set(archivedArticles.map((a) => a.source))].sort();
 }
-
-// Some navbar entries are topics that span feeds rather than a section of their
-// own (Visa, India, Health). They are matched by keyword across the corpus.
-// Word boundaries avoid false hits (e.g. "migration" inside "e-migration").
-const VIRTUAL_CATEGORIES: Record<string, RegExp> = {
-  visa: /\b(visas?|immigration|immigrants?|migrants?|asylum seeker|work permit|work visa|green card|residence permit|citizenship application|border force)\b/i,
-  india: /\b(india|indian|indians|delhi|mumbai|modi|rupee|bollywood|bengaluru|gujarat|kolkata|hyderabad)\b/i,
-  health: /\b(health|healthcare|disease|diseases|vaccine|vaccines|hospital|hospitals|medical|medicine|nhs|cancer|virus|outbreak|mental health|patients?|doctors?|wellbeing|obesity|diabetes)\b/i,
-};
 
 /**
  * All articles in a category (current + archive), newest first, so every navbar

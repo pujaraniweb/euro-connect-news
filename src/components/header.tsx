@@ -16,10 +16,11 @@ import { WeatherWidget } from "@/components/weather-widget";
 import { setLocale } from "@/i18n/actions";
 import type { Locale } from "@/i18n/config";
 
-const NAV = [
-  "India",
+// The fixed tail is identical for every visitor. Only the FIRST category is
+// location-aware (INDIA for India visitors, EUROPE for European visitors).
+const NAV_TAIL = [
   "World",
-  "Europe",
+  "Health",
   "Politics",
   "Business",
   "Technology",
@@ -35,7 +36,10 @@ function navHref(label: string) {
   return `/category/${label.toLowerCase()}`;
 }
 
-export function Header() {
+export function Header({ region = "india" }: { region?: "india" | "europe" }) {
+  const localCategory = region === "europe" ? "Europe" : "India";
+  const NAV = [localCategory, ...NAV_TAIL];
+
   const t = useTranslations("nav");
   const tc = useTranslations("common");
   const th = useTranslations("header");

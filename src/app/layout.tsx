@@ -3,6 +3,7 @@ import { Inter, Playfair_Display } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import "./globals.css";
+import { detectRegion } from "@/lib/region";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
@@ -58,6 +59,7 @@ export default async function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   const locale = await getLocale();
   const messages = await getMessages();
+  const region = await detectRegion();
 
   return (
     <html
@@ -68,7 +70,7 @@ export default async function RootLayout({
       <body className="min-h-screen">
         <NextIntlClientProvider locale={locale} messages={messages}>
           <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
-            <Header />
+            <Header region={region} />
             <main className="mx-auto w-full max-w-[1400px] px-4 pb-24 sm:px-6 lg:pb-12">
               {children}
             </main>
