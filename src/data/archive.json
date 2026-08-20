@@ -1,8 +1,613 @@
 {
-  "generatedAt": "2026-08-20T04:54:21.135Z",
+  "generatedAt": "2026-08-20T06:26:06.714Z",
   "retentionDays": 45,
-  "total": 1083,
+  "total": 1144,
   "items": [
+    {
+      "id": "48ee36c9dcf3b871430114f24070274f7e6d490e",
+      "slug": "live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-m-48ee36",
+      "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "excerpt": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Shaurya Malwa",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca0ed25f53e417eaa5bdbad915398aaf0f884b27-1080x1006.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:21:17.000Z",
+      "sourceUrl": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "guid": "aeecf0bd-1ab7-459e-81e3-3907b2b59481",
+      "titleHi": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "excerptHi": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+      "archived": false
+    },
+    {
+      "id": "643bab510fbbf0ff3978ee32a14b60b7b2cd7f53",
+      "slug": "gcse-results-hundreds-of-thousands-of-pupils-across-england-643bab",
+      "title": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland await grades – latest updates",
+      "excerpt": "Students will begin receiving this years exam results online and in person from 8am (GMT) this morning Forcing teenagers who fail GCSEs into multiple resits has a negative impact on their mental health, according to…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Taz Ali (now)  and Mabel Banfield-Nwachi (earlier)",
+      "image": "https://i.guim.co.uk/img/media/08677bc8f407e859e4e8c6f69d4deee4958fea7f/0_0_3673_2939/master/3673.jpg?width=140&quality=85&auto=format&fit=max&s=358c774207b27f832474877e47957d7f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:17:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+      "guid": "https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates",
+      "titleHi": "GCSE results: hundreds of thousands of pupils across England, Wales and Northern Ireland await grades – latest updates",
+      "excerptHi": "Students will begin receiving this years exam results online and in person from 8am (GMT) this morning Forcing teenagers who fail GCSEs into multiple resits has a negative impact on their mental health, according to…",
+      "archived": false
+    },
+    {
+      "id": "9edd9509c0ab82093122c0d827037db5eff28900",
+      "slug": "more-than-1000-birds-found-dead-in-three-mass-mortality-even-9edd95",
+      "title": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
+      "excerpt": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals South Australian premier Peter Malinauskas has declared a “significant…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lisa Cox",
+      "image": "https://i.guim.co.uk/img/media/8bf4d2d3b84de383295a655c798514bc850cc6f3/260_0_1192_954/master/1192.jpg?width=140&quality=85&auto=format&fit=max&s=54e1ec830959650315860f1a13d9b247",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:16:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
+      "guid": "https://www.theguardian.com/world/2026/aug/20/more-than-1000-birds-found-dead-in-three-mass-mortality-events-amid-significant-h5-escalation-in-australia",
+      "titleHi": "More than 1,000 birds found dead in three mass mortality events amid ‘significant’ H5 escalation in Australia",
+      "excerptHi": "South Australian premier Peter Malinauskas says there have still been no detections in poultry or livestock and no mass deaths involving mammals South Australian premier Peter Malinauskas has declared a “significant…",
+      "archived": false
+    },
+    {
+      "id": "f8b9a461e02d8b219829dd26d70142b95ca7c731",
+      "slug": "isaac-heeney-dumped-as-face-of-own-company-amid-sydney-swans-f8b9a4",
+      "title": "Isaac Heeney dumped as face of own company amid Sydney Swans commercial fallout",
+      "excerpt": "Heeney’s name and image removed from 5th Quarter Camp promotions Book stores stop sale of children’s series Little Isaac Footy Fever A commercial recalibration around the Sydney Swans and their five stood-down players…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jack Snape and Jack Larkin",
+      "image": "https://i.guim.co.uk/img/media/e3e582f128c768cfa8f57555c70f8b1779932a99/433_0_2675_2141/master/2675.jpg?width=140&quality=85&auto=format&fit=max&s=b9aeb2221e8057700c0ca1be35ff83d8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:12:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/20/isaac-heeney-dropped-colgate-telstra-book-deal-sydney-swans-incident-ntwnfb",
+      "guid": "https://www.theguardian.com/sport/2026/aug/20/isaac-heeney-dropped-colgate-telstra-book-deal-sydney-swans-incident-ntwnfb",
+      "titleHi": "Isaac Heeney dumped as face of own company amid Sydney Swans commercial fallout",
+      "excerptHi": "Heeney’s name and image removed from 5th Quarter Camp promotions Book stores stop sale of children’s series Little Isaac Footy Fever A commercial recalibration around the Sydney Swans and their five stood-down players…",
+      "archived": false
+    },
+    {
+      "id": "fb82999fc7f6997530e72416f2829b4a8f137e8a",
+      "slug": "alan-joness-barrister-argues-alleged-victim-was-not-groomed-fb8299",
+      "title": "Alan Jones’s barrister argues alleged victim was not groomed because that ‘happens to young children’",
+      "excerpt": "Sydney court hears complainant was more than 40 years younger and far less powerful than the shock jock when he started working as his driver Alan Jones’s defence team has suggested his alleged victim was never groomed…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Kat Wong and Amanda Meade",
+      "image": "https://i.guim.co.uk/img/media/f98321a74721c5bb9d8f8d0f47702a34b64410e1/603_0_4098_3278/master/4098.jpg?width=140&quality=85&auto=format&fit=max&s=395e70a3c6fb10ddf7ac9bedca8db7e0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:07:02.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/20/alan-jones-trial-grooming-claim-adult-alleged-victim-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/20/alan-jones-trial-grooming-claim-adult-alleged-victim-ntwnfb",
+      "titleHi": "Alan Jones’s barrister argues alleged victim was not groomed because that ‘happens to young children’",
+      "excerptHi": "Sydney court hears complainant was more than 40 years younger and far less powerful than the shock jock when he started working as his driver Alan Jones’s defence team has suggested his alleged victim was never groomed…",
+      "archived": false
+    },
+    {
+      "id": "6cde005f8c97b24e235487514c06015e269fa9f9",
+      "slug": "farage-using-christianity-to-stir-anti-muslim-feeling-says-r-6cde00",
+      "title": "Farage using Christianity ‘to stir anti-Muslim feeling’, says Rowan Williams",
+      "excerpt": "Former archbishop of Canterbury also has ‘awkward questions’ for activist Tommy Robinson on his claimed faith A former archbishop of Canterbury has accused Nigel Farage of misusing the UK’s Christianity “to channel…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Caroline Davies",
+      "image": "https://i.guim.co.uk/img/media/196840cdc459e4b96b4ccd05f6b0ec1e1ab03c01/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ad57d70eefad39199e191d9a08753c32",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:00:45.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/20/nigel-farage-rowan-williams-tommy-robinson-christianity-anti-muslim-feeling",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/20/nigel-farage-rowan-williams-tommy-robinson-christianity-anti-muslim-feeling",
+      "titleHi": "Farage using Christianity ‘to stir anti-Muslim feeling’, says Rowan Williams",
+      "excerptHi": "Former archbishop of Canterbury also has ‘awkward questions’ for activist Tommy Robinson on his claimed faith A former archbishop of Canterbury has accused Nigel Farage of misusing the UK’s Christianity “to channel…",
+      "archived": false
+    },
+    {
+      "id": "3da8b1e1bd3bd87add9693209a3d9e0a8a93b21b",
+      "slug": "melancholy-made-in-hungary-is-fuelling-bestsellers-across-th-3da8b1",
+      "title": "Melancholy made in Hungary is fuelling bestsellers across the globe – and widely misunderstood",
+      "excerpt": "A ‘capacity for despair’ forged by political oppression has long been consider a Magyar national trait. But after Orbán, writers in the country remind us that melancholy must not always be bleak A lone visitor looks for…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Logan Scherer",
+      "image": "https://i.guim.co.uk/img/media/2243be4c91f512ff8bb340c315b27e53c30659b6/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=fed665e01c4f8f826562319ec7040eaa",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:00:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/books/2026/aug/20/melancholy-made-in-hungary-is-fuelling-bestsellers-across-the-globe-and-widely-misunderstood",
+      "guid": "https://www.theguardian.com/books/2026/aug/20/melancholy-made-in-hungary-is-fuelling-bestsellers-across-the-globe-and-widely-misunderstood",
+      "titleHi": "Melancholy made in Hungary is fuelling bestsellers across the globe – and widely misunderstood",
+      "excerptHi": "A ‘capacity for despair’ forged by political oppression has long been consider a Magyar national trait. But after Orbán, writers in the country remind us that melancholy must not always be bleak A lone visitor looks for…",
+      "archived": false
+    },
+    {
+      "id": "0ae80024ab2709e9f4b7f22cc0a01620589ab043",
+      "slug": "working-in-keir-starmers-no-10-unbearable-says-sue-gray-0ae800",
+      "title": "Working in Keir Starmer’s No 10 ‘unbearable’, says Sue Gray",
+      "excerpt": "Former chief of staff tells of fears her conversations were being recorded and leaked to media by colleagues Keir Starmer’s former chief of staff has lifted the lid on how “unbearable” it was working in No 10, revealing…",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rowena Mason Whitehall editor",
+      "image": "https://i.guim.co.uk/img/media/9f48ab240debbc60614878f152dd9c173bb5aa5d/277_0_3241_2593/master/3241.jpg?width=140&quality=85&auto=format&fit=max&s=a21afe47d098664cb6ab124631b4f2f6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:00:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/20/working-in-keir-starmer-no-10-unbearable-says-sue-gray",
+      "guid": "https://www.theguardian.com/politics/2026/aug/20/working-in-keir-starmer-no-10-unbearable-says-sue-gray",
+      "titleHi": "Working in Keir Starmer’s No 10 ‘unbearable’, says Sue Gray",
+      "excerptHi": "Former chief of staff tells of fears her conversations were being recorded and leaked to media by colleagues Keir Starmer’s former chief of staff has lifted the lid on how “unbearable” it was working in No 10, revealing…",
+      "archived": false
+    },
+    {
+      "id": "a519c120e1e119a8a02924333360dc1fbe4911fb",
+      "slug": "capture-the-dark-2026-winning-photographs-a519c1",
+      "title": "Capture the Dark 2026: Winning photographs",
+      "excerpt": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30…",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/2f4c39ed5f4bd7f76ea20278a8c311195061d5ff/0_6_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=89a345a40a9d4ab8ce23eba4385664d1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:00:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
+      "guid": "https://www.theguardian.com/artanddesign/gallery/2026/aug/20/capture-the-dark-2026-winning-photographs",
+      "titleHi": "Capture the Dark 2026: Winning photographs",
+      "excerptHi": "A selection of winning images from DarkSky International’s 2026 Capture the Dark photography contest. It is the sixth edition of the annual night-time photography competition, which drew 2,288 submissions from 30…",
+      "archived": false
+    },
+    {
+      "id": "9d9dd0111fe487790365f97b9e24574042e6c87a",
+      "slug": "brooks-on-fatherhood-ronaldo-and-european-nights-9d9dd0",
+      "title": "Brooks on fatherhood, Ronaldo and European nights",
+      "excerpt": "The new football season promises to be one of both little steps and giant steps for Bournemouth and Wales midfielder David Brooks.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887a/live/67901ad0-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:59:41.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c3w02nv14pqo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c3w02nv14pqo#10",
+      "titleHi": "Brooks on fatherhood, Ronaldo and European nights",
+      "excerptHi": "The new football season promises to be one of both little steps and giant steps for Bournemouth and Wales midfielder David Brooks.",
+      "archived": false
+    },
+    {
+      "id": "a15db1efa1f0663753b635e5d0bd7eb01370dcdf",
+      "slug": "who-am-i-guess-premier-league-star-no-31-a15db1",
+      "title": "Who am I? Guess Premier League star No 31",
+      "excerpt": "Work out the identity of today's player in as few attempts as possible.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572f/live/e6ff1b60-85b1-11f1-bee8-53ce494e1abc.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T05:57:38.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cj36grvmrz4o#2",
+      "titleHi": "Who am I? Guess Premier League star No 31",
+      "excerptHi": "Work out the identity of today's player in as few attempts as possible.",
+      "archived": false
+    },
+    {
+      "id": "0915b31a81dab3fcc75d3c9ed67bc073b1ea1d4d",
+      "slug": "hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid-0915b3",
+      "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
+      "excerpt": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-s-general-information-about-hyperliquid-mission.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:52:30.000Z",
+      "sourceUrl": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access",
+      "titleHi": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
+      "excerptHi": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
+      "archived": false
+    },
+    {
+      "id": "ca43879f46caf9502e019157d2b34d06e8602921",
+      "slug": "which-supplements-do-athletes-take-and-why-ca4387",
+      "title": "Which supplements do athletes take and why?",
+      "excerpt": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c70/live/83d9e3d0-97d1-11f1-b1e0-bbc28f2688df.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:52:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/articles/cpd7pwx0233o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/articles/cpd7pwx0233o#0",
+      "titleHi": "Which supplements do athletes take and why?",
+      "excerptHi": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?",
+      "archived": false
+    },
+    {
+      "id": "77743286ffc95ba4f4cfcc57dbae003a502a0425",
+      "slug": "there-was-grift-there-was-thuggery-victorian-premier-says-no-777432",
+      "title": "‘There was grift, there was thuggery’: Victorian premier says ‘nothing is off limits’ at construction royal commission",
+      "excerpt": "Ben Carroll releases terms of reference for inquiry that will include examining allegations of CFMEU corruption on state government building sites Follow our Australia news live blog for latest updates Get our breaking…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "image": "https://i.guim.co.uk/img/media/828463f26d35b483a2588193246e48e46adcb92c/562_70_3647_2918/master/3647.jpg?width=140&quality=85&auto=format&fit=max&s=0a6e5cc511b9a0607d20f125d8353334",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:47:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/20/victorian-premier-to-call-royal-commission-into-construction-sector-amid-cfmeu-scandal-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/20/victorian-premier-to-call-royal-commission-into-construction-sector-amid-cfmeu-scandal-ntwnfb",
+      "titleHi": "‘There was grift, there was thuggery’: Victorian premier says ‘nothing is off limits’ at construction royal commission",
+      "excerptHi": "Ben Carroll releases terms of reference for inquiry that will include examining allegations of CFMEU corruption on state government building sites Follow our Australia news live blog for latest updates Get our breaking…",
+      "archived": false
+    },
+    {
+      "id": "d6988fa5b70fd77996b613daf398302e9cadf396",
+      "slug": "trader-who-made-49-million-shorting-crypto-lost-24-million-o-d6988f",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "excerpt": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Shaurya Malwa",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ed9eae23e39b33ac663078c2aadf3dd5a909cc2-1497x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:40:54.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "guid": "532c2d51-b928-4b9e-a588-8f73a080c9ea",
+      "titleHi": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "excerptHi": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+      "archived": false
+    },
+    {
+      "id": "cedf7f5c014222b1db88feba95d70d0a63d9bef6",
+      "slug": "russia-launches-missile-strikes-on-kyiv-and-surrounding-regi-cedf7f",
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "excerpt": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:25:23.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c98vzmden5yo#0",
+      "titleHi": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "excerptHi": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "archived": false
+    },
+    {
+      "id": "37e7da281aaf0d932e98772dcb840cd170ef767a",
+      "slug": "premier-league-predictions-2026-27-bbc-sport-pundits-pick-th-37e7da",
+      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "excerpt": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:24:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo#0",
+      "titleHi": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "excerptHi": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "archived": false
+    },
+    {
+      "id": "68d7157d19e8c5d8da0eb308723e90e47f37d1ad",
+      "slug": "aguero-and-shearer-star-in-best-opening-round-debuts-68d715",
+      "title": "Aguero and Shearer star in best opening-round debuts",
+      "excerpt": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20c/live/89ac3320-9bf6-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:22:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o#0",
+      "titleHi": "Aguero and Shearer star in best opening-round debuts",
+      "excerptHi": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+      "archived": false
+    },
+    {
+      "id": "019e0d50df0a385a22adbf2bc5304b7a04cce68a",
+      "slug": "zoo-boss-calls-pipeline-plan-on-site-unacceptable-019e0d",
+      "title": "Zoo boss calls pipeline plan on site 'unacceptable'",
+      "excerpt": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b1/live/ce162330-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T05:21:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o#1",
+      "titleHi": "Zoo boss calls pipeline plan on site 'unacceptable'",
+      "excerptHi": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
+      "archived": false
+    },
+    {
+      "id": "4ada4996364d3212f0185190012ee313db8ec6c2",
+      "slug": "little-moons-co-founder-your-product-doesnt-have-to-be-perfe-4ada49",
+      "title": "Little Moons co-founder: Your product doesn't have to be perfect to launch",
+      "excerpt": "Vivien Wong shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/26da4630-94b0-11f1-b2ab-0dd01740f9f6.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T05:17:15.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgq5ky2ezl5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cgq5ky2ezl5o#5",
+      "titleHi": "Little Moons co-founder: Your product doesn't have to be perfect to launch",
+      "excerptHi": "Vivien Wong shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
+      "archived": false
+    },
+    {
+      "id": "9c263f36442bdccf4a633c246ca965a42268394a",
+      "slug": "captured-ukrainian-born-soldiers-tell-bbc-why-they-fought-fo-9c263f",
+      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "excerpt": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:01:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn9nr195drzo#2",
+      "titleHi": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "excerptHi": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "archived": false
+    },
+    {
+      "id": "9748cfd08ea7a3f1478a7c7e25a88abcea774e1e",
+      "slug": "monstera-magic-barbican-hands-out-cuttings-as-green-lung-of-9748cf",
+      "title": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
+      "excerpt": "Five hundred people turn up to adopt plants from conservatory that will reopen in 2030 after renovation project Above the waxy monstera leaves and bright pink hibiscus flowers in the Barbican conservatory hangs a giant…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Helena Horton",
+      "image": "https://i.guim.co.uk/img/media/395e428b608c39ea390e0786278de4935e151cfb/0_1716_4928_3941/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=752f8886f5bfe0737d21419c34d2539f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
+      "guid": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
+      "titleHi": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
+      "excerptHi": "Five hundred people turn up to adopt plants from conservatory that will reopen in 2030 after renovation project Above the waxy monstera leaves and bright pink hibiscus flowers in the Barbican conservatory hangs a giant…",
+      "archived": false
+    },
+    {
+      "id": "b30947c005d2633c538902747b91c7406901374e",
+      "slug": "oxfam-cant-guarantee-future-of-charity-shops-as-it-also-revi-b30947",
+      "title": "Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business",
+      "excerpt": "Dwindling donations and stiff competition from secondhand sellers online prompt review but ‘no plans for closures yet’ Oxfam is reviewing the operations of its three warehouses in Batley, Bicester and Milton Keynes and…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Sarah Butler",
+      "image": "https://i.guim.co.uk/img/media/f88634f8dddb5664ad2a563f62a4db78b61b77be/470_0_4511_3608/master/4511.jpg?width=140&quality=85&auto=format&fit=max&s=896fcfe156c600a38fe9e06f3915ae29",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business",
+      "guid": "https://www.theguardian.com/world/2026/aug/20/oxfam-cant-guarantee-future-of-charity-shops-as-it-also-reviews-warehouse-business",
+      "titleHi": "Oxfam ‘can’t guarantee future’ of charity shops as it also reviews warehouse business",
+      "excerptHi": "Dwindling donations and stiff competition from secondhand sellers online prompt review but ‘no plans for closures yet’ Oxfam is reviewing the operations of its three warehouses in Batley, Bicester and Milton Keynes and…",
+      "archived": false
+    },
+    {
+      "id": "98c561e9af307123141d80c9201b0801b3409721",
+      "slug": "from-bone-dry-to-soaked-to-the-bone-welcome-to-the-age-of-cl-98c561",
+      "title": "From bone-dry to soaked to the bone, welcome to the age of climate whiplash | Aditya Chakrabortty",
+      "excerpt": "This punishingly hot and dry summer will probably be followed by another wet winter. But it’s nothing compared with what Britain will endure in years to come This summer could be the hottest, driest and deadliest in…",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Aditya Chakrabortty",
+      "image": "https://i.guim.co.uk/img/media/7be85c6e2150dbc2377e325ed9b4f93416c6f528/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8384a8f5fe84459bdaabfe6f06bceca1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash",
+      "titleHi": "From bone-dry to soaked to the bone, welcome to the age of climate whiplash | Aditya Chakrabortty",
+      "excerptHi": "This punishingly hot and dry summer will probably be followed by another wet winter. But it’s nothing compared with what Britain will endure in years to come This summer could be the hottest, driest and deadliest in…",
+      "archived": false
+    },
+    {
+      "id": "ef785556aa823fda5530628b95a7d62784cfa916",
+      "slug": "latest-news-bulletin-august-20th-2026-morning-ef7855",
+      "title": "Latest news bulletin | August 20th, 2026 – Morning",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:33.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning",
+      "guid": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning",
+      "titleHi": "Latest news bulletin | August 20th, 2026 – Morning",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "archived": false
+    },
+    {
+      "id": "2c4aab8d722717997868c69a4e88361e493a867d",
+      "slug": "america-is-about-to-get-more-expensive-2c4aab",
+      "title": "America Is About to Get More Expensive",
+      "excerpt": "The impact from the bond market sell-off could prove more enduring, wide-ranging and globally consequential than prior episodes of market volatility.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Mohamed A. El-Erian",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20elerian-wmbt/20elerian-wmbt-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:06.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
+      "guid": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
+      "titleHi": "America Is About to Get More Expensive",
+      "excerptHi": "The impact from the bond market sell-off could prove more enduring, wide-ranging and globally consequential than prior episodes of market volatility.",
+      "archived": false
+    },
+    {
+      "id": "b421782a4e9228bee2f809bc0983e8ee62efba77",
+      "slug": "trump-wants-to-influence-brazil-its-way-ahead-of-him-b42178",
+      "title": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
+      "excerpt": "The country’s coming election will not be decided by the American president.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Andre Pagliarini",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20pagliarini-vtqh/20pagliarini-vtqh-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T05:00:05.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
+      "guid": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
+      "titleHi": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
+      "excerptHi": "The country’s coming election will not be decided by the American president.",
+      "archived": false
+    },
+    {
+      "id": "f5d32a994e7876ad659a2aed4b25e08c498cdc4d",
+      "slug": "trump-threatens-irans-trade-partners-as-military-strikes-mak-f5d32a",
+      "title": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
+      "excerpt": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran’s economy,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Yerushalmy",
+      "image": "https://i.guim.co.uk/img/media/d43051433cb016c208dfc647c9f2517efbfe04cf/1375_65_4125_3301/master/4125.jpg?width=140&quality=85&auto=format&fit=max&s=f41f7a4df0890477f926ecc7b22db497",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T04:53:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+      "guid": "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz",
+      "titleHi": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
+      "excerptHi": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran’s economy,…",
+      "archived": false
+    },
+    {
+      "id": "e9f1a37e002b0cbdfc53aaf9d18b80f7549e456b",
+      "slug": "lebanon-extradites-ex-assad-military-general-to-syria-for-tr-e9f1a3",
+      "title": "Lebanon extradites ex-Assad military general to Syria for trial over alleged crimes committed during civil war",
+      "excerpt": "The move comes as the new Syrian government, led by interim President Ahmad al-Sharaa looks to hold senior members of Assad’s regime accountable for crimes committed during the country’s civil war, which killed hundreds…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T04:51:38.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit",
+      "guid": "http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit",
+      "titleHi": "Lebanon extradites ex-Assad military general to Syria for trial over alleged crimes committed during civil war",
+      "excerptHi": "The move comes as the new Syrian government, led by interim President Ahmad al-Sharaa looks to hold senior members of Assad’s regime accountable for crimes committed during the country’s civil war, which killed hundreds…",
+      "archived": false
+    },
     {
       "id": "35560161c0675c39a51cb4f44ff8bdecc6dd7dec",
       "slug": "missing-teen-hiker-found-dead-in-australian-bush-after-eight-355601",
@@ -233,6 +838,26 @@
       "guid": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
       "titleHi": "लैरी डेविड का कहना है कि पूर्व दोस्त एलन डर्शोविट्ज़ ने ट्रम्प के वकील के रूप में ’शैतान के साथ सौदा किया'",
       "excerptHi": "सीनफेल्ड एंड कर्ब योर एंथुसिम क्रिएटर का कहना है कि डर्शोविट्ज़, जिन्होंने जेफरी एपस्टीन और हार्वे वेनस्टीन का भी बचाव किया था, को बहिष्कृत किए जाने के लिए ‘केवल खुद को दोषी ठहराया है' लैरी डेविड ने अपने पतन के बारे में खोला है...",
+      "archived": false
+    },
+    {
+      "id": "fdb0f4f9dd0680b9842c8974f99a5c1e52bd7d57",
+      "slug": "north-korea-says-trumps-scale-back-of-joint-military-exercis-fdb0f4",
+      "title": "North Korea says Trump's scale-back of joint military exercises with South Korea 'changes nothing'",
+      "excerpt": "Critics slammed the Trump administration over its surprise pull-back from the planned drills with South Korea, stressing that the move is yet another example of the US turning its back on its allies, hurting its…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T04:02:29.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
+      "guid": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
+      "titleHi": "North Korea says Trump's scale-back of joint military exercises with South Korea 'changes nothing'",
+      "excerptHi": "Critics slammed the Trump administration over its surprise pull-back from the planned drills with South Korea, stressing that the move is yet another example of the US turning its back on its allies, hurting its…",
       "archived": false
     },
     {
@@ -663,7 +1288,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
       "titleHi": "मध्य अफ्रीकी गणराज्य में सोने की खदान गिरने से 100 से अधिक लोगों की मौत",
       "excerptHi": "भूस्खलन के कारण ढह गया था, जबकि स्थानीय अधिकारियों का कहना है कि मरने वालों की संख्या बढ़ने की संभावना है क्योंकि रिकवरी के प्रयास जारी हैं पश्चिमी के एक छोटे से गांव में एक कारीगर सोने की खदान के बाद 100 से अधिक लोगों की मौत हो गई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1e1c62fa420666b3548b22f829fd1155b8b0a493",
@@ -685,7 +1310,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move",
       "titleHi": "‘एक बहुत बड़ा सम्मान ': सॉकरूज़ वर्ल्ड कप स्टार एलेसेंड्रो सर्कटी सील्स बेनफ़िका चले गए",
       "excerptHi": "डिफेंडर ने 20 मिलियन यूरो ($ 33 मिलियन) की रिपोर्ट की गई फीस के लिए स्थानांतरण पूरा किया दस ऑस्ट्रेलियाई खिलाड़ियों ने अब विश्व कप के बाद की चालें बनाई हैं यंग सॉकरू एलेसेंड्रो सर्कती स्नैप होने वाले नवीनतम ऑस्ट्रेलियाई अंतर्राष्ट्रीय बन गए हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f69ab0a001b51d26876b57a7905d136e4bff7f2a",
@@ -707,7 +1332,7 @@
       "guid": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o#0",
       "titleHi": "फ्लैश बाढ़ के जोखिम के साथ यूके के लिए डाउनस्टोर जारी रहेगा",
       "excerptHi": "जैसा कि बेन रिच बताते हैं, यूके में भारी, गरज के साथ बारिश जारी रहने के साथ लंबे समय तक सूखे जादू का अंत हो गया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "17c93de99ef5d48872b988b76db8bc2becccd029",
@@ -727,7 +1352,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o#10",
       "titleHi": "सेल्टिक 'विशेष' दुरान में मूल्य पाते हैं - लेकिन क्या महत्वाकांक्षा अभी भी आगे पहुंचती है?",
       "excerptHi": "अब जब चैंपियंस लीग का पैसा करीब आ रहा है, तो हमें सेल्टिक की महत्वाकांक्षा का पैमाना देखने को मिलेगा, टॉम इंग्लिश पूछता है?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "26ad3956d1f91f5d1d796924b5f893f9970b2d91",
@@ -747,7 +1372,7 @@
       "guid": "https://www.nytimes.com/2026/08/19/opinion/trumps-revenge.html",
       "titleHi": "प्रतिशोध के लिए ट्रम्प की लालसा एक दूरगामी में बदल रही है",
       "excerptHi": "प्रतिशोध राष्ट्रपति की प्राथमिकताओं को आकार देता है, उनके कार्यों को संचालित करता है और उनकी सरकार के निर्णयों की संरचना करता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5a1b755dbf5046ac2150acbb917a66db06ab74ae",
@@ -767,7 +1392,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#0",
       "titleHi": "India's Gen Z are driving up a mega boom in its beauty market",
       "excerptHi": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e78f0222db524d7f143a107653abf9e9ae495587",
@@ -787,7 +1412,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/20/sydney-swans-incident-coach-shock-anger-players-ban-ntwnfb",
       "titleHi": "‘Deep sadness’: former Sydney Swans coach expresses shock and anger at banned players",
       "excerptHi": "John Longmire says on-field ramifications not a priority for club Victoria Police detectives expected to arrive in Sydney Sydney’s last premiership coach says there’s a deep sense of sadness at five Swans players being…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd468abe1d3b5529e7085bfa8b7fe65a6f79d700",
@@ -809,7 +1434,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o#2",
       "titleHi": "Who is Natalie Harp, Trump's right-hand woman?",
       "excerptHi": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f20b7ed61e5c641a48586444447572443766a762",
@@ -829,7 +1454,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cz97148eye0o#0",
       "titleHi": "I quit my £80,000 job to make ice cream - here's how",
       "excerptHi": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f1ae5c3d68d721c38cda14f2fe84b5e940295c14",
@@ -849,7 +1474,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo#2",
       "titleHi": "Algorithms amplified World Cup racism, says report",
       "excerptHi": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e1066ca43a184a697d5f8c64cc1ec5e8f07bbfcb",
@@ -871,7 +1496,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/20/young-vapers-at-risk-of-breathing-problems-and-becoming-smokers",
       "titleHi": "Young vapers ‘at risk of breathing problems and becoming smokers’",
       "excerptHi": "Review by paediatricians links child vaping with poor respiratory health such as coughing, wheezing and asthma Young people who start vaping risk developing breathing problems and going on to smoke cigarettes,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1e2ef45a4df0670a9ba4a0bd3d6bf5a504714a69",
@@ -891,7 +1516,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-17-newcastle",
       "titleHi": "Premier League 2026-27 preview No 17: Newcastle",
       "excerptHi": "After the departure of the manager and some of their best players, fans on Tyneside are braced for a transitional season at best Guardian writers’ predicted position: 17th (NB: this is not necessarily Louise Taylor’s…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c59624557de0f100fc90da0951709bf6491ff13c",
@@ -911,7 +1536,7 @@
       "guid": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
       "titleHi": "Does giving a camera wings dodge the FCC’s drone ban?",
       "excerptHi": "It’s a camera. It’s a drone. But HoverAir doesn’t want it to be a drone where the FCC is concerned. | Image: HoverAir HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c2083dc9b402175bca1eb94cdc379cbf4c767258",
@@ -931,7 +1556,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo#0",
       "titleHi": "Tongue & Robinson cut Headingley ball in half",
       "excerptHi": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6172ccebf9ce36d7aab4787e49da1d0b32ca81c8",
@@ -951,7 +1576,7 @@
       "guid": "8149c29c-281a-4e40-9f03-1c58450d210e",
       "titleHi": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
       "excerptHi": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "54d728b19099673153d35830c90a64839421b48f",
@@ -973,7 +1598,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report",
       "titleHi": "‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
       "excerptHi": "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead against Lask in their Champions League playoff. Benjamin Nygren also produced a superb finish to send Martin O’Neill’s side…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7faa0d1585aa5a8029ddf482a8c2b5ce7e22c5ae",
@@ -993,7 +1618,7 @@
       "guid": "https://www.nytimes.com/2026/08/19/opinion/when-surrogacy-goes-wrong.html",
       "titleHi": "America Has a Surrogacy Problem",
       "excerptHi": "The industry is long overdue for a reckoning.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e7f59cb9bf1b99381307a7ab8cf7a65d91b3ffc5",
@@ -1013,7 +1638,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/19/jodar-beaten-cobolli-teenager-continues-impress-cincinnati-open-tennis",
       "titleHi": "Teenage ace Rafael Jódar endures defeat by Cobolli but his star is rising",
       "excerptHi": "Spaniard loses narrowly in fourth round of the Cincinnati Open yet the buzz around him will only get louder As Rafael Jódar slowly trudged from the court, he could only bring himself to wave at his adoring crowd for no…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "96f51d25cdbc6713afdc5075e2e59d5004d1a44b",
@@ -1033,7 +1658,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/clylkv4z59vo#0",
       "titleHi": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "excerptHi": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2fa5c2de365bffecb014a82f233e0e3bfbfc9f47",
@@ -1053,7 +1678,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o#2",
       "titleHi": "Man City join Man Utd in Kone race - Thursday's gossip",
       "excerptHi": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d1228bf2bd3a3c2cb424cc9bc4be564f9ebc04ea",
@@ -1075,7 +1700,7 @@
       "guid": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
       "titleHi": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
       "excerptHi": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activity Illegal dumps in West Yorkshire, Surrey and Kent will be cleared up using taxpayer money, Andy Burnham…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f2ba5da4022498cc095616c428037dd0709c1a66",
@@ -1095,7 +1720,7 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
       "titleHi": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
       "excerptHi": "Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to children Meta has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "48057189c66fbddcbb9585cd2760478821d4f5b7",
@@ -1117,7 +1742,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/c62v4v90yd9o#3",
       "titleHi": "Bodo/Glimt in strong position following first-leg win at NEC",
       "excerptHi": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Netherlands.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3a07163bdc91dd10129956ffc3f5d414d053412a",
@@ -1137,7 +1762,27 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/c0m73y34nglo#0",
       "titleHi": "Duran stars as Celtic ease to comfortable win over LASK",
       "excerptHi": "Celtic take a huge step towards the Champions League as two stunning Camilo Duran strikes help carve out a commanding first-leg play-off lead against LASK.",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "2e127157abc3cf0c0c0fade5b6c83b45036bf03d",
+      "slug": "us-gross-national-debt-tops-40tn-for-first-time-2e1271",
+      "title": "US gross national debt tops $40tn for first time",
+      "excerpt": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lauren Aratani",
+      "image": "https://i.guim.co.uk/img/media/8c6e978978889a9a9d1d933b50ed7585080a248b/449_0_4395_3515/master/4395.jpg?width=140&quality=85&auto=format&fit=max&s=45277f4c881d912e73c462f87e5bcf8c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T21:24:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/19/us-debt-40-trillion",
+      "titleHi": "US gross national debt tops $40tn for first time",
+      "excerptHi": "Milestone marks years of government spending that grew under both Donald Trump and Joe Biden US debt reached $40tn for the first time on Wednesday, the US treasury department said, after the government deficit doubled…",
+      "archived": true
     },
     {
       "id": "2498ea2196eb6987d5ca688701036d0f3d7f481c",
@@ -1157,7 +1802,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban",
       "titleHi": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
       "excerptHi": "CEO says English football is ‘everything that it should be’ Concern over perception following World Cup scandal Richard Masters has sought to reassure fans that the Premier League remains “everything that it should be”…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0ecbfce504c36334f9edeac8770ee876272f8ea5",
@@ -1177,7 +1822,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cp8xg9j7gnko#3",
       "titleHi": "Celtic take the lead through Nygren's 'magnificent' strike",
       "excerptHi": "Celtic take the lead in their Champions League play-off first leg against LASK, as Benjamin Nygren finds the top corner in spectacular fashion from outside of the box.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5f736555aa6c8487f243d5910a3aeaa179bb243d",
@@ -1199,7 +1844,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o#3",
       "titleHi": "Duran's incredible double edges Celtic closer to Champions League",
       "excerptHi": "Camilo Duran scores two excellent goals for Celtic in the first leg of their Champions League play-off against Austria's LASK, finding the top corner with a volley and curling an effort past Lukas Jungwirth in the…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f6ee619a3019eeb3d6669ccec2db95ddcdd260fd",
@@ -1219,7 +1864,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c1j1397zg1xo#0",
       "titleHi": "Rashford wants to play football 'without name mentioned every day'",
       "excerptHi": "Marcus Rashford says he would like to play football without his \"name being mentioned every day\" after Gary Neville tried to start a conversation about the Manchester United forward on a podcast.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f10d2e958ce41c0b05d5d841fa1faadd3bf3e313",
@@ -1241,7 +1886,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/19/manchester-city-target-romas-manu-kone-as-spurs-talk-over-savinho-and-marmoush-deal",
       "titleHi": "Manchester City target Roma’s Manu Koné as Spurs talk over Savinho and Marmoush deal",
       "excerptHi": "France World Cup midfielder could cost £50m Tottenham discussing £150m double deal for forward pair Manchester City have identified Roma’s Manu Koné as a potential target to strengthen further Enzo Maresca’s options in…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "10393a1021266a2be3a340c88dbbc478b15365cb",
@@ -1261,7 +1906,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo#0",
       "titleHi": "People smuggler exposed by BBC investigation arrested and charged",
       "excerptHi": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "74d5583e6e25ca629060be144352ba3afb9e18a2",
@@ -2379,6 +3024,26 @@
       "archived": true
     },
     {
+      "id": "55754bb321c800048b169c6648b5e235d24ff8eb",
+      "slug": "trump-says-he-will-meet-north-korean-leader-kim-jong-un-late-55754b",
+      "title": "Trump says he will meet North Korean leader Kim Jong-un later this year",
+      "excerpt": "Trump's comments come just days after he announced that he had ordered US forces to scale back joint military drills with South Korea, which he said sent an \"inappropriate and hostile\" signal to Pyongyang.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T17:07:18.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/trump-says-north-korea-has-57-very-powerful-nuclear-weapons",
+      "guid": "http://www.euronews.com/2026/08/19/trump-says-north-korea-has-57-very-powerful-nuclear-weapons",
+      "titleHi": "Trump says he will meet North Korean leader Kim Jong-un later this year",
+      "excerptHi": "Trump's comments come just days after he announced that he had ordered US forces to scale back joint military drills with South Korea, which he said sent an \"inappropriate and hostile\" signal to Pyongyang.",
+      "archived": true
+    },
+    {
       "id": "250517f54193a8f2bc28ebf64eb9c8154f0384ef",
       "slug": "gta-vi-keeps-leaking-ahead-of-its-gameplay-premiere-250517",
       "title": "GTA VI keeps leaking ahead of its gameplay premiere",
@@ -2500,6 +3165,26 @@
       "guid": "https://www.theguardian.com/society/2026/aug/19/andy-burnham-homeless-plan-labour",
       "titleHi": "‘Burnham’s writing cheques, this one might bounce’: homeless people doubt PM’s plan",
       "excerptHi": "Rough sleepers and charities say they have heard similar political declarations before but seen little success Andy Burnham calls on wider society to help end rough sleeping by Christmas As Andy Burnham set out his plan…",
+      "archived": true
+    },
+    {
+      "id": "d1c3a6adaee272e2f5db7279c1ef646d3314d2a6",
+      "slug": "israel-opens-criminal-probes-into-killings-of-hind-rajab-and-d1c3a6",
+      "title": "Israel opens criminal probes into killings of Hind Rajab and Palestinian medics",
+      "excerpt": "Criminal investigations are not being opened into three other incidents involving aid workers from World Central Kitchen and Doctors Without Borders.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T16:49:03.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/israel-opens-criminal-probes-into-killings-of-hind-rajab-and-palestinian-medics",
+      "guid": "http://www.euronews.com/2026/08/19/israel-opens-criminal-probes-into-killings-of-hind-rajab-and-palestinian-medics",
+      "titleHi": "Israel opens criminal probes into killings of Hind Rajab and Palestinian medics",
+      "excerptHi": "Criminal investigations are not being opened into three other incidents involving aid workers from World Central Kitchen and Doctors Without Borders.",
       "archived": true
     },
     {
@@ -2938,6 +3623,26 @@
       "archived": true
     },
     {
+      "id": "14e8d645aa2346c0fd7a2d0e1041bd588aab865f",
+      "slug": "latest-news-bulletin-august-19th-2026-evening-14e8d6",
+      "title": "Latest news bulletin | August 19th, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-evening",
+      "titleHi": "Latest news bulletin | August 19th, 2026 – Evening",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "archived": true
+    },
+    {
       "id": "5af26260bae2b71044c84c3e48f740f34e28da0f",
       "slug": "astronomers-detect-fastest-known-star-in-milky-way-5af262",
       "title": "Astronomers detect fastest known star in Milky Way",
@@ -3137,6 +3842,26 @@
       "guid": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
       "titleHi": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
       "excerptHi": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
+      "archived": true
+    },
+    {
+      "id": "1461b2c8ff9a11ae0b6c522e7d32248e473a8fc4",
+      "slug": "at-least-100-people-may-have-died-after-gold-mine-collapsed-1461b2",
+      "title": "At least 100 people may have died after gold mine collapsed in Central African Republic",
+      "excerpt": "According to the Baboua public prosecutor, the incident is believed to have been caused by \"the collapse of several underground tunnels in which miners were operating.\"",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T15:43:07.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/at-least-100-people-may-have-died-after-gold-mine-collapsed-in-central-african-republic",
+      "guid": "http://www.euronews.com/2026/08/19/at-least-100-people-may-have-died-after-gold-mine-collapsed-in-central-african-republic",
+      "titleHi": "At least 100 people may have died after gold mine collapsed in Central African Republic",
+      "excerptHi": "According to the Baboua public prosecutor, the incident is believed to have been caused by \"the collapse of several underground tunnels in which miners were operating.\"",
       "archived": true
     },
     {
@@ -3800,6 +4525,26 @@
       "archived": true
     },
     {
+      "id": "4abdfbc33308dfdd46a21fabb644a863ff857804",
+      "slug": "seven-dead-including-ecuadors-intelligence-chief-after-touri-4abdfb",
+      "title": "Seven dead, including Ecuador's intelligence chief, after tourist helicopter crashes in northern Kenya",
+      "excerpt": "The victims are said to include the head of Ecuador's National Intelligence Centre, his wife, and five Americans.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-19T14:23:36.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya",
+      "guid": "http://www.euronews.com/2026/08/19/seven-dead-after-tourist-helicopter-crashes-in-northern-kenya",
+      "titleHi": "Seven dead, including Ecuador's intelligence chief, after tourist helicopter crashes in northern Kenya",
+      "excerptHi": "The victims are said to include the head of Ecuador's National Intelligence Centre, his wife, and five Americans.",
+      "archived": true
+    },
+    {
       "id": "e4d768cecdf94921b0d093d54fe64f63d84bcf56",
       "slug": "inter-close-in-on-30m-deal-for-liverpools-jones-e4d768",
       "title": "Inter close in on £30m deal for Liverpool's Jones",
@@ -3984,6 +4729,29 @@
       "archived": true
     },
     {
+      "id": "debe31a5fae1e1c6b190a6e1b63afca515c0af1d",
+      "slug": "uae-halts-all-trade-and-financial-dealings-with-iran-debe31",
+      "title": "UAE halts all trade and financial dealings with Iran",
+      "excerpt": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T13:51:12.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
+      "guid": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
+      "titleHi": "UAE halts all trade and financial dealings with Iran",
+      "excerptHi": "Abu Dhabi announced the suspension after Iran fired two ballistic missiles toward the country on Tuesday. The move severs ties with what had been a major trading partner for sanctioned Iran, as crude flow through the…",
+      "archived": true
+    },
+    {
       "id": "1354f3f22edb9f003955991616ab15c7bb33662b",
       "slug": "adviser-to-far-right-latin-american-leaders-arrested-for-all-1354f3",
       "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
@@ -4006,6 +4774,26 @@
       "archived": true
     },
     {
+      "id": "99df5e690c0404c12ab646960b6504f005a39eec",
+      "slug": "harvard-agrees-to-pay-53-million-after-former-morgue-manager-99df5e",
+      "title": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
+      "excerpt": "A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T13:42:40.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
+      "guid": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
+      "titleHi": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
+      "excerptHi": "A Boston state court judge gave preliminary approval to the settlement on Tuesday, according to US media, with Harvard saying the distribution of funds is expected to take several months.",
+      "archived": true
+    },
+    {
       "id": "ea00c3635931c1ddcc00ac60933e15ce0fc1beed",
       "slug": "he-doubted-mourinho-says-real-madrid-did-not-want-rodri-afte-ea00c3",
       "title": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
@@ -4025,6 +4813,26 @@
       "guid": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
       "titleHi": "‘He doubted’: Mourinho says Real Madrid did not want Rodri after hesitation over move",
       "excerptHi": "Mourinho: Madrid made midfielder ‘a very good offer’ Spain captain chose to join Barcelona instead for £65.4m José Mourinho has confirmed Real Madrid made Rodri an offer and that he spoke to him about joining the club,…",
+      "archived": true
+    },
+    {
+      "id": "031137e0d3b42c13067909ac35991166d96f84cb",
+      "slug": "neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-d-031137",
+      "title": "Neon lights and lanterns glow in new Hikari area at Tivoli, Denmark",
+      "excerpt": "Tivoli Gardens in Copenhagen opens Hikari, a Japanese-inspired district with neon lights, art, a new ride and views of the historic Japanese Tower.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T13:35:18.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-denmark",
+      "guid": "http://www.euronews.com/video/2026/08/19/neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-denmark",
+      "titleHi": "Neon lights and lanterns glow in new Hikari area at Tivoli, Denmark",
+      "excerptHi": "Tivoli Gardens in Copenhagen opens Hikari, a Japanese-inspired district with neon lights, art, a new ride and views of the historic Japanese Tower.",
       "archived": true
     },
     {
@@ -4331,6 +5139,46 @@
       "guid": "https://www.bbc.co.uk/news/articles/cedj7je0zlzo#1",
       "titleHi": "Overhaul for Belfast cranes ahead of major contract",
       "excerptHi": "It is part of an investment of almost £100m as Harland & Wolff's Spanish owners prepare it for a major defence contract.",
+      "archived": true
+    },
+    {
+      "id": "d24eed0cbf84daddc7789f09a0d9ce97cd7d12e8",
+      "slug": "iran-executed-at-least-900-people-since-january-rights-group-d24eed",
+      "title": "Iran executed at least 900 people since January, rights group says",
+      "excerpt": "The Abdorrahman Boroumand Center documented 901 executions in the first seven months of 2026, including 56 on political or national security charges and 98 members of ethnic minorities — a further rise in death…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T12:08:23.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
+      "guid": "http://www.euronews.com/2026/08/19/iran-executed-at-least-900-people-since-january-rights-group-says",
+      "titleHi": "Iran executed at least 900 people since January, rights group says",
+      "excerptHi": "The Abdorrahman Boroumand Center documented 901 executions in the first seven months of 2026, including 56 on political or national security charges and 98 members of ethnic minorities — a further rise in death…",
+      "archived": true
+    },
+    {
+      "id": "43904546411374110c20ad3e01bdacf288a6dbd5",
+      "slug": "bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-439045",
+      "title": "Bodies of two Belgian climbers found in Swiss Alps 34 years after disappearance",
+      "excerpt": "Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-19T12:01:42.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance",
+      "guid": "http://www.euronews.com/2026/08/19/bodies-of-two-belgian-climbers-found-in-swiss-alps-34-years-after-disappearance",
+      "titleHi": "Bodies of two Belgian climbers found in Swiss Alps 34 years after disappearance",
+      "excerptHi": "Wallis police keep records of people reported missing since 1925, mostly in mountainous areas and rivers.",
       "archived": true
     },
     {
@@ -4866,6 +5714,29 @@
       "archived": true
     },
     {
+      "id": "ad06979cfb71d40605ac815a6f357d8d2c7caf6e",
+      "slug": "russians-pull-billions-from-banks-fearing-kremlin-will-seize-ad0697",
+      "title": "Russians pull billions from banks fearing Kremlin will seize savings for war",
+      "excerpt": "Russia's central bank reported that billions of roubles have been withdrawn from banks each month, as Russians pull out cash amid fears of the Kremlin seizing their savings to fund the war in Ukraine amid a…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T10:10:19.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
+      "guid": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
+      "titleHi": "Russians pull billions from banks fearing Kremlin will seize savings for war",
+      "excerptHi": "Russia's central bank reported that billions of roubles have been withdrawn from banks each month, as Russians pull out cash amid fears of the Kremlin seizing their savings to fund the war in Ukraine amid a…",
+      "archived": true
+    },
+    {
       "id": "0b16fcc80cae56231c59edf8b116fb212adfdebb",
       "slug": "tiktok-code-includes-peer-to-peer-payments-over-messaging-bl-0b16fc",
       "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
@@ -4883,6 +5754,26 @@
       "guid": "c4cb8841-6be0-4b23-a829-d40d8a5c6c92",
       "titleHi": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
       "excerptHi": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
+      "archived": true
+    },
+    {
+      "id": "a4a4c56a56c0ace0c1b7560eb8db438e56968f64",
+      "slug": "latest-news-bulletin-august-19th-2026-midday-a4a4c5",
+      "title": "Latest news bulletin | August 19th, 2026 – Midday",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T10:00:16.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-midday",
+      "guid": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-midday",
+      "titleHi": "Latest news bulletin | August 19th, 2026 – Midday",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     },
     {
@@ -4947,6 +5838,28 @@
       "guid": "377b140e-7819-41f7-9650-d2585f3e6fdc",
       "titleHi": "Ripple raises $275 million in senior notes for prime brokerage push",
       "excerptHi": "Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.",
+      "archived": true
+    },
+    {
+      "id": "3ec5c243622fed5fe7530ce889b1f813495c5b6a",
+      "slug": "tennis-star-nick-kyrgios-provisionally-suspended-after-testi-3ec5c2",
+      "title": "Tennis star Nick Kyrgios provisionally suspended after testing positive for cocaine",
+      "excerpt": "Kyrgios said he had difficulties coming to terms with being near the end of his career after two years of injuries.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Sports"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T09:45:13.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/former-wimbledon-finalist-nick-kyrgios-says-he-tested-positive-for-cocaine",
+      "guid": "http://www.euronews.com/2026/08/19/former-wimbledon-finalist-nick-kyrgios-says-he-tested-positive-for-cocaine",
+      "titleHi": "Tennis star Nick Kyrgios provisionally suspended after testing positive for cocaine",
+      "excerptHi": "Kyrgios said he had difficulties coming to terms with being near the end of his career after two years of injuries.",
       "archived": true
     },
     {
@@ -5094,6 +6007,26 @@
       "archived": true
     },
     {
+      "id": "6f854858fb88abd4355cd9bfbef08cb85562e087",
+      "slug": "fire-in-building-housing-several-hotels-in-eastern-india-kil-6f8548",
+      "title": "Fire in building housing several hotels in eastern India kills at least nine, injures six",
+      "excerpt": "Some of the victims are believed to be Bangladeshi nationals who had travelled to Kolkata for medical treatment, according to a member of West Bengal’s ruling party.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T09:00:34.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/fire-in-building-housing-several-hotels-in-eastern-india-kills-at-least-nine-injures-six",
+      "guid": "http://www.euronews.com/2026/08/19/fire-in-building-housing-several-hotels-in-eastern-india-kills-at-least-nine-injures-six",
+      "titleHi": "Fire in building housing several hotels in eastern India kills at least nine, injures six",
+      "excerptHi": "Some of the victims are believed to be Bangladeshi nationals who had travelled to Kolkata for medical treatment, according to a member of West Bengal’s ruling party.",
+      "archived": true
+    },
+    {
       "id": "12f92cdb58e74b3212aa1b3990651faf848ef90e",
       "slug": "activist-forced-out-of-us-after-criticising-trump-aligned-co-12f92c",
       "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
@@ -5193,6 +6126,29 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/19/eddie-gaedel-bill-veeck-st-louis-browns-75th-anniversary",
       "titleHi": "‘I felt like Babe Ruth’: baseball’s 3ft 7in pinch-hitter, 75 years on",
       "excerptHi": "Baseball showman Bill Veeck’s most audacious stunt sent Eddie Gaedel to bat for the lowly St Louis Browns in 1951 – and created an unforgettable diamond spectacle Bill Veeck had a track record for designing some of the…",
+      "archived": true
+    },
+    {
+      "id": "ddd61755bf3fcff533b1dc248f66ecf9bb600143",
+      "slug": "first-jellyfish-museum-in-the-us-opens-in-pompano-beach-ddd617",
+      "title": "First jellyfish museum in the US opens in Pompano Beach",
+      "excerpt": "Pompano Beach hosts the first US jellyfish museum, where visitors watch 20 species drift in tanks and learn about their ecosystems and research.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Culture"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T08:42:35.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/first-jellyfish-museum-in-the-us-opens-in-pompano-beach",
+      "guid": "http://www.euronews.com/video/2026/08/19/first-jellyfish-museum-in-the-us-opens-in-pompano-beach",
+      "titleHi": "First jellyfish museum in the US opens in Pompano Beach",
+      "excerptHi": "Pompano Beach hosts the first US jellyfish museum, where visitors watch 20 species drift in tanks and learn about their ecosystems and research.",
       "archived": true
     },
     {
@@ -5361,6 +6317,26 @@
       "archived": true
     },
     {
+      "id": "633f9be365fec8b785c64471a814b5dcef09e012",
+      "slug": "indonesian-authorities-seize-26-tonnes-of-meth-in-major-bust-633f9b",
+      "title": "Indonesian authorities seize 2.6 tonnes of meth in major bust, narcotics official says",
+      "excerpt": "Indonesia has some of the world's toughest anti-drug laws, including the death penalty for traffickers, but has maintained a moratorium on executions for several years.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T07:17:08.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/indonesian-authorities-seize-26-tonnes-of-meth-in-major-bust-narcotics-official-says",
+      "guid": "http://www.euronews.com/2026/08/19/indonesian-authorities-seize-26-tonnes-of-meth-in-major-bust-narcotics-official-says",
+      "titleHi": "Indonesian authorities seize 2.6 tonnes of meth in major bust, narcotics official says",
+      "excerptHi": "Indonesia has some of the world's toughest anti-drug laws, including the death penalty for traffickers, but has maintained a moratorium on executions for several years.",
+      "archived": true
+    },
+    {
       "id": "09d0ef01648376468f878b53ccace966c484e34f",
       "slug": "i-won-fpl-last-season---here-are-my-five-best-tips-09d0ef",
       "title": "I won FPL last season - here are my five best tips",
@@ -5378,6 +6354,48 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o#1",
       "titleHi": "I won FPL last season - here are my five best tips",
       "excerptHi": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen.",
+      "archived": true
+    },
+    {
+      "id": "734b4c20079e109d177f7cacdaeab44c6602cf55",
+      "slug": "mud-baths-and-red-water-inside-bulgarias-lake-atanasovsko-734b4c",
+      "title": "Mud baths and red water: inside Bulgaria's Lake Atanasovsko",
+      "excerpt": "Tourists slather mud and float in red brine at Lake Atanasovsko, while Pomorie’s salt museum preserves Bulgaria’s fading salt-making heritage.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T07:10:28.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/mud-baths-and-red-water-inside-bulgarias-lake-atanasovsko",
+      "guid": "http://www.euronews.com/video/2026/08/19/mud-baths-and-red-water-inside-bulgarias-lake-atanasovsko",
+      "titleHi": "Mud baths and red water: inside Bulgaria's Lake Atanasovsko",
+      "excerptHi": "Tourists slather mud and float in red brine at Lake Atanasovsko, while Pomorie’s salt museum preserves Bulgaria’s fading salt-making heritage.",
+      "archived": true
+    },
+    {
+      "id": "6e067513ad105101e2de5e2c04e2bd9aca2ded3e",
+      "slug": "us-criticises-israel-over-unnecessary-escalation-after-strik-6e0675",
+      "title": "US criticises Israel over 'unnecessary escalation' after strikes on Syrian airbase",
+      "excerpt": "Israel said it had attacked the base because Syria had been close to breaching an agreed-upon “status quo in security matters” by allowing Turkish troops to deploy there.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T06:52:19.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase",
+      "guid": "http://www.euronews.com/2026/08/19/us-criticises-israel-over-unnecessary-escalation-after-strikes-on-syrian-airbase",
+      "titleHi": "US criticises Israel over 'unnecessary escalation' after strikes on Syrian airbase",
+      "excerptHi": "Israel said it had attacked the base because Syria had been close to breaching an agreed-upon “status quo in security matters” by allowing Turkish troops to deploy there.",
       "archived": true
     },
     {
@@ -5501,6 +6519,46 @@
       "archived": true
     },
     {
+      "id": "21e4cb1a5c9b31e64626c36ac785666689215a60",
+      "slug": "australia-mushroom-killer-erin-pattersons-lawyers-point-to-j-21e4cb",
+      "title": "Australia mushroom killer Erin Patterson's lawyers point to jury irregularities at appeal",
+      "excerpt": "Patterson was found guilty last year of murdering her husband's parents and an elderly aunt in 2023 by serving them a beef Wellington lunch laced with lethal death cap mushrooms.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T05:58:19.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/australia-mushroom-killer-erin-pattersons-lawyers-point-to-jury-irregularities-at-appeal",
+      "guid": "http://www.euronews.com/2026/08/19/australia-mushroom-killer-erin-pattersons-lawyers-point-to-jury-irregularities-at-appeal",
+      "titleHi": "Australia mushroom killer Erin Patterson's lawyers point to jury irregularities at appeal",
+      "excerptHi": "Patterson was found guilty last year of murdering her husband's parents and an elderly aunt in 2023 by serving them a beef Wellington lunch laced with lethal death cap mushrooms.",
+      "archived": true
+    },
+    {
+      "id": "20c27841f622b0b1b931d3ad099c2ccc71e84988",
+      "slug": "large-fire-breaks-out-at-recycling-centre-in-southeast-londo-20c278",
+      "title": "Large fire breaks out at recycling centre in southeast London",
+      "excerpt": "A large fire breaks out at a recycling centre in Deptford, southeast London, as 15 fire engines and around 100 firefighters tackle the blaze.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T05:42:20.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/large-fire-breaks-out-at-recycling-centre-in-southeast-london",
+      "guid": "http://www.euronews.com/video/2026/08/19/large-fire-breaks-out-at-recycling-centre-in-southeast-london",
+      "titleHi": "Large fire breaks out at recycling centre in southeast London",
+      "excerptHi": "A large fire breaks out at a recycling centre in Deptford, southeast London, as 15 fire engines and around 100 firefighters tackle the blaze.",
+      "archived": true
+    },
+    {
       "id": "60c7f2c227a72b2d336d907eea0ca27c72732778",
       "slug": "womens-cycling-could-be-unstoppable---backstedt-60c7f2",
       "title": "Women's cycling could be unstoppable - Backstedt",
@@ -5620,6 +6678,26 @@
       "guid": "https://www.bbc.co.uk/news/articles/crrv48lenwgo#2",
       "titleHi": "French civil servant drugged us to make us urinate on ourselves, say accusers",
       "excerptHi": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "archived": true
+    },
+    {
+      "id": "22351c5ba256611f93f286123620a67125230f31",
+      "slug": "latest-news-bulletin-august-19th-2026-morning-22351c",
+      "title": "Latest news bulletin | August 19th, 2026 – Morning",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T05:00:33.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
+      "guid": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
+      "titleHi": "Latest news bulletin | August 19th, 2026 – Morning",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 19th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     },
     {
@@ -5750,6 +6828,28 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/19/flag-culture-wars-progressive-iceland-far-right",
       "titleHi": "The flag culture wars have come to an unlikely place: progressive Iceland | Alexander Hurst",
       "excerptHi": "Ahead of the Nordic nation’s EU referendum, the Icelandic flag has been co-opted by the far right To enter Reykjavik’s Grafarvogur Lutheran church, worshippers and visitors are invited to make their way down 16 steps…",
+      "archived": true
+    },
+    {
+      "id": "e4a2ee6b28b544ef552f259629198d83ecf59733",
+      "slug": "north-korea-slams-joint-us-south-military-drills-as-open-thr-e4a2ee",
+      "title": "North Korea slams joint US-South military drills as 'open threat' to regional security",
+      "excerpt": "On Sunday, US President Donald Trump stunned regional allies by ordering the Pentagon to scale back the annual Ulchi Freedom Shield exercises, just a day before they were due to start.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-19T03:59:22.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
+      "guid": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
+      "titleHi": "North Korea slams joint US-South military drills as 'open threat' to regional security",
+      "excerptHi": "On Sunday, US President Donald Trump stunned regional allies by ordering the Pentagon to scale back the annual Ulchi Freedom Shield exercises, just a day before they were due to start.",
       "archived": true
     },
     {
@@ -6410,6 +7510,28 @@
       "archived": true
     },
     {
+      "id": "7181de230053dd26b5436c24f5b799d33050249c",
+      "slug": "icc-hits-back-after-us-announces-fresh-sanctions-on-senior-c-7181de",
+      "title": "ICC hits back after US announces fresh sanctions on senior court figures",
+      "excerpt": "Responding to the US' move in a statement, the ICC reportedly said the new sanctions \"undermine the rule of law.\"",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T20:00:47.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
+      "guid": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
+      "titleHi": "ICC hits back after US announces fresh sanctions on senior court figures",
+      "excerptHi": "Responding to the US' move in a statement, the ICC reportedly said the new sanctions \"undermine the rule of law.\"",
+      "archived": true
+    },
+    {
       "id": "d04585d09cc88617493b005f362ab972483f369f",
       "slug": "tech-life-d04585",
       "title": "Tech Life",
@@ -6742,6 +7864,28 @@
       "archived": true
     },
     {
+      "id": "950986b5de78281996fcc3d53536804e50430974",
+      "slug": "italian-town-carries-towering-virgin-mary-structure-through-950986",
+      "title": "Italian town carries towering Virgin Mary structure through streets",
+      "excerpt": "Thousands gather in Sora, Italy, as devotees carry a 16-metre-high illuminated structure through the streets for the Feast of the Assumption.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T17:15:48.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/18/italian-town-carries-towering-virgin-mary-structure-through-streets",
+      "guid": "http://www.euronews.com/video/2026/08/18/italian-town-carries-towering-virgin-mary-structure-through-streets",
+      "titleHi": "Italian town carries towering Virgin Mary structure through streets",
+      "excerptHi": "Thousands gather in Sora, Italy, as devotees carry a 16-metre-high illuminated structure through the streets for the Feast of the Assumption.",
+      "archived": true
+    },
+    {
       "id": "8e7e394a8fad77e82b32d3da90223f7a971ad4a9",
       "slug": "earthquake-rocks-spains-historic-granada-injuring-three-8e7e39",
       "title": "Earthquake rocks Spain's historic Granada, injuring three",
@@ -6802,6 +7946,26 @@
       "archived": true
     },
     {
+      "id": "c0aa5e0dd4f025f1e36b717494ab784e5a1cd6c0",
+      "slug": "champagne-harvest-starts-early-in-france-as-heatwave-speeds-c0aa5e",
+      "title": "Champagne harvest starts early in France as heatwave speeds ripening",
+      "excerpt": "Aerial and close-up footage shows an early Champagne grape harvest in Tours-sur-Marne as heatwaves force smaller crews and faster picking schedules",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T16:15:25.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening",
+      "guid": "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening",
+      "titleHi": "Champagne harvest starts early in France as heatwave speeds ripening",
+      "excerptHi": "Aerial and close-up footage shows an early Champagne grape harvest in Tours-sur-Marne as heatwaves force smaller crews and faster picking schedules",
+      "archived": true
+    },
+    {
       "id": "7fc5803e5f27015dd61c055f67bceb7a2082c2dc",
       "slug": "actress-phyllida-law-mother-of-emma-and-sophie-thompson-dies-7fc580",
       "title": "Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94",
@@ -6841,6 +8005,26 @@
       "guid": "https://www.theguardian.com/world/2026/aug/18/death-alleged-torture-man-detention-sparks-protests-syria",
       "titleHi": "Death and alleged torture of man in detention sparks protests in Syria",
       "excerptHi": "Picture showing White Helmets volunteer unconscious and with bruises on his body went viral Syrians have protested over the death of a man who was arrested and allegedly beaten by security forces, sparking widespread…",
+      "archived": true
+    },
+    {
+      "id": "fc2da36960e17db277f093bb91b7dc5f5c48dbdb",
+      "slug": "latest-news-bulletin-august-18th-2026-evening-fc2da3",
+      "title": "Latest news bulletin | August 18th, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
+      "titleHi": "Latest news bulletin | August 18th, 2026 – Evening",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     },
     {
@@ -6901,6 +8085,28 @@
       "guid": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o#0",
       "titleHi": "British couple on honeymoon killed in helicopter crash on Greek island",
       "excerptHi": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+      "archived": true
+    },
+    {
+      "id": "6455ede6bebf199dda89174870eacb0d933fe122",
+      "slug": "uae-says-iran-targeted-its-territory-with-two-missiles-after-6455ed",
+      "title": "UAE says Iran targeted its territory with two missiles after first alert in months",
+      "excerpt": "Tuesday's alert was the first in months after a false alarm in June and a July alert for an attack that ultimately did not enter UAE territory. Before that, the last missile warning came in early May.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T15:28:23.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
+      "guid": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
+      "titleHi": "UAE says Iran targeted its territory with two missiles after first alert in months",
+      "excerptHi": "Tuesday's alert was the first in months after a false alarm in June and a July alert for an attack that ultimately did not enter UAE territory. Before that, the last missile warning came in early May.",
       "archived": true
     },
     {
@@ -7008,6 +8214,26 @@
       "archived": true
     },
     {
+      "id": "e738c2429905089a3cafce84accd93df13889d43",
+      "slug": "south-korea-and-japan-stress-stress-critical-us-alliance-as-e738c2",
+      "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "excerpt": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T13:29:05.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "guid": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "titleHi": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "excerptHi": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "archived": true
+    },
+    {
       "id": "8c30ba0e059b213fa36b24e3ec5c8b32a1ba2a55",
       "slug": "work-on-15m-nature-reserve-to-start-next-month-8c30ba",
       "title": "Work on £1.5m nature reserve to start next month",
@@ -7045,6 +8271,26 @@
       "guid": "https://www.bbc.co.uk/news/videos/cre4rl7dprvo#6",
       "titleHi": "Could Reform really cut £50bn in welfare?",
       "excerptHi": "BBC Verify has been breaking down Reform's plans to save more than £50bn a year from the welfare bill - and how realistic it is.",
+      "archived": true
+    },
+    {
+      "id": "4e69ee8baf8a02a7eff235fddc1d8adf893726f8",
+      "slug": "qatar-says-it-repatriated-body-of-iranian-pilot-and-denies-c-4e69ee",
+      "title": "Qatar says it repatriated body of Iranian pilot and denies claims of holding three others",
+      "excerpt": "Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations \"false\" and \"illogical\" and suggesting they were aimed at a domestic audience.…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T13:05:51.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
+      "guid": "http://www.euronews.com/2026/08/18/qatar-returns-iranian-pilots-remains-but-denies-tehrans-claims-of-holding-others",
+      "titleHi": "Qatar says it repatriated body of Iranian pilot and denies claims of holding three others",
+      "excerptHi": "Doha said it invited Tehran to send a technical team to review its search operation but received no response, calling Iran's accusations \"false\" and \"illogical\" and suggesting they were aimed at a domestic audience.…",
       "archived": true
     },
     {
@@ -7288,6 +8534,26 @@
       "guid": "https://www.theguardian.com/artanddesign/2026/aug/18/architect-paul-revere-williams-racism-los-angeles",
       "titleHi": "How architect Paul Revere Williams fought racism and changed the face of Los Angeles",
       "excerptHi": "Creating homes for Frank Sinatra, Cary Grant and Lucille Ball made Williams a star. A trio of new exhibitions shows he belongs among the 20th century’s greats When you fly into the Los Angeles airport LAX, a spindly…",
+      "archived": true
+    },
+    {
+      "id": "fca2e0e9f047d35bd52818a8f90bbd50af867983",
+      "slug": "latest-news-bulletin-august-18th-2026-midday-fca2e0",
+      "title": "Latest news bulletin | August 18th, 2026 – Midday",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-18T10:00:16.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
+      "guid": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
+      "titleHi": "Latest news bulletin | August 18th, 2026 – Midday",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     },
     {
