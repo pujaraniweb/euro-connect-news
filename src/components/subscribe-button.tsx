@@ -41,12 +41,22 @@ export function SubscribeButton({ full = false }: { full?: boolean }) {
       <button
         type="button"
         onClick={() => setOpen(true)}
+        aria-label={th("subscribe")}
         className={cn(
-          "inline-flex h-8 items-center justify-center rounded-md bg-accent px-3.5 text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90",
-          full && "h-10 w-full text-sm"
+          "inline-flex h-8 items-center justify-center gap-1.5 rounded-md bg-accent text-xs font-semibold text-accent-foreground transition-opacity hover:opacity-90",
+          // Header (compact): mail icon on mobile, full text label from sm up —
+          // keeps Subscribe clearly visible without crowding the logo on phones.
+          full ? "h-10 w-full px-3.5 text-sm" : "w-8 px-0 sm:w-auto sm:px-3.5"
         )}
       >
-        {th("subscribe")}
+        {full ? (
+          th("subscribe")
+        ) : (
+          <>
+            <Mail className="h-4 w-4 sm:hidden" />
+            <span className="hidden sm:inline">{th("subscribe")}</span>
+          </>
+        )}
       </button>
 
       {open && (

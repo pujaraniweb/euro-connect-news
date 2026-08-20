@@ -51,10 +51,10 @@ export function Header() {
     href === "/" ? pathname === "/" : pathname === href;
   const pillClass = (active: boolean) =>
     cn(
-      "whitespace-nowrap rounded-full px-3 py-1.5 text-[13px] transition-colors",
+      "whitespace-nowrap rounded-full px-3.5 py-1.5 text-[13px] tracking-tight transition-colors",
       active
-        ? "bg-accent font-semibold text-accent-foreground"
-        : "font-medium text-foreground/75 hover:text-accent"
+        ? "bg-accent font-bold text-accent-foreground"
+        : "font-semibold text-foreground/80 hover:bg-surface-muted hover:text-accent"
     );
 
   function switchLanguage() {
@@ -105,6 +105,7 @@ export function Header() {
           scrolled ? "py-2" : "py-3"
         )}
       >
+        {/* TOP ROW: logo + controls (Theme · Language · Subscribe) */}
         <div className="mx-auto flex max-w-[1400px] items-center justify-between gap-4 px-4 sm:px-6">
           {/* Logo */}
           <Link href="/" className="flex shrink-0 items-center gap-2.5">
@@ -120,7 +121,7 @@ export function Header() {
               <span
                 className={cn(
                   "font-serif font-bold tracking-tight transition-all",
-                  scrolled ? "text-lg" : "text-xl sm:text-2xl"
+                  scrolled ? "text-base sm:text-lg" : "text-base sm:text-2xl"
                 )}
               >
                 Euro Connect News
@@ -131,27 +132,12 @@ export function Header() {
             </span>
           </Link>
 
-          {/* Desktop nav */}
-          <nav className="hidden items-center gap-0.5 xl:flex">
-            {NAV.map((item) => (
-              <Link
-                key={item}
-                href={navHref(item)}
-                className={pillClass(isActive(navHref(item)))}
-              >
-                {t(item)}
-              </Link>
-            ))}
-            <Link href="/youtube" className={pillClass(isActive("/youtube"))}>
-              YouTube
-            </Link>
-          </nav>
-
-          {/* Actions */}
-          <div className="flex items-center gap-1">
+          {/* Controls */}
+          <div className="flex items-center gap-1.5">
+            {/* Secondary utilities — tablet & up */}
             <Link
               href="/live"
-              className="mr-1 hidden items-center gap-1.5 text-sm font-medium text-foreground/80 transition-colors hover:text-foreground sm:flex"
+              className="hidden items-center gap-1.5 text-sm font-medium text-foreground/80 transition-colors hover:text-foreground sm:flex"
             >
               <span className="h-2 w-2 rounded-full bg-[#16a34a]">
                 <span className="block h-2 w-2 animate-ping rounded-full bg-[#16a34a]" />
@@ -161,11 +147,19 @@ export function Header() {
             <Link
               href="/search"
               aria-label={tc("search")}
-              className="grid h-8 w-8 place-items-center rounded-md text-muted-foreground transition-colors hover:bg-surface-muted hover:text-foreground"
+              className="hidden h-8 w-8 place-items-center rounded-md text-muted-foreground transition-colors hover:bg-surface-muted hover:text-foreground sm:grid"
             >
               <Search className="h-4 w-4" />
             </Link>
-            <NotificationsButton />
+            <div className="hidden sm:block">
+              <NotificationsButton />
+            </div>
+
+            {/* Divider keeps the primary controls as a distinct group */}
+            <span className="mx-0.5 hidden h-5 w-px bg-border sm:block" />
+
+            {/* Primary controls — always visible: Theme · Language · Subscribe */}
+            <ThemeToggle />
             <button
               type="button"
               onClick={switchLanguage}
@@ -174,24 +168,43 @@ export function Header() {
             >
               {locale === "en" ? "EN" : "हि"}
             </button>
-            <ThemeToggle />
-            <div className="hidden sm:block">
-              <SubscribeButton />
-            </div>
+            <SubscribeButton />
+
+            {/* Menu — mobile only */}
             <button
               type="button"
               aria-label={tc("menu")}
               onClick={() => setMenuOpen((o) => !o)}
-              className="grid h-8 w-8 place-items-center rounded-md text-foreground transition-colors hover:bg-surface-muted xl:hidden"
+              className="grid h-8 w-8 place-items-center rounded-md text-foreground transition-colors hover:bg-surface-muted md:hidden"
             >
               {menuOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
             </button>
           </div>
         </div>
 
+        {/* MIDDLE ROW: main navigation — centered, bold, scrollable (tablet & up) */}
+        <div className="mt-2 hidden border-t border-border/60 md:block">
+          <nav className="mx-auto max-w-[1400px] overflow-x-auto px-4 pt-2 [scrollbar-width:none] sm:px-6 [&::-webkit-scrollbar]:hidden">
+            <div className="mx-auto flex w-max items-center gap-1">
+              {NAV.map((item) => (
+                <Link
+                  key={item}
+                  href={navHref(item)}
+                  className={pillClass(isActive(navHref(item)))}
+                >
+                  {t(item)}
+                </Link>
+              ))}
+              <Link href="/youtube" className={pillClass(isActive("/youtube"))}>
+                YouTube
+              </Link>
+            </div>
+          </nav>
+        </div>
+
         {/* Mobile nav drawer */}
         {menuOpen && (
-          <nav className="border-t border-border px-4 py-3 xl:hidden">
+          <nav className="border-t border-border px-4 py-3 md:hidden">
             <div className="grid grid-cols-2 gap-1 sm:grid-cols-3">
               <Link
                 href="/"
@@ -205,7 +218,7 @@ export function Header() {
                   key={item}
                   href={navHref(item)}
                   onClick={() => setMenuOpen(false)}
-                  className="rounded-md px-3 py-2 text-sm font-medium text-foreground/80 transition-colors hover:bg-surface-muted"
+                  className="rounded-md px-3 py-2 text-sm font-semibold text-foreground/80 transition-colors hover:bg-surface-muted"
                 >
                   {t(item)}
                 </Link>
@@ -213,13 +226,10 @@ export function Header() {
               <Link
                 href="/youtube"
                 onClick={() => setMenuOpen(false)}
-                className="rounded-md px-3 py-2 text-sm font-medium text-foreground/80 transition-colors hover:bg-surface-muted"
+                className="rounded-md px-3 py-2 text-sm font-semibold text-foreground/80 transition-colors hover:bg-surface-muted"
               >
                 YouTube
               </Link>
-            </div>
-            <div className="mt-3 sm:hidden">
-              <SubscribeButton full />
             </div>
           </nav>
         )}
