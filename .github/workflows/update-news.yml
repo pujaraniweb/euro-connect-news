@@ -1,0 +1,63 @@
+name: Update news data
+
+# Mirrors the SuYxh/ai-news-aggregator approach: a scheduled job regenerates the
+# structured news JSON from public RSS feeds and commits it. Pushing the updated
+# data triggers your normal deploy (e.g. Vercel), so the site refreshes itself.
+#
+# No API keys are required. The optional MYMEMORY_EMAIL secret only raises the
+# free translation quota — it is NOT a private credential and is never exposed to
+# the browser (translation runs here, at generation time, not in frontend JS).
+
+on:
+  schedule:
+    - cron: "0 */2 * * *" # every 2 hours (same cadence as the source repo)
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate latest news data
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+          # When these are set, news is pulled from your hosted FreshRSS instance
+          # (Google Reader API); otherwise the same feeds are fetched directly.
+          # Server-side only — never exposed to the browser.
+          FRESHRSS_URL: ${{ secrets.FRESHRSS_URL }}
+          FRESHRSS_USER: ${{ secrets.FRESHRSS_USER }}
+          FRESHRSS_API_PASSWORD: ${{ secrets.FRESHRSS_API_PASSWORD }}
+        run: npm run fetch-news
+
+      - name: Fetch latest YouTube uploads
+        env:
+          # Public channel Atom feed — no API key. Override the channel id here if needed.
+          YT_CHANNEL_ID: ${{ secrets.YT_CHANNEL_ID }}
+        run: npm run fetch-youtube
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain src/data/generated-news.json src/data/archive.json src/data/youtube.json)" ]]; then
+            git add src/data/generated-news.json src/data/archive.json src/data/youtube.json
+            git commit -m "chore(data): update news + youtube archive [skip ci]"
+            git push
+          else
+            echo "No data changes."
+          fi

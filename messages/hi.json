@@ -1,0 +1,236 @@
+{
+  "brand": {
+    "tagline": "इंडिया · यूरोप"
+  },
+  "nav": {
+    "World": "विश्व",
+    "Europe": "यूरोप",
+    "Politics": "राजनीति",
+    "Business": "बिज़नेस",
+    "Technology": "तकनीक",
+    "Science": "विज्ञान",
+    "Culture": "संस्कृति",
+    "Sports": "खेल",
+    "Crypto": "क्रिप्टो",
+    "Opinion": "विचार",
+    "India": "भारत",
+    "Health": "स्वास्थ्य",
+    "Visa": "वीज़ा"
+  },
+  "categories": {
+    "India": "भारत",
+    "Europe": "यूरोप",
+    "Business": "बिज़नेस",
+    "World": "विश्व",
+    "Technology": "तकनीक",
+    "Politics": "राजनीति",
+    "Culture": "संस्कृति",
+    "Sports": "खेल",
+    "Science": "विज्ञान",
+    "Crypto": "क्रिप्टो",
+    "Opinion": "विचार",
+    "Health": "स्वास्थ्य"
+  },
+  "live": {
+    "title": "लाइव अपडेट",
+    "subtitle": "ताज़ा चलती सुर्ख़ियाँ, स्वतः रिफ़्रेश होती हैं।",
+    "updated": "{time} पर जाँचा गया",
+    "waiting": "नवीनतम अपडेट की प्रतीक्षा…",
+    "backToNews": "समाचार पर वापस",
+    "new": "नया"
+  },
+  "youtube": {
+    "kicker": "देखें",
+    "title": "यूट्यूब पर यूरो कनेक्ट न्यूज़",
+    "subtitle": "हमारे आधिकारिक चैनल के ताज़ा वीडियो — नए वीडियो यहाँ स्वतः दिखते हैं।",
+    "badge": "वीडियो",
+    "play": "वीडियो चलाएँ",
+    "visitChannel": "{handle} पर जाएँ",
+    "noVideos": "अभी कोई वीडियो नहीं।",
+    "noVideosSub": "नए वीडियो यहाँ स्वतः दिखाई देंगे।",
+    "count": "{count, plural, one {# वीडियो} other {# वीडियो}}",
+    "endOfArchive": "और वीडियो नहीं — आप संग्रह की शुरुआत तक पहुँच गए हैं।"
+  },
+  "archive": {
+    "title": "पुरालेख",
+    "subtitle": "पुरानी खबरें देखें। कुछ भी नहीं हटाया जाता — पुरानी खबरें यहाँ आती हैं और खोजने योग्य रहती हैं।",
+    "byDate": "तारीख़ के अनुसार",
+    "allDates": "सभी तारीख़ें",
+    "category": "श्रेणी",
+    "source": "स्रोत",
+    "all": "सभी",
+    "count": "{count, plural, =0 {कोई लेख नहीं} one {# लेख} other {# लेख}}",
+    "empty": "इस चयन के लिए अभी कोई संग्रहीत लेख नहीं है।"
+  },
+  "common": {
+    "allNews": "सभी ख़बरें",
+    "back": "वापस",
+    "notifications": "सूचनाएँ",
+    "latestHeadlines": "ताज़ा सुर्ख़ियाँ",
+    "seeAll": "सभी ख़बरें देखें",
+    "search": "खोजें",
+    "searchPlaceholder": "भारत–यूरोप समाचार खोजें…",
+    "loadMore": "और खबरें देखें",
+    "minRead": "{count} मिनट पढ़ें",
+    "live": "लाइव",
+    "breaking": "ब्रेकिंग",
+    "refresh": "रीफ़्रेश",
+    "liveTv": "लाइव टीवी",
+    "menu": "मेन्यू",
+    "loading": "लोड हो रहा है…",
+    "emptyTitle": "इस सेक्शन में अभी कोई लेख उपलब्ध नहीं है।",
+    "emptySub": "जल्द ही फिर देखें।"
+  },
+  "header": {
+    "subscribe": "सब्सक्राइब",
+    "toggleLanguage": "भाषा बदलें",
+    "toggleTheme": "डार्क मोड बदलें",
+    "marketsDashboard": "मार्केट डैशबोर्ड खोलें"
+  },
+  "breaking": {
+    "followLive": "लाइव अपडेट देखें"
+  },
+  "home": {
+    "quickLinks": {
+      "World": "विश्व",
+      "Europe": "यूरोप",
+      "Business": "बिज़नेस",
+      "Visa": "वीज़ा",
+      "Politics": "राजनीति",
+      "Culture": "संस्कृति",
+      "Sports": "खेल"
+    },
+    "liveMarkets": "लाइव मार्केट",
+    "fullDashboard": "पूरा डैशबोर्ड",
+    "latestNews": "ताज़ा ख़बरें",
+    "tabs": {
+      "All": "सभी",
+      "India": "भारत",
+      "Europe": "यूरोप",
+      "Business": "बिज़नेस",
+      "World": "विश्व",
+      "Breaking": "ब्रेकिंग"
+    }
+  },
+  "article": {
+    "whatYouNeed": "जो आपको जानना ज़रूरी है",
+    "relatedStories": "संबंधित खबरें",
+    "readAtSource": "पूरी खबर {source} पर पढ़ें ↗",
+    "readFullStory": "पूरी खबर पढ़ें",
+    "sourceAttribution": "स्रोत: {source}",
+    "representativeImage": "प्रतीकात्मक तस्वीर",
+    "copyLink": "लिंक कॉपी करें",
+    "copied": "लिंक कॉपी हो गया!",
+    "print": "प्रिंट",
+    "increaseText": "टेक्स्ट बड़ा करें",
+    "decreaseText": "टेक्स्ट छोटा करें",
+    "notFound": "लेख नहीं मिला"
+  },
+  "dashboard": {
+    "kicker": "लाइव",
+    "title": "मार्केट और लाइव डैशबोर्ड",
+    "subtitle": "रियल-टाइम भाव और भारत–यूरोप गलियारे को प्रभावित करती सुर्खियाँ।",
+    "liveUpdates": "लाइव अपडेट",
+    "liveUpdated": "लाइव · {time} पर अपडेट",
+    "todaySuffix": "आज"
+  },
+  "category": {
+    "section": "सेक्शन",
+    "home": "होम",
+    "latestCoverage": "{title} की ताज़ा कवरेज, विश्वसनीय स्रोतों से स्वतः अपडेट।"
+  },
+  "search": {
+    "title": "खोजें",
+    "trending": "ट्रेंडिंग:",
+    "resultsFor": "{count, plural, =0 {कोई परिणाम नहीं} one {# परिणाम} other {# परिणाम}}{query}",
+    "forQuery": " “{query}” के लिए",
+    "noResultsTitle": "आपकी खोज से मेल खाता कोई लेख नहीं मिला।",
+    "noResultsSub": "अलग कीवर्ड आज़माएँ।"
+  },
+  "preferences": {
+    "title": "मेरी प्राथमिकताएँ",
+    "subtitle": "अपनी फ़ीड को निजी बनाएँ। इस डिवाइस पर सहेजा गया (और साइन-इन करने पर आपकी प्रोफ़ाइल में)।",
+    "language": "भाषा",
+    "topics": "आपके फ़ॉलो किए विषय",
+    "save": "प्राथमिकताएँ सहेजें",
+    "saved": "प्राथमिकताएँ सहेजी गईं",
+    "clearCache": "कैश साफ़ करें",
+    "cacheCleared": "कैश साफ़ हो गया",
+    "topicNames": {
+      "Politics": "राजनीति",
+      "Business": "बिज़नेस",
+      "Visa": "वीज़ा",
+      "Culture": "संस्कृति",
+      "Sports": "खेल",
+      "Technology": "तकनीक",
+      "Health": "स्वास्थ्य"
+    }
+  },
+  "subscribe": {
+    "title": "द इंडिया–यूरोप ब्रीफ़",
+    "subtitle": "मुफ़्त दैनिक न्यूज़लेटर",
+    "emailPlaceholder": "you@example.com",
+    "cta": "सब्सक्राइब",
+    "successTitle": "धन्यवाद — आप सब्सक्राइब हो गए!",
+    "successSub": "कल की ब्रीफ़ अपने इनबॉक्स में देखें।",
+    "invalidEmail": "कृपया एक मान्य ईमेल पता दर्ज करें।",
+    "noSpam": "कोई स्पैम नहीं। कभी भी अनसब्सक्राइब करें।"
+  },
+  "pwa": {
+    "offlineBanner": "आप ऑफ़लाइन हैं — सहेजे गए लेख दिखा रहे हैं।",
+    "pushTitle": "ब्रेकिंग न्यूज़ कभी न चूकें",
+    "pushSub": "भारत–यूरोप की खबरें आते ही सूचना पाएँ।",
+    "enable": "सूचनाएँ चालू करें",
+    "notNow": "अभी नहीं"
+  },
+  "offline": {
+    "title": "आप ऑफ़लाइन हैं",
+    "body": "हम नेटवर्क तक नहीं पहुँच सके। आपने जो लेख पहले खोले हैं वे आपके डिवाइस पर उपलब्ध हैं — ताज़ा समाचार के लिए फिर से कनेक्ट करें।",
+    "tryAgain": "फिर कोशिश करें"
+  },
+  "notFound": {
+    "title": "जिस पेज की आप तलाश कर रहे हैं वह नहीं मिला",
+    "body": "हो सकता है खबर हटा दी गई हो या लिंक टूटा हो। इसके बजाय हमारे किसी सेक्शन को आज़माएँ।",
+    "returnHome": "होम पर लौटें"
+  },
+  "footer": {
+    "blurb": "भारत और यूरोप को जोड़ती समय पर, संतुलित पत्रकारिता।",
+    "rights": "© {year} Euro Connect News. सर्वाधिकार सुरक्षित।",
+    "madeFor": "भारत–यूरोप पाठक के लिए बनाया गया।",
+    "independent": "स्वतंत्र। विश्वसनीय।",
+    "sections": {
+      "Sections": "सेक्शन",
+      "IndiaEurope": "भारत–यूरोप",
+      "Company": "कंपनी",
+      "Legal": "कानूनी"
+    },
+    "links": {
+      "India": "भारत",
+      "Europe": "यूरोप",
+      "Business": "बिज़नेस",
+      "World": "विश्व",
+      "Technology": "तकनीक",
+      "Sports": "खेल",
+      "Trade": "व्यापार",
+      "Visas": "वीज़ा और प्रवासन",
+      "Diaspora": "प्रवासी समुदाय",
+      "Markets": "मार्केट",
+      "About": "परिचय",
+      "Editorial": "संपादकीय मानक",
+      "Contact": "संपर्क",
+      "Advertise": "विज्ञापन",
+      "Archive": "पुरालेख",
+      "Privacy": "गोपनीयता",
+      "Terms": "शर्तें",
+      "Cookies": "कुकी नीति",
+      "GDPR": "GDPR"
+    }
+  },
+  "bottomNav": {
+    "home": "होम",
+    "live": "लाइव",
+    "categories": "श्रेणियाँ",
+    "search": "खोजें",
+    "preferences": "प्राथमिकताएँ"
+  }
+}

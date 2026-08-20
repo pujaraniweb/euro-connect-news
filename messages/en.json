@@ -1,0 +1,236 @@
+{
+  "brand": {
+    "tagline": "India · Europe"
+  },
+  "nav": {
+    "World": "World",
+    "Europe": "Europe",
+    "Politics": "Politics",
+    "Business": "Business",
+    "Technology": "Technology",
+    "Science": "Science",
+    "Culture": "Culture",
+    "Sports": "Sports",
+    "Crypto": "Crypto",
+    "Opinion": "Opinion",
+    "India": "India",
+    "Health": "Health",
+    "Visa": "Visa"
+  },
+  "categories": {
+    "India": "India",
+    "Europe": "Europe",
+    "Business": "Business",
+    "World": "World",
+    "Technology": "Technology",
+    "Politics": "Politics",
+    "Culture": "Culture",
+    "Sports": "Sports",
+    "Science": "Science",
+    "Crypto": "Crypto",
+    "Opinion": "Opinion",
+    "Health": "Health"
+  },
+  "live": {
+    "title": "Live Updates",
+    "subtitle": "The latest rolling headlines, refreshed automatically.",
+    "updated": "Checked {time}",
+    "waiting": "Waiting for the latest update…",
+    "backToNews": "Back to News",
+    "new": "New"
+  },
+  "youtube": {
+    "kicker": "Watch",
+    "title": "Euro Connect News on YouTube",
+    "subtitle": "Latest videos from our official channel — new uploads appear here automatically.",
+    "badge": "Video",
+    "play": "Play video",
+    "visitChannel": "Visit {handle}",
+    "noVideos": "No videos yet.",
+    "noVideosSub": "New uploads will appear here automatically.",
+    "count": "{count, plural, one {# video} other {# videos}}",
+    "endOfArchive": "No more videos — you've reached the start of the archive."
+  },
+  "archive": {
+    "title": "Archive",
+    "subtitle": "Browse previous news. Nothing is deleted — older stories move here and stay searchable.",
+    "byDate": "By date",
+    "allDates": "All dates",
+    "category": "Category",
+    "source": "Source",
+    "all": "All",
+    "count": "{count, plural, =0 {No articles} one {# article} other {# articles}}",
+    "empty": "No archived articles for this selection yet."
+  },
+  "common": {
+    "allNews": "All News",
+    "back": "Back",
+    "notifications": "Notifications",
+    "latestHeadlines": "Latest headlines",
+    "seeAll": "See all news",
+    "search": "Search",
+    "searchPlaceholder": "Search India–Europe news…",
+    "loadMore": "Load more stories",
+    "minRead": "{count} min read",
+    "live": "Live",
+    "breaking": "Breaking",
+    "refresh": "Refresh",
+    "liveTv": "Live TV",
+    "menu": "Menu",
+    "loading": "Loading…",
+    "emptyTitle": "Looks like we don't have any articles in this section yet.",
+    "emptySub": "Check back soon."
+  },
+  "header": {
+    "subscribe": "Subscribe",
+    "toggleLanguage": "Toggle language",
+    "toggleTheme": "Toggle dark mode",
+    "marketsDashboard": "Open the markets dashboard"
+  },
+  "breaking": {
+    "followLive": "Follow live updates"
+  },
+  "home": {
+    "quickLinks": {
+      "World": "World",
+      "Europe": "Europe",
+      "Business": "Business",
+      "Visa": "Visa",
+      "Politics": "Politics",
+      "Culture": "Culture",
+      "Sports": "Sports"
+    },
+    "liveMarkets": "Live Markets",
+    "fullDashboard": "Full dashboard",
+    "latestNews": "Latest News",
+    "tabs": {
+      "All": "All",
+      "India": "India",
+      "Europe": "Europe",
+      "Business": "Business",
+      "World": "World",
+      "Breaking": "Breaking"
+    }
+  },
+  "article": {
+    "whatYouNeed": "What you need to know",
+    "relatedStories": "Related stories",
+    "readAtSource": "Read the full story at {source} ↗",
+    "readFullStory": "Read Full Story",
+    "sourceAttribution": "Source: {source}",
+    "representativeImage": "Representative image",
+    "copyLink": "Copy Link",
+    "copied": "Link Copied!",
+    "print": "Print",
+    "increaseText": "Increase text size",
+    "decreaseText": "Decrease text size",
+    "notFound": "Article not found"
+  },
+  "dashboard": {
+    "kicker": "Live",
+    "title": "Markets & Live Dashboard",
+    "subtitle": "Real-time quotes and the headlines moving the India–Europe corridor.",
+    "liveUpdates": "Live updates",
+    "liveUpdated": "Live · updated {time}",
+    "todaySuffix": "today"
+  },
+  "category": {
+    "section": "Section",
+    "home": "Home",
+    "latestCoverage": "The latest {title} coverage, updated automatically from trusted sources."
+  },
+  "search": {
+    "title": "Search",
+    "trending": "Trending:",
+    "resultsFor": "{count, plural, =0 {No results} one {# result} other {# results}}{query}",
+    "forQuery": " for “{query}”",
+    "noResultsTitle": "No articles found matching your search.",
+    "noResultsSub": "Try different keywords."
+  },
+  "preferences": {
+    "title": "My Preferences",
+    "subtitle": "Personalise your feed. Saved on this device (and to your profile once signed in).",
+    "language": "Language",
+    "topics": "Topics you follow",
+    "save": "Save preferences",
+    "saved": "Preferences saved",
+    "clearCache": "Clear cache",
+    "cacheCleared": "Cache cleared",
+    "topicNames": {
+      "Politics": "Politics",
+      "Business": "Business",
+      "Visa": "Visa",
+      "Culture": "Culture",
+      "Sports": "Sports",
+      "Technology": "Technology",
+      "Health": "Health"
+    }
+  },
+  "subscribe": {
+    "title": "The India–Europe Brief",
+    "subtitle": "Free daily newsletter",
+    "emailPlaceholder": "you@example.com",
+    "cta": "Subscribe",
+    "successTitle": "Thank you — you're subscribed!",
+    "successSub": "Look out for tomorrow's brief in your inbox.",
+    "invalidEmail": "Please enter a valid email address.",
+    "noSpam": "No spam. Unsubscribe anytime."
+  },
+  "pwa": {
+    "offlineBanner": "You're offline — showing saved articles.",
+    "pushTitle": "Never miss breaking news",
+    "pushSub": "Get notified the moment India–Europe stories break.",
+    "enable": "Enable notifications",
+    "notNow": "Not now"
+  },
+  "offline": {
+    "title": "You're offline",
+    "body": "We couldn't reach the network. Articles you've already opened are still available from your device — reconnect to load the latest news.",
+    "tryAgain": "Try again"
+  },
+  "notFound": {
+    "title": "We couldn't find the page you're looking for",
+    "body": "The story may have moved or the link may be broken. Try one of our sections instead.",
+    "returnHome": "Return home"
+  },
+  "footer": {
+    "blurb": "Timely, balanced journalism bridging India and Europe.",
+    "rights": "© {year} Euro Connect News. All rights reserved.",
+    "madeFor": "Made for the India–Europe reader.",
+    "independent": "Independent. Trusted.",
+    "sections": {
+      "Sections": "Sections",
+      "IndiaEurope": "India–Europe",
+      "Company": "Company",
+      "Legal": "Legal"
+    },
+    "links": {
+      "India": "India",
+      "Europe": "Europe",
+      "Business": "Business",
+      "World": "World",
+      "Technology": "Technology",
+      "Sports": "Sports",
+      "Trade": "Trade",
+      "Visas": "Visas & Migration",
+      "Diaspora": "Diaspora",
+      "Markets": "Markets",
+      "About": "About",
+      "Editorial": "Editorial Standards",
+      "Contact": "Contact",
+      "Advertise": "Advertise",
+      "Archive": "Archive",
+      "Privacy": "Privacy",
+      "Terms": "Terms",
+      "Cookies": "Cookie Policy",
+      "GDPR": "GDPR"
+    }
+  },
+  "bottomNav": {
+    "home": "Home",
+    "live": "Live",
+    "categories": "Categories",
+    "search": "Search",
+    "preferences": "Preferences"
+  }
+}
