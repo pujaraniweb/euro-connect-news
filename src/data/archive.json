@@ -1,8 +1,560 @@
 {
-  "generatedAt": "2026-08-20T06:26:06.714Z",
+  "generatedAt": "2026-08-20T08:24:47.255Z",
   "retentionDays": 45,
-  "total": 1144,
+  "total": 1174,
   "items": [
+    {
+      "id": "ea5688af72a0fa8f6db8aec7b40f1de087c14315",
+      "slug": "travelodge-boss-steps-down-after-security-issues-in-rooms-ea5688",
+      "title": "Travelodge boss steps down after security issues in rooms",
+      "excerpt": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6abd/live/b8e96d70-9c6d-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T08:19:50.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo#0",
+      "titleHi": "कमरों में सुरक्षा समस्याओं के बाद ट्रैवलज बॉस ने इस्तीफा दे दिया",
+      "excerptHi": "जो बॉयडेल की कंपनी की सुरक्षा और सुरक्षा से जुड़े मुद्दों को संभालने के लिए आलोचना की गई थी।",
+      "archived": false
+    },
+    {
+      "id": "5ddbbe94641470b6ee041aecbd72358cfd307528",
+      "slug": "kyiv-residents-rescued-as-russian-strikes-damage-buildings-a-5ddbbe",
+      "title": "Kyiv residents rescued as Russian strikes damage buildings across the city",
+      "excerpt": "Russia’s overnight missile barrage killed at least 12 people in Kyiv on Thursday, 20 August, as residents were rescued from damaged buildings and firefighters battled fires across the capital.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T08:16:01.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
+      "guid": "http://www.euronews.com/video/2026/08/20/kyiv-residents-rescued-as-russian-strikes-damage-buildings-across-the-city",
+      "titleHi": "कीव के निवासियों को बचाया गया क्योंकि रूसी हमलों ने शहर भर में इमारतों को नुकसान पहुंचाया",
+      "excerptHi": "रूस के रातोंरात मिसाइल बैराज ने गुरुवार, 20 अगस्त को कीव में कम से कम 12 लोगों की जान ले ली, क्योंकि निवासियों को क्षतिग्रस्त इमारतों से बचाया गया और अग्निशामकों ने राजधानी भर में आग से लड़ाई लड़ी।",
+      "archived": false
+    },
+    {
+      "id": "6548cb7061c86dadc1005e3eebf6f2955b95ebcf",
+      "slug": "four-workers-dead-after-being-hit-by-train-in-japan-6548cb",
+      "title": "Four workers dead after being hit by train in Japan",
+      "excerpt": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75e/live/a3c7f8d0-9c59-11f1-ad5e-036c63448601.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T08:14:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o#1",
+      "titleHi": "जापान में ट्रेन की चपेट में आने से चार श्रमिकों की मौत",
+      "excerptHi": "अधिकारियों का कहना है कि ट्रेन टोक्यो के उत्तर में शिन - कनुमा स्टेशन पर चार लोगों से टकरा गई।",
+      "archived": false
+    },
+    {
+      "id": "7f74baf868103677fcb7ba118167391c3dd6af8a",
+      "slug": "max-verstappen-signs-new-red-bull-contract-to-stay-in-f1-unt-7f74ba",
+      "title": "Max Verstappen signs new Red Bull contract to stay in F1 until 2030",
+      "excerpt": "Dutch driver had been linked with Mercedes and McLaren Verstappen: ‘The team is like a second family for me’ Max Verstappen has ended speculation about his future in Formula One by signing a new contract with Red Bull…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Giles Richards in Zandvoort",
+      "image": "https://i.guim.co.uk/img/media/59239b80c67e4357a3880206dc3a106fc7a1d6e2/432_0_4315_3452/master/4315.jpg?width=140&quality=85&auto=format&fit=max&s=aaf3a034f63706367e67854aa56dd7e2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T08:13:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/20/max-verstappen-signs-new-red-bull-contract-to-stay-in-f1-until-2030",
+      "guid": "https://www.theguardian.com/sport/2026/aug/20/max-verstappen-signs-new-red-bull-contract-to-stay-in-f1-until-2030",
+      "titleHi": "मैक्स वर्स्टापेन ने 2030 तक F1 में रहने के लिए नए रेड बुल अनुबंध पर हस्ताक्षर किए",
+      "excerptHi": "डच ड्राइवर को मर्सिडीज और मैकलेरन वर्स्टापेन के साथ जोड़ा गया था: ‘टीम मेरे लिए एक दूसरे परिवार की तरह है’ मैक्स वर्स्टापेन ने रेड बुल के साथ एक नए अनुबंध पर हस्ताक्षर करके फॉर्मूला वन में अपने भविष्य के बारे में अटकलें समाप्त कर दी हैं...",
+      "archived": false
+    },
+    {
+      "id": "e473e1298f65b608ff4a1194f1bda58c53602af5",
+      "slug": "travelodge-boss-resigns-following-criticism-of-handling-of-a-e473e1",
+      "title": "Travelodge boss resigns following criticism of handling of assaults; rising consumer confidence gives Burnham ‘golden opportunity’ – business live",
+      "excerpt": "Joanna Boydell leaves as budget hotel chain scrambles to improve safety Established in 1985, Travelodge is the second largest hotel brand in the UK with more than 610 hotels and 47,000 guest bedrooms, across the UK as…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Julia Kollewe",
+      "image": "https://i.guim.co.uk/img/media/cddebf41faf9369aef4eec3582308d26064e1ed9/378_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=130fe5ab2e6cdb4b90b831d5c9e53a7f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T08:02:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
+      "guid": "https://www.theguardian.com/business/live/2026/aug/20/rising-uk-consumer-confidence-economy-andy-burnham-latest-news-updates",
+      "titleHi": "ट्रैवलज बॉस ने हमलों से निपटने की आलोचना के बाद इस्तीफा दे दिया; बढ़ते उपभोक्ता विश्वास ने बर्नहम को ‘सुनहरा अवसर’ दिया – बिजनेस लाइव",
+      "excerptHi": "Joanna Boydell leaves as budget hotel chain scrambles to improve safety Established in 1985, Travelodge is the second largest hotel brand in the UK with more than 610 hotels and 47,000 guest bedrooms, across the UK as…",
+      "archived": false
+    },
+    {
+      "id": "29c6fd446fced950a19d0a7591184e8126ac7531",
+      "slug": "russia-launches-massive-attack-on-kyiv-and-surrounding-regio-29c6fd",
+      "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+      "excerpt": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Ukraine’s air ⁠force said that Russia ⁠had ⁠launched dozens ​of ballistic, cruise, and ⁠hypersonic missiles, as well as 168…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jakub Krupa",
+      "image": "https://i.guim.co.uk/img/media/77c1832c7ea20d7d0fafe3357d5ef4f29ed73888/529_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=97341c91ae74d25fad6f150723addc57",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T08:01:32.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "guid": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
+      "titleHi": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
+      "excerptHi": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Ukraine’s air ⁠force said that Russia ⁠had ⁠launched dozens ​of ballistic, cruise, and ⁠hypersonic missiles, as well as 168…",
+      "archived": false
+    },
+    {
+      "id": "e7e4d04839a472b1229d593a0d032f78d5c0ffd5",
+      "slug": "opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-e7e4d0",
+      "title": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+      "excerpt": "Early Kick Off show on before Hull v Manchester United Match previews available free-to-air for the first time TNT Sports will make the first 30 minutes of their live Premier League broadcasts available on YouTube this…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Matt Hughes",
+      "image": "https://i.guim.co.uk/img/media/8cc9b592234301adb2cf5096f5bb94bc16848f7a/705_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1d28d38d0e36f79f36d97f277961aa19",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T08:00:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/opening-half-hour-of-tnt-sports-premier-league-broadcasts-to-be-shown-on-youtube",
+      "titleHi": "Opening half-hour of TNT Sports’ Premier League broadcasts to be shown on YouTube",
+      "excerptHi": "Early Kick Off show on before Hull v Manchester United Match previews available free-to-air for the first time TNT Sports will make the first 30 minutes of their live Premier League broadcasts available on YouTube this…",
+      "archived": false
+    },
+    {
+      "id": "85cc84a01a96bb34f065d68eac77d599fb70c443",
+      "slug": "bitgo-korea-secures-vasp-registration-for-institutional-cryp-85cc84",
+      "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+      "excerpt": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-vault-and-how-does-it-work.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T07:48:40.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
+      "titleHi": "BitGo Korea secures VASP registration for institutional crypto custody",
+      "excerptHi": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+      "archived": false
+    },
+    {
+      "id": "9d8e7157816bf9f7d24e08cb1aa870ba17bec4dd",
+      "slug": "damaged-pitch-forces-psg-to-switch-season-opener-9d8e71",
+      "title": "Damaged pitch forces PSG to switch season opener",
+      "excerpt": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd5/live/7c359680-9c66-11f1-827b-69a6492daae1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:48:29.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2dwdxqylwo#4",
+      "titleHi": "Damaged pitch forces PSG to switch season opener",
+      "excerptHi": "Paris St-Germain's opening Ligue 1 game will now be played in Rennes after hot weather \"severely damaged\" the Parc des Princes pitch.",
+      "archived": false
+    },
+    {
+      "id": "c0d6834db0a0a803b99327dfa527e79a0b9cac18",
+      "slug": "why-are-there-so-few-african-players-in-the-wsl-c0d683",
+      "title": "Why are there so few African players in the WSL?",
+      "excerpt": "BBC Sport explores why there are so few African players in the Women's Super League.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37a/live/6a0552d0-9bac-11f1-92e6-b1dfcecd4308.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T07:46:45.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwymr0n2x1ro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cwymr0n2x1ro#4",
+      "titleHi": "Why are there so few African players in the WSL?",
+      "excerptHi": "BBC Sport explores why there are so few African players in the Women's Super League.",
+      "archived": false
+    },
+    {
+      "id": "7519805eafdf66def0cdd060a9f1d675b99d0b7b",
+      "slug": "premier-league-season-preview-hull-city-to-tottenham-footbal-751980",
+      "title": "Premier League season preview: Hull City to Tottenham – Football Weekly",
+      "excerpt": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts Rate, review, share on Apple Podcasts and join the conversation on email. On the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Presented by Max Rushden with Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan. Produced by Jesse Howard and Matt Bentley-Viney, and our executive producer is Joel Grove.",
+      "image": "https://i.guim.co.uk/img/media/2dbabf94ac8a4b8bb7f5dfd666cd3b92fb855da0/839_0_7261_5807/master/7261.jpg?width=140&quality=85&auto=format&fit=max&s=0614f7e039a74295bb5fc6a7df285a0e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:44:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "guid": "https://www.theguardian.com/football/audio/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly",
+      "titleHi": "Premier League season preview: Hull City to Tottenham – Football Weekly",
+      "excerptHi": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts Rate, review, share on Apple Podcasts and join the conversation on email. On the…",
+      "archived": false
+    },
+    {
+      "id": "e6c8ed6f836a3f9ff3f3cd6e222e2bb6b3bb92a3",
+      "slug": "burnham-announces-plans-to-clean-up-worst-three-illegal-wast-e6c8ed",
+      "title": "Burnham announces plans to clean up worst three illegal waste dumps",
+      "excerpt": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1916/live/fe3e8cc0-9c68-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T07:37:45.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o#0",
+      "titleHi": "Burnham announces plans to clean up worst three illegal waste dumps",
+      "excerptHi": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste.",
+      "archived": false
+    },
+    {
+      "id": "e31e9cc17881e92672e75f676ea2dfd886b3fc76",
+      "slug": "football-transfer-rumours-newcastle-to-sign-manchester-citys-e31e9c",
+      "title": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "excerpt": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Will Unwin",
+      "image": "https://i.guim.co.uk/img/media/76216e118f0c8b6766a1158674de398ea594bd84/1395_77_3268_2615/master/3268.jpg?width=140&quality=85&auto=format&fit=max&s=539547651730d7c99d446a1f09b8f9c3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:35:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/football-transfer-rumours-newcastle-nico-gonzalez-manchester-united-aston-villa",
+      "titleHi": "Football transfer rumours: Newcastle to sign Manchester City’s Nico González?",
+      "excerptHi": "Today’s fluff awaits the rainbow A Manchester City clearout is in the offing, which could aid Newcastle’s search for a new central midfielder to replace the departed Sandro Tonali and Bruno Guimarães. Nico González…",
+      "archived": false
+    },
+    {
+      "id": "8636d7adcf01ff8a00f529da6ee65f2057b3b4ad",
+      "slug": "travelodge-boss-quits-amid-fallout-over-hotel-chains-securit-8636d7",
+      "title": "Travelodge boss quits amid fallout over hotel chain’s security failings",
+      "excerpt": "Joanna Boydell steps down after widespread criticism over company’s handling of guest safety issues The boss of Travelodge has resigned after widespread criticism of her handling of security failings at the hotel chain,…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Kalyeena Makortoff",
+      "image": "https://i.guim.co.uk/img/media/2c661445e957e39a5a3e72f09348eef78d8acc0e/395_0_3105_2484/master/3105.jpg?width=140&quality=85&auto=format&fit=max&s=adbc205b79c487b24a9dd32ff0c9e4fc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:27:29.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/travelodge-boss-quits-amid-fallout-over-hotel-chains-security-failings",
+      "titleHi": "Travelodge boss quits amid fallout over hotel chain’s security failings",
+      "excerptHi": "Joanna Boydell steps down after widespread criticism over company’s handling of guest safety issues The boss of Travelodge has resigned after widespread criticism of her handling of security failings at the hotel chain,…",
+      "archived": false
+    },
+    {
+      "id": "b908386109b7e5f699dd0c2825d3e72c2d030d3e",
+      "slug": "edmonton-marathon-route-was-674m-too-long-b90838",
+      "title": "Edmonton Marathon route was 674m too long",
+      "excerpt": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/cc9132d0-9c5f-11f1-827b-69a6492daae1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:15:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo#2",
+      "titleHi": "Edmonton Marathon route was 674m too long",
+      "excerptHi": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+      "archived": false
+    },
+    {
+      "id": "4d6d4ca0cb52467c83d82f1082226723c693ebd5",
+      "slug": "verstappen-extends-red-bull-deal-to-2030-4d6d4c",
+      "title": "Verstappen extends Red Bull deal to 2030",
+      "excerpt": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c891/live/b9546870-9c66-11f1-827b-69a6492daae1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:09:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo#0",
+      "titleHi": "Verstappen extends Red Bull deal to 2030",
+      "excerptHi": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030.",
+      "archived": false
+    },
+    {
+      "id": "7f5d8fe9608ec03fe023e3b148a0bd0ba76e7197",
+      "slug": "mushroom-killer-must-stay-in-jail-forever-for-truly-dreadful-7f5d8f",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "excerpt": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/bbb890d0-9c5e-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T07:08:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo#0",
+      "titleHi": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "excerptHi": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "archived": false
+    },
+    {
+      "id": "1db8d158dc7edfc4146083ea693469c1914f6597",
+      "slug": "us-officials-coordinated-deportation-flights-with-iran-email-1db8d1",
+      "title": "US officials coordinated deportation flights with Iran, emails reveal",
+      "excerpt": "The deportation of Iranians to a country whose government has a pattern of violent persecution against women, religious minorities and political dissidents has drawn significant criticism from human rights activists.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:06:28.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
+      "guid": "http://www.euronews.com/2026/08/20/us-officials-coordinated-deportation-flights-with-iran-emails-reveal",
+      "titleHi": "US officials coordinated deportation flights with Iran, emails reveal",
+      "excerptHi": "The deportation of Iranians to a country whose government has a pattern of violent persecution against women, religious minorities and political dissidents has drawn significant criticism from human rights activists.",
+      "archived": false
+    },
+    {
+      "id": "d0f4ab00ad404e4e70503af2e1e3ea12699d36be",
+      "slug": "greens-call-for-windfall-tax-on-big-banks-profits-to-support-d0f4ab",
+      "title": "Greens call for windfall tax on big banks' profits to support small business",
+      "excerpt": "Zack Polanski says profits over £800m should be taxed to cut tax bills for a million smaller companies.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8357/live/efef0c70-9c00-11f1-a742-1b527746bd0d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T07:03:44.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy49k5x0w1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwy49k5x0w1o#0",
+      "titleHi": "Greens call for windfall tax on big banks' profits to support small business",
+      "excerptHi": "Zack Polanski says profits over £800m should be taxed to cut tax bills for a million smaller companies.",
+      "archived": false
+    },
+    {
+      "id": "986113b8757a85168b05406580369ba2062b72ed",
+      "slug": "minority-investment-or-takeover---what-does-bezos-liverpool-986113",
+      "title": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
+      "excerpt": "What does Liverpool’s future hold following the sale of stakes to 1892 Holdings, and how involved will Amazon founder Jeff Bezos be?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba77/live/a282ad60-9bf2-11f1-8470-d18257d2d589.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:03:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o#1",
+      "titleHi": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
+      "excerptHi": "What does Liverpool’s future hold following the sale of stakes to 1892 Holdings, and how involved will Amazon founder Jeff Bezos be?",
+      "archived": false
+    },
+    {
+      "id": "6d284e34a8e31cec6c99cc962298666dfd675ae6",
+      "slug": "frugal-or-foolish-manchester-united-may-regret-not-backing-c-6d284e",
+      "title": "Frugal or foolish? Manchester United may regret not backing Carrick",
+      "excerpt": "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old Trafford After signing Aaron Wan-Bissaka in 2019, Manchester United’s PR machine boasted they had scouted 804…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Dominic Booth",
+      "image": "https://i.guim.co.uk/img/media/6a542e4126ae6a36e0e92f8262dfdc68bf9629ea/0_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=f44682f04f06d8f801a124a865ec8538",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:00:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick",
+      "titleHi": "Frugal or foolish? Manchester United may regret not backing Carrick",
+      "excerptHi": "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old Trafford After signing Aaron Wan-Bissaka in 2019, Manchester United’s PR machine boasted they had scouted 804…",
+      "archived": false
+    },
+    {
+      "id": "96c60e56cf20644044d26bd3999c401ea913cdb8",
+      "slug": "womens-super-league-finances-club-by-club-breakdown-and-verd-96c60e",
+      "title": "Women’s Super League finances: club-by-club breakdown and verdict",
+      "excerpt": "Detailed accounts highlight the growing financial might of the elite, and the challenges the rest of the division face The financial figures for 2024-25, the most recent season available, for the eight Women’s Super…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Tom Garry",
+      "image": "https://i.guim.co.uk/img/media/4726c2b765e6a99e11d2cee9539dbe3400f50892/342_0_3423_2739/master/3423.jpg?width=140&quality=85&auto=format&fit=max&s=1e0037301b4b218a6de1c90e41365175",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:00:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/womens-super-league-finances-club-by-club-breakdown-verdict",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/womens-super-league-finances-club-by-club-breakdown-verdict",
+      "titleHi": "Women’s Super League finances: club-by-club breakdown and verdict",
+      "excerptHi": "Detailed accounts highlight the growing financial might of the elite, and the challenges the rest of the division face The financial figures for 2024-25, the most recent season available, for the eight Women’s Super…",
+      "archived": false
+    },
+    {
+      "id": "3658ccdd94faa91f719f7c2a96d473e16d6e5f18",
+      "slug": "relax-everyone-elon-musk-has-a-mantra-to-make-the-climate-cr-3658cc",
+      "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
+      "excerpt": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61 days without rain and we wonder idly if…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Emma Brockes",
+      "image": "https://i.guim.co.uk/img/media/7ef1fd853975851ff9dd8c70d4487c41cb53816f/1043_0_5217_4173/master/5217.jpg?width=140&quality=85&auto=format&fit=max&s=53114f3d1e1eb44daa592d9d53ff3ab1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:00:45.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
+      "titleHi": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
+      "excerptHi": "It’s simple, says the SpaceX boss – according to something called the ‘Kardashev scale’, we just have to move energy production ‘off-planet’ Next time the weather gives the UK 61 days without rain and we wonder idly if…",
+      "archived": false
+    },
+    {
+      "id": "6228fdda154630536596d85acaf85dcd2a80a2bc",
+      "slug": "china-showcases-nextgen-humanoid-robots-as-us-curbs-push-fir-6228fd",
+      "title": "China showcases next‑gen humanoid robots as US curbs push firms abroad",
+      "excerpt": "At the World Robot Conference in Beijing on 19 August, more than 300 companies displayed humanoid, industrial and service robots, highlighting the sector’s push into factories and commercial settings.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/20/china-showcases-nextgen-humanoid-robots-as-us-curbs-push-firms-abroad",
+      "guid": "http://www.euronews.com/video/2026/08/20/china-showcases-nextgen-humanoid-robots-as-us-curbs-push-firms-abroad",
+      "titleHi": "China showcases next‑gen humanoid robots as US curbs push firms abroad",
+      "excerptHi": "At the World Robot Conference in Beijing on 19 August, more than 300 companies displayed humanoid, industrial and service robots, highlighting the sector’s push into factories and commercial settings.",
+      "archived": false
+    },
+    {
+      "id": "7093073d4a5b7f20361c91225d0edd5256f2d9af",
+      "slug": "ai-will-not-solve-council-cash-crisis-say-experts-709307",
+      "title": "AI will not solve council cash crisis, say experts",
+      "excerpt": "Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740e/live/615bb8c0-8f51-11f1-99e6-95543b07d23d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T06:41:52.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdx7r9467kno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cdx7r9467kno#0",
+      "titleHi": "AI will not solve council cash crisis, say experts",
+      "excerptHi": "Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.",
+      "archived": false
+    },
+    {
+      "id": "6ef7ce1c3e3fe3f71ffb7ce69613df8fcde3ff2a",
+      "slug": "sabalenka-stunned-by-bejlek-as-slump-continues-6ef7ce",
+      "title": "Sabalenka stunned by Bejlek as slump continues",
+      "excerpt": "Aryna Sabalenka's preparations for her US Open title defence suffer a setback in a surprise defeat by Sara Bejlek at the Cincinnati Open.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f19b/live/bb8c5b40-9c5f-11f1-827b-69a6492daae1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:39:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c3w0v08y0w3o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c3w0v08y0w3o#2",
+      "titleHi": "Sabalenka stunned by Bejlek as slump continues",
+      "excerptHi": "Aryna Sabalenka's preparations for her US Open title defence suffer a setback in a surprise defeat by Sara Bejlek at the Cincinnati Open.",
+      "archived": false
+    },
+    {
+      "id": "c2b118fd6eaacfccb4ef9e21f128fc326642d88f",
+      "slug": "weekly-sports-quiz-golds-photobombs-and-community-shield-c2b118",
+      "title": "Weekly sports quiz: Golds, photobombs and Community Shield",
+      "excerpt": "Happy birthday to our weekly sports quiz, it will be exactly a year this Friday, 21 August since we relaunched it in 2025.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e4c/live/213b7290-9bc6-11f1-b109-879e35c24276.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T06:32:02.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/articles/cj03lmm7pyyo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/articles/cj03lmm7pyyo#2",
+      "titleHi": "Weekly sports quiz: Golds, photobombs and Community Shield",
+      "excerptHi": "Happy birthday to our weekly sports quiz, it will be exactly a year this Friday, 21 August since we relaunched it in 2025.",
+      "archived": false
+    },
     {
       "id": "48ee36c9dcf3b871430114f24070274f7e6d490e",
       "slug": "live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-m-48ee36",
@@ -21,6 +573,26 @@
       "guid": "aeecf0bd-1ab7-459e-81e3-3907b2b59481",
       "titleHi": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
       "excerptHi": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+      "archived": false
+    },
+    {
+      "id": "c7c9fadf040d0602296a4b3d7417ae565c6572df",
+      "slug": "five-in-five-football-quiz-no-4-c7c9fa",
+      "title": "Five in Five: Football quiz No 4",
+      "excerpt": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a0/live/25455e60-95ad-11f1-870d-5d08c49babb2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T06:19:41.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c5yr3w58qnlo#1",
+      "titleHi": "Five in Five: Football quiz No 4",
+      "excerptHi": "Will you beat the clock by getting all five of today's answers in five minutes?",
       "archived": false
     },
     {
@@ -417,6 +989,26 @@
       "archived": false
     },
     {
+      "id": "da38d2a3a8e44d38c3f512367fd231454dbd67fb",
+      "slug": "wildfire-overlooked-as-it-was-in-the-north---mp-da38d2",
+      "title": "Wildfire 'overlooked' as it was in the North - MP",
+      "excerpt": "Alison Hume says farmers' losses from the Langdale Moor fire had \"slipped through the cracks\".",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce6e/live/593e7860-9bdd-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T05:09:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cly5lj5xp9ro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cly5lj5xp9ro#0",
+      "titleHi": "Wildfire 'overlooked' as it was in the North - MP",
+      "excerptHi": "Alison Hume says farmers' losses from the Langdale Moor fire had \"slipped through the cracks\".",
+      "archived": false
+    },
+    {
       "id": "9c263f36442bdccf4a633c246ca965a42268394a",
       "slug": "captured-ukrainian-born-soldiers-tell-bbc-why-they-fought-fo-9c263f",
       "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
@@ -456,6 +1048,26 @@
       "guid": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
       "titleHi": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
       "excerptHi": "Five hundred people turn up to adopt plants from conservatory that will reopen in 2030 after renovation project Above the waxy monstera leaves and bright pink hibiscus flowers in the Barbican conservatory hangs a giant…",
+      "archived": false
+    },
+    {
+      "id": "f9a5dccf469a105b9dd766734a10ebe970b8a041",
+      "slug": "instant-classics-odd-inspirations-and-barcodes-2026-27s-best-f9a5dc",
+      "title": "Instant classics, odd inspirations and barcodes: 2026-27’s best and worst kits",
+      "excerpt": "A look at six of the best and worst of the new season’s strips gives us Pro Evo chic, throwbacks done right, and how – and how not – to use stripes The Premier League season kicks off on Friday and league debutants such…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Hannah Jane Parkinson",
+      "image": "https://i.guim.co.uk/img/media/0b4a3bb520ed500b586e14c76c3edc932a5c6249/0_0_4998_3998/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=654e478d0d9b3befa31ca5f1f49b75f9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T05:00:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/instant-classics-odd-inspirations-and-barcodes-2025-26s-best-and-worst-kits",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/instant-classics-odd-inspirations-and-barcodes-2025-26s-best-and-worst-kits",
+      "titleHi": "Instant classics, odd inspirations and barcodes: 2026-27’s best and worst kits",
+      "excerptHi": "A look at six of the best and worst of the new season’s strips gives us Pro Evo chic, throwbacks done right, and how – and how not – to use stripes The Premier League season kicks off on Friday and league debutants such…",
       "archived": false
     },
     {
@@ -649,7 +1261,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
       "titleHi": "एक हफ़्ते पहले NSW नेशनल पार्क में लापता हुए किशोर हाइकर लिली हूपर का शव मिला था",
       "excerptHi": "प्रीमियर क्रिस मिन्स ने संसद को बताया कि ‘यह स्पष्ट रूप से विनाशकारी है’ इससे पहले 18 वर्षीय को आधी बोतल पानी के साथ ’जीवित पाया गया' की घोषणा करने के बाद नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f340445905c0baf790354d138591759eb3673321",
@@ -669,7 +1281,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo#0",
       "titleHi": "चीन के एवरग्रांडे के संस्थापक को आजीवन कारावास की सजा सुनाई गई",
       "excerptHi": "हुई की सजा एवरग्रांडे के पतन के नतीजे में एक महत्वपूर्ण क्षण को चिह्नित करती है, जिसने चीन के संपत्ति क्षेत्र को हिलाकर रख दिया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f7dc350976c5696bf32108af7307fb5a76b9526b",
@@ -692,7 +1304,7 @@
       "guid": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "titleHi": "राजनीति LIVE: वोंग का कहना है कि ज़ोमी फ्रैंककॉम के फैसले के बाद इज़राइल के साथ ऑस्ट्रेलिया के रिश्ते में ’यह एक कठिन समय है '; ऋण पर गठबंधन और श्रम व्यापार बार्ब्स",
       "excerptHi": "आज की खबरों का पालन करें LIVE हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट ‘अपमानजनक‘ प्राप्त करें: ग्रीन्स के नेता का कहना है कि इजरायली राजदूत को घर भेजना टेबल पर होना चाहिए ग्रीन्स की नेता लारिसा वाटर्स का कहना है कि मजबूत शब्द...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4b9652a54f915c9acda7f0b7301783dfb8ea51f2",
@@ -714,7 +1326,7 @@
       "guid": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
       "titleHi": "एरिन पैटरसन की अपील LIVE: अभियोजक ट्रिपल हत्यारे के लिए पैरोल के बिना जेल में आजीवन कारावास की मांग करेंगे",
       "excerptHi": "विक्टोरिया की अपील अदालत ने यह भी विचार करने के लिए कि क्या ट्रिपल हत्या और हत्या के प्रयास की सजा को रद्द किया जाना चाहिए एरिन पैटरसन का तर्क है कि मशरूम हत्या की सजा को ‘विनाशकारी‘ विफलता के कारण रद्द किया जाना चाहिए...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "14637e0d35b45bf0dd4b00007cd0646b69b23562",
@@ -736,7 +1348,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
       "titleHi": "अभियोजकों का कहना है कि एरिन पैटरसन के खिलाफ मामला ‘भारी’ है और मशरूम किलर की अपील खारिज कर दी जानी चाहिए",
       "excerptHi": "क्राउन अभियोजक ने विक्टोरियाई अदालत को बताया कि अपील के लिए पैटरसन के सभी सात आधार विफल होने चाहिए हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरिया की सर्वोच्च अदालत से एरिन को खारिज करने का आग्रह किया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dc5e8da6965a757cc038b0b3126990ce642b9738",
@@ -756,7 +1368,7 @@
       "guid": "d447d3ad-137f-4f3a-8a97-50a7b861643b",
       "titleHi": "बियरिश क्रिप्टो दांव रिकॉर्ड $ 2.7 बिलियन खो देते हैं क्योंकि बिटकॉइन $ 70,000 की ओर बढ़ता है",
       "excerptHi": "क्रिप्टो के खिलाफ सट्टेबाजी करने वाले व्यापारियों को एक दिन में $ 2.74 बिलियन का नुकसान हुआ, जो अक्टूबर 2025 के क्रैश के छोटे पक्ष से अधिक है जो बाजार के इतिहास में सबसे बड़ा परिसमापन कार्यक्रम बना हुआ है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "39dd2e96f469e54441924822210a593f9d9fec2d",
@@ -776,7 +1388,7 @@
       "guid": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote",
       "titleHi": "गैलेगो ने चेतावनी दी है कि Rushed Clarity Act के वोट से कानून वापस लिया जा सकता है",
       "excerptHi": "गैलेगो ने कहा कि व्हाइट हाउस ने सितंबर के मतदान के दृष्टिकोण के रूप में द्विदलीय नैतिकता प्रस्ताव पर बिंदु - दर - बिंदु प्रतिक्रिया प्रदान नहीं की है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f0db32b6db4334637272351b29fd4c17449440f2",
@@ -796,7 +1408,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po#0",
       "titleHi": "इज़राइल ने कार पर गोलीबारी करने वाले सैनिकों की पुष्टि की जिसमें हिंद रजाब मारा गया था और आपराधिक जांच शुरू की थी",
       "excerptHi": "पांच वर्षीय फिलिस्तीनी लड़की शुरू में हमले से बच गई और मदद की गुहार लगाई लेकिन उसके शरीर को बाद में उसके छह रिश्तेदारों के साथ बरामद किया गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3bb0978889e6070680b821349f444a1bf15f0085",
@@ -816,7 +1428,7 @@
       "guid": "b1ecabd5-5252-4456-a77c-d3bb7b51bed2",
       "titleHi": "ईथर 18% उछलकर $ 2,250 हो गया क्योंकि बिटकॉइन व्यापक क्रिप्टो रैली में $ 69,000 से ऊपर है",
       "excerptHi": "ट्रेजरी द्वारा अपने बॉन्ड बायबैक को दोगुना करने के बाद लगभग $ 1.4 बिलियन की शॉर्ट पोजीशन खत्म होने के साथ, TRON को छोड़कर हर प्रमुख ने दो अंकों का साप्ताहिक लाभ पोस्ट किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ca547b48066584d5783df466359ad49de3e8c967",
@@ -838,7 +1450,7 @@
       "guid": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
       "titleHi": "लैरी डेविड का कहना है कि पूर्व दोस्त एलन डर्शोविट्ज़ ने ट्रम्प के वकील के रूप में ’शैतान के साथ सौदा किया'",
       "excerptHi": "सीनफेल्ड एंड कर्ब योर एंथुसिम क्रिएटर का कहना है कि डर्शोविट्ज़, जिन्होंने जेफरी एपस्टीन और हार्वे वेनस्टीन का भी बचाव किया था, को बहिष्कृत किए जाने के लिए ‘केवल खुद को दोषी ठहराया है' लैरी डेविड ने अपने पतन के बारे में खोला है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fdb0f4f9dd0680b9842c8974f99a5c1e52bd7d57",
@@ -858,7 +1470,7 @@
       "guid": "http://www.euronews.com/2026/08/20/north-korea-says-trumps-scale-back-of-joint-military-exercises-with-south-korea-changes-no",
       "titleHi": "North Korea says Trump's scale-back of joint military exercises with South Korea 'changes nothing'",
       "excerptHi": "Critics slammed the Trump administration over its surprise pull-back from the planned drills with South Korea, stressing that the move is yet another example of the US turning its back on its allies, hurting its…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "37676b27f7e74c2f30b2096f36693161a08f13f4",
@@ -880,7 +1492,7 @@
       "guid": "https://www.theguardian.com/science/audio/2026/aug/20/its-finally-raining-will-it-be-enough-to-end-the-drought-podcast",
       "titleHi": "आखिरकार बारिश हो रही है. क्या यह सूखे को खत्म करने के लिए पर्याप्त होगा? – पॉडकास्ट",
       "excerptHi": "इंग्लैंड और वेल्स को रिकॉर्ड शुरू होने के बाद से सबसे शुष्क जुलाई का अनुभव करने वाली गर्मियों के बाद, बारिश अंततः क्षितिज पर है। लेकिन ‘असाधारण रूप से कम‘ स्तर पर जलाशयों के साथ, क्या फिर से भरने के लिए पर्याप्त बारिश होगी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d0f3894d6f9a95b32648397786c2f4ca854d32f4",
@@ -902,7 +1514,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
       "titleHi": "यह हमारे अपूर्ण शरीर हुआ करते थे जिसने हमें असुरक्षित बना दिया। AI के साथ, यह हमारे दिमाग में भी है",
       "excerptHi": "अधिकांश आधुनिक इतिहास के लिए, प्रौद्योगिकी ने मनुष्यों की नकल करने की कोशिश की। मनुष्य तेजी से प्रौद्योगिकी की नकल करना चाहते हैं हाल के महीनों में मेरे इंस्टाग्राम फ़ीड पर दिखाई देने वाले दो चेहरों ने मुझे विराम दिया। एक जॉन ट्रावोल्टा का था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5413e11a0d3bc2b297cdd216715079881b1e5fcc",
@@ -925,7 +1537,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
       "titleHi": "ज़ोमी फ्रैंककॉम: पेनी वोंग ने गाजा हमलों पर आईडीएफ को मंजूरी देने के ‘अपमानजनक’ फैसले की निंदा की, जिसमें ऑस्ट्रेलियाई सहायता कार्यकर्ता की मौत हो गई थी",
       "excerptHi": "इजरायली सरकार ने 2024 के ट्रिपल ड्रोन हमले में ऑस्ट्रेलियाई ज़ोमी फ्रैंकॉम और छह अन्य लोगों की मौत पर आपराधिक कार्यवाही नहीं करने का फैसला किया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का अनुसरण करें हमारे ब्रेकिंग…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4b163c61d07394474b2898b8ee18eaddbba38554",
@@ -947,7 +1559,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
       "titleHi": "कीव रूसी मिसाइल हमले के तहत आता है, जिसमें कम से कम छह लोग मारे गए",
       "excerptHi": "राजधानी और आसपास के क्षेत्र में भारी बमबारी में आवासीय क्षेत्रों और गोदामों की टक्कर के बाद मौत की सूचना मिली एक भारी रूसी बमबारी में यूक्रेन की राजधानी में कम से कम छह लोग मारे गए और दर्जनों घायल हो गए और इसकी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61c52ea5c1508f5d737dc6437af8866907983938",
@@ -970,7 +1582,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o#0",
       "titleHi": "ट्रम्प ने ईरान की मदद करने वाले किसी भी देश पर 'जबरदस्त आर्थिक परिणाम' की धमकी दी",
       "excerptHi": "यह सोमवार को 60 दिनों के संघर्ष विराम की अवधि समाप्त होने के बाद आता है, जिसमें संघर्ष के लिए राजनयिक या सैन्य ऑफ - रैंप का कोई संकेत नहीं है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "088e31d8fd42bbe82d74488ca57ac3e212e8dfaf",
@@ -992,7 +1604,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cp87g29r718o#0",
       "titleHi": "गाजा में सहायता कार्यकर्ता की हत्या के मामले में मुकदमा नहीं चलाने के इजरायल के फैसले के बाद ऑस्ट्रेलिया 'आक्रोशित' है",
       "excerptHi": "ऑस्ट्रेलिया के विदेश मंत्री ने ज़ोमी फ्रैंकॉम के फैसले का \"अपमान\" करने के लिए इजरायली राजदूत को तलब किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2642b6ed2d7ff864658c7918c08ca02498fa908a",
@@ -1015,7 +1627,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o#1",
       "titleHi": "कनाडा और अमेरिका का कहना है कि वे एक व्यापार समझौते को अंतिम रूप दे रहे हैं",
       "excerptHi": "प्रधान मंत्री कार्नी ने व्यापार वार्ता में \"महत्वपूर्ण प्रगति\" की सराहना की क्योंकि दोनों देश नए सप्ताहांत टैरिफ की समय सीमा से पहले अंतिम विवरण तैयार करना चाहते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2c99652c82b768385ddfa397b4c0e4113ad5a7b0",
@@ -1037,7 +1649,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/clyx028ryy6o#0",
       "titleHi": "लाइबेरिया के पूर्व उपराष्ट्रपति पर मादक पदार्थों की तस्करी की जांच का आरोप",
       "excerptHi": "ज्वेल हॉवर्ड - टेलर पर मनी लॉन्ड्रिंग के साथ - साथ अवैध रूप से ड्रग्स की सुविधा देने, आयात करने और बेचने के आरोप हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c956a27fca88467a77f40a90a1b5b82bae91e87f",
@@ -1059,7 +1671,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
       "titleHi": "बर्फ के गायब होने के साथ ही विशालकाय व्हेल ग्रीनलैंड के पानी में चली जाती हैं",
       "excerptHi": "जलवायु परिवर्तन से पिघलती समुद्री बर्फ ने विशाल व्हेल के लिए \"उन्माद को खिलाने\" के लिए क्षेत्र को खोल दिया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c2eef065942849184a0a8acece130062e72a5ac6",
@@ -1079,7 +1691,7 @@
       "guid": "https://www.theguardian.com/news/audio/2026/aug/20/andy-burnham-north-sea-dilemma-podcast",
       "titleHi": "ड्रिल एंडी ड्रिल? बर्नहम की नॉर्थ सी दुविधा – पॉडकास्ट",
       "excerptHi": "हेलेना हॉर्टन ने इस बात पर विचार किया कि सरकार उत्तरी सागर में अधिक तेल और गैस ड्रिलिंग की अनुमति देने का निर्णय क्यों ले सकती है सरकार इस बात पर विचार कर रही है कि क्या उत्तरी सागर में दो स्थानों पर नए तेल और गैस ड्रिलिंग की अनुमति दी जाए, एक कदम...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f1d7cb977c4cb14c101db5066a48f17a14a5d90b",
@@ -1101,7 +1713,7 @@
       "guid": "https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-dan-sullivan-alaska-primary-election-us-senate-florida-california-wyoming--donald-trump-us-politics-latest",
       "titleHi": "रिपब्लिकन को कथित तौर पर डर है कि डेटासेंटर बैकलैश उन्हें ओहियो सीनेट सीट खर्च कर सकता है – जैसा कि हुआ था",
       "excerptHi": "यह ब्लॉग अब बंद है। यूएस ब्रेकिंग न्यूज़ ईमेल के लिए साइन अप करें अलास्का की राजनीति से अपरिचित लोग संभवतः कुछ दोहराए गए नामों पर भौंह उठा रहे हैं। नहीं, हम डैन एस सुलिवन और डैन जे सुलिवन के बारे में बात नहीं कर रहे हैं,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6a2a17b411ac7044e3797b3fceb8d714f937e859",
@@ -1123,7 +1735,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-renovations",
       "titleHi": "ट्रम्प ने व्हाइट हाउस के नवीनीकरण को दिखाया और नए हेलीपैड को अलंकृत किया",
       "excerptHi": "पूर्व रियल एस्टेट डेवलपर मैदानों के दौरे पर प्रेस कोर का नेतृत्व करते हैं और कहते हैं कि ‘एक बात मुझे पता है कि कैसे करना है’ जैसे ही बुधवार को पहली बार अमेरिकी राष्ट्रीय ऋण $ 40tn से अधिक हो गया, और ईरान के साथ युद्ध उन्होंने …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8baa910d825c3f504d551b52b8fff9d2e9bb3527",
@@ -1143,7 +1755,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month",
       "titleHi": "प्रिंस हैरी और मेगन ‘इस महीने ब्रिटेन वापस जा रहे हैं’",
       "excerptHi": "रिपोर्टों में कहा गया है कि ड्यूक और डचेस ऑफ ससेक्स अमेरिका से स्थानांतरित होने का इरादा रखते हैं, बच्चों के साथ सितंबर में ब्रिटिश स्कूल शुरू करने के लिए ड्यूक और डचेस ऑफ ससेक्स ब्रिटेन में रहने के लिए लौटने की योजना बना रहे हैं, छह साल के लिए रवाना होने के बाद...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4d35f73fe93f63fcea3ec7f05cc1ba19dce2ba46",
@@ -1163,7 +1775,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c70gp8252ejo#0",
       "titleHi": "अमेरिका का राष्ट्रीय ऋण एक दशक में दोगुना होने के बाद $ 40 मिलियन से अधिक हो गया है",
       "excerptHi": "यह 30 साल के बॉन्ड पर ब्याज दर लगभग 20 वर्षों में उच्चतम स्तर पर पहुंचने के बाद आता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "28f7c098b4b2da4a6cf0e3e59182239b3d51620f",
@@ -1183,7 +1795,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/20/indonesia-earthquake-flores-miracle-rescue-elderly-woman-found-alive-in-rubble",
       "titleHi": "‘एक चमत्कार की तरह ': इंडोनेशियाई भूकंप के तीन दिन बाद मलबे से जिंदा निकाली गई 84 वर्षीय महिला",
       "excerptHi": "भूकंप से उत्पन्न भूस्खलन ने उस गांव तक पहुंच को अवरुद्ध कर दिया था जहां पॉलिना पोबी रहती थी, उसे ढह गए अवशेषों के नीचे दफना दिया गया था एक 84 वर्षीय महिला को चपटे अवशेषों में जीवित पाया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "154f48fd65d1b8b728f78882f450d919ef71801c",
@@ -1203,7 +1815,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o#0",
       "titleHi": "राजनेताओं के 'बहुत ऑनलाइन' होने के खतरे - या पर्याप्त रूप से ऑनलाइन नहीं होने के खतरे",
       "excerptHi": "एक ऐसे युग में जब प्रतिष्ठा को एक ही पोस्ट के साथ बनाया या तोड़ा जा सकता है, संतुलन सही होना मुश्किल है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3d02ce96b227b875e01f36d2a36722c142c2bcba",
@@ -1223,7 +1835,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cly50gn1e54o#1",
       "titleHi": "इज़राइल ने अत्यधिक संवेदनशील वेस्ट बैंक निपटान परियोजना के लिए बोलियां खोलीं",
       "excerptHi": "ब्रिटेन के विदेश सचिव ने इस कदम की \"अस्वीकार्य और विनाशकारी कृत्य\" के रूप में निंदा की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0fb929c993eddd7f5baf1849c10e34c3a988cd6a",
@@ -1245,7 +1857,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base",
       "titleHi": "अमेरिकी अंतरिक्ष बल के अड्डे पर सुरक्षाकर्मियों ने बंदूक की नोक पर रिपोर्टरों और सैन्य दोनों को पकड़ा",
       "excerptHi": "अधिकारियों का मानना है कि आमंत्रित व्यक्ति कैलिफ़ोर्निया में वेंडेनबर्ग बेस पर अनधिकृत प्रवेश करने की कोशिश कर रहे थे पांच समाचार संवाददाता और सेना के दो सदस्य जिन्हें वेंडेनबर्ग अंतरिक्ष बल के एक कार्यक्रम में आमंत्रित किया गया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2a12b72016c542204e690cfc212d9ba310e1b2c1",
@@ -1268,7 +1880,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
       "titleHi": "यूसी बर्कले के प्रोफेसर ने छात्रों के गणित कौशल पर ऑप - एड को संपादित करने के लिए एआई का उपयोग करना स्वीकार किया",
       "excerptHi": "ज़वेज़डेलिना स्टैनकोवा का कहना है कि उन्होंने कैलिफ़ोर्निया विश्वविद्यालय, बर्कले में गणित के प्रोफेसर के पीछे अपने कुछ छात्रों के ‘पांच से आठ साल‘ होने के बारे में एक लेख को ’संपादित करने में मदद' करने के लिए एआई का उपयोग किया, जिसमें एक \"गंभीर\" गणित की आलोचना की गई...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61d1d5d041890fc815cc298cc827c56035441175",
