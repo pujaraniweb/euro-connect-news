@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+import { NewsImage } from "@/components/news-image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChevronRight, Info } from "lucide-react";
@@ -112,7 +112,7 @@ export default async function ArticlePage({
       {/* Hero image */}
       <figure className="mx-auto mt-6 max-w-4xl">
         <div className="relative aspect-[16/9] overflow-hidden rounded-xl">
-          <Image
+          <NewsImage
             src={imageUrl(article.imageSeed, 1200, 700)}
             alt={title}
             fill
@@ -183,7 +183,7 @@ export default async function ArticlePage({
               className="group w-64 shrink-0 overflow-hidden rounded-lg border border-border bg-surface"
             >
               <div className="relative aspect-[16/10]">
-                <Image
+                <NewsImage
                   src={imageUrl(a.imageSeed, 400, 250)}
                   alt={localize(a, locale).title}
                   fill

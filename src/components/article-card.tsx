@@ -1,8 +1,8 @@
-import Image from "next/image";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import type { Article } from "@/lib/types";
 import { imageUrl, localize } from "@/lib/mock-data";
+import { NewsImage } from "@/components/news-image";
 import { timeAgo } from "@/lib/utils";
 import { CategoryPill } from "@/components/category-pill";
 import { BookmarkButton, ShareButton } from "@/components/card-actions";
@@ -14,7 +14,7 @@ export function ArticleCard({ article }: { article: Article }) {
   return (
     <article className="group relative flex flex-col overflow-hidden rounded-lg border border-border bg-surface transition-shadow hover:shadow-lg">
       <div className="relative block aspect-[16/10] overflow-hidden">
-        <Image
+        <NewsImage
           src={imageUrl(article.imageSeed, 800, 500)}
           alt={title}
           fill

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Search } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
@@ -6,6 +5,7 @@ import type { Article } from "@/lib/types";
 import { articles, imageUrl, localize } from "@/lib/mock-data";
 import { timeAgo } from "@/lib/utils";
 import { CategoryPill } from "@/components/category-pill";
+import { NewsImage } from "@/components/news-image";
 
 const QUICK_LINKS = [
   "World",
@@ -33,7 +33,12 @@ export function Hero({
   // European visitors), supplied by the server. Fall back to the newest overall
   // so the hero is never empty.
   const pool = leadArticles && leadArticles.length > 0 ? leadArticles : articles;
-  const lead = pool.find((a) => a.featured) ?? pool[0];
+  // Give the large hero slot a story that actually has a source image (they are
+  // already newest-first, so this stays recent) — falling back to the newest if
+  // none have one, so the hero still shows the subtle placeholder rather than
+  // nothing. The remaining stories keep their order.
+  const hasImage = (a: Article) => /^https?:\/\//.test(a.imageSeed);
+  const lead = pool.find(hasImage) ?? pool.find((a) => a.featured) ?? pool[0];
   const leadText = localize(lead, locale);
   const secondary = pool.filter((a) => a.id !== lead.id).slice(0, 3);
 
@@ -70,7 +75,7 @@ export function Hero({
           className="group relative col-span-12 overflow-hidden rounded-xl lg:col-span-8"
         >
           <div className="relative aspect-[16/10] w-full sm:aspect-[16/9]">
-            <Image
+            <NewsImage
               src={imageUrl(lead.imageSeed, 1200, 700)}
               alt={leadText.title}
               fill
@@ -122,7 +127,7 @@ export function Hero({
               className="group flex gap-3 p-4 transition-colors hover:bg-surface-muted"
             >
               <div className="relative h-16 w-20 shrink-0 overflow-hidden rounded-md">
-                <Image
+                <NewsImage
                   src={imageUrl(a.imageSeed, 200, 200)}
                   alt={localize(a, locale).title}
                   fill

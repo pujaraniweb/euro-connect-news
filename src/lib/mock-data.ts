@@ -393,7 +393,33 @@ export function localize(
  * straight through; a plain seed falls back to a clean deterministic image so
  * the card layout never breaks when an article has no usable image.
  */
-export function imageUrl(seedOrUrl: string, w = 800, h = 500): string {
-  if (/^https?:\/\//.test(seedOrUrl)) return seedOrUrl;
-  return `https://picsum.photos/seed/ecn-${seedOrUrl}/${w}/${h}`;
+// Some source CDNs are UNSIGNED, on-demand resizers, so we can safely request a
+// larger, sharper variant of the SAME source image (better for the big hero /
+// article images). Only signature-free hosts are touched; signed URLs (e.g.
+// Guardian's i.guim.co.uk?…&s=<hmac>) and any unknown host are returned exactly
+// as provided, so nothing ever breaks.
+function upscaleSource(url: string): string {
+  try {
+    const u = new URL(url);
+    if (u.hostname.endsWith("bbci.co.uk")) {
+      // Width is a path segment: /standard/240/…, /news/240/…, /ws/240/…
+      u.pathname = u.pathname.replace(
+        /\/(standard|news|ws)\/(\d{2,4})\//,
+        (_m, seg, w) => `/${seg}/${Math.max(parseInt(w, 10), 800)}/`
+      );
+      return u.toString();
+    }
+    return url;
+  } catch {
+    return url;
+  }
+}
+
+// Real RSS/FreshRSS image URLs are used as provided (optionally upscaled on
+// safe CDNs above). When no suitable image is available, we return a subtle
+// LOCAL placeholder instead of an external random-photo service — so images
+// never depend on a third party, never break, and load instantly.
+export function imageUrl(seedOrUrl: string, _w = 800, _h = 500): string {
+  if (/^https?:\/\//.test(seedOrUrl)) return upscaleSource(seedOrUrl);
+  return "/news-fallback.svg";
 }
