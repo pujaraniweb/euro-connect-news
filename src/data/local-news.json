@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-20T16:28:19.770Z",
+  "generatedAt": "2026-08-20T18:23:07.086Z",
   "india": [
+    {
+      "id": "764872a1aa14f7b69a1cdbe8a478fa3e3bc38dca",
+      "slug": "england-womens-world-cup-hopes-end-at-group-stage-764872",
+      "title": "England women's World Cup hopes end at group stage",
+      "excerpt": "England women's hopes of success at the FIH Hockey World Cup end at the group stage after a 0-0 draw with India.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179b/live/0054add0-9cb1-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:41:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/hockey/articles/cvg82elx4d1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/hockey/articles/cvg82elx4d1o#6",
+      "titleHi": "इंग्लैंड महिला विश्व कप की उम्मीदें ग्रुप स्टेज पर खत्म",
+      "excerptHi": "भारत के साथ 0 -0 के ड्रॉ के बाद ग्रुप चरण में एफआईएच हॉकी विश्व कप के अंत में इंग्लैंड की महिलाओं की सफलता की उम्मीदें।",
+      "archived": false
+    },
     {
       "id": "32a937e0fe2bc2f2854c47ee9513f152a5841f77",
       "slug": "tibetan-protesters-in-new-dehli-denounce-china-with-shaved-h-32a937",
@@ -178,28 +198,118 @@
       "titleHi": "At least seven killed in stampede at Hindu temple in India",
       "excerptHi": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
       "archived": true
-    },
-    {
-      "id": "63f988d463d7b4131d37995513db228a3c24a066",
-      "slug": "india-built-the-worlds-biggest-digital-payments-miracle-now-63f988",
-      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-      "excerpt": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-16T23:26:30.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "India built the world's biggest digital payments miracle. Now comes the bill",
-      "excerptHi": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
-      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "8350642a799db6993d8fdf055bf18f5e7e42b33e",
+      "slug": "biased-channel-4-programme-on-adhd-misrepresented-my-views-s-835064",
+      "title": "‘Biased’ Channel 4 programme on ADHD misrepresented my views, says expert",
+      "excerpt": "Prof Katya Rubia withdraws support for The Great ADHD Myth? as other leading figures voice criticisms A contributor to a controversial Channel 4 documentary on attention deficit hyperactivity disorder has withdrawn her…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto"
+      ],
+      "source": "The Guardian",
+      "author": "Amelia Hill",
+      "image": "https://i.guim.co.uk/img/media/c47359d78f777fadcbf2096e35670c91255cafe2/397_126_3382_2706/master/3382.jpg?width=140&quality=85&auto=format&fit=max&s=94881395527b201500d5ed661a9334f0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:54:51.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/20/the-great-adhd-myth-channel-4-programme-contributor-expert-criticism",
+      "guid": "https://www.theguardian.com/society/2026/aug/20/the-great-adhd-myth-channel-4-programme-contributor-expert-criticism",
+      "titleHi": "विशेषज्ञ कहते हैं, एडीएचडी पर ‘पक्षपातपूर्ण’ चैनल 4 कार्यक्रम ने मेरे विचारों को गलत तरीके से पेश किया",
+      "excerptHi": "प्रोफेसर कात्या रुबिया ने द ग्रेट एडीएचडी मिथक के लिए समर्थन वापस ले लिया? जैसा कि अन्य प्रमुख आंकड़े आवाज की आलोचना करते हैं ध्यान घाटे अतिसक्रियता विकार पर एक विवादास्पद चैनल 4 वृत्तचित्र के लिए एक योगदानकर्ता ने उसे वापस ले लिया है...",
+      "archived": false
+    },
+    {
+      "id": "896bc56b4fa180b2f3bea7794115c2865a2e0304",
+      "slug": "man-arrested-over-nord-stream-bombing-was-consultant-on-film-896bc5",
+      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
+      "excerpt": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incident Earlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Harding and Jakub Krupa",
+      "image": "https://i.guim.co.uk/img/media/27606c099f42609877d176107354f84ff4be8728/2108_671_2560_2032/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=c8342e69d6dcc65576b9324da9c86734",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:41:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "titleHi": "नॉर्ड स्ट्रीम बम विस्फोट को लेकर गिरफ्तार किया गया व्यक्ति शॉन पेन अभिनीत फिल्म के बारे में सलाहकार था",
+      "excerptHi": "ज़ाग्रेब के स्थानीय लोगों ने इस महीने की शुरुआत में एक आर्ट डेको बिल्डिंग के बाहर कुछ अजीब देखा था। सैंडबैग और बैरिकेड दिखाई दिए...",
+      "archived": false
+    },
+    {
+      "id": "fddd07af164559e7ae532b35573f62278bb9acc7",
+      "slug": "mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ir-fddd07",
+      "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+      "excerpt": "Meta chief executive paid roughly €20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad in Ireland: Strancally castle. The Meta…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto"
+      ],
+      "source": "The Guardian",
+      "author": "Rory Carroll Ireland correspondent",
+      "image": "https://i.guim.co.uk/img/media/26ee45c61aa55d1ceecdf1b75f0cac2a15cf2a15/439_498_3128_2502/master/3128.jpg?width=140&quality=85&auto=format&fit=max&s=ab67c14982a3a4314a27e68416055534",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:39:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "guid": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "titleHi": "मार्क जुकरबर्ग ने आयरलैंड में 440 एकड़ में फैली स्ट्रैंकली महल की संपत्ति खरीदी",
+      "excerptHi": "मेटा के मुख्य कार्यकारी अधिकारी ने 1830 में निर्मित गोथिक शैली की हवेली के लिए लगभग € 20 मिलियन का भुगतान किया और इसके आसपास यह पाइड - ए - टेरे की परिभाषा को फैलाता है लेकिन मार्क जुकरबर्ग के पास अब आयरलैंड में एक पैड है: स्ट्रैंकली कैसल। मेटा …",
+      "archived": false
+    },
+    {
+      "id": "8f49a6d3db3b731ae66e03e92b7967e4fc2275e0",
+      "slug": "togo-charges-two-french-journalists-over-incorrect-documents-8f49a6",
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "excerpt": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:00:27.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo#1",
+      "titleHi": "Togo charges two French journalists over incorrect documents, rights group says",
+      "excerptHi": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "archived": false
+    },
+    {
+      "id": "e72641f35d91de2fdc4acf7367cd27c56949b396",
+      "slug": "ukrainian-publishers-call-for-support-after-russian-attacks-e72641",
+      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "excerpt": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Emma Loffhagen",
+      "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:37:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "guid": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "titleHi": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "excerptHi": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing…",
+      "archived": true
+    },
     {
       "id": "a40a6718dfd934aec1ba147aebf84ee0ef8adf51",
       "slug": "uk-cinemas-look-at-banning-meta-smart-glasses-over-piracy-fe-a40a67",
@@ -221,7 +331,7 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
       "titleHi": "ब्रिटेन के सिनेमाघर पाइरेसी के डर से मेटा स्मार्ट चश्मे पर प्रतिबंध लगाने पर विचार कर रहे हैं",
       "excerptHi": "ट्रेड बॉडी का कहना है कि ब्रिटेन भर में एआई - सक्षम प्रौद्योगिकी सिनेमा द्वारा प्रदान किए गए संभावित लाभों के साथ स्थानीय चेन को चिंताओं को संतुलित करना होगा, डर के बीच ग्राहकों को मेटा के स्मार्ट चश्मा पहनने से प्रतिबंधित करने पर विचार कर रहे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fdc9613b2945eda4e21cf064886b3ed02c50640a",
@@ -243,7 +353,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
       "titleHi": "समानता मंत्री का कहना है कि ब्रिटेन में नस्लवाद और लिंगवाद सामान्य हो गया है",
       "excerptHi": "एक्सक्लूसिव: ब्रिजेट फिलिप्सन का कहना है कि राजनेताओं ने नफरत को बढ़ावा देने में मदद की है और पुलिस महिलाओं और लड़कियों के खिलाफ हिंसा को गंभीरता से नहीं ले रही है – नवीनतम अपडेट नस्लवाद और लिंगवाद बन गए हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "11ba0ca93d9c2cb7f44899a41f9dca2aa84e713d",
@@ -263,7 +373,7 @@
       "guid": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
       "titleHi": "टोक्यो जाने वाली एक्सप्रेस ट्रेन ने जापान में रेलवे स्टेशन पर चार श्रमिकों को टक्कर मार दी और उनकी मौत हो गई",
       "excerptHi": "रेलवे अधिकारियों ने कहा कि यह स्पष्ट नहीं है कि जब ट्रेन आ रही थी तो श्रमिक साइट से क्यों नहीं निकले, या लुकआउट लोग क्या कर रहे थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1acfe0c022038fa8ea8c9bbd5062173143d39b2d",
@@ -283,7 +393,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
       "titleHi": "जर्मन नव - नाजी को यहूदी रिटायरमेंट होम में घातक 1970 की आग लगने का संदेह",
       "excerptHi": "जांचकर्ताओं का मानना है कि उन्होंने एक आगजनीकर्ता की पहचान की है जिसने 1970 में म्यूनिख में एक यहूदी सामुदायिक केंद्र पर हमला किया था, जिसमें सात लोग मारे गए थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "25840e9000fe486ddab7204d07950b7f0ad68434",
@@ -305,111 +415,6 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
       "titleHi": "बर्नहम का कहना है कि यूके रिटर्न पर हैरी और मेगन की सुरक्षा फंडिंग निजी मामला है",
       "excerptHi": "प्रधान मंत्री दंपति को अमेरिका से लंदन के बाहर एक गैर - शाही निवास में वापस जाने के लिए शुभकामनाएं देते हैं • हैरी और मेगन: अमेरिका द्वारा ड्यूक और डचेस के लिए सुरक्षा निधि स्थानांतरित करने के बाद से महत्वपूर्ण क्षण और विवाद...",
-      "archived": false
-    },
-    {
-      "id": "20732bf2a8af37cbeaa078178c6d9ffa60d5d1e4",
-      "slug": "drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwre-20732b",
-      "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
-      "excerpt": "Serbia has seen the remains of a century-old steam tug emerge from the Sava River near Sremska Mitrovica, after prolonged heat and drought drove water levels exceptionally low.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T12:54:43.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
-      "guid": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
-      "titleHi": "सर्बिया की सावा नदी पर सूखे से WWII के लंबे समय से खोए हुए जहाज़ के मलबे का पता चलता है",
-      "excerptHi": "सर्बिया ने लंबे समय तक गर्मी और सूखे के कारण पानी का स्तर असाधारण रूप से कम होने के बाद, Sremska Mitrovica के पास सावा नदी से एक सदी पुराने भाप टग के अवशेषों को देखा है।",
-      "archived": false
-    },
-    {
-      "id": "186057e22fbd8ac8c47afd128e71357cdbdbd2ba",
-      "slug": "you-have-got-to-go-former-nsw-minister-tells-icac-something-186057",
-      "title": "‘You have got to go’: former NSW minister tells Icac ‘something strange at play’ when she was sacked by Perrottet",
-      "excerpt": "Eleni Petinos tells inquiry her sacking as a minister in Dominic Perrottet’s government was potentially motivated by her reluctance to get rid of the building commissioner Get our breaking news email, free app or daily…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Technology",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Anne Davies",
-      "image": "https://i.guim.co.uk/img/media/bd59c5f897561b7665279aba2279b959a6addace/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=f022b1af756a2c271006ac0bb18b9af0",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T12:21:52.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
-      "titleHi": "‘आपको जाना है ': पूर्व एनएसडब्ल्यू मंत्री ने आईसीएसी को‘ खेलने में कुछ अजीब ’बताया जब उसे पेरोटेट ने बर्खास्त कर दिया",
-      "excerptHi": "एलेनी पेटिनो ने डोमिनिक पेरोटेट की सरकार में एक मंत्री के रूप में अपनी बर्खास्तगी की जांच को बताया कि बिल्डिंग कमिश्नर से छुटकारा पाने के लिए उनकी अनिच्छा से संभावित रूप से प्रेरित था। हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
-      "archived": false
-    },
-    {
-      "id": "32a937e0fe2bc2f2854c47ee9513f152a5841f77",
-      "slug": "tibetan-protesters-in-new-dehli-denounce-china-with-shaved-h-32a937",
-      "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
-      "excerpt": "Hundreds of Tibetan exiles gathered in New Delhi on Thursday, 20 August, to protest against China’s new Ethnic Unity and Progress Law.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T10:54:59.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
-      "guid": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
-      "titleHi": "नई दिल्ली में तिब्बती प्रदर्शनकारियों ने मुंडा सिर और प्रार्थनाओं के साथ चीन की निंदा की",
-      "excerptHi": "चीन के नए जातीय एकता और प्रगति कानून के विरोध में गुरुवार, 20 अगस्त को सैकड़ों तिब्बती निर्वासित नई दिल्ली में एकत्र हुए।",
-      "archived": true
-    },
-    {
-      "id": "a4db131d0de24aa4e3773f7f47c1aedd71b90af4",
-      "slug": "latest-news-bulletin-august-20th-2026-midday-a4db13",
-      "title": "Latest news bulletin | August 20th, 2026 – Midday",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T10:00:16.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
-      "guid": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
-      "titleHi": "नवीनतम समाचार बुलेटिन | 20 अगस्त, 2026 – दोपहर",
-      "excerptHi": "20 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
-      "archived": true
-    },
-    {
-      "id": "c936b4aa9fb95cd5a00c0661f31fcfb6127f833e",
-      "slug": "burnham-announces-plans-to-clean-up-illegal-waste-dumps-uk-p-c936b4",
-      "title": "Burnham announces plans to clean up illegal waste dumps – UK politics live",
-      "excerpt": "The prime minister has promised a crackdown on criminal gangs making money from dumping waste Andy Burnham has floated a number of policies, ideas and ambitions for his government since becoming prime minister, from…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Tom Ambrose",
-      "image": "https://i.guim.co.uk/img/media/f9c1f8608a1d6877c1c8c998524c0e79990b9d27/360_0_2889_2311/master/2889.jpg?width=140&quality=85&auto=format&fit=max&s=e06116c08873e4ee6595334e503aaf5d",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T09:55:26.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "guid": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
-      "titleHi": "बर्नहम ने अवैध कचरे के कचरे को साफ करने की योजना की घोषणा की – यूके की राजनीति LIVE",
-      "excerptHi": "प्रधानमंत्री ने कचरा फेंकने से पैसा बनाने वाले आपराधिक गिरोहों के खिलाफ कार्रवाई का वादा किया है एंडी बर्नहम ने प्रधानमंत्री बनने के बाद से अपनी सरकार के लिए कई नीतियां, विचार और महत्वाकांक्षाएं जारी की हैं...",
       "archived": true
     }
   ]

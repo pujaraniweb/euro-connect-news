@@ -1,8 +1,1643 @@
 {
-  "generatedAt": "2026-08-20T14:25:32.442Z",
+  "generatedAt": "2026-08-20T18:23:07.086Z",
   "retentionDays": 45,
-  "total": 1296,
+  "total": 1379,
   "items": [
+    {
+      "id": "f86ebe78fc516febccb7bb6e228cd3b49e564cbe",
+      "slug": "cricket-today-at-the-test-f86ebe",
+      "title": "Cricket: Today at the Test",
+      "excerpt": "Day 2 highlights from the Test match between England and Pakistan at Headingley.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p5bh6f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T19:00:05.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/iplayer/live/bbctwo#0",
+      "titleHi": "क्रिकेट: आज टेस्ट में",
+      "excerptHi": "हेडिंग्ले में इंग्लैंड और पाकिस्तान के बीच टेस्ट मैच के दूसरे दिन की मुख्य बातें।",
+      "archived": false
+    },
+    {
+      "id": "890cef939194e71fed2bcbf489338ae7305d1ecb",
+      "slug": "academic-who-accused-jason-arday-of-plagiarism-suspended-by-890cef",
+      "title": "Academic who accused Jason Arday of plagiarism suspended by his university",
+      "excerpt": "Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracy Nathan Cofnas, the academic who made plagiarism allegations against Prof Jason Arday before his death, has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Chris Osuh and agencies",
+      "image": "https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/1703_797_3574_2860/master/3574.jpg?width=140&quality=85&auto=format&fit=max&s=27162924459227420240b631b04b84cd",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T18:12:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university",
+      "titleHi": "जेसन आर्डे पर साहित्यिक चोरी का आरोप लगाने वाले अकादमिक को उनके विश्वविद्यालय ने निलंबित कर दिया",
+      "excerptHi": "शोधकर्ता नाथन कोफनास ने पहले दावा किया था कि काले लोग योग्यता में कुछ उच्च - प्रोफ़ाइल पदों पर होंगे नाथन कोफनास, अकादमिक जिन्होंने अपनी मृत्यु से पहले प्रोफेसर जेसन अर्डे के खिलाफ साहित्यिक चोरी के आरोप लगाए थे, ने...",
+      "archived": false
+    },
+    {
+      "id": "e7e9f84437cbae3bfda12587dc6b8b575377ef2c",
+      "slug": "fbi-raids-eric-swalwells-home-amid-sexual-assault-claims-inq-e7e9f8",
+      "title": "FBI raids Eric Swalwell’s home amid sexual assault claims inquiry – report",
+      "excerpt": "Federal agents also ‘seized electronic devices’ from former Democratic representative at San Francisco airport Authorities are said to have searched the Washington DC home of disgraced former California Democratic…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Victoria Bekiempis",
+      "image": "https://i.guim.co.uk/img/media/c6c5f87b121fabc8a2e0e1c51d4de4ea1adca3d3/815_0_4638_3711/master/4638.jpg?width=140&quality=85&auto=format&fit=max&s=5d1939b305e49ef43c08df2eee4862fe",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T18:10:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/20/fbi-raid-eric-swalwell-home",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/20/fbi-raid-eric-swalwell-home",
+      "titleHi": "यौन उत्पीड़न के दावों की जांच के बीच एफबीआई ने एरिक स्वालवेल के घर पर छापा मारा – रिपोर्ट",
+      "excerptHi": "संघीय एजेंटों ने सैन फ्रांसिस्को हवाई अड्डे पर पूर्व डेमोक्रेटिक प्रतिनिधि से ‘जब्त किए गए इलेक्ट्रॉनिक उपकरणों’ के बारे में कहा जाता है कि अधिकारियों ने वाशिंगटन डीसी के अपमानित पूर्व कैलिफ़ोर्निया डेमोक्रेटिक…",
+      "archived": false
+    },
+    {
+      "id": "f7e8645261e0cd2f9981d0259f6a66222d9adbbf",
+      "slug": "reform-uk-hates-mickey-mouse-degrees-apprenticeships-in-dodg-f7e864",
+      "title": "Reform UK hates ‘Mickey Mouse’ degrees – apprenticeships in dodgy crypto, anyone?",
+      "excerpt": "Dicky Tice recalls digging trenches with a JCB as a young man, omitting to say the firm he went on to run was founded by his grandfather You have to hand it to them. Most political parties would have chosen to go quiet,…",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "John Crace",
+      "image": "https://i.guim.co.uk/img/media/fd83e3bc375ec26fbcccf81f86305b52b1a2d372/0_0_3174_2539/master/3174.jpg?width=140&quality=85&auto=format&fit=max&s=e0d75841fd9f07040eb4ce208c2946df",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T18:07:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/20/reform-uk-hates-mickey-mouse-degrees-apprenticeships-in-dodgy-crypto-anyone",
+      "guid": "https://www.theguardian.com/politics/2026/aug/20/reform-uk-hates-mickey-mouse-degrees-apprenticeships-in-dodgy-crypto-anyone",
+      "titleHi": "सुधार यूके ‘मिकी माउस‘ डिग्री से नफरत करता है – डॉगी क्रिप्टो में शिक्षुता, कोई भी?",
+      "excerptHi": "डिकी टाइस एक युवक के रूप में एक जेसीबी के साथ खाई खोदने को याद करते हैं, यह कहने के लिए छोड़ दिया कि वह जिस फर्म को चलाने के लिए गया था, वह उसके दादा द्वारा स्थापित की गई थी। आपको इसे उन्हें सौंपना होगा। अधिकांश राजनीतिक दलों ने चुप रहना चुना होगा,...",
+      "archived": false
+    },
+    {
+      "id": "b08528f41e198d4709e7627c2d09816930a05bae",
+      "slug": "us-aircraft-carrier-arrives-in-middle-east-to-relieve-troubl-b08528",
+      "title": "US aircraft carrier arrives in Middle East to relieve troubled USS Lincoln",
+      "excerpt": "USS George Washington will replace warship families say suffers from shortages, plumbing problems and low morale The USS George Washington aircraft carrier has arrived in the Middle East, where it is expected to relieve…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Anna Betts",
+      "image": "https://i.guim.co.uk/img/media/00be26763cb40180741a529acb6bd72b78b3a519/1242_948_2633_2106/master/2633.jpg?width=140&quality=85&auto=format&fit=max&s=5194db07077498b27a6454dd5ce8bfdb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T18:00:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military",
+      "titleHi": "परेशान यूएसएस लिंकन को राहत देने के लिए अमेरिकी विमानवाहक पोत मध्य पूर्व पहुंचा",
+      "excerptHi": "यूएसएस जॉर्ज वाशिंगटन युद्धपोत परिवारों की जगह लेगा, जो कहता है कि कमी, नलसाजी की समस्याओं और कम मनोबल से ग्रस्त है यूएसएस जॉर्ज वाशिंगटन विमान वाहक मध्य पूर्व में आ गया है, जहां इससे राहत मिलने की उम्मीद है...",
+      "archived": false
+    },
+    {
+      "id": "7db323a552d1c54515df1211731ea329f7f0fd7b",
+      "slug": "walmart-sales-under-strain-as-us-shoppers-pull-back-7db323",
+      "title": "Walmart sales under strain as US shoppers pull back",
+      "excerpt": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T17:59:59.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo#0",
+      "titleHi": "अमेरिकी खरीदारों की वापसी के साथ वॉलमार्ट की बिक्री पर दबाव",
+      "excerptHi": "उच्च गैस की कीमतों और कमजोर फार्मेसी बिक्री ने वॉलमार्ट के विकास को छह वर्षों में सबसे धीमी गति से आगे बढ़ाया",
+      "archived": false
+    },
+    {
+      "id": "be4cbc0412c4a4128bc111140bf5813475fb7bbf",
+      "slug": "us-open-offers-biggest-prize-fund-in-grand-slam-history-be4cbc",
+      "title": "US Open offers biggest prize fund in Grand Slam history",
+      "excerpt": "The US Open will offer the biggest prize fund in Grand Slam history with a total of $108 million (£79.2m) on offer - marking a 20% increase on last year.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fcc/live/f7399a30-9cbf-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:58:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c70g2zx0rp5o#2",
+      "titleHi": "यूएस ओपन ग्रैंड स्लैम इतिहास में सबसे बड़ा पुरस्कार निधि प्रदान करता है",
+      "excerptHi": "यूएस ओपन ग्रैंड स्लैम इतिहास में सबसे बड़ी पुरस्कार निधि की पेशकश करेगा, जिसमें कुल $ 108 मिलियन (£ 79.2m) की पेशकश की जाएगी - जो पिछले वर्ष की तुलना में 20% की वृद्धि को दर्शाता है।",
+      "archived": false
+    },
+    {
+      "id": "8350642a799db6993d8fdf055bf18f5e7e42b33e",
+      "slug": "biased-channel-4-programme-on-adhd-misrepresented-my-views-s-835064",
+      "title": "‘Biased’ Channel 4 programme on ADHD misrepresented my views, says expert",
+      "excerpt": "Prof Katya Rubia withdraws support for The Great ADHD Myth? as other leading figures voice criticisms A contributor to a controversial Channel 4 documentary on attention deficit hyperactivity disorder has withdrawn her…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto"
+      ],
+      "source": "The Guardian",
+      "author": "Amelia Hill",
+      "image": "https://i.guim.co.uk/img/media/c47359d78f777fadcbf2096e35670c91255cafe2/397_126_3382_2706/master/3382.jpg?width=140&quality=85&auto=format&fit=max&s=94881395527b201500d5ed661a9334f0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:54:51.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/20/the-great-adhd-myth-channel-4-programme-contributor-expert-criticism",
+      "guid": "https://www.theguardian.com/society/2026/aug/20/the-great-adhd-myth-channel-4-programme-contributor-expert-criticism",
+      "titleHi": "विशेषज्ञ कहते हैं, एडीएचडी पर ‘पक्षपातपूर्ण’ चैनल 4 कार्यक्रम ने मेरे विचारों को गलत तरीके से पेश किया",
+      "excerptHi": "प्रोफेसर कात्या रुबिया ने द ग्रेट एडीएचडी मिथक के लिए समर्थन वापस ले लिया? जैसा कि अन्य प्रमुख आंकड़े आवाज की आलोचना करते हैं ध्यान घाटे अतिसक्रियता विकार पर एक विवादास्पद चैनल 4 वृत्तचित्र के लिए एक योगदानकर्ता ने उसे वापस ले लिया है...",
+      "archived": false
+    },
+    {
+      "id": "5fb37d482901586d293f8060f97adab615adebfe",
+      "slug": "why-first-10-days-of-new-season-could-tell-us-a-lot-about-ma-5fb37d",
+      "title": "Why first 10 days of new season could tell us a lot about Man Utd",
+      "excerpt": "The first 10 days of the new Premier League season could tell us a lot about what lies ahead for Manchester United.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b32/live/93503380-9cb0-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:54:26.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o#1",
+      "titleHi": "नए सीज़न के पहले 10 दिन हमें मैन यूटीडी के बारे में बहुत कुछ बता सकते हैं",
+      "excerptHi": "नए प्रीमियर लीग सीज़न के पहले 10 दिन हमें इस बारे में बहुत कुछ बता सकते हैं कि मैनचेस्टर यूनाइटेड के लिए आगे क्या है।",
+      "archived": false
+    },
+    {
+      "id": "dfa938577afaad0aa21058b02feac8e4d8831a67",
+      "slug": "seven-defenders-on-the-books---why-arsenal-still-want-konsa-dfa938",
+      "title": "Seven defenders on the books - why Arsenal still want Konsa",
+      "excerpt": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b9/live/69de6c30-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:48:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o#0",
+      "titleHi": "किताबों पर सात रक्षक - क्यों आर्सेनल अभी भी कोंसा चाहता है",
+      "excerptHi": "शस्त्रागार इस गर्मी में पहले ही £ 100 मिलियन से अधिक खर्च कर चुका है क्योंकि वे अपने प्रीमियर लीग खिताब का बचाव करना चाहते हैं - तो वे एज्री कोन्सा को भी क्यों चाहते हैं?",
+      "archived": false
+    },
+    {
+      "id": "1299fca16a7980181105f1c7a23ec8a9362bb528",
+      "slug": "the-guardian-view-on-gcse-results-much-to-celebrate-much-to-1299fc",
+      "title": "The Guardian view on GCSE results: much to celebrate, much to reform | Editorial",
+      "excerpt": "Another post-pandemic cohort has shown its resilience and talent. But growing inequalities of outcome must be addressed Most pupils who received their GCSE results this week were in the penultimate year of primary…",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Editorial",
+      "image": "https://i.guim.co.uk/img/media/c8d27ee243b48abf884d63c025363fd4753571d4/340_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cc0e7c99fba1366311f634a56ff558ad",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:46:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-gcse-results-much-to-celebrate-much-to-reform",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-gcse-results-much-to-celebrate-much-to-reform",
+      "titleHi": "GCSE परिणामों पर अभिभावक का दृष्टिकोण: जश्न मनाने के लिए बहुत कुछ, सुधार के लिए बहुत कुछ | संपादकीय",
+      "excerptHi": "महामारी के बाद के एक और समूह ने अपनी लचीलापन और प्रतिभा दिखाई है। लेकिन परिणाम की बढ़ती असमानताओं को संबोधित किया जाना चाहिए इस सप्ताह अपने जीसीएसई परिणाम प्राप्त करने वाले अधिकांश छात्र प्राथमिक वर्ष के अंतिम वर्ष में थे...",
+      "archived": false
+    },
+    {
+      "id": "81e2448b0363f14b9704f3373d788deee8267051",
+      "slug": "the-guardian-view-on-trumps-mmr-executive-order-endangering-81e244",
+      "title": "The Guardian view on Trump’s MMR executive order: endangering the children he claims to care about | Editorial",
+      "excerpt": "The president’s empty advice that children should receive separate jabs against measles, mumps and rubella will only lead to less take-up by parents Nobody wants to hurt a child. The howl of pain, the tears, the look of…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Editorial",
+      "image": "https://i.guim.co.uk/img/media/a45d7afe1358d94e91fb591aa819ad2c4dffe554/735_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=16aa4203fa4dc2d63314336f1d1a4c61",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:46:02.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-trumps-mmr-executive-order-endangering-the-children-he-claims-to-care-about",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/the-guardian-view-on-trumps-mmr-executive-order-endangering-the-children-he-claims-to-care-about",
+      "titleHi": "ट्रम्प के एमएमआर कार्यकारी आदेश पर अभिभावक का दृष्टिकोण: उन बच्चों को खतरे में डालना जिनकी वह परवाह करने का दावा करता है | संपादकीय",
+      "excerptHi": "राष्ट्रपति की खाली सलाह कि बच्चों को खसरा, कण्ठमाला और रूबेला के खिलाफ अलग - अलग जैब्स प्राप्त करने चाहिए, केवल माता - पिता द्वारा कम सेवन किया जाएगा कोई भी बच्चे को चोट नहीं पहुंचाना चाहता है। दर्द की चीख, आँसू, का रूप...",
+      "archived": false
+    },
+    {
+      "id": "ac343d2510bb0ad62c55b500200df77504dda5c4",
+      "slug": "us-debt-tops-40t-stoking-debate-on-what-it-means-for-bitcoin-ac343d",
+      "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
+      "excerpt": "Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term case, even as Treasury yields, dollar strength and liquidity remain key near-term drivers.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoins-hard-cap-be-changed-2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:43:58.000Z",
+      "sourceUrl": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t",
+      "titleHi": "अमेरिकी ऋण बिटकॉइन के लिए इसका क्या मतलब है, इस पर $ 40T की बहस में सबसे ऊपर है",
+      "excerptHi": "विश्लेषकों का कहना है कि $ 40 ट्रिलियन का ऋण मील का पत्थर बिटकॉइन के दीर्घकालिक मामले को मजबूत कर सकता है, भले ही ट्रेजरी की पैदावार, डॉलर की ताकत और तरलता निकट अवधि के प्रमुख ड्राइवर बने हुए हैं।",
+      "archived": false
+    },
+    {
+      "id": "3ea727ebcf6df0c78cb6caa1cb3d480103f02551",
+      "slug": "australia-says-roblox-hasn8217t-fixed-its-child-predator-pro-3ea727",
+      "title": "Australia says Roblox hasn&#8217;t fixed its child predator problem",
+      "excerpt": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:42:34.000Z",
+      "sourceUrl": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "guid": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "titleHi": "ऑस्ट्रेलिया का कहना है कि रॉब्लॉक्स ने अपने बाल शिकारी की समस्या को ठीक नहीं किया है",
+      "excerptHi": "ऑस्ट्रेलिया के ऑनलाइन सुरक्षा नियामक, eSafety से परीक्षण के बाद Roblox अपनी बाल सुरक्षा सुविधाओं में और बदलावों का वादा कर रहा है। eSafety उन चिंताओं पर गौर कर रहा है, जिनका कंपनी ने पालन नहीं किया है...",
+      "archived": false
+    },
+    {
+      "id": "896bc56b4fa180b2f3bea7794115c2865a2e0304",
+      "slug": "man-arrested-over-nord-stream-bombing-was-consultant-on-film-896bc5",
+      "title": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
+      "excerpt": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incident Earlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Harding and Jakub Krupa",
+      "image": "https://i.guim.co.uk/img/media/27606c099f42609877d176107354f84ff4be8728/2108_671_2560_2032/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=c8342e69d6dcc65576b9324da9c86734",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:41:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
+      "titleHi": "नॉर्ड स्ट्रीम बम विस्फोट को लेकर गिरफ्तार किया गया व्यक्ति शॉन पेन अभिनीत फिल्म के बारे में सलाहकार था",
+      "excerptHi": "ज़ाग्रेब के स्थानीय लोगों ने इस महीने की शुरुआत में एक आर्ट डेको बिल्डिंग के बाहर कुछ अजीब देखा था। सैंडबैग और बैरिकेड दिखाई दिए...",
+      "archived": false
+    },
+    {
+      "id": "ca07405d6d5dde037a0dce8bcce104c55ee4e285",
+      "slug": "bbcs-trevor-nelson-recovering-after-brain-tumour-surgery-ca0740",
+      "title": "BBC’s Trevor Nelson recovering after brain tumour surgery",
+      "excerpt": "Radio 2 DJ, who stepped back from work commitments in June, says operation went ‘incredibly well’ Trevor Nelson, the BBC Radio 2 DJ, has revealed he had surgery after being diagnosed with a brain tumour and is now on…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Nadeem Badshah",
+      "image": "https://i.guim.co.uk/img/media/f56dc487893c35b3fdbbb03e47e4500e632e6f9d/252_0_2493_1994/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=36fb4d7d2b4eaa0ff03ff3393fec44dd",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:41:21.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/20/bbc-trevor-nelson-surgery-brain-tumour",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/20/bbc-trevor-nelson-surgery-brain-tumour",
+      "titleHi": "ब्रेन ट्यूमर सर्जरी के बाद ठीक हो रहे बीबीसी के ट्रेवर नेल्सन",
+      "excerptHi": "जून में काम की प्रतिबद्धताओं से पीछे हटने वाले रेडियो 2 डीजे का कहना है कि ऑपरेशन ‘अविश्वसनीय रूप से अच्छी तरह से’ चला गया, बीबीसी रेडियो 2 डीजे ट्रेवर नेल्सन ने खुलासा किया है कि ब्रेन ट्यूमर का निदान होने के बाद उनकी सर्जरी हुई थी और अब वे …",
+      "archived": false
+    },
+    {
+      "id": "fddd07af164559e7ae532b35573f62278bb9acc7",
+      "slug": "mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ir-fddd07",
+      "title": "Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland",
+      "excerpt": "Meta chief executive paid roughly €20m for gothic-style mansion built in 1830 and its surroundings It stretches the definition of pied-à-terre but Mark Zuckerberg now has a pad in Ireland: Strancally castle. The Meta…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto"
+      ],
+      "source": "The Guardian",
+      "author": "Rory Carroll Ireland correspondent",
+      "image": "https://i.guim.co.uk/img/media/26ee45c61aa55d1ceecdf1b75f0cac2a15cf2a15/439_498_3128_2502/master/3128.jpg?width=140&quality=85&auto=format&fit=max&s=ab67c14982a3a4314a27e68416055534",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:39:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "guid": "https://www.theguardian.com/world/2026/aug/20/mark-zuckerberg-buys-440-acre-strancally-castle-estate-in-ireland",
+      "titleHi": "मार्क जुकरबर्ग ने आयरलैंड में 440 एकड़ में फैली स्ट्रैंकली महल की संपत्ति खरीदी",
+      "excerptHi": "मेटा के मुख्य कार्यकारी अधिकारी ने 1830 में निर्मित गोथिक शैली की हवेली के लिए लगभग € 20 मिलियन का भुगतान किया और इसके आसपास यह पाइड - ए - टेरे की परिभाषा को फैलाता है लेकिन मार्क जुकरबर्ग के पास अब आयरलैंड में एक पैड है: स्ट्रैंकली कैसल। मेटा …",
+      "archived": false
+    },
+    {
+      "id": "9677abc85652d3086e55a2b135f0c8a770201dc9",
+      "slug": "alcaraz-to-play-us-open-after-four-months-out-9677ab",
+      "title": "Alcaraz to play US Open after four months out",
+      "excerpt": "Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:39:09.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o#2",
+      "titleHi": "चार महीने बाद यूएस ओपन में खेलेंगे अल्काराज",
+      "excerptHi": "गत चैंपियन कार्लोस अल्कारज़ कलाई की चोट के कारण चार महीने से बाहर रहने के बाद यूएस ओपन में वापसी करने के लिए तैयार हैं।",
+      "archived": false
+    },
+    {
+      "id": "80c56993159d38b3d4d651a1a48ba7955b443f24",
+      "slug": "fcc-officially-decides-gigabit-speeds-are-too-good-for-you-80c569",
+      "title": "FCC officially decides gigabit speeds are too good for you",
+      "excerpt": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:38:30.000Z",
+      "sourceUrl": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "guid": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "titleHi": "एफसीसी आधिकारिक तौर पर तय करता है कि गीगाबिट की गति आपके लिए बहुत अच्छी है",
+      "excerptHi": "एक और दिन, हमारे समझौता किए गए संघीय संचार आयोग के बारे में रिपोर्ट करने के लिए एक और दुखद बात। अध्यक्ष ब्रेंडन कार ने 2025 के दौरान स्थापित दीर्घकालिक ब्रॉडबैंड गति लक्ष्यों को मारने की अपनी धमकी का पालन किया है...",
+      "archived": false
+    },
+    {
+      "id": "d3cc65e96dded3cbd576f8f43cd24e00887eacef",
+      "slug": "reforms-new-economic-adviser-has-called-for-end-of-pensioner-d3cc65",
+      "title": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
+      "excerpt": "Exclusive: Mitchell Palmer has also argued for privatising the NHS and immigration as way of cutting poverty Reform UK’s new economic adviser has previously called the pensions triple lock unsustainable, advocated…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Kiran Stacey Policy editor",
+      "image": "https://i.guim.co.uk/img/media/78d2d77cb1d9662ef2585bbf0ff372bcd6fc9d21/0_113_735_588/master/735.jpg?width=140&quality=85&auto=format&fit=max&s=5f192aa7e201aab103c7839ecbe88f54",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:36:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
+      "guid": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
+      "titleHi": "सुधार के नए आर्थिक सलाहकार ने पेंशनरों के ट्रिपल लॉक को समाप्त करने का आह्वान किया है",
+      "excerptHi": "एक्सक्लूसिव: मिशेल पामर ने एनएचएस और आव्रजन के निजीकरण के लिए भी तर्क दिया है कि गरीबी को कम करने के तरीके के रूप में सुधार यूके के नए आर्थिक सलाहकार ने पहले पेंशन ट्रिपल लॉक को अस्थिर कहा है, वकालत की है...",
+      "archived": false
+    },
+    {
+      "id": "8a1e4cffa08391fa58307ce02422bbbc09a2d827",
+      "slug": "glass-deposit-operator-confirmed-after-months-of-wrangling-8a1e4c",
+      "title": "Glass deposit operator confirmed after months of wrangling",
+      "excerpt": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
+      "category": "Science",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea29/live/56eb4800-73b9-11f1-a8ee-df4f88a2912f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T17:31:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/crk5yk1rynro#0",
+      "titleHi": "महीनों के झगड़े के बाद ग्लास डिपॉजिट ऑपरेटर की पुष्टि हुई",
+      "excerptHi": "एक्सचेंज फॉर चेंज पूरे यूके में नए रीसाइक्लिंग कार्यक्रम चला रहा है और वेल्स भी चलाएगा।",
+      "archived": false
+    },
+    {
+      "id": "5b62e3cf96c234620fac3ae5c5e633318ad829c9",
+      "slug": "rebecca-hendin-on-the-return-of-harry-and-meghan-cartoon-5b62e3",
+      "title": "Rebecca Hendin on the return of Harry and Meghan – cartoon",
+      "excerpt": "Continue reading...",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rebecca Hendin",
+      "image": "https://i.guim.co.uk/img/media/a91f4996003e0b176f4fb4153aff9b9422c1399b/0_0_3543_2834/master/3543.jpg?width=140&quality=85&auto=format&fit=max&s=562786c1563e1442ec4cdbdf9632cf81",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T17:16:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/aug/20/rebecca-hendin-cartoon-harry-and-meghan-duke-duchess-sussex-british-schools",
+      "guid": "https://www.theguardian.com/commentisfree/picture/2026/aug/20/rebecca-hendin-cartoon-harry-and-meghan-duke-duchess-sussex-british-schools",
+      "titleHi": "हैरी और मेगन की वापसी पर रेबेका हेंडिन – कार्टून",
+      "excerptHi": "पढ़ना जारी रखें",
+      "archived": false
+    },
+    {
+      "id": "5079361dbdc1f8a50fe76664719d638b5a5806ce",
+      "slug": "framework-says-it8217s-addressing-a-bios-update-that-bricked-507936",
+      "title": "Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops",
+      "excerpt": "The 2023 Framework Laptop 13 with AMD Ryzen 7040-series chips. | Photo by Amelia Holowaty Krales / The Verge Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:16:02.000Z",
+      "sourceUrl": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "guid": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "titleHi": "फ़्रेमवर्क का कहना है कि यह एक BIOS अपडेट को संबोधित कर रहा है जिसने इसके कुछ पुराने लैपटॉप को ईंट से काट दिया",
+      "excerptHi": "2023 फ्रेमवर्क लैपटॉप 13 AMD Ryzen 7040 - सीरीज चिप्स के साथ। | Amelia Holowaty Krales/ The Verge Some Framework Laptop 13 के लास्ट - जनरेशन AMD चिप्स वाले मालिकों द्वारा ली गई तस्वीर ने बताया है कि हाल ही में BIOS अपडेट ब्रिक कर रहा है...",
+      "archived": false
+    },
+    {
+      "id": "f3899ab30416594f9d2724f8d06f4549fc788afd",
+      "slug": "jd-sports-boss-is-still-struggling-to-turn-up-the-heat-on-a-f3899a",
+      "title": "JD Sports boss is still struggling to turn up the heat on a tepid trainer market",
+      "excerpt": "Latest profit warning is particularly disappointing in a World Cup year, which should have given the global business a sporty buzz JD Sports cuts £50m from profit forecast as cost of living pressures hit trainer sales…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Nils Pratley",
+      "image": "https://i.guim.co.uk/img/media/82606781d2966e055777f8f84382f884af81e40f/314_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=b0b451505070e1a40595b646a7ed6b14",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:14:31.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/20/jd-sports-boss-is-still-struggling-to-turn-up-the-heat-amid-tepid-trainer-market",
+      "guid": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/20/jd-sports-boss-is-still-struggling-to-turn-up-the-heat-amid-tepid-trainer-market",
+      "titleHi": "जेडी स्पोर्ट्स बॉस अभी भी एक शांत ट्रेनर बाजार में गर्मी को चालू करने के लिए संघर्ष कर रहा है",
+      "excerptHi": "विश्व कप वर्ष में नवीनतम मुनाफे की चेतावनी विशेष रूप से निराशाजनक है, जिसने वैश्विक व्यापार को एक स्पोर्टी बज़ दिया होगा जेडी स्पोर्ट्स ने मुनाफे के पूर्वानुमान से £ 50 मिलियन की कटौती की क्योंकि रहने के दबाव ने ट्रेनर की बिक्री को प्रभावित किया...",
+      "archived": false
+    },
+    {
+      "id": "e3d35b96083cc537bd2e13883ccfe7e037d242b1",
+      "slug": "liverpool-have-50m-bid-rejected-for-brightons-minteh-e3d35b",
+      "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
+      "excerpt": "Liverpool have a £50m bid rejected by Brighton for their winger Yankuba Minteh.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T17:06:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o#0",
+      "titleHi": "लिवरपूल ने ब्राइटन के मिन्टेह के लिए £ 50 मिलियन की बोली खारिज कर दी है",
+      "excerptHi": "लिवरपूल ने अपने विंगर यंकुबा मिन्तेह के लिए ब्राइटन द्वारा £ 50 मिलियन की बोली को अस्वीकार कर दिया है।",
+      "archived": false
+    },
+    {
+      "id": "0a94b1c3dbde9be6083e3785a4976cba0b3f941a",
+      "slug": "great-actors-are-more-believable-than-democrats-0a94b1",
+      "title": "Great Actors Are More Believable Than Democrats",
+      "excerpt": "Democrats often don’t sound as if they believe themselves. To fix that, they should listen more to acting teachers and less to pollsters.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Connor Lounsbury",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:06:21.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/20/opinion/democrats-polls-acting-playbook.html",
+      "guid": "https://www.nytimes.com/2026/08/20/opinion/democrats-polls-acting-playbook.html",
+      "titleHi": "महान अभिनेता डेमोक्रेट की तुलना में अधिक विश्वसनीय होते हैं",
+      "excerptHi": "डेमोक्रेट अक्सर ऐसा नहीं सोचते जैसे वे खुद पर विश्वास करते हैं। इसे ठीक करने के लिए, उन्हें अभिनय शिक्षकों को अधिक सुनना चाहिए और पोलस्टरों को कम सुनना चाहिए।",
+      "archived": false
+    },
+    {
+      "id": "444699a5d173affb72dc94609dc70d4b0b45ea8a",
+      "slug": "football-daily-the-balogun-affair-and-premier-leagues-battle-444699",
+      "title": "Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
+      "excerpt": "Sign up now! Sign up now! Sign up now? Sign up now! While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Area 51, we have never had much…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Barry Glendenning",
+      "image": "https://i.guim.co.uk/img/media/ea21b76aeeadaba46a812e86038606b6442108f4/430_0_4301_3441/master/4301.jpg?width=140&quality=85&auto=format&fit=max&s=4ee2c76fa1129eb541f2fb92e71a29d9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:04:11.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter",
+      "titleHi": "फुटबॉल डेली | बालोगुन का मामला और साजिश सिद्धांतकारों के साथ प्रीमियर लीग की लड़ाई",
+      "excerptHi": "अभी साइन अप करें! अभी साइन अप करें! अभी साइन अप करें? अभी साइन अप करें! जबकि फुटबॉल डेली इस विचार के लिए खुला है कि स्टेनली कुब्रिक ने चंद्रमा की लैंडिंग का निर्देशन किया और पेंटागन एरिया 51 में ग्रे एलियंस को छिपा रहा है, हमारे पास कभी भी बहुत कुछ नहीं था...",
+      "archived": false
+    },
+    {
+      "id": "f4b9a10bd8c9ed1a03de617a863f432ae3bfd69e",
+      "slug": "michael-carrick-rejects-ridiculous-talk-of-easy-start-to-man-f4b9a1",
+      "title": "Michael Carrick rejects ‘ridiculous’ talk of easy start to Manchester United season",
+      "excerpt": "United face promoted sides Hull and Ipswich ‘It’s not favourable. It’s an easy thing to throw out there’ Michael Carrick has dismissed suggestions that Manchester United’s opening two games against Hull and Ipswich…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jamie Jackson",
+      "image": "https://i.guim.co.uk/img/media/0aef9a394f47e00d078596f9c8e4ef66008cc942/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=418fffbd49e8854fec03a322712fc0ec",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T17:00:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/michael-carrick-rejects-talk-of-easy-start-to-season-for-manchester-united",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/michael-carrick-rejects-talk-of-easy-start-to-season-for-manchester-united",
+      "titleHi": "माइकल कैरिक ने मैनचेस्टर यूनाइटेड सीज़न की आसान शुरुआत की ‘हास्यास्पद’ बात को खारिज कर दिया",
+      "excerptHi": "यूनाइटेड फेस प्रमोटेड साइड्स हल और इप्सविच ‘यह अनुकूल नहीं है। वहाँ फेंकना एक आसान बात है’ माइकल कैरिक ने उन सुझावों को खारिज कर दिया है कि मैनचेस्टर यूनाइटेड के हल और इप्सविच के खिलाफ दो गेम...",
+      "archived": false
+    },
+    {
+      "id": "9858bd1eeeb0624a63fdb83c2c8980021743fc0b",
+      "slug": "liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighto-9858bd",
+      "title": "Liverpool see £50m bid for Yankuba Minteh rejected by Brighton",
+      "excerpt": "Minteh targeted as replacement for Mohamed Salah Winger sidelined after recovering from leg surgery Liverpool have had a £50m bid for Yankuba Minteh rejected by Brighton. The club are looking to add two wide forwards to…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Andy Hunter",
+      "image": "https://i.guim.co.uk/img/media/1c937de9517c78623b35544716c8533375be3389/421_82_3039_2431/master/3039.jpg?width=140&quality=85&auto=format&fit=max&s=232668ca2397e51710ac6738abaa7f67",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:59:12.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton",
+      "titleHi": "लिवरपूल ने यंकुबा मिन्तेह के लिए £ 50 मिलियन की बोली को ब्राइटन द्वारा अस्वीकार कर दिया",
+      "excerptHi": "लेग सर्जरी से ठीक होने के बाद मोहम्मद सलाह विंगर के रिप्लेसमेंट के रूप में मिंटेह को टार्गेट किया गया लिवरपूल ने यंकुबा मिंटेह के लिए £ 50 मिलियन की बोली लगाई है जिसे ब्राइटन ने अस्वीकार कर दिया है। क्लब इसके लिए दो चौड़े फॉरवर्ड जोड़ना चाहता है...",
+      "archived": false
+    },
+    {
+      "id": "aa51624274f2214d4853a5dbeec4f90a96b001de",
+      "slug": "is-vine-back-short-form-video-sharing-app-divine-opens-to-pu-aa5162",
+      "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+      "excerpt": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6212/live/4bc22910-9c92-11f1-bd28-a9dd56c45ed7.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:58:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c3r05g378w4o#0",
+      "titleHi": "क्या वाइन वापस आ गई है? शॉर्ट - फॉर्म वीडियो - शेयरिंग ऐप डिवाइन सार्वजनिक रूप से खुलता है",
+      "excerptHi": "इस ऐप के ज़रिए यूज़र छह सेकंड के लूपिंग वीडियो बना सकते हैं और 20 लाख से ज़्यादा क्लासिक वीडियो की मेज़बानी कर सकते हैं।",
+      "archived": false
+    },
+    {
+      "id": "8b65c32ad1d85b52b0b9596d7dbac7661ea52cec",
+      "slug": "como-mayor-bans-beasts-in-city-centre-after-being-hit-by-bik-8b65c3",
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "excerpt": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc9/live/f3b6f660-9caf-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:53:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o#0",
+      "titleHi": "कोमो मेयर ने बाइक की चपेट में आने के बाद शहर के केंद्र में 'जानवरों' पर प्रतिबंध लगा दिया",
+      "excerptHi": "एलेसेंड्रो रैपिनीज़ ने पिछले महीने एक साइकिल चालक के साथ मुठभेड़ के बाद ऐतिहासिक शहर के केंद्र के लिए निषेध जारी किया।",
+      "archived": false
+    },
+    {
+      "id": "a76c5576b8fc5296fd9d94945b033409b8c5d4b7",
+      "slug": "charlton-sign-wrexham-keeper-okonkwo-on-loan-a76c55",
+      "title": "Charlton sign Wrexham keeper Okonkwo on loan",
+      "excerpt": "Charlton Athletic sign goalkeeper Arthur Okonkwo on a season-long loan from Wrexham.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5878/live/2bb23930-9cb5-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:50:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czrj5g557m5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/czrj5g557m5o#12",
+      "titleHi": "चार्लटन ने Wrexham कीपर Okonkwo को लोन पर साइन किया",
+      "excerptHi": "Charlton Athletic ने Wrexham के एक सीज़न - लंबे लोन पर गोलकीपर आर्थर ओकोन्को को साइन किया।",
+      "archived": false
+    },
+    {
+      "id": "0a6dcd30fe520e07000a5abef7ac8e5d6b21f783",
+      "slug": "australian-rider-says-she-was-nearly-hit-by-car-at-tour-of-b-0a6dcd",
+      "title": "Australian rider says she was nearly hit by car at Tour of Britain Women",
+      "excerpt": "Maeve Plouffe says incident on Wednesday was ‘scary’ Josh Tarling to ride in Vuelta in memory of brother Fin The Australian rider Maeve Plouffe has said she was nearly hit by a non-race car during the opening stage of…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian sport",
+      "image": "https://i.guim.co.uk/img/media/b9e3a0779cf4eaa5e4cacfc7f970f323ab890ceb/0_0_3321_2638/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=3e2beb578ed9a14d9fff07122e414412",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:47:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/20/australian-rider-says-she-was-nearly-hit-by-car-at-tour-of-britain-women-cycling",
+      "guid": "https://www.theguardian.com/sport/2026/aug/20/australian-rider-says-she-was-nearly-hit-by-car-at-tour-of-britain-women-cycling",
+      "titleHi": "ऑस्ट्रेलियाई राइडर का कहना है कि टूर ऑफ़ ब्रिटेन वीमेन में उन्हें कार ने लगभग टक्कर मार दी थी",
+      "excerptHi": "Maeve Plouffe का कहना है कि बुधवार की घटना भाई फिन की याद में Vuelta में सवारी करने के लिए जोश टार्लिंग के लिए ‘डरावना’ थी ऑस्ट्रेलियाई राइडर Maeve Plouffe ने कहा है कि …",
+      "archived": false
+    },
+    {
+      "id": "764872a1aa14f7b69a1cdbe8a478fa3e3bc38dca",
+      "slug": "england-womens-world-cup-hopes-end-at-group-stage-764872",
+      "title": "England women's World Cup hopes end at group stage",
+      "excerpt": "England women's hopes of success at the FIH Hockey World Cup end at the group stage after a 0-0 draw with India.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179b/live/0054add0-9cb1-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:41:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/hockey/articles/cvg82elx4d1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/hockey/articles/cvg82elx4d1o#6",
+      "titleHi": "इंग्लैंड महिला विश्व कप की उम्मीदें ग्रुप स्टेज पर खत्म",
+      "excerptHi": "भारत के साथ 0 -0 के ड्रॉ के बाद ग्रुप चरण में एफआईएच हॉकी विश्व कप के अंत में इंग्लैंड की महिलाओं की सफलता की उम्मीदें।",
+      "archived": false
+    },
+    {
+      "id": "659b891cf4e09932fdd57d5b519755ab7c0f6a73",
+      "slug": "terry-dyson-only-spurs-player-to-score-north-london-derby-ha-659b89",
+      "title": "Terry Dyson, only Spurs player to score north London derby hat-trick, dies at 91",
+      "excerpt": "Tottenham salute ‘key part’ of 1960-61 Double side Winger also won Cup Winners’ Cup in 1963 Tottenham’s 1961 Double-winner Terry Dyson has died at the age of 91. The Premier League club confirmed Dyson’s death on…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "PA Media",
+      "image": "https://i.guim.co.uk/img/media/c5628a4d9cbbe14726808ed441c37cf68ab492d4/0_732_4724_3779/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=cc2cbfe8df06b17126cb29d605ab7b2d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:28:25.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/terry-dyson-tottenham-dies-aged-91",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/terry-dyson-tottenham-dies-aged-91",
+      "titleHi": "उत्तरी लंदन में डर्बी हैट्रिक बनाने वाले एकमात्र स्पर्स खिलाड़ी टेरी डायसन का 91 साल की उम्र में निधन हो गया",
+      "excerptHi": "टोटेनहम 1960 -61 के ‘मुख्य भाग’ को सलाम करता है डबल साइड विंगर ने 1963 में कप विनर्स कप भी जीता था टोटेनहम के 1961 के डबल विजेता टेरी डायसन का 91 वर्ष की आयु में निधन हो गया है। प्रीमियर लीग क्लब ने डायसन की मौत की पुष्टि की...",
+      "archived": false
+    },
+    {
+      "id": "a15b22fb69bf7a10f853ddcf890791a426b55071",
+      "slug": "bernard-matthews-confirms-closure-of-derby-factory-a15b22",
+      "title": "Bernard Matthews confirms closure of Derby factory",
+      "excerpt": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:27:26.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c998e0my7k5o#0",
+      "titleHi": "Bernard Matthews confirms closure of Derby factory",
+      "excerptHi": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
+      "archived": false
+    },
+    {
+      "id": "babd54f26a956bacdef515d7e39fa8bc993850e5",
+      "slug": "rider-nearly-hit-by-car-on-day-one-of-tour-of-britain-women-babd54",
+      "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+      "excerpt": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:21:46.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo#2",
+      "titleHi": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+      "excerptHi": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
+      "archived": false
+    },
+    {
+      "id": "4e5a027568044ecb45fa7bf9b871552c4f7989a6",
+      "slug": "trial-of-facts-over-ex-mayors-bigoted-tweets-4e5a02",
+      "title": "Trial of facts over ex-mayor's 'bigoted' tweets",
+      "excerpt": "Pat Marsh, a long-serving councillor in Harrogate, has been deemed unfit to stand trial.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/84da9fd0-a44e-11f0-8a21-ff96e44d1cc2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:18:46.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy459yg9jpzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cy459yg9jpzo#1",
+      "titleHi": "Trial of facts over ex-mayor's 'bigoted' tweets",
+      "excerptHi": "Pat Marsh, a long-serving councillor in Harrogate, has been deemed unfit to stand trial.",
+      "archived": false
+    },
+    {
+      "id": "1b79dee4835b268be89210bd50e866411deaa8ab",
+      "slug": "treasury-buybacks-could-set-up-bitcoins-next-move-toward-180-1b79de",
+      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "excerpt": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Helene Braun",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/bea6e36a9c3235f583f5960c57adaaa640180fd5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:17:32.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+      "guid": "59f304d4-1b56-44f0-a1e9-d62912a14e3d",
+      "titleHi": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "excerptHi": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
+      "archived": false
+    },
+    {
+      "id": "413e161ea038aec6f629a8cb8f78d23029dd3eb9",
+      "slug": "lack-of-water-storage-is-an-urgent-national-security-issue-l-413e16",
+      "title": "Lack of water storage is an urgent national security issue | Letters",
+      "excerpt": "Readers respond to the crisis facing Britain caused by the lack of reservoir capacity and hotter summers Your reporters came up with a good list of urgent climate policies in response to Andy Burnham’s somewhat surreal…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/4fbb2801343b6b153df1c1d8e6f738238d51a0e2/0_0_3713_2970/master/3713.jpg?width=140&quality=85&auto=format&fit=max&s=2efa978cf42251e3b749aaad0b25f2be",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:17:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/20/lack-of-water-storage-is-an-urgent-national-security-issue",
+      "guid": "https://www.theguardian.com/environment/2026/aug/20/lack-of-water-storage-is-an-urgent-national-security-issue",
+      "titleHi": "Lack of water storage is an urgent national security issue | Letters",
+      "excerptHi": "Readers respond to the crisis facing Britain caused by the lack of reservoir capacity and hotter summers Your reporters came up with a good list of urgent climate policies in response to Andy Burnham’s somewhat surreal…",
+      "archived": false
+    },
+    {
+      "id": "64341401ac17a5b8d3aec14411c298fce6dc0597",
+      "slug": "ministers-are-in-denial-about-the-scale-of-the-crises-we-fac-643414",
+      "title": "Ministers are in denial about the scale of the crises we face | Letter",
+      "excerpt": "Having just 20 Defra staff working on climate adaptations show the government is not taking the challenges of heatwaves, wildfires and droughts seriously, writes Dr Amy McDonnell This (Just 20 of 6,600 Defra staff…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/2371078bbc96657cd0af6556adf08851ad76ab13/421_0_2748_2199/master/2748.jpg?width=140&quality=85&auto=format&fit=max&s=015a08787f907f9aede0174c2b075c46",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:17:11.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/20/ministers-are-in-denial-about-the-scale-of-the-crises-we-face",
+      "guid": "https://www.theguardian.com/environment/2026/aug/20/ministers-are-in-denial-about-the-scale-of-the-crises-we-face",
+      "titleHi": "Ministers are in denial about the scale of the crises we face | Letter",
+      "excerptHi": "Having just 20 Defra staff working on climate adaptations show the government is not taking the challenges of heatwaves, wildfires and droughts seriously, writes Dr Amy McDonnell This (Just 20 of 6,600 Defra staff…",
+      "archived": false
+    },
+    {
+      "id": "4060b821ddedaca713dcfa77c472977355311bef",
+      "slug": "unites-mixed-message-on-global-heating-letters-4060b8",
+      "title": "Unite’s mixed message on global heating | Letters",
+      "excerpt": "The Unite union’s support for new North Sea oil and gas extraction is questioned by Edward Jackson. Plus a letter from Alan Gray Of the mass walkouts of transport drivers in parts of London where temperatures have hit…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/d6c5b4ac6cd6dbc21b04800f89db6209927c1d3a/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e6d5ec21b85750744af56b1ae54b5b45",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:17:06.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/20/unites-mixed-message-on-the-global-heating",
+      "guid": "https://www.theguardian.com/environment/2026/aug/20/unites-mixed-message-on-the-global-heating",
+      "titleHi": "Unite’s mixed message on global heating | Letters",
+      "excerptHi": "The Unite union’s support for new North Sea oil and gas extraction is questioned by Edward Jackson. Plus a letter from Alan Gray Of the mass walkouts of transport drivers in parts of London where temperatures have hit…",
+      "archived": false
+    },
+    {
+      "id": "a33c0d7528cb3ddba3063a234d431fcfdb6ddeac",
+      "slug": "international-students-bring-much-more-than-money-to-the-uk-a33c0d",
+      "title": "International students bring much more than money to the UK | Letters",
+      "excerpt": "Catriona McCarthy says enduring personal and professional connections should not be overlooked, while Graham Thompson says university leaders should shoulder some responsibility for their plight The financial pressures…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/014e9de831882ec642f3f1ea3d6ea68f21d58816/173_0_3465_2771/master/3465.jpg?width=140&quality=85&auto=format&fit=max&s=4018f510a5a8ffa91ed4a803f40e6d79",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:17:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/education/2026/aug/20/international-students-bring-much-more-than-money-to-the-uk",
+      "guid": "https://www.theguardian.com/education/2026/aug/20/international-students-bring-much-more-than-money-to-the-uk",
+      "titleHi": "International students bring much more than money to the UK | Letters",
+      "excerptHi": "Catriona McCarthy says enduring personal and professional connections should not be overlooked, while Graham Thompson says university leaders should shoulder some responsibility for their plight The financial pressures…",
+      "archived": false
+    },
+    {
+      "id": "466ac6cd3d45f186c8ebf81d918da5188fb9ad30",
+      "slug": "why-is-the-trump-administration-causing-turmoil-in-the-bond-466ac6",
+      "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+      "excerpt": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching ‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending Government…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Richard Partington Senior economics correspondent",
+      "image": "https://i.guim.co.uk/img/media/e5d9265b4ad1f02b3b8743a220415673ba12afc2/568_0_5678_4543/master/5678.jpg?width=140&quality=85&auto=format&fit=max&s=0a7c06ce0ce38889f7ddbebdad67b319",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:14:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+      "titleHi": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+      "excerptHi": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching ‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending Government…",
+      "archived": false
+    },
+    {
+      "id": "7056f0ac046073ee3975b91042582e038b121799",
+      "slug": "bitcoin-miners-pour-billions-into-ai-as-capex-outpaces-reven-7056f0",
+      "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "excerpt": "Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Sam Bourgi",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-eu-vote-on-bitcoin-mining2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:12:00.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026",
+      "titleHi": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "excerptHi": "Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.",
+      "archived": false
+    },
+    {
+      "id": "286c06253fb4c5ec5d0b36346cdb33e3485f9ebd",
+      "slug": "england-lose-two-quick-wickets-after-poor-reviews-286c06",
+      "title": "England lose two quick wickets after 'poor' reviews",
+      "excerpt": "Pakistan take the wickets of Jordan Cox and Joe Root in quick succession leaving England out of reviews at Headingley.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b86/live/b83ef6a0-9caf-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:05:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/cz64qxe6gq3o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cz64qxe6gq3o#4",
+      "titleHi": "England lose two quick wickets after 'poor' reviews",
+      "excerptHi": "Pakistan take the wickets of Jordan Cox and Joe Root in quick succession leaving England out of reviews at Headingley.",
+      "archived": false
+    },
+    {
+      "id": "2de24b0fd075e21eb568770c2be3fa719bf1e378",
+      "slug": "reforms-leader-in-scotland-malcolm-offord-reveals-cancer-dia-2de24b",
+      "title": "Reform's leader in Scotland Malcolm Offord reveals cancer diagnosis",
+      "excerpt": "Malcolm Offord said he had a procedure last week to remove his prostate and was now \"clear\" and \"raring to go\".",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c5/live/9ebf8470-9cae-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:02:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c235jlpmd1jo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c235jlpmd1jo#1",
+      "titleHi": "Reform's leader in Scotland Malcolm Offord reveals cancer diagnosis",
+      "excerptHi": "Malcolm Offord said he had a procedure last week to remove his prostate and was now \"clear\" and \"raring to go\".",
+      "archived": false
+    },
+    {
+      "id": "1a89b748f8155068ef5264e260a4a15139d822b6",
+      "slug": "bbc-dj-trevor-nelson-reveals-brain-tumour-surgery-went-well-1a89b7",
+      "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
+      "excerpt": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e4/live/9e515620-9caa-11f1-84cf-fd4cfd9d6c84.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:01:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cjd47klln75o#0",
+      "titleHi": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
+      "excerptHi": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
+      "archived": false
+    },
+    {
+      "id": "8f49a6d3db3b731ae66e03e92b7967e4fc2275e0",
+      "slug": "togo-charges-two-french-journalists-over-incorrect-documents-8f49a6",
+      "title": "Togo charges two French journalists over incorrect documents, rights group says",
+      "excerpt": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:00:27.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo#1",
+      "titleHi": "Togo charges two French journalists over incorrect documents, rights group says",
+      "excerptHi": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
+      "archived": false
+    },
+    {
+      "id": "a6df3ce6fc164f63b765290ce9111e164e66056f",
+      "slug": "bbc-inside-science-a6df3c",
+      "title": "BBC Inside Science",
+      "excerpt": "Has a personalised cancer vaccine become reality?",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct9781#4",
+      "titleHi": "BBC Inside Science",
+      "excerptHi": "Has a personalised cancer vaccine become reality?",
+      "archived": false
+    },
+    {
+      "id": "bab5225a109aa86296e4dcd1e7013ed108acd773",
+      "slug": "specsavers-pays-12m-dividend-to-parent-company-after-jump-in-bab522",
+      "title": "Specsavers pays £12m dividend to parent company after jump in earnings",
+      "excerpt": "Pre-tax profits rose at high street opticians to £429.7m in the year to February while sales rose 7% to £4.3bn Specsavers has paid £12m to its parent company controlled by its founders Doug and Dame Mary Perkins after…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Sarah Butler",
+      "image": "https://i.guim.co.uk/img/media/a2fe314d5c00f23e77082773a9b7f6e90b2a6df1/263_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7e04f045452eeb38a0223f4e0122ac33",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:55:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/specsavers-pays-dividend-to-parent-company-as-profits-soar",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/specsavers-pays-dividend-to-parent-company-as-profits-soar",
+      "titleHi": "Specsavers pays £12m dividend to parent company after jump in earnings",
+      "excerptHi": "Pre-tax profits rose at high street opticians to £429.7m in the year to February while sales rose 7% to £4.3bn Specsavers has paid £12m to its parent company controlled by its founders Doug and Dame Mary Perkins after…",
+      "archived": false
+    },
+    {
+      "id": "16f5128ad7ade119ff44034e66f28cbdb364774e",
+      "slug": "most-americans-say-the-trump-familys-crypto-investments-are-16f512",
+      "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "excerpt": "A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Turner Wright",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-crypto-industry-can-learn-from-polling.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:53:51.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll",
+      "titleHi": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "excerptHi": "A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
+      "archived": false
+    },
+    {
+      "id": "bf160d7528d979ddaf21c49d403c18c8f6bc3be1",
+      "slug": "parents-back-josh-tarling-riding-in-vuelta-a-espana-bf160d",
+      "title": "Parents back Josh Tarling riding in Vuelta a Espana",
+      "excerpt": "Finlay Tarling, 19, died in a high-speed collision with a van, which had strayed on to the road during the eighth stage of the Volta a Portugal.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11c/live/acdc98a0-9c9e-11f1-a5a0-114ca9d4a1bc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:50:31.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/c98vz8dm331o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/c98vz8dm331o#6",
+      "titleHi": "Parents back Josh Tarling riding in Vuelta a Espana",
+      "excerptHi": "Finlay Tarling, 19, died in a high-speed collision with a van, which had strayed on to the road during the eighth stage of the Volta a Portugal.",
+      "archived": false
+    },
+    {
+      "id": "9c001d334e88b8de2d9569b5811eedb425a94f94",
+      "slug": "enzo-is-a-chelsea-player-says-alonso-but-doesnt-guarantee-fe-9c001d",
+      "title": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "excerpt": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jacob Steinberg",
+      "image": "https://i.guim.co.uk/img/media/593393786c04b2875bc833a587eaeace26f89e2a/546_121_2513_2010/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=7d883242f9c440405e38c958bd9980c8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:50:12.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer",
+      "titleHi": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "excerptHi": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo…",
+      "archived": false
+    },
+    {
+      "id": "0438708e672f241ac70d3560514046dbad23ad36",
+      "slug": "us-man-sentenced-to-77-years-for-child-sexual-abuse-tied-to-043870",
+      "title": "US man sentenced to 77 years for child sexual abuse tied to online extremist group",
+      "excerpt": "Kyle Spitze of Tennessee faced federal charges for targeting girls online as part of ‘764 network’ investigated by FBI A 27-year-old Tennessee man described by the US justice department as a “nihilistic violent…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/c46a9f1f5c4593f59c0f00440a2a7cbdc86df619/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=8ed46b2d1a52511a24bf4b6b59cb5c1e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:47:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/20/man-sentenced-child-sexual-abuse-online-extremist-network",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/20/man-sentenced-child-sexual-abuse-online-extremist-network",
+      "titleHi": "US man sentenced to 77 years for child sexual abuse tied to online extremist group",
+      "excerptHi": "Kyle Spitze of Tennessee faced federal charges for targeting girls online as part of ‘764 network’ investigated by FBI A 27-year-old Tennessee man described by the US justice department as a “nihilistic violent…",
+      "archived": false
+    },
+    {
+      "id": "1a15ca30c547b748723b430cc74fcf8bde882b79",
+      "slug": "brilliant-cox-gets-maiden-test-half-century-1a15ca",
+      "title": "'Brilliant' Cox gets maiden Test half-century",
+      "excerpt": "Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e27d/live/d43b08f0-9cad-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:46:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/cx2v0xnzz4wo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cx2v0xnzz4wo#4",
+      "titleHi": "'Brilliant' Cox gets maiden Test half-century",
+      "excerptHi": "Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley.",
+      "archived": false
+    },
+    {
+      "id": "d7ef2975580865aa45752368aa847106bd36b57e",
+      "slug": "its-greg-brockmans-openai-now-d7ef29",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "excerpt": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:45:55.000Z",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "guid": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "titleHi": "It’s Greg Brockman’s OpenAI now",
+      "excerptHi": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny…",
+      "archived": false
+    },
+    {
+      "id": "0b03891aaea7878de1deb0948497fab6b936e7d3",
+      "slug": "optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-gr-0b0389",
+      "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "excerpt": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-market-desperately-needs-to-connect-with-real-world-assets2.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:43:00.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+      "titleHi": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "excerptHi": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
+      "archived": false
+    },
+    {
+      "id": "d3f345001290118455f21f23261edd4475919366",
+      "slug": "us-deports-20-people-to-liberia-the-first-of-1200-migrants-u-d3f345",
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "excerpt": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:42:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "titleHi": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "excerptHi": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the…",
+      "archived": false
+    },
+    {
+      "id": "ba8ff5184eb20d69be94891f5f66278adbd27500",
+      "slug": "bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threa-ba8ff5",
+      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "excerpt": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by William Suberg",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-iran-2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:40:54.000Z",
+      "sourceUrl": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran",
+      "titleHi": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "excerptHi": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
+      "archived": false
+    },
+    {
+      "id": "040c6d5a9b5a2c85e548191c2f0b928df5599ab9",
+      "slug": "marvels-wolverine-spider-man-developers-turn-to-a-more-cutth-040c6d",
+      "title": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
+      "excerpt": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Spider-Man games have become so tightly…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Alex Spencer",
+      "image": "https://i.guim.co.uk/img/media/db641a97d44cddaeb5ca978e8a5a1ab83d2e347f/597_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=39255d389b9946447c7fd52130d920d3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:40:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
+      "guid": "https://www.theguardian.com/games/2026/aug/20/marvel-wolverine-spider-man-developers-turn-more-cutthroat-character",
+      "titleHi": "Marvel’s Wolverine: Spider-Man developers turn to a more cutthroat character",
+      "excerptHi": "Even film-makers have been inspired by Insomniac’s take on Spidey. But the studio’s tried and tested format might not fit a superhero with such sharp claws The recent Marvel’s Spider-Man games have become so tightly…",
+      "archived": true
+    },
+    {
+      "id": "e72641f35d91de2fdc4acf7367cd27c56949b396",
+      "slug": "ukrainian-publishers-call-for-support-after-russian-attacks-e72641",
+      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "excerpt": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Emma Loffhagen",
+      "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:37:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "guid": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
+      "titleHi": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
+      "excerptHi": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing…",
+      "archived": true
+    },
+    {
+      "id": "df85713e6ac8841a0e0a6dd9ea2829d161c5424f",
+      "slug": "us-open-singles-champions-will-take-home-record-55m-as-prize-df8571",
+      "title": "US Open singles champions will take home record $5.5m as prize money jumps by 20%",
+      "excerpt": "Total prize pool for tournament will be $108m Players guaranteed $140,000 for making first round The US Open singles champions will earn $5.5m, the highest winnings in grand slam tennis history. Overall compensation for…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/ab8da7e13cf97f18796278f33169f7755fa6da8f/546_0_3725_2980/master/3725.jpg?width=140&quality=85&auto=format&fit=max&s=dda1f3815c9c77f590ca9e57e210f4d5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:33:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/20/us-open-2026-prize-money-tennis",
+      "guid": "https://www.theguardian.com/sport/2026/aug/20/us-open-2026-prize-money-tennis",
+      "titleHi": "US Open singles champions will take home record $5.5m as prize money jumps by 20%",
+      "excerptHi": "Total prize pool for tournament will be $108m Players guaranteed $140,000 for making first round The US Open singles champions will earn $5.5m, the highest winnings in grand slam tennis history. Overall compensation for…",
+      "archived": true
+    },
+    {
+      "id": "104c464137e7ed7a4e0b68cf74868e5689cd47c8",
+      "slug": "this-app-makes-the-pixel-118217s-hilight-feature-actually-us-104c46",
+      "title": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "excerpt": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:30:34.000Z",
+      "sourceUrl": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "guid": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "titleHi": "This app makes the Pixel 11&#8217;s HiLight feature actually useful",
+      "excerptHi": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call…",
+      "archived": true
+    },
+    {
+      "id": "d06006b8274047b479bc8c0ad107276d30413b9e",
+      "slug": "maracan-to-host-opening-game-and-final-at-next-years-womens-d06006",
+      "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+      "excerpt": "Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Tom Garry",
+      "image": "https://i.guim.co.uk/img/media/4a90ea7b5e9af638d6601f0853c80ce689741cd8/366_0_3401_2720/master/3401.jpg?width=140&quality=85&auto=format&fit=max&s=eb7f62ef148a5b63f974df9d8708347b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:25:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup",
+      "titleHi": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+      "excerptHi": "Stadium has hosted two men’s World Cup finals Arena Itaquera in São Paulo will host 10 matches The Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup. The…",
+      "archived": true
+    },
+    {
+      "id": "b96d46bb37b133fe890192a7824168faa38cd7f4",
+      "slug": "meet-the-men-applying-for-the-hardest-job-in-british-politic-b96d46",
+      "title": "Meet the men applying for the 'hardest job in British politics'",
+      "excerpt": "Labour MSPs Michael Marra and Joe Fagan are making their pitches as they aim to succeed Anas Sarwar.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e47/live/f9487be0-9be1-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:25:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5yvnlre009o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5yvnlre009o#2",
+      "titleHi": "Meet the men applying for the 'hardest job in British politics'",
+      "excerptHi": "Labour MSPs Michael Marra and Joe Fagan are making their pitches as they aim to succeed Anas Sarwar.",
+      "archived": true
+    },
+    {
+      "id": "8321a7e7c9bc42854370ff2121ba9e423c19b25a",
+      "slug": "starve-the-beast-the-40tn-cost-of-republicans-false-promises-8321a7",
+      "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+      "excerpt": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Eduardo Porter",
+      "image": "https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=140&quality=85&auto=format&fit=max&s=92c58623c4336e90aef10cdd1329c9e5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:21:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+      "guid": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
+      "titleHi": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
+      "excerptHi": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in…",
+      "archived": true
+    },
+    {
+      "id": "a5c2c7fd0e149c92a5e1c97954e7ce34ef025723",
+      "slug": "bitcoins-jump-above-71000-sets-up-bullish-golden-cross-patte-a5c2c7",
+      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+      "excerpt": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "James Van Straten",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/aa3ab28c452ec5d1a80a7332ca263add18813d60-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:16:12.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
+      "guid": "08198ffc-7873-4401-abf4-5aba293ffbae",
+      "titleHi": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+      "excerptHi": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
+      "archived": true
+    },
+    {
+      "id": "595d94be32eeaa7fbb55e87a18d4b29082e4a075",
+      "slug": "reform-suspends-councillor-ahead-of-court-case-595d94",
+      "title": "Reform suspends councillor ahead of court case",
+      "excerpt": "Glenn Gibbins, from Sunderland, is facing a court case over the post about the Nigerian population.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e55/live/b0088e20-3d64-11f0-b95e-89f9465859a0.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:12:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r05r8x057o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c3r05r8x057o#1",
+      "titleHi": "Reform suspends councillor ahead of court case",
+      "excerptHi": "Glenn Gibbins, from Sunderland, is facing a court case over the post about the Nigerian population.",
+      "archived": true
+    },
+    {
+      "id": "8182277a8d6fd82a4136ceceb9479fe60d024fc0",
+      "slug": "lgs-65-inch-b6-oled-is-300-lower-than-its-previous-best-pric-818227",
+      "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+      "excerpt": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lgb6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:08:38.000Z",
+      "sourceUrl": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+      "guid": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+      "titleHi": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+      "excerptHi": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper…",
+      "archived": true
+    },
+    {
+      "id": "a1a3f0c4c10437ea65d97d9d56607217bfc126dc",
+      "slug": "landslide-at-unlicensed-colombian-gold-mine-kills-13-a1a3f0",
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "excerpt": "Four members of an indigenous family are among the dead, witnesses said.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T15:07:57.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo#1",
+      "titleHi": "Landslide at unlicensed Colombian gold mine kills 13",
+      "excerptHi": "Four members of an indigenous family are among the dead, witnesses said.",
+      "archived": true
+    },
+    {
+      "id": "9f084ba94b5a60b5108355b034f8ab8ec432ade2",
+      "slug": "arteta-demands-desire-and-ambition-for-title-defence-and-say-9f084b",
+      "title": "Arteta demands ‘desire and ambition’ for title defence and says Lewis-Skelly will stay",
+      "excerpt": "‘We start from scratch,’ says Arsenal manager Champions begin defence against Coventry on Friday Mikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ed Aarons",
+      "image": "https://i.guim.co.uk/img/media/78d0950938743168afc1898584193627964c2aa2/431_0_2376_1901/master/2376.jpg?width=140&quality=85&auto=format&fit=max&s=5b008db8162a55491723dadf702cbf5a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:05:09.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal",
+      "titleHi": "Arteta demands ‘desire and ambition’ for title defence and says Lewis-Skelly will stay",
+      "excerptHi": "‘We start from scratch,’ says Arsenal manager Champions begin defence against Coventry on Friday Mikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the…",
+      "archived": true
+    },
+    {
+      "id": "848754e91904968b619419449331774f7fa4abf5",
+      "slug": "crypto-for-advisors-what-are-tokenized-deposits-848754",
+      "title": "Crypto for Advisors: What are tokenized deposits?",
+      "excerpt": "Banks are moving deposits on-chain using permissioned systems, not open ones. See why privacy and compliance dictate this path in this week's newsletter.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Laurie Rosini",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6110a57bc1a40169f4bf82185c3be28bc20151d3-3504x2568.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:01:40.000Z",
+      "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+      "guid": "be86eae6-3a5c-4fb1-a61e-d1a70396b1b8",
+      "titleHi": "Crypto for Advisors: What are tokenized deposits?",
+      "excerptHi": "Banks are moving deposits on-chain using permissioned systems, not open ones. See why privacy and compliance dictate this path in this week's newsletter.",
+      "archived": true
+    },
+    {
+      "id": "0ec5468f83c9131c57fe93f92541f63021c8a69c",
+      "slug": "sydney-air-traffic-controllers-have-grave-concerns-about-col-0ec546",
+      "title": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
+      "excerpt": "Exclusive: Federal government notified after whistleblower says controllers have ‘minimal confidence in their ability to handle’ rule changes related to second airport Get our breaking news email, free app or daily news…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Tom McIlroy Political editor",
+      "image": "https://i.guim.co.uk/img/media/fa6b0d51dfc2fc1b643964c65b9f814ed369ec84/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=52083152b38e882ee6be02ae93e96cd4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T15:00:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/21/air-traffic-controllers-safety-risk-fears-sydney-airport",
+      "titleHi": "Sydney air traffic controllers have ‘grave concerns’ about collision risk after airspace redesign",
+      "excerptHi": "Exclusive: Federal government notified after whistleblower says controllers have ‘minimal confidence in their ability to handle’ rule changes related to second airport Get our breaking news email, free app or daily news…",
+      "archived": true
+    },
+    {
+      "id": "facdaadbc278c2781e300b5de9641452b64cdda9",
+      "slug": "amazon8217s-drone-deliveries-are-landing-in-pools-and-ponds-facdaa",
+      "title": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+      "excerpt": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/amazon-pool-drone.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:59:21.000Z",
+      "sourceUrl": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+      "guid": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
+      "titleHi": "Amazon&#8217;s drone deliveries are landing in pools and ponds",
+      "excerptHi": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon…",
+      "archived": true
+    },
+    {
+      "id": "32bd220e007e48f041f7ecf31e898fc5d8f8b348",
+      "slug": "flash-flooding-risk-as-heavy-rain-hits-uk-32bd22",
+      "title": "Flash flooding risk as heavy rain hits UK",
+      "excerpt": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
+      "category": "Science",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a550/live/0ac757a0-9ca1-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T14:54:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o#0",
+      "titleHi": "Flash flooding risk as heavy rain hits UK",
+      "excerptHi": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
+      "archived": true
+    },
+    {
+      "id": "d5e299448904455cb259feb61ee3c824c9aad203",
+      "slug": "chelsea-happy-with-fernandez-says-alonso-d5e299",
+      "title": "Chelsea happy with Fernandez, says Alonso",
+      "excerpt": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6078/live/eb6ec620-9c9d-11f1-a5a0-114ca9d4a1bc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:39:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o#1",
+      "titleHi": "Chelsea happy with Fernandez, says Alonso",
+      "excerptHi": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues.",
+      "archived": true
+    },
+    {
+      "id": "664131bbfa89cc0bd4b3f9aad10c60d223ebef89",
+      "slug": "cancelo-makes-dream-barca-move-after-al-hilal-exit-664131",
+      "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
+      "excerpt": "Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c52/live/367bd970-9ca1-11f1-a5a0-114ca9d4a1bc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T14:39:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo#7",
+      "titleHi": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
+      "excerptHi": "Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated.",
+      "archived": true
+    },
+    {
+      "id": "34f77d4f1c8d3debac6bfc83c41d038c24a2e9da",
+      "slug": "robot-building-and-essien-yirenkyis-circuitous-path-to-premi-34f77d",
+      "title": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
+      "excerpt": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Fisher",
+      "image": "https://i.guim.co.uk/img/media/a3b5163fe69381e1119af7dc01ed1fcd181194a0/516_0_3883_3107/master/3883.jpg?width=140&quality=85&auto=format&fit=max&s=1e0b8b9e961a5fa98dd67e50ee1f76bb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:29:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
+      "guid": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark",
+      "titleHi": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
+      "excerptHi": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splash It is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the German border, at…",
+      "archived": true
+    },
     {
       "id": "98625d6cb17fa6f665d8c48945279ab8be0bb71f",
       "slug": "reform-uk-proposes-tax-rebates-for-firms-to-boost-apprentice-98625d",
@@ -23,7 +1658,27 @@
       "guid": "https://www.bbc.co.uk/news/articles/c86nz8n960go#0",
       "titleHi": "सुधार ब्रिटेन ने शिक्षुता को बढ़ावा देने के लिए फर्मों के लिए कर छूट का प्रस्ताव रखा",
       "excerptHi": "सुएला ब्रेवरमैन ने छात्र को \"महान विश्वविद्यालय घोटाले से न फंसने\" की भी सलाह दी।",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "f9173e963ea53d725c064a8c0c7c0def406df31f",
+      "slug": "i-need-to-think-like-a-ceo-weezer-on-the-shifting-sands-of-s-f9173e",
+      "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
+      "excerpt": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativity The first song Rivers Cuomo wrote for…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Stevie Chick",
+      "image": "https://i.guim.co.uk/img/media/87fc2d187f8d71b39dacad7f447b5260fa8619f7/0_0_1938_1550/master/1938.jpg?width=140&quality=85&auto=format&fit=max&s=d32fe9be272b4557c09ce9fe2324ba0e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:16:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
+      "guid": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
+      "titleHi": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
+      "excerptHi": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativity The first song Rivers Cuomo wrote for…",
+      "archived": true
     },
     {
       "id": "498d4004e5122d9d26bef47fab70690767f356d2",
@@ -43,7 +1698,27 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/20/lewes-rail-line-reopen-september-work-under-way-remove-train",
       "titleHi": "लेविस रेल लाइन सितंबर में फिर से खुल जाएगी क्योंकि ट्रेन को हटाने का काम चल रहा है",
       "excerptHi": "‘बहुत चुनौतीपूर्ण परिस्थितियों‘ में काम करने वाले श्रमिकों के रूप में दो क्रेन का उपयोग करके पटरी से उतरने वाली गाड़ियां उठाई गईं व्यापार लाइव – नवीनतम अपडेट ईस्ट ससेक्स रेलवे लाइन जिस पर पटरी से उतरने वाली ट्रेन सितंबर में फिर से खुल जाएगी...",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "41b899dec9f4753fba74088e23d1aafdb62fd53a",
+      "slug": "tesla-robotaxis-appear-to-go-fully-unsupervised-in-austin-ah-41b899",
+      "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "excerpt": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:09:31.000Z",
+      "sourceUrl": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "guid": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "titleHi": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "excerptHi": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all…",
+      "archived": true
     },
     {
       "id": "652e49e993b34154f2a228eb051dcb0a6fa77f9f",
@@ -63,7 +1738,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do#16",
       "titleHi": "बीबीसी पर प्रीमियर लीग के शुरुआती सप्ताहांत का पालन कैसे करें",
       "excerptHi": "हमारी आस्क मी एनीथिंग टीम बताती है कि इस सप्ताहांत बीबीसी पर प्रीमियर लीग सीज़न के शुरुआती मैचों का पालन कैसे करें।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a40a6718dfd934aec1ba147aebf84ee0ef8adf51",
@@ -86,7 +1761,7 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
       "titleHi": "ब्रिटेन के सिनेमाघर पाइरेसी के डर से मेटा स्मार्ट चश्मे पर प्रतिबंध लगाने पर विचार कर रहे हैं",
       "excerptHi": "ट्रेड बॉडी का कहना है कि ब्रिटेन भर में एआई - सक्षम प्रौद्योगिकी सिनेमा द्वारा प्रदान किए गए संभावित लाभों के साथ स्थानीय चेन को चिंताओं को संतुलित करना होगा, डर के बीच ग्राहकों को मेटा के स्मार्ट चश्मा पहनने से प्रतिबंधित करने पर विचार कर रहे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3261bf9d28c209077b678e0bede8627078d2a3ef",
@@ -106,7 +1781,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/c86nz85q89lo#0",
       "titleHi": "एक महीने या चार साल? किर्गिओस प्रतिबंध में समय की कुंजी",
       "excerptHi": "कोकीन के लिए सकारात्मक परीक्षण के लिए निक किर्गियोस के सामने आने वाले प्रतिबंध की गंभीरता इस बात पर निर्भर करती है कि क्या वह यह साबित कर सकता है कि उसने दवा को प्रतिस्पर्धा से बाहर ले लिया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "02ce79153716e78a278d7b924feb6ec59f6baf53",
@@ -126,7 +1801,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/20/trump-oil-drilling-world-heritage-site-new-mexico",
       "titleHi": "अमेरिकी विश्व धरोहर स्थल के पास ड्रिलिंग की अनुमति देने की ट्रम्प की योजना ने अलार्म को उकसाया",
       "excerptHi": "न्यू मैक्सिको साइट के आसपास ड्रिलिंग - फ्री बफर ज़ोन को स्क्रैप करने की प्रशासन की योजना यूनेस्को से जांच का संकेत देती है पूरे अमेरिका में तेल और गैस निष्कर्षण का विस्तार करने के लिए ट्रम्प प्रशासन का धक्का ड्रिलिंग के करीब लाने के लिए तैयार है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6e77d1c633298516c3180be94d5ea4914c67f561",
@@ -148,7 +1823,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
       "titleHi": "‘यह जोड़ता रहा ': कैसे ऐड - ऑन यूटिलिटी शुल्क किरायेदारों के लिए बेदखली का कारण बन सकता है",
       "excerptHi": "किरायेदारों को उपयोगिताओं का भुगतान नहीं करने के लिए बेदखल किया जा सकता है, भले ही उन्होंने किराए का भुगतान किया हो – किरायेदार और उनके सहयोगी वापस लड़ रहे हैं यह कहानी पत्रकारिता गैर - लाभकारी आर्थिक कठिनाई द्वारा समर्थित और सह - प्रकाशित की गई थी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ce6324003b5ae221857a01fabfac3bc4f8eb82ee",
@@ -170,7 +1845,27 @@
       "guid": "https://www.theguardian.com/politics/audio/2026/aug/20/i-worry-about-our-daughters-bridget-phillipson-on-online-misogyny-podcast",
       "titleHi": "‘मुझे हमारी बेटियों की चिंता है ': ब्रिजेट फिलिप्सन ऑनलाइन मिसोग्यनी – पॉडकास्ट पर",
       "excerptHi": "लेबर के ब्रिजेट फिलिप्सन का कहना है कि दक्षिणपंथी राजनीति और सोशल मीडिया के ‘सेसपिट’ के परिणामस्वरूप नस्लवाद और दुर्व्यवहार सामान्य हो रहे हैं। एक विस्तारित साक्षात्कार में, महिला और समानता मंत्री और नए…",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "4a189e4d9a0b86fcf988afa4246dc6927a47c2c2",
+      "slug": "heres-what-data-comcast-says-its-motion-detecting-routers-co-4a189e",
+      "title": "Here’s what data Comcast says its motion-detecting routers collect",
+      "excerpt": "Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/XFN_Lifestyle_DEC25_011_RAYS_LR_260320.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:00:22.000Z",
+      "sourceUrl": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "guid": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "titleHi": "Here’s what data Comcast says its motion-detecting routers collect",
+      "excerptHi": "Wi-Fi Motion is an opt-in service from Xfinity that turns your Gateway into a motion-sensing device. | Image: Comcast Comcast announced a new platform this week called Xfinity Shield that includes the option to let…",
+      "archived": true
     },
     {
       "id": "fdc9613b2945eda4e21cf064886b3ed02c50640a",
@@ -192,7 +1887,27 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
       "titleHi": "समानता मंत्री का कहना है कि ब्रिटेन में नस्लवाद और लिंगवाद सामान्य हो गया है",
       "excerptHi": "एक्सक्लूसिव: ब्रिजेट फिलिप्सन का कहना है कि राजनेताओं ने नफरत को बढ़ावा देने में मदद की है और पुलिस महिलाओं और लड़कियों के खिलाफ हिंसा को गंभीरता से नहीं ले रही है – नवीनतम अपडेट नस्लवाद और लिंगवाद बन गए हैं...",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "2718bac62585c086f914fc14f849932ef098847f",
+      "slug": "fromsoftware-can-do-anything-2718ba",
+      "title": "FromSoftware can do anything",
+      "excerpt": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_12.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+      "guid": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+      "titleHi": "FromSoftware can do anything",
+      "excerptHi": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters…",
+      "archived": true
     },
     {
       "id": "78899dc6addcb04e1df3f5e90bbf4d540cbae5e4",
@@ -212,7 +1927,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/ce8kl806evxo#0",
       "titleHi": "लकड़ी 'शर्म' के साथ एशेज के प्रदर्शन को देखती है",
       "excerptHi": "तेज गेंदबाज मार्क वुड का कहना है कि वह इंग्लैंड के निराशाजनक एशेज अभियान में अपने प्रदर्शन को \"शर्म की बात\" के साथ देखते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2e8de2b57d1c8675c5704975192f06bc2c9e69ce",
@@ -232,7 +1947,7 @@
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/c0qvkj40zk4o#0",
       "titleHi": "बदलती टीमों की तुलना में रिटायर होने के करीब - वर्स्टापेन रेड बुल में क्यों रुके",
       "excerptHi": "2030 तक रेड बुल के साथ अनुबंध विस्तार पर हस्ताक्षर करने के बाद, मैक्स वर्स्टापेन का कहना है कि वह \"टीमों को बदलने\" की तुलना में \"एफ 1 से सेवानिवृत्त होने के करीब\" थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f9a70f3dabad3d606b984d0f4bbd77ddf4954c29",
@@ -252,7 +1967,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/west-ham-condemn-offensive-divisive-chant-about-israel-winger-manor-solomon",
       "titleHi": "वेस्ट हैम इज़राइल विंगर मनोर सोलोमन के बारे में ‘आक्रामक और विभाजनकारी’ नारे की निंदा करता है",
       "excerptHi": "क्लब प्रशंसकों से आग्रह करता है कि वे बर्नले वेस्ट हैम में खेल के दौरान ’फिलिस्तीन विरोधी संदेश’ के साथ नारे लगाएं, \"एक आक्रामक और विभाजनकारी नारे\" की निंदा की है और प्रशंसकों से आग्रह किया है कि वे अपने पहले मैच में इसे न गाएं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e358e4485529c35fc50f13fbe539324dd1850695",
@@ -274,7 +1989,7 @@
       "guid": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high",
       "titleHi": "MiCA यूरोप में USDT पर शिकंजा कसता है... लेकिन किसी और को परवाह नहीं है",
       "excerptHi": "USDT विनियमित यूरोपीय प्लेटफार्मों से गायब हो रहा है, लेकिन इस बात के बहुत कम संकेत हैं कि इसके परिणामस्वरूप Tether की वैश्विक मांग कमजोर हुई है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d80a512cfdbddb199e28c61d620eb73242b0a870",
@@ -294,7 +2009,7 @@
       "guid": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility",
       "titleHi": "Bitdeer ने मलेशिया सुविधा के लिए $ 400M AI क्लाउड कंप्यूटिंग सौदे पर हस्ताक्षर किए",
       "excerptHi": "Bitdeer को उम्मीद है कि पांच साल के समझौते से राजस्व 2027 की शुरुआत में शुरू होगा क्योंकि यह 2028 तक 350 मेगावाट AI क्लाउड क्षमता की ओर बढ़ता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "11ba0ca93d9c2cb7f44899a41f9dca2aa84e713d",
@@ -314,7 +2029,7 @@
       "guid": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
       "titleHi": "टोक्यो जाने वाली एक्सप्रेस ट्रेन ने जापान में रेलवे स्टेशन पर चार श्रमिकों को टक्कर मार दी और उनकी मौत हो गई",
       "excerptHi": "रेलवे अधिकारियों ने कहा कि यह स्पष्ट नहीं है कि जब ट्रेन आ रही थी तो श्रमिक साइट से क्यों नहीं निकले, या लुकआउट लोग क्या कर रहे थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d68f809b2fc855ce4840e0658565f6a38d16b49c",
@@ -334,7 +2049,7 @@
       "guid": "https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update",
       "titleHi": "नासा ने स्विफ्ट टेलीस्कोप को बचाने की कोशिश करना छोड़ दिया",
       "excerptHi": "नासा के स्विफ्ट वेधशाला उपग्रह को पृथ्वी के वायुमंडल में गिरने से बचाने की योजनाएं पानी में मृत प्रतीत होती हैं। एजेंसी और कैटलिस्ट स्पेस ने कल घोषणा की कि लिंक अंतरिक्ष यान अब कब्जा नहीं करेगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1acfe0c022038fa8ea8c9bbd5062173143d39b2d",
@@ -354,7 +2069,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
       "titleHi": "जर्मन नव - नाजी को यहूदी रिटायरमेंट होम में घातक 1970 की आग लगने का संदेह",
       "excerptHi": "जांचकर्ताओं का मानना है कि उन्होंने एक आगजनीकर्ता की पहचान की है जिसने 1970 में म्यूनिख में एक यहूदी सामुदायिक केंद्र पर हमला किया था, जिसमें सात लोग मारे गए थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "50345257e871365104448921753040821e6c8f39",
@@ -376,7 +2091,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/20/california-avenal-council-election-recall-crisis",
       "titleHi": "कैलिफ़ोर्निया के इस शहर ने अपने नेताओं को हटा दिया – अगर वे जाने से मना करते हैं तो क्या होगा?",
       "excerptHi": "Avenal एक रिकॉल चुनाव के परिणामों को स्वीकार करने से परिषद के इनकार से हिल गया है – और नतीजे सेंट्रल वैली से बहुत दूर तक फैले हुए हैं बाहर से, Avenal शहर हर बिट को मूर्त रूप देता प्रतीत होता है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bc495cc43ffb7aa60759f4aa884ca16232a3c0cd",
@@ -396,7 +2111,7 @@
       "guid": "https://www.theguardian.com/music/2026/aug/20/amy-lee-of-evanescence-i-could-happily-do-an-entire-album-of-nothing-but-portishead-covers",
       "titleHi": "Evanescence के एमी ली: ‘मैं खुशी से कुछ भी नहीं बल्कि Portishead कवर का एक पूरा एल्बम कर सकता था’",
       "excerptHi": "जैसे ही उसका बैंड सड़क पर उतरता है, मेटल ट्रेलब्लेज़र शो व्यवसाय में कामुकता पर आपके सवालों के जवाब देता है, सपनों में प्रेरणा पाता है और दौरे पर स्पाइनल टैप मोमेंट्स आपने लिखा था मुझे जीवन में लाओ जब आप 19 साल के थे। जब...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "50a0af2bf6020999dc20bcfe01411506969db875",
@@ -416,7 +2131,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/20/novak-djokovic-wolf-in-winter-documentary-jason-hehir-interview",
       "titleHi": "‘तुम मुझे रिटायर क्यों करना चाहते हो? ': नोवाक जोकोविच अभी भी संदेह से प्रेरित हैं",
       "excerptHi": "गुरुवार को एक खुलासा करने वाली प्राइम वीडियो डॉक्यूमेंट्री में हठ, बचपन के निशान और घेराबंदी की मानसिकता की पड़ताल की गई है, जो अभी भी नोवाक जोकोविच को 39 साल की उम्र में चला रहा है। यह पल सोच - समझकर किए गए प्राइम में लगभग 20 मिनट आता है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "01b7c332f16fbbf2fb127576212dfe8de128a83d",
@@ -436,7 +2151,7 @@
       "guid": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
       "titleHi": "मैंने DJI का प्रतिबंधित कैमरा खरीदा — यह सस्ता और आसान था",
       "excerptHi": "एक बच्चे के रूप में, मैंने हमेशा कल्पना की थी कि \"काला बाजार\" फिल्मों की तरह होगा: छायादार विक्रेता धूल भरी सड़कों पर अवैध सामान ढो रहे हैं। लेकिन अगर आप अमेरिका में प्रतिबंधित DJI Osmo Pocket 4 या Pocket 4 Pro कैमरा चाहते हैं, तो आप बस…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "25840e9000fe486ddab7204d07950b7f0ad68434",
@@ -458,7 +2173,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
       "titleHi": "बर्नहम का कहना है कि यूके रिटर्न पर हैरी और मेगन की सुरक्षा फंडिंग निजी मामला है",
       "excerptHi": "प्रधान मंत्री दंपति को अमेरिका से लंदन के बाहर एक गैर - शाही निवास में वापस जाने के लिए शुभकामनाएं देते हैं • हैरी और मेगन: अमेरिका द्वारा ड्यूक और डचेस के लिए सुरक्षा निधि स्थानांतरित करने के बाद से महत्वपूर्ण क्षण और विवाद...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "20732bf2a8af37cbeaa078178c6d9ffa60d5d1e4",
@@ -478,7 +2193,7 @@
       "guid": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
       "titleHi": "सर्बिया की सावा नदी पर सूखे से WWII के लंबे समय से खोए हुए जहाज़ के मलबे का पता चलता है",
       "excerptHi": "सर्बिया ने लंबे समय तक गर्मी और सूखे के कारण पानी का स्तर असाधारण रूप से कम होने के बाद, Sremska Mitrovica के पास सावा नदी से एक सदी पुराने भाप टग के अवशेषों को देखा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d953da42e43dffbe42b86e567a7c2cd333782473",
@@ -498,7 +2213,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o#0",
       "titleHi": "कोने की अराजकता को खत्म करने के लिए प्रीमियर लीग की नई योजना",
       "excerptHi": "पकड़ना, धक्का देना, धकेलना, झटके लगाना और जूझना। यह पिछले सीज़न में प्रीमियर लीग में एक महामारी बन गया था - यहाँ इसे ठीक करने के लिए क्या किया जा रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9d55adaf3055208642a9e9d44d9cb26ac443d722",
@@ -520,7 +2235,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/20/tice-defends-suspension-reform-uk-activist-farage-criticism",
       "titleHi": "TICE ने Farage की आलोचना को लेकर Reform UK के कार्यकर्ता के निलंबन का बचाव किया",
       "excerptHi": "पार्टी के उप नेता टिप्पणी करते हैं क्योंकि उन्होंने अधिक शिक्षुता यूके राजनीति को सब्सिडी देने के लिए नई नीति का अनावरण किया – नवीनतम अपडेट सुधार यूके के उप नेता ने पार्टी के एक वरिष्ठ कार्यकर्ता के निलंबन का बचाव किया है जो …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7189ac43c1b9cf6d9b3012ae4dd14ff47cdfe382",
@@ -542,7 +2257,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
       "titleHi": "पीएसजी का लीग 1 घरेलू सलामी बल्लेबाज गर्मी से पिच क्षतिग्रस्त होने के बाद रेनस में स्थानांतरित हो गया",
       "excerptHi": "रेनस के खिलाफ रविवार का मैच शॉर्ट नोटिस पर स्विच किया गया Parc des Princes सतह 'खिलाड़ियों की सुरक्षा‘ के लिए खतरा है पेरिस सेंट - जर्मेन के लीग 1 सलामी बल्लेबाज रेनस के खिलाफ कम नोटिस पर स्थानांतरित कर दिया गया है, क्षति के कारण...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9d0af0eb057a1fc5658c35b1ad32b9cee50f4cfd",
@@ -564,7 +2279,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/20/boohoo-fined-by-french-watchdog-deceptive-discounts",
       "titleHi": "भ्रामक छूट पर फ़्रेंच वॉचडॉग ने बूहू पर € 2.3 मिलियन का जुर्माना लगाया",
       "excerptHi": "फ़ैशन साइट ने सिंथेटिक उत्पादों के लिए ‘चमड़े‘ या ‘साबर’ शब्दों का उपयोग करके लेबलिंग के नियमों को भी तोड़ दिया ब्रिटिश ऑनलाइन फ़ैशन विक्रेता बूहू पर फ़्रांस के उपभोक्ता प्रहरी द्वारा € 2.3m (£ 2m) का जुर्माना लगाया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "854cfb2dfbed335117900755ce1d5051e6e0a34b",
@@ -586,7 +2301,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o#1",
       "titleHi": "असद अधिकारी को पहली बार युद्ध अपराधों के आरोप में सीरिया प्रत्यर्पित किया गया",
       "excerptHi": "लेबनान ने पूर्व जनरल आदेल इस्सा को सौंप दिया, क्योंकि सीरिया पूर्व शासन के वांछित सदस्यों का पीछा कर रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e3e8ceceb9571ad748df2c288d48469e9b719060",
@@ -606,7 +2321,7 @@
       "guid": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
       "titleHi": "साइबर सुरक्षा फर्म ने 885,000 फ़ोन नंबरों को लक्षित करते हुए क्रिप्टो फ़िशिंग अभियान का अनावरण किया",
       "excerptHi": "Rapid7 ने 885,000 फ़ोन नंबरों को लक्षित करते हुए एक नए क्रिप्टोक्यूरेंसी फ़िशिंग अभियान का अनावरण किया, जिसका उद्देश्य निवेशकों की होल्डिंग्स को फर्जी वॉलेट प्रदाता वेबसाइटों पर रीडायरेक्ट करके चोरी करना है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e675145349ddbbdc0201957a49d506ecc77662ee",
@@ -628,7 +2343,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians",
       "titleHi": "इज़राइल के बेन - गवीर ने फिलीस्तीनियों को फांसी देने के लिए फांसी की जगह का वीडियो पोस्ट किया",
       "excerptHi": "सुदूर - दक्षिणपंथी मंत्री का कहना है कि आतंकवादी अपराधों की सैन्य अदालतों में दोषी ठहराए गए लोगों को मृत्युदंड कानून पारित करने के बाद निष्पादित किया जाएगा जो यहूदी चरमपंथियों इज़राइल के दूर - दराज़ राष्ट्रीय सुरक्षा मंत्री पर लागू नहीं होता है,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "21ba2ede341621230d466d3c5152445dc904c7cf",
@@ -650,7 +2365,7 @@
       "guid": "https://www.theguardian.com/science/video/2026/aug/20/its-finally-raining-but-the-droughts-not-over",
       "titleHi": "आखिरकार बारिश हो रही है, लेकिन सूखा खत्म नहीं हुआ है",
       "excerptHi": "इंग्लैंड और वेल्स को रिकॉर्ड शुरू होने के बाद से सबसे शुष्क जुलाई का अनुभव करने वाली गर्मियों के बाद, बारिश अंततः क्षितिज पर है। लेकिन ‘असाधारण रूप से कम‘ स्तर पर जलाशयों के साथ, क्या फिर से भरने के लिए पर्याप्त बारिश होगी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "186057e22fbd8ac8c47afd128e71357cdbdbd2ba",
@@ -673,7 +2388,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/20/icac-nsw-liberal-party-petinos-perrottet-building-commissioner-ntwnfb",
       "titleHi": "‘आपको जाना है ': पूर्व एनएसडब्ल्यू मंत्री ने आईसीएसी को‘ खेलने में कुछ अजीब ’बताया जब उसे पेरोटेट ने बर्खास्त कर दिया",
       "excerptHi": "एलेनी पेटिनो ने डोमिनिक पेरोटेट की सरकार में एक मंत्री के रूप में अपनी बर्खास्तगी की जांच को बताया कि बिल्डिंग कमिश्नर से छुटकारा पाने के लिए उनकी अनिच्छा से संभावित रूप से प्रेरित था। हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "46ce6a151448c3fc839d4b2e946bf604cc51b823",
@@ -695,7 +2410,7 @@
       "guid": "https://www.theguardian.com/books/2026/aug/20/holiday-charles-dickens-exhibition",
       "titleHi": "‘सभी पानी देने की जगहें गर्म लोगों से भरी हुई हैं ': डिकेंस के साथ छुट्टियों पर",
       "excerptHi": "लंदन में चार्ल्स डिकेंस संग्रहालय में प्रदर्शनी लेखक की छुट्टियों की गतिविधियों को देखती है, केंट से लेकर आइल ऑफ वाइट तक शहर में गर्मी है, पब में भीड़ है, और तट के संकेत हैं। एक साल में जो अब तक लाया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3be85d3a3d3bb407a63cd8b645f32023a3b945fa",
@@ -715,7 +2430,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/20/there-is-nothing-scientific-about-the-great-adhd-myth-documentary",
       "titleHi": "द ग्रेट एडीएचडी मिथक के बारे में कुछ भी वैज्ञानिक नहीं है? ‘डॉक्यूमेंट्री’ | जीना रिप्पन",
       "excerptHi": "चैनल 4 का कार्यक्रम एडीएचडी का निदान और उपचार कैसे किया जाता है, इसके बारे में महत्वपूर्ण प्रश्न पूछने का मौका बर्बाद करता है, इसके बजाय अवैज्ञानिक तरीकों और षड्यंत्र सिद्धांतों में लिप्त प्रोफेसर जीना रिप्पन…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6f9ad7bd7ba348eeb888391e4009d0b095d32c15",
@@ -735,7 +2450,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo#0",
       "titleHi": "हैरी और मेगन की सुरक्षा व्यवस्था एक निजी मामला है, प्रधानमंत्री कहते हैं",
       "excerptHi": "एंडी बर्नहम ने ड्यूक और डचेस ऑफ ससेक्स को \"उनके द्वारा उठाए जा रहे कदम\" के लिए शुभकामनाएं दी हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2467a7d0cc96f4f5d3acdafed8a5576858bd4e7b",
@@ -755,7 +2470,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/20/england-pakistan-cricket-sam-curran-injury",
       "titleHi": "सैम कुरेन की इंग्लैंड टेस्ट वापसी की उम्मीदें सीजन के अंत में कमर की चोट से टूट गईं",
       "excerptHi": "ऑलराउंडर को सुझाव दिया गया था क्योंकि स्टोक्स की जगह शुक्रवार को कर्रन की सर्जरी होगी सैम कर्रन के लिए संभावित टेस्ट वापसी रोक दी गई है, क्योंकि ऑलराउंडर इंग्लैंड की बाकी गर्मियों से बाहर हो गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2b849e5b058172b9d05fa2ce90fbeee62220d0f9",
@@ -775,7 +2490,7 @@
       "guid": "https://www.theguardian.com/film/2026/aug/20/best-summer-holiday-movies-ranked-seasonal-romance",
       "titleHi": "धुंधली धूप, फैक्टर -50 मुस्कुराहट और क्लिफ रिचर्ड पहिया पर: गर्मियों की छुट्टियों की 20 सर्वश्रेष्ठ फिल्में – रैंक!",
       "excerptHi": "फीलगूड रोमांस से लेकर हॉट इंटरैक्शन तक, यहाँ मौसमी पल को सबसे अच्छी तरह से कैप्चर करने वाली फिल्में दी गई हैं आइए अंत में शुरू करते हैं। 2 सितंबर 1962: गर्मियों की छुट्टियों की आखिरी रात; वयस्क होने से पहले एक आखिरी बड़ा झटका …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5c8dcee25dca1a0b010534e20e9b25e09f3199f3",
@@ -795,7 +2510,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqjxn547vgpo#3",
       "titleHi": "हज़ारों लोगों ने स्कूल की लागत वापस करने में मदद की",
       "excerptHi": "सरकार का कहना है कि £ 310,000 से ज़्यादा राशि उन परिवारों की मदद करने के लिए दी गई है, जिनकी स्कूल की लागत वापस आ गई है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8308a3749b90cdad5b33f1c3e3e513fdb8c3ec4c",
@@ -815,7 +2530,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
       "titleHi": "चीन के एवरग्रांडे के संस्थापक को धोखाधड़ी का दोषी मानने के बाद आजीवन कारावास की सजा सुनाई गई",
       "excerptHi": "हुई का यान भी अपनी सभी निजी संपत्ति को जब्त कर लेता है और जिस कंपनी को उसने स्थापित किया है उसे भारी जुर्माना दिया जाता है व्यापार लाइव – नवीनतम अपडेट चीन के सबसे बड़े संपत्ति डेवलपर्स में से एक, एवरग्रांडे के संस्थापक को सजा सुनाई गई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e28f4ce6f3cc7ccc0ce46fa5a2349dc88835701c",
@@ -835,7 +2550,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul",
       "titleHi": "डबल - एलिमिनेशन, रिसीडिंग और 20 टीमें: एमएलएस प्लेऑफ के ओवरहाल की योजना बना रहा है",
       "excerptHi": "प्रारूप ऑस्ट्रेलियाई नियमों के समान होगा फुटबॉल लीग पांच - डिवीजन सेटअप के लिए सम्मेलनों को खो देगा मेजर लीग सॉकर अपने प्लेऑफ प्रारूप, एकाधिक लीग और क्लब के महत्वपूर्ण ओवरहाल की योजना बना रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "836a273010e73efe88961757b97839e0e56c6244",
@@ -855,7 +2570,7 @@
       "guid": "4f0946ac-e881-4ee0-a817-833d8c38551a",
       "titleHi": "आशावाद - वित्त पोषित टीम के निर्णायक वोट से $ 49 मिलियन OP टोकन यूज़र से दूर हो जाते हैं",
       "excerptHi": "अनुमोदित योजना उपयोगकर्ता एयरड्रॉप से 546.9 मिलियन ओपी को फाउंडेशन - नियंत्रित स्ट्रैटेजिक इकोसिस्टम फंड में पुन: आवंटित करती है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dbe33fa1cc3338cb7d4da4ed340b30c53dc87d6c",
@@ -875,7 +2590,7 @@
       "guid": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
       "titleHi": "मेटा ग्लास कार्यस्थल के लिए खतरा हैं",
       "excerptHi": "अगस्त में, टोरू हिंकल टारगेट में अपनी नौकरी पर अलमारियों का स्टॉक कर रहे थे जब उन्होंने दो ग्राहकों को देखा और पूछा कि क्या उन्हें किसी मदद की ज़रूरत है। पुरुषों ने एक आइटम पर मूल्य जांच का अनुरोध किया - लेकिन हिंकल ने उन्हें आइटम बताने के बाद भी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b5d48fb4832376fe639aefcae051685c75155999",
@@ -895,7 +2610,7 @@
       "guid": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "titleHi": "Slack सहयोगी वाइब - कोडिंग चैनल लॉन्च कर रहा है",
       "excerptHi": "Slack समर्पित चैनल पेश कर रहा है जहां टीमें विभिन्न टूल और बातचीत के बीच कूदने के बजाय AI एजेंटों के साथ मिलकर वाइब - कोड कर सकती हैं। स्लैक कोड लॉन्च में खुले, प्रोजेक्ट - विशिष्ट कोड चैनल शामिल हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4da81b66805eb95e6c8a4831d641433ac302e539",
@@ -915,7 +2630,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/cy4k33x1yw4o#0",
       "titleHi": "'मुझे लगता है कि मैं खुद को कैद कर रहा हूं' - जोकोविच ड्राइव और संदेह पर",
       "excerptHi": "नोवाक जोकोविच अपने स्वयं के सबसे बड़े संदेहकर्ता और बेलग्रेड बचपन के बारे में चर्चा करते हैं जिसने उन्हें एक नई वृत्तचित्र में आकार दिया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9f7f58d437b731577442cec9efed701fe1d8af4d",
@@ -938,7 +2653,7 @@
       "guid": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
       "titleHi": "‘रिपब्लिकन ने टैब चलाया ': डेमोक्रेट्स $ 40tn के राष्ट्रीय कर्ज़ से नाराज़ – LIVE",
       "excerptHi": "ट्रम्प और बिडेन के तहत खर्च बढ़ने के साथ पिछले एक दशक में अमेरिकी राष्ट्रीय घाटा दोगुना हो गया है अमेरिका का सकल राष्ट्रीय ऋण पहली बार $ 40tn से ऊपर है US Breaking News ईमेल के लिए साइन अप करें NBC के रविवार के तीसरे चरण के रूप में...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ed4744077595b4ded8cc6ac9614c07ae3683667e",
@@ -958,7 +2673,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/20/lake-como-italy-mayor-bans-bikes-city-centre-after-being-hit",
       "titleHi": "कोमो मेयर ने 'इन जानवरों में से एक से टकराने‘ के बाद शहर के केंद्र में बाइक पर प्रतिबंध लगा दिया",
       "excerptHi": "एलेसेंड्रो रैपिनीज़ ने सार्वजनिक विरोध के बीच साइकिल चालकों के खिलाफ व्यक्तिगत प्रतिशोध लेने से इनकार किया कोमो के मेयर ने बाइक पर प्रतिबंध लगाने के लिए विवाद के पहियों को गति दी है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ece80a5d1e3a84a6f389ac77480142742de07d7b",
@@ -980,7 +2695,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/crl7y671w8go#0",
       "titleHi": "डैनोन ने ह्यूएल का € 1 बिलियन का अधिग्रहण वॉचडॉग द्वारा अनुमोदित किया",
       "excerptHi": "फ्रांसीसी फर्म का कहना है कि ह्यूएल के अधिग्रहण से इसे पोषण क्षेत्र में बढ़ने में मदद मिलेगी।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "741240c1d7804530d9938df71bba3b892d09f9c0",
@@ -1002,7 +2717,7 @@
       "guid": "75c1624f-6b6b-41a3-9d53-d6ec675dfce0",
       "titleHi": "रिपल - लिंक्ड XRP 15% उछलता है क्योंकि डेटा 'बैंकर घंटे' ऑनचेन पैटर्न दिखाता है",
       "excerptHi": "लंदन की दोपहर और न्यूयॉर्क की सुबह में फैले तीन घंटे XRP का लगभग 23% हिस्सा ऑनचेन पर चलता है, जो एक साल पहले लगभग 14% था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "39c0e2ac109a35cc27f2fb7f99f591395a7a57a7",
@@ -1022,7 +2737,7 @@
       "guid": "956562aa-bbbd-493f-8faa-02b7fbdd99be",
       "titleHi": "फेड तरलता का वादा करता है, डॉलर की कमजोरी बिटकॉइन के अगले कदम को निर्धारित कर सकती है",
       "excerptHi": "20 अगस्त, 2026 के लिए आपका दिन - आगे का नज़ारा",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5abce6a759db44420aadda4b475318f799a66062",
@@ -1042,7 +2757,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/20/york-ebor-meeting-yorkshire-oaks-and-more-on-day-two-horse-racing-live",
       "titleHi": "यॉर्क एबोर मीटिंग: यॉर्कशायर ओक्स और दूसरे दिन और भी बहुत कुछ – हॉर्स रेसिंग लाइव",
       "excerptHi": "एबोर फेस्टिवल 2026 के दूसरे दिन, जब ग्रुप वन यॉर्कशायर ओक्स फ़िलियों के लिए और…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "df85e39bd43ec4c81fa5fe921c8dc38345ab0afb",
@@ -1062,7 +2777,7 @@
       "guid": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
       "titleHi": "मैंने मोशन - एक्टिवेटेड नियॉन लिटर बॉक्स साइन के साथ अपनी बिल्लियों के टॉयलेट का समय बर्बाद कर दिया",
       "excerptHi": "मेरी दो बिल्लियाँ ताज़ा कम तकनीक वाली जीवनशैली जीती हैं। उन्होंने कभी रोबोट लिटर बॉक्स, ऑटोमेटेड फीडर या जीपीएस ट्रैकर का अनुभव नहीं किया है। नूडल और लोफ तकनीकी ट्रैपिंग से अनजान रहते हैं जो...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "139031f2877c07e9ee516632bbddbd9f4208f079",
@@ -1082,7 +2797,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c171k9kd94zo#1",
       "titleHi": "दर्द पर जैसल जिसने उसे न्यूकैसल के रास्ते पर खड़ा कर दिया और होवे से बात करने लगा",
       "excerptHi": "न्यू न्यूकैसल यूनाइटेड के बॉस मैथियस जैसल का कहना है कि 25 साल की उम्र में चोट लगने से उनका खेलना बंद हो गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fed4b70bc3923c5968bf605d2f81f60a2b44ef7e",
@@ -1104,7 +2819,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0l5ddjyl5xo#0",
       "titleHi": "उत्तरी आयरलैंड के खेतों का मुनाफ़ा 2025 में £ 1 बिलियन से ऊपर पहुँच गया",
       "excerptHi": "2025 में समग्र प्रदर्शन गोमांस क्षेत्र के विकास से काफी प्रभावित था जिसमें कीमतों में रिकॉर्ड स्तर तक वृद्धि देखी गई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "16bc589e2cc6ef7adab4041e27f3a7dbd0b6adff",
@@ -1124,7 +2839,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cn8ndd8eklmo#3",
       "titleHi": "अवैध 'ड्रिप रेट' आपकी छुट्टियों के खर्च में हज़ारों की बढ़ोतरी कर सकता है",
       "excerptHi": "यूके के उपभोक्ता निगरानी संगठन ने ट्रेनलाइन, रेड ड्राइविंग स्कूल और वर्जिन हॉलिडेज की जांच शुरू कर दी है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8b41748f9463142a4655cdec19a41aa6760dda14",
@@ -1144,7 +2859,7 @@
       "guid": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may",
       "titleHi": "बिटकॉइन ईटीएफ ने मई की शुरुआत से सबसे बड़े एक दिवसीय प्रवाह में $ 517M आकर्षित किया",
       "excerptHi": "निवेशकों ने इस सप्ताह यूएस स्पॉट बिटकॉइन ईटीएफ में $ 1 बिलियन से अधिक का निवेश किया है क्योंकि बीटीसी $ 72,000 के करीब था और गुरुवार को ईथर 19% चढ़कर लगभग $ 2,286 पर पहुंच गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "02d50720162332c320aa883847fbb8f08fc88815",
@@ -1164,7 +2879,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/fans-petition-infantino-resignation-fifa-president",
       "titleHi": "‘उन्हें इस्तीफा देना चाहिए ': प्रशंसकों की याचिका में इन्फैंटिनो को फीफा अध्यक्ष पद छोड़ने की मांग की गई",
       "excerptHi": "प्रशंसकों का कहना है कि इन्फैंटिनो ने ‘नेतृत्व करने का अधिकार खो दिया है’ बयान में यह भी कहा गया है कि दुनिया भर के प्रशंसकों के समूहों ने फीफा के अध्यक्ष के रूप में जियानी इन्फैंटिनो के इस्तीफे और…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c4023eaec11b30b3d67635171da297b9b77db47e",
@@ -1184,7 +2899,7 @@
       "guid": "https://www.theguardian.com/music/2026/aug/20/lambchop-punching-the-clown-review",
       "titleHi": "Lambchop: Punching the Clown review – spectral, spellbindingly ambiguous stirring of US history",
       "excerptHi": "(City Slang) Sounding weathered but undimmed, Kurt Wagner feels as if he’s standing right in front of you as he sings superb, choir-swathed songs that invite and unsettle Thirty-two years on from their debut album – and…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c08fb1664075538a510700bd8782ef6f8f8655ae",
@@ -1204,7 +2919,7 @@
       "guid": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue",
       "titleHi": "क्रिप्टो ने Webull के रिकॉर्ड $ 198M Q2 राजस्व का लगभग 1% उत्पन्न किया",
       "excerptHi": "जबकि वेबुल ने दूसरी तिमाही के राजस्व में रिकॉर्ड $ 198 मिलियन की सूचना दी, क्रिप्टोक्यूरेंसी ट्रेडिंग ने तिमाही के राजस्व प्रवाह का केवल $ 2.25 मिलियन उत्पन्न किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4807a19cef6d2b7473d7a259f4e6ea7e660da742",
@@ -1226,7 +2941,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli",
       "titleHi": "क्या सीरी ए में एक प्रबंधकीय मेरी - गो - राउंड इंटर के प्रभुत्व को रोक सकता है?",
       "excerptHi": "मिलान, नापोली और अटलांटा सभी के पास नए हेड कोच हैं क्योंकि इतालवी फुटबॉल सुर्खियों में लौटने की उम्मीद करता है और इसलिए, कैल्शियो का \"तीसरा सर्वनाश\" बीत चुका है। बहुत से इटालियंस ने उम्मीद से अधिक विश्व कप का आनंद लिया।…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dfde3543e4ba3cec67eb38b5cd38c67294d5d3bd",
@@ -1246,7 +2961,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/20/premier-league-2026-27-preview-no-18-nottingham-forest",
       "titleHi": "प्रीमियर लीग 2026 -27 पूर्वावलोकन संख्या 18: नॉटिंघम फॉरेस्ट",
       "excerptHi": "चार अलग - अलग कोचों के तहत एक अराजक सीज़न के बाद, वन प्रशंसकों को उम्मीद होगी कि ओलिवर ग्लासनर कुछ स्थिरता ला सकते हैं गार्जियन लेखकों की अनुमानित स्थिति: 11 वीं (एनबी: यह जरूरी नहीं कि विल अनविन की भविष्यवाणी हो लेकिन...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "39e3172562a3d392fca117cb85fc0f462bf802ab",
