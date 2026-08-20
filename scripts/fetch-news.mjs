@@ -42,6 +42,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = resolve(__dirname, "../src/data");
 const CURRENT_PATH = resolve(DATA_DIR, "generated-news.json");
 const ARCHIVE_PATH = resolve(DATA_DIR, "archive.json");
+const LOCAL_PATH = resolve(DATA_DIR, "local-news.json");
 
 const CURRENT_ITEMS = 60; // newest items shown as "current" news
 const ARCHIVE_DAYS = 45; // retention window for the archive (repo's concept)
@@ -417,6 +418,21 @@ async function main() {
       { generatedAt: now, retentionDays: ARCHIVE_DAYS, total: all.length, items: all },
       null, 2
     ) + "\n"
+  );
+
+  // Location-aware homepage lead: the newest India + Europe stories from the
+  // full corpus, pre-computed here so the homepage shows local news WITHOUT
+  // importing the heavy archive.json into its bundle.
+  const INDIA_RE = /\b(india|indian|indians|delhi|mumbai|modi|rupee|bollywood|bengaluru|gujarat|kolkata|hyderabad)\b/i;
+  const indiaLocal = all
+    .filter((x) => INDIA_RE.test(`${x.title || ""} ${x.excerpt || ""}`))
+    .slice(0, 10);
+  const europeLocal = all
+    .filter((x) => (x.category || "").toLowerCase() === "europe")
+    .slice(0, 10);
+  writeFileSync(
+    LOCAL_PATH,
+    JSON.stringify({ generatedAt: now, india: indiaLocal, europe: europeLocal }, null, 2) + "\n"
   );
 
   const translated = current.filter((i) => i.titleHi !== i.title).length;

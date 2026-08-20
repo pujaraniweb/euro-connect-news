@@ -1,18 +1,21 @@
 import { Hero } from "@/components/hero";
 import { MarketStrip } from "@/components/market-strip";
 import { Feed } from "@/components/feed";
-import { articles } from "@/lib/mock-data";
+import { articles, fromGenerated, type GeneratedItem } from "@/lib/mock-data";
 import { detectRegion } from "@/lib/region";
-import { getCategoryArticles } from "@/lib/archive";
+import localNews from "@/data/local-news.json";
 
 export default async function HomePage() {
   const region = await detectRegion();
-  // First news block = the visitor's local category, pulled from the full corpus
-  // (current + archive) so there is always real India/Europe coverage to lead
-  // with, even when the current window has none.
-  const localSlug = region === "europe" ? "europe" : "india";
+  // First news block = the visitor's local category. These are pre-computed at
+  // generation time into a tiny local-news.json (top India + Europe stories from
+  // the full corpus), so the homepage always has real local coverage WITHOUT
+  // importing the heavy archive.json into the homepage bundle.
   const leadCategory = region === "europe" ? "Europe" : "India";
-  const leadArticles = getCategoryArticles(localSlug).slice(0, 8);
+  const pool = (
+    region === "europe" ? localNews.europe : localNews.india
+  ) as GeneratedItem[];
+  const leadArticles = pool.map((it, i) => fromGenerated(it, i));
 
   return (
     <>

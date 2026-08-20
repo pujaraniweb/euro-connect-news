@@ -54,8 +54,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain src/data/generated-news.json src/data/archive.json src/data/youtube.json)" ]]; then
-            git add src/data/generated-news.json src/data/archive.json src/data/youtube.json
+          if [[ -n "$(git status --porcelain src/data/generated-news.json src/data/archive.json src/data/local-news.json src/data/youtube.json)" ]]; then
+            git add src/data/generated-news.json src/data/archive.json src/data/local-news.json src/data/youtube.json
             # No "[skip ci]" here: this workflow runs on schedule/dispatch (not on
             # push), so there is no CI loop to avoid — and "[skip ci]" would make
             # the host (Vercel/Netlify/Cloudflare Pages) skip the deploy, leaving
