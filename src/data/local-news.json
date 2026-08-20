@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:23:07.086Z",
+  "generatedAt": "2026-08-20T20:17:58.318Z",
   "india": [
     {
       "id": "764872a1aa14f7b69a1cdbe8a478fa3e3bc38dca",
@@ -202,6 +202,28 @@
   ],
   "europe": [
     {
+      "id": "e28573af70a11c85948380aee907f99ccaf668d3",
+      "slug": "uk-france-germany-italy-and-canada-condemn-israels-west-bank-e28573",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "excerpt": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Sports"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T18:55:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c998evlgz8ko#0",
+      "titleHi": "ब्रिटेन, फ्रांस, जर्मनी, इटली और कनाडा ने इज़राइल की वेस्ट बैंक निपटान परियोजना की निंदा की",
+      "excerptHi": "यूरोपीय देशों और कनाडा ने कब्जे वाले वेस्ट बैंक के रणनीतिक रूप से महत्वपूर्ण हिस्से में बस्तियों का विस्तार करने की इजरायल की योजनाओं पर दबाव डाला।",
+      "archived": false
+    },
+    {
       "id": "8350642a799db6993d8fdf055bf18f5e7e42b33e",
       "slug": "biased-channel-4-programme-on-adhd-misrepresented-my-views-s-835064",
       "title": "‘Biased’ Channel 4 programme on ADHD misrepresented my views, says expert",
@@ -269,6 +291,46 @@
       "archived": false
     },
     {
+      "id": "f81478e5dd9ff094598c989c824ca6f6d50ffc30",
+      "slug": "new-us-carrier-strike-group-arrives-in-middle-east-to-reliev-f81478",
+      "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+      "excerpt": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:01:42.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+      "guid": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+      "titleHi": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+      "excerptHi": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
+      "archived": true
+    },
+    {
+      "id": "e7935180a438f683e6788527b9bf992ba7065cff",
+      "slug": "latest-news-bulletin-august-20th-2026-evening-e79351",
+      "title": "Latest news bulletin | August 20th, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-20T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+      "titleHi": "Latest news bulletin | August 20th, 2026 – Evening",
+      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "archived": true
+    },
+    {
       "id": "8f49a6d3db3b731ae66e03e92b7967e4fc2275e0",
       "slug": "togo-charges-two-french-journalists-over-incorrect-documents-8f49a6",
       "title": "Togo charges two French journalists over incorrect documents, rights group says",
@@ -286,7 +348,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo#1",
       "titleHi": "Togo charges two French journalists over incorrect documents, rights group says",
       "excerptHi": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e72641f35d91de2fdc4acf7367cd27c56949b396",
@@ -353,68 +415,6 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
       "titleHi": "समानता मंत्री का कहना है कि ब्रिटेन में नस्लवाद और लिंगवाद सामान्य हो गया है",
       "excerptHi": "एक्सक्लूसिव: ब्रिजेट फिलिप्सन का कहना है कि राजनेताओं ने नफरत को बढ़ावा देने में मदद की है और पुलिस महिलाओं और लड़कियों के खिलाफ हिंसा को गंभीरता से नहीं ले रही है – नवीनतम अपडेट नस्लवाद और लिंगवाद बन गए हैं...",
-      "archived": true
-    },
-    {
-      "id": "11ba0ca93d9c2cb7f44899a41f9dca2aa84e713d",
-      "slug": "tokyo-bound-express-train-hits-and-kills-four-workers-at-rai-11ba0c",
-      "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
-      "excerpt": "Railway officials said it was unclear why the workers did not leave the site when the train was approaching, or what the lookout people were doing.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T13:10:27.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
-      "guid": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
-      "titleHi": "टोक्यो जाने वाली एक्सप्रेस ट्रेन ने जापान में रेलवे स्टेशन पर चार श्रमिकों को टक्कर मार दी और उनकी मौत हो गई",
-      "excerptHi": "रेलवे अधिकारियों ने कहा कि यह स्पष्ट नहीं है कि जब ट्रेन आ रही थी तो श्रमिक साइट से क्यों नहीं निकले, या लुकआउट लोग क्या कर रहे थे।",
-      "archived": true
-    },
-    {
-      "id": "1acfe0c022038fa8ea8c9bbd5062173143d39b2d",
-      "slug": "german-neo-nazi-suspected-of-deadly-1970-fire-at-jewish-reti-1acfe0",
-      "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "excerpt": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cda/live/49f9c620-9c87-11f1-95d8-5b0dba89a322.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T13:04:15.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c3r055g23qdo#1",
-      "titleHi": "जर्मन नव - नाजी को यहूदी रिटायरमेंट होम में घातक 1970 की आग लगने का संदेह",
-      "excerptHi": "जांचकर्ताओं का मानना है कि उन्होंने एक आगजनीकर्ता की पहचान की है जिसने 1970 में म्यूनिख में एक यहूदी सामुदायिक केंद्र पर हमला किया था, जिसमें सात लोग मारे गए थे।",
-      "archived": true
-    },
-    {
-      "id": "25840e9000fe486ddab7204d07950b7f0ad68434",
-      "slug": "harry-and-meghans-security-funding-on-uk-return-is-private-m-25840e",
-      "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
-      "excerpt": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside London • Harry and Meghan: key moments and controversies since US move Security funding for the Duke and Duchess of…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Caroline Davies",
-      "image": "https://i.guim.co.uk/img/media/ac61bd01a3accbcd9ec84265406373ed866fc74e/488_0_4158_3326/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=c7ce185ab8b851fa7dd64ec334ae9edf",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T12:55:20.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-      "titleHi": "बर्नहम का कहना है कि यूके रिटर्न पर हैरी और मेगन की सुरक्षा फंडिंग निजी मामला है",
-      "excerptHi": "प्रधान मंत्री दंपति को अमेरिका से लंदन के बाहर एक गैर - शाही निवास में वापस जाने के लिए शुभकामनाएं देते हैं • हैरी और मेगन: अमेरिका द्वारा ड्यूक और डचेस के लिए सुरक्षा निधि स्थानांतरित करने के बाद से महत्वपूर्ण क्षण और विवाद...",
       "archived": true
     }
   ]
