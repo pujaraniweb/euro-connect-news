@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:40:09.165Z",
+  "generatedAt": "2026-08-21T20:14:27.349Z",
   "india": [
     {
       "id": "efeab125876015930e4ac9d04fb27e447360c5e1",
@@ -206,6 +206,26 @@
   ],
   "europe": [
     {
+      "id": "5f5c85db1877f910af0c562c2555b4487af17943",
+      "slug": "deselected-candidate-claims-lib-dems-religious-discriminatio-5f5c85",
+      "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
+      "excerpt": "David Campanale seeks damages after what he says was organised campaign against his faith in Sutton and Cheam How much is a career in politics worth? The Liberal Democrats, despite admitting claims of religious…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Aletha Adu Political correspondent",
+      "image": "https://i.guim.co.uk/img/media/f0c688ce93c8014f0af7e8b82e5543b454891968/441_309_2619_2095/master/2619.jpg?width=140&quality=85&auto=format&fit=max&s=4e68ff6cdcf37d3e20d665a3cdd319af",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-21T19:16:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
+      "guid": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
+      "titleHi": "अचयनित उम्मीदवार का दावा है कि लिब डेम्स के धार्मिक भेदभाव की कीमत उसे £ 790,000 थी",
+      "excerptHi": "डेविड कैम्पानाले ने सटन और चीम में अपने विश्वास के खिलाफ आयोजित अभियान के बाद क्षतिपूर्ति की मांग की राजनीति में कैरियर कितना मूल्यवान है? लिबरल डेमोक्रेट, धार्मिक दावों को स्वीकार करने के बावजूद...",
+      "archived": false
+    },
+    {
       "id": "7b35f3334ced39030f0bb93d76269ca660e636d7",
       "slug": "doris-millers-family-shocked-by-navys-reported-consideration-7b35f3",
       "title": "Doris Miller’s family ‘shocked’ by Navy’s reported consideration of honoring Trump instead of black war hero – live",
@@ -288,7 +308,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo#1",
       "titleHi": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
       "excerptHi": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "270eb9f794e98e8c19d49017d2a53bd796f245a8",
@@ -310,7 +330,7 @@
       "guid": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
       "titleHi": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
       "excerptHi": "This blog is now closed. See all our UK politics coverage here After Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05), Peter Beaumont and Quique Kierszenbaum report…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b52636cb9d1409113f261d140039946ae8db0c50",
@@ -398,28 +418,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/21/gun-stash-germany-forest-berlin-believed-linked-russia-reports",
       "titleHi": "Gun stash in German forest believed to be linked to Russia, say reports",
       "excerptHi": "Germany seeking to extradite suspect from Romania over guns it is feared could have been used ⁠in assassinations Germany is seeking to extradite a suspect from Romania over the discovery of an underground stash of…",
-      "archived": true
-    },
-    {
-      "id": "efeab125876015930e4ac9d04fb27e447360c5e1",
-      "slug": "priyanka-chopra-jonas-on-making-a-film-about-love-and-caste-efeab1",
-      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "excerpt": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Culture"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012c/live/3e5be0b0-9d71-11f1-b109-879e35c24276.png",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T13:32:28.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo#3",
-      "titleHi": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "excerptHi": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
       "archived": true
     }
   ]
