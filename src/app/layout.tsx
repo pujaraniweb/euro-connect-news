@@ -6,6 +6,7 @@ import "./globals.css";
 import { detectRegion } from "@/lib/region";
 import { ThemeProvider } from "@/components/theme-provider";
 import { Header } from "@/components/header";
+import { RegionSync } from "@/components/region-sync";
 import { Footer } from "@/components/footer";
 import { BottomNav } from "@/components/bottom-nav";
 import { PwaRegister } from "@/components/pwa-register";
@@ -70,6 +71,7 @@ export default async function RootLayout({
       <body className="min-h-screen">
         <NextIntlClientProvider locale={locale} messages={messages}>
           <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
+            <RegionSync serverRegion={region} />
             <Header region={region} />
             <main className="mx-auto w-full max-w-[1400px] px-4 pb-24 sm:px-6 lg:pb-12">
               {children}
