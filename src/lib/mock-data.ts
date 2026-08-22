@@ -299,8 +299,29 @@ const asCategory = (c: string): Category =>
  */
 export const DISPLAY_SOURCE = "Euro Connect News";
 
+/**
+ * For stories the RSS source gave NO image, auto-generate a relevant editorial
+ * illustration from the headline — keyless (Pollinations), deterministic by id
+ * so it never changes or flickers. Rendered with the "AI Generated" label, and
+ * NewsImage falls back to the subtle local placeholder if generation fails.
+ */
+function generatedImageFor(item: GeneratedItem): string {
+  const prompt =
+    `${item.title}. Editorial conceptual illustration for a news website about ${item.category}, ` +
+    `clean modern digital art, tasteful, non-photorealistic, no text, no letters, no watermark`;
+  let seed = 0;
+  for (const ch of item.id) seed = (seed * 31 + ch.charCodeAt(0)) % 1_000_000;
+  return (
+    "https://image.pollinations.ai/prompt/" +
+    encodeURIComponent(prompt) +
+    `?width=800&height=500&nologo=true&seed=${seed}&model=flux`
+  );
+}
+
 export function fromGenerated(item: GeneratedItem, index = 0): Article {
   const category = asCategory(item.category);
+  const hasSourceImage = !!item.image;
+  const aiGenerated = hasSourceImage ? !!item.aiImage : true;
   const secondary = (item.secondaryCategories ?? [])
     .filter((c) => (VALID_CATEGORIES as string[]).includes(c))
     .map((c) => c as Category);
@@ -321,11 +342,10 @@ export function fromGenerated(item: GeneratedItem, index = 0): Article {
     // (e.g. "BBC"), which must never be shown. The byline logic then hides it
     // (author === source) so only the Euro Connect News label appears.
     author: DISPLAY_SOURCE,
-    // imageUrl() passes absolute http(s) URLs straight through; a non-URL seed
-    // falls back to a clean generated image so the card never breaks.
-    imageSeed: item.image || `fallback-${item.id.slice(0, 8)}`,
-    aiImage: item.aiImage,
-    imageType: item.imageType ?? (item.image ? "real" : "none"),
+    // Real source image if present; otherwise an auto AI illustration (labelled).
+    imageSeed: item.image || generatedImageFor(item),
+    aiImage: aiGenerated,
+    imageType: hasSourceImage ? item.imageType ?? "real" : "ai",
     sourceUrl: item.sourceUrl,
     readTime: item.readTime,
     publishedAt: item.publishedAt,

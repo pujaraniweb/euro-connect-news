@@ -37,8 +37,12 @@ export function Hero({
   // already newest-first, so this stays recent) — falling back to the newest if
   // none have one, so the hero still shows the subtle placeholder rather than
   // nothing. The remaining stories keep their order.
-  const hasImage = (a: Article) => /^https?:\/\//.test(a.imageSeed);
-  const lead = pool.find(hasImage) ?? pool.find((a) => a.featured) ?? pool[0];
+  // Prefer a real source photo for the big hero slot; fall back to an AI
+  // illustration, then anything.
+  const hasRealPhoto = (a: Article) =>
+    /^https?:\/\//.test(a.imageSeed) && a.imageType !== "ai";
+  const lead =
+    pool.find(hasRealPhoto) ?? pool.find((a) => a.featured) ?? pool[0];
   const leadText = localize(lead, locale);
   const secondary = pool.filter((a) => a.id !== lead.id).slice(0, 3);
 
@@ -84,6 +88,11 @@ export function Hero({
               className="object-cover transition-transform duration-700 group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent" />
+            {lead.aiImage && (
+              <span className="absolute right-3 top-3 rounded-sm bg-black/70 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white backdrop-blur">
+                AI Generated
+              </span>
+            )}
           </div>
           <div className="absolute inset-x-0 bottom-0 p-5 text-white sm:p-8">
             <div className="mb-3 flex items-center gap-3">
