@@ -22,7 +22,7 @@ export function Hero({
   leadCategory = "World",
 }: {
   leadArticles?: Article[];
-  leadCategory?: "India" | "Europe" | "World";
+  leadCategory?: "India" | "Europe" | "USA" | "World";
 }) {
   const t = useTranslations("common");
   const tq = useTranslations("home.quickLinks");

@@ -40,10 +40,16 @@ function navHref(label: string) {
 export function Header({
   region = "world",
 }: {
-  region?: "india" | "europe" | "world";
+  region?: "india" | "europe" | "usa" | "world";
 }) {
   const localCategory =
-    region === "europe" ? "Europe" : region === "india" ? "India" : "World";
+    region === "europe"
+      ? "Europe"
+      : region === "india"
+        ? "India"
+        : region === "usa"
+          ? "USA"
+          : "World";
   // First item = the visitor's local section; drop it from the fixed tail so a
   // "World" visitor doesn't see World twice.
   const NAV = [localCategory, ...NAV_TAIL.filter((c) => c !== localCategory)];

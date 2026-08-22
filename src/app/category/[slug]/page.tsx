@@ -45,6 +45,7 @@ const KNOWN: Record<string, string> = {
   opinion: "Opinion",
   india: "India",
   health: "Health",
+  usa: "USA",
 };
 
 export default async function CategoryPage({

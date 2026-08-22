@@ -15,10 +15,12 @@
     "Opinion": "Opinion",
     "India": "India",
     "Health": "Health",
-    "Visa": "Visa"
+    "Visa": "Visa",
+    "USA": "USA"
   },
   "categories": {
     "India": "India",
+    "USA": "USA",
     "Europe": "Europe",
     "Business": "Business",
     "World": "World",

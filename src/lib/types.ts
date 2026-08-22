@@ -9,7 +9,8 @@ export type Category =
   | "Sports"
   | "Crypto"
   | "Opinion"
-  | "India";
+  | "India"
+  | "USA";
 
 export interface Article {
   id: string;

@@ -430,14 +430,20 @@ async function main() {
   const europeLocal = all
     .filter((x) => (x.category || "").toLowerCase() === "europe")
     .slice(0, 10);
-  // Global section for visitors outside India/Europe (US, Asia, Africa, …).
+  // Global section for visitors outside India/Europe/USA (Asia, Africa, …).
   const worldLocal = all
     .filter((x) => (x.category || "").toLowerCase() === "world")
+    .slice(0, 10);
+  // USA section (keyword topic across the corpus) for US visitors.
+  const USA_RE =
+    /\b(u\.?s\.?a?|united states|america|american|washington|white house|biden|trump|congress|senate|pentagon|new york|california|texas|florida|wall street|fbi|nasa)\b/i;
+  const usaLocal = all
+    .filter((x) => USA_RE.test(`${x.title || ""} ${x.excerpt || ""}`))
     .slice(0, 10);
   writeFileSync(
     LOCAL_PATH,
     JSON.stringify(
-      { generatedAt: now, india: indiaLocal, europe: europeLocal, world: worldLocal },
+      { generatedAt: now, india: indiaLocal, europe: europeLocal, usa: usaLocal, world: worldLocal },
       null,
       2
     ) + "\n"
@@ -447,7 +453,7 @@ async function main() {
   // usable source image) so they load instantly and reliably for visitors.
   // Pollinations rate-limits concurrency, so warm SEQUENTIALLY. Never fatal.
   try {
-    await warmAiImages([...current, ...indiaLocal, ...europeLocal, ...worldLocal]);
+    await warmAiImages([...current, ...indiaLocal, ...europeLocal, ...usaLocal, ...worldLocal]);
   } catch (e) {
     console.warn("[news] AI warm skipped:", e.message);
   }

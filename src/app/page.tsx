@@ -12,13 +12,21 @@ export default async function HomePage() {
   // the full corpus), so the homepage always has real local coverage WITHOUT
   // importing the heavy archive.json into the homepage bundle.
   const leadCategory =
-    region === "europe" ? "Europe" : region === "world" ? "World" : "India";
+    region === "europe"
+      ? "Europe"
+      : region === "usa"
+        ? "USA"
+        : region === "world"
+          ? "World"
+          : "India";
   const pool = (
     region === "europe"
       ? localNews.europe
-      : region === "world"
-        ? localNews.world
-        : localNews.india
+      : region === "usa"
+        ? localNews.usa
+        : region === "world"
+          ? localNews.world
+          : localNews.india
   ) as GeneratedItem[];
   const leadArticles = pool.map((it, i) => fromGenerated(it, i));
 

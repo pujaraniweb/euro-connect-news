@@ -26,9 +26,10 @@ import {
  */
 export type { Region };
 
-export const LOCAL_LABEL: Record<Region, "India" | "Europe" | "World"> = {
+export const LOCAL_LABEL: Record<Region, "India" | "Europe" | "USA" | "World"> = {
   india: "India",
   europe: "Europe",
+  usa: "USA",
   world: "World",
 };
 
@@ -37,7 +38,12 @@ export async function detectRegion(): Promise<Region> {
   // 1) Explicit override (client verifier / manual choice) wins.
   const cookieStore = await cookies();
   const override = cookieStore.get(COOKIE_NAME)?.value;
-  if (override === "india" || override === "europe" || override === "world")
+  if (
+    override === "india" ||
+    override === "europe" ||
+    override === "usa" ||
+    override === "world"
+  )
     return override;
 
   // 2) Edge geolocation header forwarded to the origin — no API key required.

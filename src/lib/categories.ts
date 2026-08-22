@@ -10,6 +10,7 @@
 export const VIRTUAL_CATEGORIES: Record<string, RegExp> = {
   visa: /\b(visas?|immigration|immigrants?|migrants?|asylum seeker|work permit|work visa|green card|residence permit|citizenship application|border force)\b/i,
   india: /\b(india|indian|indians|delhi|mumbai|modi|rupee|bollywood|bengaluru|gujarat|kolkata|hyderabad)\b/i,
+  usa: /\b(u\.?s\.?a?|united states|america|american|washington|white house|biden|trump|congress|senate|pentagon|new york|california|texas|florida|wall street|fbi|nasa)\b/i,
   health: /\b(health|healthcare|disease|diseases|vaccine|vaccines|hospital|hospitals|medical|medicine|nhs|cancer|virus|outbreak|mental health|patients?|doctors?|wellbeing|obesity|diabetes)\b/i,
 };
 

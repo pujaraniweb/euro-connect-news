@@ -15,10 +15,12 @@
     "Opinion": "विचार",
     "India": "भारत",
     "Health": "स्वास्थ्य",
-    "Visa": "वीज़ा"
+    "Visa": "वीज़ा",
+    "USA": "यूएसए"
   },
   "categories": {
     "India": "भारत",
+    "USA": "यूएसए",
     "Europe": "यूरोप",
     "Business": "बिज़नेस",
     "World": "विश्व",

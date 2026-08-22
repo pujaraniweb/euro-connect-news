@@ -3,7 +3,7 @@
  * CLIENT verifier (components/region-sync.tsx). Dependency-free (no next/headers)
  * so it is safe to import on the client.
  */
-export type Region = "india" | "europe" | "world";
+export type Region = "india" | "europe" | "usa" | "world";
 
 // ISO 3166-1 alpha-2 codes for Europe (EU + wider Europe, incl. UK).
 export const EUROPE_COUNTRIES = new Set([
@@ -18,6 +18,7 @@ export function regionForCountry(cc: string): Region | null {
   const code = (cc || "").trim().toUpperCase();
   if (!code) return null;
   if (code === "IN") return "india";
+  if (code === "US") return "usa";
   if (EUROPE_COUNTRIES.has(code)) return "europe";
   return null;
 }

@@ -14,6 +14,7 @@ const TONE: Record<Category, string> = {
   Crypto: "text-accent",
   Opinion: "text-foreground",
   India: "text-india",
+  USA: "text-accent",
 };
 
 export function CategoryPill({
