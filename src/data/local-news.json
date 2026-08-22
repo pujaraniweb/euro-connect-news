@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T18:14:19.790Z",
+  "generatedAt": "2026-08-22T20:11:52.158Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -394,7 +394,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "titleHi": "कनाडा ने ‘डॉलर के लिए डॉलर’ प्रतिक्रिया की कसम खाई क्योंकि अमेरिका कुछ सामानों पर 50% टैरिफ लगाता है",
       "excerptHi": "व्यापार वार्ता के पतन से नौकरी का नुकसान हो सकता है, लेकिन पारंपरिक सहयोगियों पर सबसे बड़ा प्रभाव राजनीतिक होने की उम्मीद है अमेरिका ने कनाडा से कुछ सामानों पर 50% टैरिफ लगाया है, और देश के प्रधान मंत्री, मार्क...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "71db380fd0bb32ba7301fc317f20fa81321a03fe",
@@ -414,10 +414,30 @@
       "guid": "f1347b8c-6e0a-4d87-aa09-ade83604e23c",
       "titleHi": "फ़ेयरमिंट के सीईओ का कहना है कि टोकन वाले शेयरों में वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को दोहराने का जोखिम है",
       "excerptHi": "Fairmint के CEO Joris Delanoue ने टोकन वाले स्टॉक को खंडित प्रणालियों और मानकों के माध्यम से वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को फिर से बनाने के जोखिम की चेतावनी दी है।",
-      "archived": false
+      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "b360d17ebc458411bef9e57f9cf8ee2bf73ceb9c",
+      "slug": "seventeen-year-old-girl-killed-in-sword-attack-at-school-in-b360d1",
+      "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
+      "excerpt": "Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Nadeem Badshah",
+      "image": "https://i.guim.co.uk/img/media/3091f3d617457c603710e629deeecb778e126f1f/1280_0_6400_5120/master/6400.jpg?width=140&quality=85&auto=format&fit=max&s=aee2d100ce8708856939c8e89645dc9f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T18:11:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "guid": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
+      "titleHi": "स्वीडन में स्कूल में तलवार से हमले में सत्रह वर्षीय लड़की की मौत हो गई",
+      "excerptHi": "फेगरस्टा स्कूल में तलवार से हमला करने वाले 18 वर्षीय व्यक्ति के बाद घायल हुए तीन अन्य लोग स्वीडन के एक स्कूल में तलवार से हमला करने वाले एक किशोरी के बाद 17 वर्षीय लड़की की मौत हो गई है, पुलिस...",
+      "archived": false
+    },
     {
       "id": "a444a98212b857d3dacb469738c286b674ba305c",
       "slug": "latest-news-bulletin-august-22nd-2026-evening-a444a9",
@@ -611,29 +631,6 @@
       "titleHi": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
       "excerptHi": "“This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.",
       "archived": true
-    },
-    {
-      "id": "07e5ed7023dc806868dfb5733f235ed14a667ae8",
-      "slug": "former-british-and-french-diplomats-urge-action-over-israels-07e5ed",
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "excerpt": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Patrick Wintour Diplomatic editor",
-      "image": "https://i.guim.co.uk/img/media/dd5b33bf9f870a1fc5c8de54279eac6bbbe6119d/402_0_5484_4387/master/5484.jpg?width=140&quality=85&auto=format&fit=max&s=3404c309e0c49f5b99965bb72b76bc56",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T09:00:04.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "guid": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "titleHi": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "excerptHi": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being…",
-      "archived": true
     }
   ],
   "asia": [
@@ -657,7 +654,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
       "titleHi": "देखें: पल रोबोट ने उसैन बोल्ट के 100 मीटर रिकॉर्ड को मात देने की कोशिश की",
       "excerptHi": "स्मार्टफोन निर्माता ऑनर का कहना है कि चीन के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में एक एंड्रॉइड बोल्ट के विश्व रिकॉर्ड की तुलना में तेज़ी से चला।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "347841731a2a6fa00eaeac81e32c010e2b4a6912",
@@ -677,7 +674,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
       "titleHi": "म्यांमार के मठ पर हमले में 14 लोगों की मौत",
       "excerptHi": "एक बचाव कार्यकर्ता ने कहा कि ध्यान में पीछे हटने के लिए नागरिकों के इकट्ठा होने पर साइट पर दो बार हमला किया गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4f4a8c529ba8e207dcb31589aa71ea562d28c06a",
@@ -697,7 +694,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o#0",
       "titleHi": "चीनी कॉन्फ़्रेंस में रोबोट घुड़सवार और राइडर सुर्खियाँ चुराते हैं",
       "excerptHi": "आयोजकों का कहना है कि बीजिंग, चीन में पांच दिवसीय कार्यक्रम में 300 से अधिक कंपनियां रोबोटिक्स में नवीनतम प्रगति का प्रदर्शन कर रही हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2c70430db957c8ba3f887a14f91467557720bd6c",
@@ -863,7 +860,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/22/south-africa-v-new-zealand-rugby-union-first-test-live",
       "titleHi": "दक्षिण अफ्रीका बनाम न्यूजीलैंड: रग्बी यूनियन पहला टेस्ट – LIVE",
       "excerptHi": "ऑल ब्लैक एलिस पार्क में अपने चार - टेस्ट दौरे की शुरुआत करते हैं। शाम 7.10बजे KO ब्रेकडाउन के लिए साइन अप करें | मेल डैनियल कुछ खेल प्रतियोगिताओं का नाम खराब है। केवल दो देशों की टीमें बेसबॉल में विश्व श्रृंखला के लिए प्रतिस्पर्धा करती हैं।...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bb479db9508d40a9c5420533ad89089a232f6b04",
@@ -883,7 +880,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/c98v78n72v5o#2",
       "titleHi": "दो बार के विश्व चैंपियन टेटे की घर के बाहर गोली मारकर हत्या",
       "excerptHi": "पूर्व डब्ल्यूबीओ बैंटमवेट और आईबीएफ सुपर - फ्लाईवेट विश्व चैंपियन ज़ोलानी टेटे की दक्षिण अफ्रीका में उनके घर के बाहर गोली मारकर हत्या कर दी गई है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "edfb3d089004e80d297e1e89819809a6ecd5b1ce",
@@ -1514,7 +1511,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/22/south-africa-v-new-zealand-rugby-union-first-test-live",
       "titleHi": "दक्षिण अफ्रीका बनाम न्यूजीलैंड: रग्बी यूनियन पहला टेस्ट – LIVE",
       "excerptHi": "ऑल ब्लैक एलिस पार्क में अपने चार - टेस्ट दौरे की शुरुआत करते हैं। शाम 7.10बजे KO ब्रेकडाउन के लिए साइन अप करें | मेल डैनियल कुछ खेल प्रतियोगिताओं का नाम खराब है। केवल दो देशों की टीमें बेसबॉल में विश्व श्रृंखला के लिए प्रतिस्पर्धा करती हैं।...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "75ac2db7433a1d945342de5088c5198ece7e2f1f",
@@ -1831,7 +1828,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
       "titleHi": "देखें: पल रोबोट ने उसैन बोल्ट के 100 मीटर रिकॉर्ड को मात देने की कोशिश की",
       "excerptHi": "स्मार्टफोन निर्माता ऑनर का कहना है कि चीन के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में एक एंड्रॉइड बोल्ट के विश्व रिकॉर्ड की तुलना में तेज़ी से चला।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "de9106f840b104ba30a375f3127d6e083fb3c4f6",
@@ -1854,7 +1851,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "titleHi": "कनाडा ने ‘डॉलर के लिए डॉलर’ प्रतिक्रिया की कसम खाई क्योंकि अमेरिका कुछ सामानों पर 50% टैरिफ लगाता है",
       "excerptHi": "व्यापार वार्ता के पतन से नौकरी का नुकसान हो सकता है, लेकिन पारंपरिक सहयोगियों पर सबसे बड़ा प्रभाव राजनीतिक होने की उम्मीद है अमेरिका ने कनाडा से कुछ सामानों पर 50% टैरिफ लगाया है, और देश के प्रधान मंत्री, मार्क...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "508f4496688bc0fb0cc4cecd162c4f3424f99ab6",
@@ -1874,7 +1871,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
       "titleHi": "नेब्रास्का स्कूल डिस्ट्रिक्ट ने पुलिस से छात्रों पर शॉक ग्लव्स का इस्तेमाल बंद करने को कहा",
       "excerptHi": "ओमाहा पुलिस राज्य के सबसे बड़े पब्लिक स्कूल जिले के हॉल में बिजली के झटके दस्ताने ले जाने से रोकने के लिए सहमत हुई ओमाहा पुलिस हाल ही में दस्ताने ले जाने से रोकने के लिए सहमत हुई है जो छात्रों को बिजली के झटके पहुंचा सकती है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "347841731a2a6fa00eaeac81e32c010e2b4a6912",
@@ -1894,7 +1891,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
       "titleHi": "म्यांमार के मठ पर हमले में 14 लोगों की मौत",
       "excerptHi": "एक बचाव कार्यकर्ता ने कहा कि ध्यान में पीछे हटने के लिए नागरिकों के इकट्ठा होने पर साइट पर दो बार हमला किया गया था।",
-      "archived": false
+      "archived": true
     }
   ]
 }
