@@ -305,6 +305,19 @@ export const DISPLAY_SOURCE = "Euro Connect News";
  * so it never changes or flickers. Rendered with the "AI Generated" label, and
  * NewsImage falls back to the subtle local placeholder if generation fails.
  */
+/**
+ * True when a source image would render blurry and CANNOT be upscaled. Some CDNs
+ * sign the URL (e.g. Guardian i.guim.co.uk `…&s=<hmac>`), so their small
+ * thumbnails (width=140) are locked small — changing the width 401s. BBC iChef
+ * (upscaled in imageUrl) and full-size sources are fine. When a source is locked
+ * small we substitute a clear AI illustration instead, so no card looks blurry.
+ */
+function sourceImageTooSmall(url: string): boolean {
+  const m = url.match(/[?&]width=(\d+)/i);
+  if (m && parseInt(m[1], 10) < 500) return true;
+  return false;
+}
+
 function generatedImageFor(item: GeneratedItem): string {
   const prompt =
     `${item.title}. Editorial conceptual illustration for a news website about ${item.category}, ` +
@@ -320,8 +333,10 @@ function generatedImageFor(item: GeneratedItem): string {
 
 export function fromGenerated(item: GeneratedItem, index = 0): Article {
   const category = asCategory(item.category);
-  const hasSourceImage = !!item.image;
-  const aiGenerated = hasSourceImage ? !!item.aiImage : true;
+  // Use the real source image only if present AND large enough to look sharp;
+  // otherwise fall back to a clear AI illustration (never a blurry thumbnail).
+  const hasUsableImage = !!item.image && !sourceImageTooSmall(item.image);
+  const aiGenerated = hasUsableImage ? !!item.aiImage : true;
   const secondary = (item.secondaryCategories ?? [])
     .filter((c) => (VALID_CATEGORIES as string[]).includes(c))
     .map((c) => c as Category);
@@ -342,10 +357,10 @@ export function fromGenerated(item: GeneratedItem, index = 0): Article {
     // (e.g. "BBC"), which must never be shown. The byline logic then hides it
     // (author === source) so only the Euro Connect News label appears.
     author: DISPLAY_SOURCE,
-    // Real source image if present; otherwise an auto AI illustration (labelled).
-    imageSeed: item.image || generatedImageFor(item),
+    // Sharp source image if usable; otherwise an auto AI illustration (labelled).
+    imageSeed: hasUsableImage ? item.image! : generatedImageFor(item),
     aiImage: aiGenerated,
-    imageType: hasSourceImage ? item.imageType ?? "real" : "ai",
+    imageType: hasUsableImage ? item.imageType ?? "real" : "ai",
     sourceUrl: item.sourceUrl,
     readTime: item.readTime,
     publishedAt: item.publishedAt,
