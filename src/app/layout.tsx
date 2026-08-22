@@ -69,6 +69,15 @@ export default async function RootLayout({
       className={`${inter.variable} ${playfair.variable}`}
     >
       <body className="min-h-screen">
+        {/* Shim for esbuild's keepNames helper: OpenNext's bundler emits __name()
+            calls inside the next-themes anti-flash inline script without defining
+            the helper in that inline scope, which throws. Define a no-op first. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "window.__name=window.__name||function(f){return f};",
+          }}
+        />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
             <RegionSync serverRegion={region} />

@@ -111,7 +111,7 @@ export function Hero({
               )}
               <span>{lead.source}</span>
               <span aria-hidden>·</span>
-              <time>{timeAgo(lead.publishedAt)}</time>
+              <time suppressHydrationWarning>{timeAgo(lead.publishedAt)}</time>
               <span aria-hidden>·</span>
               <span>{t("minRead", { count: lead.readTime })}</span>
             </div>
@@ -148,7 +148,10 @@ export function Hero({
                 <h3 className="line-clamp-2 font-serif text-sm font-bold leading-snug transition-colors group-hover:text-accent">
                   {localize(a, locale).title}
                 </h3>
-                <span className="mt-1 block text-[11px] text-muted-foreground">
+                <span
+                  suppressHydrationWarning
+                  className="mt-1 block text-[11px] text-muted-foreground"
+                >
                   {timeAgo(a.publishedAt)}
                 </span>
               </div>

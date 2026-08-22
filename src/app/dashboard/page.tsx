@@ -49,7 +49,10 @@ export default async function DashboardPage() {
             {liveFeed.map((a) => (
               <li key={a.id} className="relative">
                 <span className="absolute -left-[23px] top-1.5 h-2.5 w-2.5 rounded-full border-2 border-background bg-accent" />
-                <div className="text-[11px] text-muted-foreground">
+                <div
+                  suppressHydrationWarning
+                  className="text-[11px] text-muted-foreground"
+                >
                   {timeAgo(a.publishedAt)} · {a.source}
                 </div>
                 <Link href={`/article/${a.slug}`} className="group">

@@ -146,7 +146,10 @@ export function LiveNews() {
                         {t("new")}
                       </span>
                     )}
-                    <span className="text-[11px] text-muted-foreground">
+                    <span
+                      suppressHydrationWarning
+                      className="text-[11px] text-muted-foreground"
+                    >
                       {tc("live")} · {timeAgo(it.publishedAt)}
                     </span>
                   </div>

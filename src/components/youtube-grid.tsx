@@ -64,7 +64,10 @@ export function YouTubeGrid({ videos }: { videos: Video[] }) {
                 <span className="text-[11px] font-bold uppercase tracking-wider text-accent">
                   {t("badge")}
                 </span>
-                <span className="text-[11px] text-muted-foreground">
+                <span
+                  suppressHydrationWarning
+                  className="text-[11px] text-muted-foreground"
+                >
                   {timeAgo(v.publishedAt)}
                 </span>
               </div>

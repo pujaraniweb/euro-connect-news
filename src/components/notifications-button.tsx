@@ -56,7 +56,10 @@ export function NotificationsButton() {
                     <p className="line-clamp-2 text-sm font-medium leading-snug">
                       {title}
                     </p>
-                    <span className="mt-1 block text-[11px] text-muted-foreground">
+                    <span
+                      suppressHydrationWarning
+                      className="mt-1 block text-[11px] text-muted-foreground"
+                    >
                       {a.source} · {timeAgo(a.publishedAt)}
                     </span>
                   </Link>
