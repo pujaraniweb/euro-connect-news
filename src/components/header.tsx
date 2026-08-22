@@ -16,6 +16,7 @@ import { WeatherWidget } from "@/components/weather-widget";
 import { LiveClock } from "@/components/live-clock";
 import { setLocale } from "@/i18n/actions";
 import type { Locale } from "@/i18n/config";
+import { REGION_CATEGORY, type Region } from "@/lib/region-shared";
 
 // The fixed tail is identical for every visitor. Only the FIRST category is
 // location-aware (INDIA for India visitors, EUROPE for European visitors).
@@ -37,21 +38,10 @@ function navHref(label: string) {
   return `/category/${label.toLowerCase()}`;
 }
 
-export function Header({
-  region = "world",
-}: {
-  region?: "india" | "europe" | "usa" | "world";
-}) {
-  const localCategory =
-    region === "europe"
-      ? "Europe"
-      : region === "india"
-        ? "India"
-        : region === "usa"
-          ? "USA"
-          : "World";
-  // First item = the visitor's local section; drop it from the fixed tail so a
-  // "World" visitor doesn't see World twice.
+export function Header({ region = "world" }: { region?: Region }) {
+  // First item = the visitor's local section (INDIA/USA/EUROPE/ASIA/…); drop it
+  // from the fixed tail so "World" isn't shown twice.
+  const localCategory = REGION_CATEGORY[region];
   const NAV = [localCategory, ...NAV_TAIL.filter((c) => c !== localCategory)];
 
   const t = useTranslations("nav");

@@ -2,38 +2,20 @@ import { Hero } from "@/components/hero";
 import { MarketStrip } from "@/components/market-strip";
 import { Feed } from "@/components/feed";
 import { articles, fromGenerated, type GeneratedItem } from "@/lib/mock-data";
-import { detectRegion, type Region } from "@/lib/region";
+import { detectRegion } from "@/lib/region";
+import { REGION_CATEGORY } from "@/lib/region-shared";
 import { matchesCategory } from "@/lib/categories";
 import localNews from "@/data/local-news.json";
 
-const REGION_SLUG: Record<Region, string> = {
-  india: "india",
-  europe: "europe",
-  usa: "usa",
-  world: "world",
-};
-const REGION_CAT: Record<Region, "India" | "Europe" | "USA" | "World"> = {
-  india: "India",
-  europe: "Europe",
-  usa: "USA",
-  world: "World",
-};
+const POOLS = localNews as unknown as Record<string, GeneratedItem[]>;
 
 export default async function HomePage() {
   const region = await detectRegion();
 
   // Hero lead block = the visitor's local news (pre-computed pool in
   // local-news.json), so the very first story is always from their region.
-  const leadCategory = REGION_CAT[region];
-  const pool = (
-    region === "europe"
-      ? localNews.europe
-      : region === "usa"
-        ? localNews.usa
-        : region === "world"
-          ? localNews.world
-          : localNews.india
-  ) as GeneratedItem[];
+  const leadCategory = REGION_CATEGORY[region];
+  const pool = POOLS[region] ?? POOLS.world ?? [];
   const leadArticles = pool.map((it, i) => fromGenerated(it, i));
 
   // ACTUAL LISTING is region-ordered too: the detected region's news leads the
@@ -43,7 +25,7 @@ export default async function HomePage() {
   // thin (e.g. few current India stories), supplement with the region's recent
   // pool so the listing still leads local. Hero stories are excluded to avoid
   // duplicates. Nothing is hidden — ordering only.
-  const slug = REGION_SLUG[region];
+  const slug = REGION_CATEGORY[region].toLowerCase();
   const isLocal = (a: (typeof articles)[number]) =>
     matchesCategory({ title: a.title, excerpt: a.excerpt, category: a.category }, slug);
   const seen = new Set(leadArticles.slice(0, 4).map((a) => a.id)); // hero items

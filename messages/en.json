@@ -16,11 +16,21 @@
     "India": "India",
     "Health": "Health",
     "Visa": "Visa",
-    "USA": "USA"
+    "USA": "USA",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "MiddleEast": "Middle East",
+    "LatinAmerica": "Latin America",
+    "Oceania": "Oceania"
   },
   "categories": {
     "India": "India",
     "USA": "USA",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "MiddleEast": "Middle East",
+    "LatinAmerica": "Latin America",
+    "Oceania": "Oceania",
     "Europe": "Europe",
     "Business": "Business",
     "World": "World",

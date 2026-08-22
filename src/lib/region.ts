@@ -1,6 +1,7 @@
 import { cookies, headers } from "next/headers";
 import {
   COOKIE_NAME,
+  REGION_CATEGORY,
   regionForCountryWorldwide,
   type Region,
 } from "./region-shared";
@@ -26,25 +27,12 @@ import {
  */
 export type { Region };
 
-export const LOCAL_LABEL: Record<Region, "India" | "Europe" | "USA" | "World"> = {
-  india: "India",
-  europe: "Europe",
-  usa: "USA",
-  world: "World",
-};
-
 /** Detect the visitor's home region (server components / route handlers only). */
 export async function detectRegion(): Promise<Region> {
   // 1) Explicit override (client verifier / manual choice) wins.
   const cookieStore = await cookies();
   const override = cookieStore.get(COOKIE_NAME)?.value;
-  if (
-    override === "india" ||
-    override === "europe" ||
-    override === "usa" ||
-    override === "world"
-  )
-    return override;
+  if (override && override in REGION_CATEGORY) return override as Region;
 
   // 2) Edge geolocation header forwarded to the origin — no API key required.
   const h = await headers();

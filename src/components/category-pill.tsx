@@ -15,6 +15,11 @@ const TONE: Record<Category, string> = {
   Opinion: "text-foreground",
   India: "text-india",
   USA: "text-accent",
+  Asia: "text-foreground",
+  Africa: "text-foreground",
+  MiddleEast: "text-foreground",
+  LatinAmerica: "text-foreground",
+  Oceania: "text-foreground",
 };
 
 export function CategoryPill({

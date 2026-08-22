@@ -420,40 +420,46 @@ async function main() {
     ) + "\n"
   );
 
-  // Location-aware homepage lead: the newest India + Europe stories from the
-  // full corpus, pre-computed here so the homepage shows local news WITHOUT
-  // importing the heavy archive.json into its bundle.
-  const INDIA_RE = /\b(india|indian|indians|delhi|mumbai|modi|rupee|bollywood|bengaluru|gujarat|kolkata|hyderabad)\b/i;
-  const indiaLocal = all
-    .filter((x) => INDIA_RE.test(`${x.title || ""} ${x.excerpt || ""}`))
-    .slice(0, 10);
-  const europeLocal = all
-    .filter((x) => (x.category || "").toLowerCase() === "europe")
-    .slice(0, 10);
-  // Global section for visitors outside India/Europe/USA (Asia, Africa, …).
-  const worldLocal = all
-    .filter((x) => (x.category || "").toLowerCase() === "world")
-    .slice(0, 10);
-  // USA section (keyword topic across the corpus) for US visitors.
-  const USA_RE =
-    /\b(u\.?s\.?a?|united states|america|american|washington|white house|biden|trump|congress|senate|pentagon|new york|california|texas|florida|wall street|fbi|nasa)\b/i;
-  const usaLocal = all
-    .filter((x) => USA_RE.test(`${x.title || ""} ${x.excerpt || ""}`))
-    .slice(0, 10);
+  // Location-aware homepage lead pools, one per region, pre-computed from the
+  // full corpus so the homepage shows local news WITHOUT importing the heavy
+  // archive.json into its bundle. Keyword regions match title+excerpt; Europe
+  // and World match the source category. Keep in sync with src/lib/categories.ts
+  // and src/lib/region-shared.ts.
+  const KW = {
+    india: /\b(india|indian|indians|delhi|mumbai|modi|rupee|bollywood|bengaluru|gujarat|kolkata|hyderabad)\b/i,
+    usa: /\b(u\.?s\.?a?|united states|america|american|washington|white house|biden|trump|congress|senate|pentagon|new york|california|texas|florida|wall street|fbi|nasa)\b/i,
+    asia: /\b(asia|asian|china|chinese|japan|japanese|korea|korean|beijing|tokyo|seoul|hong kong|taiwan|singapore|malaysia|indonesia|vietnam|thailand|philippines|pakistan|bangladesh|sri lanka|nepal|myanmar|kazakh|mongolia)\b/i,
+    africa: /\b(africa|african|nigeria|kenya|south africa|egypt|ethiopia|ghana|somalia|sudan|uganda|tanzania|zimbabwe|morocco|algeria|congo|rwanda|senegal|angola|cameroon|johannesburg|lagos|nairobi|cairo)\b/i,
+    middleeast: /\b(middle east|saudi|uae|emirates|qatar|kuwait|bahrain|oman|iran|iranian|iraq|israel|israeli|palestin|gaza|syria|syrian|lebanon|jordan|yemen|tehran|riyadh|dubai|jerusalem|turkey|türkiye|istanbul)\b/i,
+    latam: /\b(latin america|brazil|brazilian|mexico|mexican|argentina|chile|colombia|venezuela|peru|bolivia|ecuador|uruguay|paraguay|cuba|caribbean|rio de janeiro|buenos aires|bogota|santiago|havana)\b/i,
+    oceania: /\b(australia|australian|new zealand|sydney|melbourne|auckland|fiji|papua new guinea|samoa|tonga|pacific island)\b/i,
+  };
+  const byKw = (re) =>
+    all.filter((x) => re.test(`${x.title || ""} ${x.excerpt || ""}`)).slice(0, 10);
+  const byCat = (c) =>
+    all.filter((x) => (x.category || "").toLowerCase() === c).slice(0, 10);
+  const pools = {
+    india: byKw(KW.india),
+    usa: byKw(KW.usa),
+    europe: byCat("europe"),
+    asia: byKw(KW.asia),
+    africa: byKw(KW.africa),
+    middleeast: byKw(KW.middleeast),
+    latam: byKw(KW.latam),
+    oceania: byKw(KW.oceania),
+    world: byCat("world"),
+  };
   writeFileSync(
     LOCAL_PATH,
-    JSON.stringify(
-      { generatedAt: now, india: indiaLocal, europe: europeLocal, usa: usaLocal, world: worldLocal },
-      null,
-      2
-    ) + "\n"
+    JSON.stringify({ generatedAt: now, ...pools }, null, 2) + "\n"
   );
 
   // Best-effort: pre-warm the on-demand AI illustrations (for stories with no
   // usable source image) so they load instantly and reliably for visitors.
   // Pollinations rate-limits concurrency, so warm SEQUENTIALLY. Never fatal.
   try {
-    await warmAiImages([...current, ...indiaLocal, ...europeLocal, ...usaLocal, ...worldLocal]);
+    const warmSet = [current, ...Object.values(pools)].flat();
+    await warmAiImages(warmSet);
   } catch (e) {
     console.warn("[news] AI warm skipped:", e.message);
   }

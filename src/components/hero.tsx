@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Search } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
-import type { Article } from "@/lib/types";
+import type { Article, Category } from "@/lib/types";
 import { articles, imageUrl, localize } from "@/lib/mock-data";
 import { timeAgo } from "@/lib/utils";
 import { CategoryPill } from "@/components/category-pill";
@@ -22,7 +22,7 @@ export function Hero({
   leadCategory = "World",
 }: {
   leadArticles?: Article[];
-  leadCategory?: "India" | "Europe" | "USA" | "World";
+  leadCategory?: Category;
 }) {
   const t = useTranslations("common");
   const tq = useTranslations("home.quickLinks");

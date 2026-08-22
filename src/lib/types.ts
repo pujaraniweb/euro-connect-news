@@ -10,7 +10,12 @@ export type Category =
   | "Crypto"
   | "Opinion"
   | "India"
-  | "USA";
+  | "USA"
+  | "Asia"
+  | "Africa"
+  | "MiddleEast"
+  | "LatinAmerica"
+  | "Oceania";
 
 export interface Article {
   id: string;

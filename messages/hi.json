@@ -16,11 +16,21 @@
     "India": "भारत",
     "Health": "स्वास्थ्य",
     "Visa": "वीज़ा",
-    "USA": "यूएसए"
+    "USA": "यूएसए",
+    "Asia": "एशिया",
+    "Africa": "अफ़्रीका",
+    "MiddleEast": "मध्य पूर्व",
+    "LatinAmerica": "लैटिन अमेरिका",
+    "Oceania": "ओशिनिया"
   },
   "categories": {
     "India": "भारत",
     "USA": "यूएसए",
+    "Asia": "एशिया",
+    "Africa": "अफ़्रीका",
+    "MiddleEast": "मध्य पूर्व",
+    "LatinAmerica": "लैटिन अमेरिका",
+    "Oceania": "ओशिनिया",
     "Europe": "यूरोप",
     "Business": "बिज़नेस",
     "World": "विश्व",

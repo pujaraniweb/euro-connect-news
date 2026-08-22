@@ -46,6 +46,11 @@ const KNOWN: Record<string, string> = {
   india: "India",
   health: "Health",
   usa: "USA",
+  asia: "Asia",
+  africa: "Africa",
+  middleeast: "MiddleEast",
+  latinamerica: "LatinAmerica",
+  oceania: "Oceania",
 };
 
 export default async function CategoryPage({
