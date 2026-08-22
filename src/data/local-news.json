@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:11:52.158Z",
+  "generatedAt": "2026-08-22T22:11:52.497Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -207,6 +207,28 @@
   ],
   "usa": [
     {
+      "id": "53a16abfaac8447d479d40a73f1acb4128f3655d",
+      "slug": "nancy-kassebaum-baker-former-us-senator-from-kansas-dies-age-53a16a",
+      "title": "Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94",
+      "excerpt": "Kassebaum Baker became the first woman elected to the US Senate without following a spouse into office Nancy Kassebaum Baker, a Kansas governor’s daughter who became the first woman elected to the US Senate without…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fa3ce1ac2c5c1c202fd718676700c3919fc4ee2f/367_0_2450_1960/master/2450.jpg?width=140&quality=85&auto=format&fit=max&s=8d6792c301b7b738c5e10f975c5b5414",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T20:40:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94",
+      "titleHi": "कंसास से पूर्व अमेरिकी सीनेटर नैंसी कासेबाम बेकर का 94 वर्ष की आयु में निधन हो गया",
+      "excerptHi": "कस्सेबाम बेकर अमेरिकी सीनेट के लिए निर्वाचित होने वाली पहली महिला बनीं, बिना किसी पति या पत्नी का कार्यालय में पालन किए नैन्सी कस्सेबाम बेकर, एक कंसास गवर्नर की बेटी जो बिना अमेरिकी सीनेट के लिए निर्वाचित होने वाली पहली महिला बनीं...",
+      "archived": false
+    },
+    {
       "id": "35d7fb33192e00ddfbcb74b2574384090c7d96ec",
       "slug": "maybe-people-will-stop-sleeping-on-us---hull-enjoy-dream-ret-35d7fb",
       "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
@@ -331,7 +353,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
       "titleHi": "ट्रम्प के सौदे से दूर जाने के बाद कार्नी को महत्वपूर्ण परीक्षा का सामना करना पड़ता है",
       "excerptHi": "कनाडा के प्रधान मंत्री के पास अपना जुआ बेचना होगा कि व्हाइट हाउस के साथ बातचीत से दूर जाना परिणामों के लायक होगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e5a16bd6b740bb8653a9c7b646e0898233e7a690",
@@ -351,7 +373,7 @@
       "guid": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
       "titleHi": "डब्ल्यू. कामऊ बेल के पास सबसे व्यावहारिक ‘सबसे अपरिहार्य उपकरण’ है",
       "excerptHi": "मैं भी तुम्हारी तरह उलझन में हूँ. | छवि: ऑंड्रे लैरो डब्ल्यू. कमौ बेल उन लोगों में से एक हैं, जो हमेशा से वहां मौजूद रहे हैं। पूरी तरह से पक्षपातपूर्ण, राजनीतिक रूप से फिर से सक्रिय, यूनाइटेड शेड्स ऑफ अमेरिका से, और हमें …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cb587998467897d985c6df4d23f59e4438666fe8",
@@ -371,7 +393,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo#0",
       "titleHi": "विलियम्स और अल्कारज़ यूएस ओपन मिश्रित युगल खेलेंगे",
       "excerptHi": "सेरेना विलियम्स फ्लशिंग मीडोज में यूएस ओपन में मिश्रित युगल के लिए कार्लोस अल्कारज़ के साथ जोड़ी बनाएंगी।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "de9106f840b104ba30a375f3127d6e083fb3c4f6",
@@ -395,29 +417,53 @@
       "titleHi": "कनाडा ने ‘डॉलर के लिए डॉलर’ प्रतिक्रिया की कसम खाई क्योंकि अमेरिका कुछ सामानों पर 50% टैरिफ लगाता है",
       "excerptHi": "व्यापार वार्ता के पतन से नौकरी का नुकसान हो सकता है, लेकिन पारंपरिक सहयोगियों पर सबसे बड़ा प्रभाव राजनीतिक होने की उम्मीद है अमेरिका ने कनाडा से कुछ सामानों पर 50% टैरिफ लगाया है, और देश के प्रधान मंत्री, मार्क...",
       "archived": true
-    },
-    {
-      "id": "71db380fd0bb32ba7301fc317f20fa81321a03fe",
-      "slug": "tokenized-stocks-risk-repeating-wall-streets-1960s-paper-cri-71db38",
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "excerpt": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "author": "Will Canny",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/155e3ead47a755d673f9182dd4ef2a4d2eaecf98-1500x1001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T14:00:00.000Z",
-      "sourceUrl": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "guid": "f1347b8c-6e0a-4d87-aa09-ade83604e23c",
-      "titleHi": "फ़ेयरमिंट के सीईओ का कहना है कि टोकन वाले शेयरों में वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को दोहराने का जोखिम है",
-      "excerptHi": "Fairmint के CEO Joris Delanoue ने टोकन वाले स्टॉक को खंडित प्रणालियों और मानकों के माध्यम से वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को फिर से बनाने के जोखिम की चेतावनी दी है।",
-      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "eb3b2489e4a87ec30fb5df8fe4742a3ff1aaa596",
+      "slug": "meghans-casting-in-the-gentlemen-reportedly-withdrawn-eb3b24",
+      "title": "Meghan’s casting in The Gentlemen reportedly withdrawn",
+      "excerpt": "Duchess of Sussex was believed to have been under consideration for season three of Guy Ritchie’s crime caper The Duchess of Sussex’s reported casting in Guy Ritchie’s The Gentlemen has been withdrawn, it was reported.…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Nadeem Badshah",
+      "image": "https://i.guim.co.uk/img/media/fd136b2eb6658a31f7a1c748a417b02be611fca4/208_81_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=19e6ec50f031d599bfc0313aa84ad637",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T21:23:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
+      "guid": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
+      "titleHi": "द जेंटलमेन में मेगन की कास्टिंग कथित तौर पर वापस ले ली गई",
+      "excerptHi": "ऐसा माना जाता था कि डचेस ऑफ ससेक्स गाय रिची के क्राइम केपर द डचेस ऑफ ससेक्स के तीसरे सीज़न के लिए विचाराधीन थे। गाय रिची के द जेंटलमेन में कास्टिंग की रिपोर्ट वापस ले ली गई है, यह बताया गया था।…",
+      "archived": false
+    },
+    {
+      "id": "53a16abfaac8447d479d40a73f1acb4128f3655d",
+      "slug": "nancy-kassebaum-baker-former-us-senator-from-kansas-dies-age-53a16a",
+      "title": "Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94",
+      "excerpt": "Kassebaum Baker became the first woman elected to the US Senate without following a spouse into office Nancy Kassebaum Baker, a Kansas governor’s daughter who became the first woman elected to the US Senate without…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fa3ce1ac2c5c1c202fd718676700c3919fc4ee2f/367_0_2450_1960/master/2450.jpg?width=140&quality=85&auto=format&fit=max&s=8d6792c301b7b738c5e10f975c5b5414",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T20:40:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/22/nancy-kassebaum-baker-dies-aged-94",
+      "titleHi": "कंसास से पूर्व अमेरिकी सीनेटर नैंसी कासेबाम बेकर का 94 वर्ष की आयु में निधन हो गया",
+      "excerptHi": "कस्सेबाम बेकर अमेरिकी सीनेट के लिए निर्वाचित होने वाली पहली महिला बनीं, बिना किसी पति या पत्नी का कार्यालय में पालन किए नैन्सी कस्सेबाम बेकर, एक कंसास गवर्नर की बेटी जो बिना अमेरिकी सीनेट के लिए निर्वाचित होने वाली पहली महिला बनीं...",
+      "archived": false
+    },
     {
       "id": "b360d17ebc458411bef9e57f9cf8ee2bf73ceb9c",
       "slug": "seventeen-year-old-girl-killed-in-sword-attack-at-school-in-b360d1",
@@ -585,51 +631,6 @@
       "guid": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
       "titleHi": "Latest news bulletin | August 22nd, 2026 – Midday",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": true
-    },
-    {
-      "id": "1b99aef8f3c6446ae2d6e990438ca63570cd9b89",
-      "slug": "embryonic-lost-novel-by-french-film-maker-ric-rohmer-is-repu-1b99ae",
-      "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
-      "excerpt": "English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work In the dog days of the second world war, 24-year-old…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Xan Brooks",
-      "image": "https://i.guim.co.uk/img/media/5eb20e2a28acb7636696b379c86e26400c243e4f/0_0_3582_2863/master/3582.jpg?width=140&quality=85&auto=format&fit=max&s=a6595b992ac8bc2f668c6697b0beeccd",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T09:54:03.000Z",
-      "sourceUrl": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "guid": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "titleHi": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
-      "excerptHi": "English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work In the dog days of the second world war, 24-year-old…",
-      "archived": true
-    },
-    {
-      "id": "ff43019f61733cb29f2722f998a17dce8c836cf4",
-      "slug": "tiktok-agrees-to-pay-400-million-to-settle-us-childrens-priv-ff4301",
-      "title": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
-      "excerpt": "“This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T09:08:58.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
-      "guid": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
-      "titleHi": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
-      "excerptHi": "“This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.",
       "archived": true
     }
   ],
@@ -1491,7 +1492,7 @@
       "guid": "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o#5",
       "titleHi": "वेड ने ऑस्ट्रेलिया में पहला विश्व सीरीज खिताब जीता",
       "excerptHi": "इंग्लैंड के जेम्स वेड ने अपने पहले विश्व सीरीज डार्ट्स खिताब के लिए ऑस्ट्रेलियाई मास्टर्स फाइनल में ऑस्ट्रेलियाई क्वालीफायर ब्रॉडी क्लिंग को 8 -5 से हराया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3292da8e330cc12eda4b295a96c8b1af8519115e",
@@ -1679,6 +1680,28 @@
   ],
   "world": [
     {
+      "id": "67a59d4907b81531d9498ceafd692925845f4cdc",
+      "slug": "tropical-storm-moke-poised-to-slam-into-hawaii-just-days-aft-67a59d",
+      "title": "Tropical Storm Moke poised to slam into Hawaii just days after Hurricane Lala",
+      "excerpt": "Weather service warns of flooding and mudslides, particularly in areas strongly affected by previous storm Tropical Storm Moke is poised to slam into the south of Hawaii’s islands with forecasters predicting heavy rains…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Uwa Ede-Osifo",
+      "image": "https://i.guim.co.uk/img/media/3d723808db1facc37b64f967bc238175cc40afb1/46_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ba32a5964559a87b35db295a85547b48",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T21:52:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
+      "titleHi": "तूफ़ान लाला के कुछ ही दिनों बाद उष्णकटिबंधीय तूफ़ान मोक हवाई में गिरने के लिए तैयार है",
+      "excerptHi": "मौसम सेवा ने बाढ़ और मडस्लाइड की चेतावनी दी है, विशेष रूप से पिछले तूफान से प्रभावित क्षेत्रों में उष्णकटिबंधीय तूफान मोक हवाई के द्वीपों के दक्षिण में गिरने के लिए तैयार है, पूर्वानुमानकर्ताओं ने भारी बारिश की भविष्यवाणी की है...",
+      "archived": false
+    },
+    {
       "id": "524958d33aa6b42843defcd117cc29a15167620c",
       "slug": "us-military-newspaper-editor-voices-censorship-fears-after-b-524958",
       "title": "US military newspaper editor voices censorship fears after being fired",
@@ -1784,7 +1807,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
       "titleHi": "तूफान ने बिजली की लाइनें गिरा दीं, इंडियाना के निवासियों को 11वें दिन भी बिजली नहीं मिली",
       "excerptHi": "33,124 निवासी अभी भी अंधेरे में हैं क्योंकि यूटिलिटी कंपनी का कहना है कि वह उत्तर - पश्चिम राज्य में बिजली बहाल करने के लिए काम कर रही है शनिवार को उत्तर - पश्चिम इंडियाना के हजारों निवासी बिना बिजली के अपने 11 वें दिन जा रहे थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5fd4de93df4f2cd9196a238cb88ebe11083e0c1e",
@@ -1806,7 +1829,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
       "titleHi": "ट्रम्प के सौदे से दूर जाने के बाद कार्नी को महत्वपूर्ण परीक्षा का सामना करना पड़ता है",
       "excerptHi": "कनाडा के प्रधान मंत्री के पास अपना जुआ बेचना होगा कि व्हाइट हाउस के साथ बातचीत से दूर जाना परिणामों के लायक होगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e07785f45baae759e4bd904205e02aa4d7b0615f",
@@ -1871,26 +1894,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
       "titleHi": "नेब्रास्का स्कूल डिस्ट्रिक्ट ने पुलिस से छात्रों पर शॉक ग्लव्स का इस्तेमाल बंद करने को कहा",
       "excerptHi": "ओमाहा पुलिस राज्य के सबसे बड़े पब्लिक स्कूल जिले के हॉल में बिजली के झटके दस्ताने ले जाने से रोकने के लिए सहमत हुई ओमाहा पुलिस हाल ही में दस्ताने ले जाने से रोकने के लिए सहमत हुई है जो छात्रों को बिजली के झटके पहुंचा सकती है...",
-      "archived": true
-    },
-    {
-      "id": "347841731a2a6fa00eaeac81e32c010e2b4a6912",
-      "slug": "fourteen-killed-in-strike-on-myanmar-monastery-347841",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "excerpt": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T13:48:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
-      "titleHi": "म्यांमार के मठ पर हमले में 14 लोगों की मौत",
-      "excerptHi": "एक बचाव कार्यकर्ता ने कहा कि ध्यान में पीछे हटने के लिए नागरिकों के इकट्ठा होने पर साइट पर दो बार हमला किया गया था।",
       "archived": true
     }
   ]
