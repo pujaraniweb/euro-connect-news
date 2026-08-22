@@ -3,8 +3,30 @@
 import { useEffect, useState } from "react";
 import { Clock } from "lucide-react";
 
-/** Formats a Date as e.g. "Tue, 18 Aug 2026 09:54 AM" (optionally with seconds). */
-function formatNow(d: Date, withSeconds: boolean): string {
+/**
+ * Formats a Date in the VISITOR'S OWN timezone (the browser's local zone, which
+ * is DST-aware) — never the server's. Two styles:
+ *   - default: "Tue, 18 Aug 2026 09:54 AM" (optionally with seconds)
+ *   - longDate: "Tuesday, 18 August 2026 · 09:54 AM"
+ */
+function formatNow(
+  d: Date,
+  { withSeconds = false, longDate = false } = {}
+): string {
+  if (longDate) {
+    const date = d.toLocaleDateString("en-GB", {
+      weekday: "long",
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+    });
+    const time = d.toLocaleTimeString("en-US", {
+      hour: "2-digit",
+      minute: "2-digit",
+      hour12: true,
+    });
+    return `${date} · ${time}`;
+  }
   const weekday = d.toLocaleDateString("en-US", { weekday: "short" });
   const day = String(d.getDate()).padStart(2, "0");
   const month = d.toLocaleDateString("en-US", { month: "short" });
@@ -21,22 +43,31 @@ function formatNow(d: Date, withSeconds: boolean): string {
 
 export function LiveClock({
   withSeconds = false,
+  longDate = false,
   showIcon = true,
   className,
 }: {
   withSeconds?: boolean;
+  longDate?: boolean;
   showIcon?: boolean;
   className?: string;
 }) {
-  // Empty until mounted so server/client markup matches (no hydration mismatch).
+  // Empty until mounted so server/client markup matches (no hydration mismatch),
+  // then it renders — and keeps updating — in the visitor's local timezone.
   const [now, setNow] = useState("");
 
   useEffect(() => {
-    const tick = () => setNow(formatNow(new Date(), withSeconds));
+    const tick = () => setNow(formatNow(new Date(), { withSeconds, longDate }));
     tick();
-    const id = setInterval(tick, 1000); // update every second
+    const id = setInterval(tick, 1000);
     return () => clearInterval(id);
-  }, [withSeconds]);
+  }, [withSeconds, longDate]);
+
+  const minW = longDate
+    ? "min-w-[15rem]"
+    : withSeconds
+      ? "min-w-[12rem]"
+      : "min-w-[10.5rem]";
 
   return (
     <span
@@ -47,7 +78,7 @@ export function LiveClock({
       }
     >
       {showIcon && <Clock className="h-3.5 w-3.5" />}
-      <span className={withSeconds ? "min-w-[12rem]" : "min-w-[10.5rem]"}>{now}</span>
+      <span className={minW}>{now}</span>
     </span>
   );
 }

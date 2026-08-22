@@ -13,6 +13,7 @@ import { BreakingTicker } from "@/components/breaking-ticker";
 import { SubscribeButton } from "@/components/subscribe-button";
 import { NotificationsButton } from "@/components/notifications-button";
 import { WeatherWidget } from "@/components/weather-widget";
+import { LiveClock } from "@/components/live-clock";
 import { setLocale } from "@/i18n/actions";
 import type { Locale } from "@/i18n/config";
 
@@ -82,14 +83,9 @@ export function Header({ region = "india" }: { region?: "india" | "europe" }) {
       <div className="hidden border-b border-border bg-surface-muted lg:block">
         <div className="mx-auto flex h-12 max-w-[1400px] items-center justify-between gap-4 px-6 text-xs text-muted-foreground">
           <div className="flex items-center gap-4">
-            <time suppressHydrationWarning>
-              {new Date().toLocaleDateString("en-GB", {
-                weekday: "long",
-                day: "numeric",
-                month: "long",
-                year: "numeric",
-              })}
-            </time>
+            {/* Visitor's LOCAL date + time (browser timezone, DST-aware,
+                auto-updating) — never the server's time. */}
+            <LiveClock longDate showIcon={false} className="tabular" />
             <WeatherWidget />
           </div>
           <Link
