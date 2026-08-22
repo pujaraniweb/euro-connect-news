@@ -1,8 +1,461 @@
 {
-  "generatedAt": "2026-08-22T14:18:00.990Z",
+  "generatedAt": "2026-08-22T16:12:00.846Z",
   "retentionDays": 45,
-  "total": 1853,
+  "total": 1875,
   "items": [
+    {
+      "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
+      "slug": "carney-calls-trumps-fresh-tariffs-a-miscalculation-after-tra-f4c36d",
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "excerpt": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:05:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
+      "titleHi": "व्यापार वार्ता के पतन के बाद कार्नी ने ट्रम्प के नए टैरिफ को 'गलत गणना' कहा",
+      "excerptHi": "शनिवार सुबह एक भाषण में, प्रधान मंत्री मार्क कार्नी ने कहा कि कनाडा अपनी संप्रभुता की रक्षा के लिए बातचीत की मेज से दूर चला गया।",
+      "archived": false
+    },
+    {
+      "id": "1556a2a37abdfa1aff930cf0e96fc58a7c7e1b7f",
+      "slug": "brentford-v-tottenham-premier-league-live-1556a2",
+      "title": "Brentford v Tottenham: Premier League – live",
+      "excerpt": "⚽ New-look Spurs make short trip to Brentford. 5.30pm (BST) KO ⚽ Today’s scores | Sign up for Football Daily | Mail Scott All of the early kick-offs have finished. Here are the results … Hull City 2-0 Manchester United…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Scott Murray",
+      "image": "https://i.guim.co.uk/img/media/b2fea906d9ae17b99868a3b2b79dff4fb72f5697/647_0_4149_3318/master/4149.jpg?width=140&quality=85&auto=format&fit=max&s=c273769e7aa73ddc740da97aaa50e6a1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live",
+      "guid": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live",
+      "titleHi": "ब्रेंटफोर्ड बनाम टोटेनहम: प्रीमियर लीग – LIVE",
+      "excerptHi": "⚽ न्यू - लुक स्पर्स ब्रेंटफोर्ड की छोटी यात्रा करते हैं। शाम 5.30बजे (BST) KO ⚽ आज के स्कोर | फुटबॉल डेली के लिए साइन अप करें | मेल स्कॉट सभी शुरुआती किक - ऑफ समाप्त हो गए हैं। ये रहे परिणाम ... हल सिटी 2 -0 मैनचेस्टर यूनाइटेड...",
+      "archived": false
+    },
+    {
+      "id": "a444a98212b857d3dacb469738c286b674ba305c",
+      "slug": "latest-news-bulletin-august-22nd-2026-evening-a444a9",
+      "title": "Latest news bulletin | August 22nd, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening",
+      "titleHi": "नवीनतम समाचार बुलेटिन | 22 अगस्त, 2026 – शाम",
+      "excerptHi": "22 अगस्त, 2026 - ताज़ा खबरें, ब्रेकिंग न्यूज़, दुनिया, बिज़नेस, एंटरटेनमेंट, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे महत्वपूर्ण कहानियों से रूबरू हों।",
+      "archived": false
+    },
+    {
+      "id": "9fed109d45b879d29c33048855f0b3405d6d1b0a",
+      "slug": "chemical-suppression-why-the-uk-is-exploring-libido-control-9fed10",
+      "title": "Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders",
+      "excerpt": "Treatment is already required by parole boards in several countries, but some feel the practice is unethical Thousands of sex offenders in England and Wales could get libido-suppressing drugs For some prisoners with…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Rajeev Syal and Faisa Mohamed",
+      "image": "https://i.guim.co.uk/img/media/fe4c794d5f08739193b46d8a72db3255e91ef4d9/568_0_1863_1491/master/1863.jpg?width=140&quality=85&auto=format&fit=max&s=07210646dcc6c08bf73eeb7be0ff4b69",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:00:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
+      "titleHi": "रासायनिक दमन: ब्रिटेन यौन अपराधियों के इलाज के लिए कामेच्छा नियंत्रण दवाओं की खोज क्यों कर रहा है",
+      "excerptHi": "कई देशों में पैरोल बोर्डों द्वारा उपचार पहले से ही आवश्यक है, लेकिन कुछ को लगता है कि यह अभ्यास अनैतिक है इंग्लैंड और वेल्स में हजारों यौन अपराधियों को कामेच्छा को दबाने वाली दवाएं मिल सकती हैं …",
+      "archived": false
+    },
+    {
+      "id": "d30f5b77eb2fc3ba8621be63de5a00f90b996012",
+      "slug": "thousands-of-sex-offenders-in-england-and-wales-could-get-li-d30f5b",
+      "title": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
+      "excerpt": "Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rajeev Syal Home affairs editor",
+      "image": "https://i.guim.co.uk/img/media/fd6953a3ec0be507cb1893f834eed1c23d470e5b/484_0_4856_3885/master/4856.jpg?width=140&quality=85&auto=format&fit=max&s=b0facbe4bf6b606edb71c470c4968768",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:00:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
+      "guid": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
+      "titleHi": "इंग्लैंड और वेल्स में हजारों यौन अपराधियों को कामेच्छा को दबाने वाली दवाएं मिल सकती हैं",
+      "excerptHi": "20 जेलों तक विस्तार करने के लिए सेक्स ड्राइव - दबाने वाली दवा का स्वैच्छिक उपयोग और विशेषज्ञ का कहना है कि इसे 2028 के अंत तक व्यापक रूप से लागू किया जा सकता है रासायनिक दमन: यूके सेक्स के इलाज के लिए कामेच्छा नियंत्रण दवाओं की खोज क्यों कर रहा है...",
+      "archived": false
+    },
+    {
+      "id": "78ac58519844c485adac1cfcc7c80795b499000e",
+      "slug": "man-utd-didnt-look-ready---but-hurting-carrick-remains-calm-78ac58",
+      "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+      "excerpt": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6195/live/acc4b4a0-9e2f-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T15:44:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do#0",
+      "titleHi": "मैन यूटीडी 'तैयार नहीं दिख रहा था' - लेकिन कैरिक को चोट पहुंचाना शांत रहता है",
+      "excerptHi": "मैनचेस्टर यूनाइटेड के बॉस माइकल कैरिक नए पदोन्नत हल सिटी में सदमे के बावजूद घबराने से इनकार कर रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "177cf6acb82d296549eda1a6e273e1b6bbc6ef38",
+      "slug": "40000-bottles-of-eye-drops-across-the-us-recalled-over-issue-177cf6",
+      "title": "40,000 bottles of eye drops across the US recalled over issues with sterility of product",
+      "excerpt": "Prestige Brand Holdings has voluntarily recalled a batch of its Clear Eyes eye drops after FDA alert Nearly 40,000 bottles of eye drops are being pulled from store shelves across the US over concerns about potential…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/769b4b8243788f118ce87d2ccedaff5971169d06/491_0_4901_3922/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=a285f3ec32778bf59e30e06e634b2488",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:44:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
+      "titleHi": "उत्पाद की बाँझपन के मुद्दों पर अमेरिका भर में आंखों की बूंदों की 40,000 बोतलें वापस ली गईं",
+      "excerptHi": "प्रेस्टीज ब्रांड होल्डिंग्स ने एफडीए अलर्ट के बाद अपनी क्लियर आइज़ आई ड्रॉप के एक बैच को स्वेच्छा से वापस बुला लिया है संभावित चिंताओं के बारे में अमेरिका भर में स्टोर अलमारियों से आंखों की बूंदों की लगभग 40,000 बोतलें खींची जा रही हैं...",
+      "archived": false
+    },
+    {
+      "id": "f041063c3e53ec287954cc36e56ff0fee3b9e596",
+      "slug": "lando-norris-surges-past-russell-and-antonelli-to-take-f1-du-f04106",
+      "title": "Lando Norris surges past Russell and Antonelli to take F1 Dutch GP pole",
+      "excerpt": "Norris came back at the last to seal top spot Russell earlier took victory in the sprint race Lando Norris claimed pole position for the Dutch Grand Prix, producing a mighty lap at Zandvoort to beat the Mercedes of…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Giles Richards at Zandvoort",
+      "image": "https://i.guim.co.uk/img/media/e97f560f628ee6f24ebb356ed0a53192e3d603c6/442_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=b1cf260bb70ef03b95936b469d5f6d66",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:42:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/22/lando-norris-pole-george-russell-kimi-antonelli-f1-dutch-grand-prix",
+      "guid": "https://www.theguardian.com/sport/2026/aug/22/lando-norris-pole-george-russell-kimi-antonelli-f1-dutch-grand-prix",
+      "titleHi": "लैंडो नॉरिस ने F1 डच जीपी पोल लेने के लिए रसेल और एंटोनेली को पीछे छोड़ दिया",
+      "excerptHi": "नॉरिस शीर्ष स्थान हासिल करने के लिए आखिरी स्थान पर वापस आए रसेल ने पहले स्प्रिंट रेस में जीत हासिल की थी लैंडो नॉरिस ने डच ग्रैंड प्रिक्स के लिए पोल पोजिशन का दावा किया था, जिसने मर्सिडीज को हराने के लिए ज़ैंडवोर्ट में एक शक्तिशाली गोद का उत्पादन किया था...",
+      "archived": false
+    },
+    {
+      "id": "cae351c39401118066d1659c925c577ea712db5d",
+      "slug": "carrick-tells-manchester-united-to-keep-calm-and-carry-on-af-cae351",
+      "title": "Carrick tells Manchester United to keep calm and carry on after Hull humbling",
+      "excerpt": "Bruno Fernandes: ‘We gave too much of the ball to them’ Sergej Jakirovic happy Hull proved critics wrong Michael Carrick says he will not overreact, but has called for improvement after Manchester United started the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Will Unwin at the MKM Stadium",
+      "image": "https://i.guim.co.uk/img/media/714239ed99aabb2a8648585036774dd74858d7d8/503_0_4161_3330/master/4161.jpg?width=140&quality=85&auto=format&fit=max&s=61464232b52dd520c2de52ad9b9a4ac4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:41:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/22/carrick-manchester-united-shock-defeat-by-hull",
+      "guid": "https://www.theguardian.com/football/2026/aug/22/carrick-manchester-united-shock-defeat-by-hull",
+      "titleHi": "कैरिक मैनचेस्टर यूनाइटेड को शांत रहने और हल विनम्रता के बाद जारी रखने के लिए कहता है",
+      "excerptHi": "ब्रूनो फर्नांडिस: ‘हमने उन्हें बहुत अधिक गेंद दी’ सर्गेज जाकिरोविच खुश हल ने आलोचकों को गलत साबित कर दिया माइकल कैरिक का कहना है कि वह ओवररिएक्ट नहीं करेंगे, लेकिन मैनचेस्टर यूनाइटेड के शुरू होने के बाद सुधार की मांग की है...",
+      "archived": false
+    },
+    {
+      "id": "b2d6956085062b8081b8688216f83e1c6cd038ac",
+      "slug": "norris-beats-russell-to-pole-position-at-zandvoort-b2d695",
+      "title": "Norris beats Russell to pole position at Zandvoort",
+      "excerpt": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:41:26.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo#0",
+      "titleHi": "ज़ैंडवोर्ट में नॉरिस ने रसेल को हराकर पोल पोजिशन हासिल की",
+      "excerptHi": "लैंडो नॉरिस ने जॉर्ज रसेल को हराकर डच ग्रैंड प्रिक्स में पोल पोजिशन हासिल कर ली है।",
+      "archived": false
+    },
+    {
+      "id": "a312d5bff85e19043492e7ff2b071a71b0e5d6bd",
+      "slug": "daiquiri-bay-wins-ebor-in-three-way-sprint-finish-a312d5",
+      "title": "Daiquiri Bay wins Ebor in three-way sprint finish",
+      "excerpt": "Daiquiri Bay edges out Hopewell Rock and Opportunity in a three-way sprint finish at York to win the Ebor Handicap.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/02160560-9e3c-11f1-bb45-576721ee33bb.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:32:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/horse-racing/articles/c62q2wdpgr6o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/horse-racing/articles/c62q2wdpgr6o#2",
+      "titleHi": "Daiquiri Bay ने तीन - तरफ़ा स्प्रिंट फ़िनिश में Ebor जीता",
+      "excerptHi": "Daiquiri Bay ने एबोर हैंडीकैप जीतने के लिए यॉर्क में तीन - तरफ़ा स्प्रिंट फिनिश में होपवेल रॉक और अवसर को बाहर निकाला।",
+      "archived": false
+    },
+    {
+      "id": "c7481c21324a5e2046cb93d059b0da2aab803e5a",
+      "slug": "crypto-exchange-bitmart-weighs-partial-restart-and-creditor-c7481c",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "excerpt": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Francisco Rodrigues",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/420f2af41b8e84b394d9798060c7ccfa92703ed7-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T15:16:41.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "guid": "1a234766-a7bd-4a7a-8912-430402d4a8b7",
+      "titleHi": "क्रिप्टो एक्सचेंज बिटमार्ट का शटडाउन की घोषणा के हफ्तों बाद आंशिक पुनरारंभ और लेनदार भुगतान का वजन होता है",
+      "excerptHi": "एक्सचेंज ने व्हाइट एंड केस को पुनर्गठन वकील के रूप में नियुक्त किया है, जिसमें 9 सितंबर तक एक विस्तृत रोडमैप की उम्मीद है।",
+      "archived": false
+    },
+    {
+      "id": "8d5b182f7938adf87bbf858569caeb5615ed2bd6",
+      "slug": "championship-roundup-millwall-beat-norwich-portsmouth-win-at-8d5b18",
+      "title": "Championship roundup: Millwall beat Norwich; Portsmouth win at Lincoln",
+      "excerpt": "Arconte double helps Millwall sink 10-man Norwich 3-0 Portsmouth beat Lincoln 3-1 to register first league win Tairyk Arconte scored his first two goals for Millwall as they breezed past 10-man Norwich 3-0 to make it…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "PA Media",
+      "image": "https://i.guim.co.uk/img/media/026fda1f4f67599798aa3a37766ac3725a0f7efd/28_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=24ee9ec9f47dc6e28d42e79456e714bb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:12:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton",
+      "guid": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton",
+      "titleHi": "चैंपियनशिप राउंडअप: मिलवॉल ने नॉर्विच को हराया; लिंकन में पोर्ट्समाउथ की जीत",
+      "excerptHi": "आर्कोन्टे डबल ने मिलवॉल को 10 - मैन नॉर्विच को 3 -0 से हराने में मदद की पोर्ट्समाउथ ने लिंकन को 3 -1 से हराकर पहली लीग जीत दर्ज की Tairyk Arconte ने मिलवॉल के लिए अपने पहले दो गोल किए क्योंकि उन्होंने 10 - मैन नॉर्विच को 3 -0 से हराकर इसे बनाया...",
+      "archived": false
+    },
+    {
+      "id": "631bf69c9012c037e346aa5f766c6b3af6c6676e",
+      "slug": "indiana-residents-endure-11th-day-without-power-after-storms-631bf6",
+      "title": "Indiana residents endure 11th day without power after storms topple power lines",
+      "excerpt": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/d7094952c1c7eebabb825d5731e36f545b17d225/741_0_5415_4333/master/5415.jpg?width=140&quality=85&auto=format&fit=max&s=4f36e23da74962e0d1a6933fc9bc265c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:08:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
+      "titleHi": "तूफान ने बिजली की लाइनें गिरा दीं, इंडियाना के निवासियों को 11वें दिन भी बिजली नहीं मिली",
+      "excerptHi": "33,124 निवासी अभी भी अंधेरे में हैं क्योंकि यूटिलिटी कंपनी का कहना है कि वह उत्तर - पश्चिम राज्य में बिजली बहाल करने के लिए काम कर रही है शनिवार को उत्तर - पश्चिम इंडियाना के हजारों निवासी बिना बिजली के अपने 11 वें दिन जा रहे थे...",
+      "archived": false
+    },
+    {
+      "id": "5fd4de93df4f2cd9196a238cb88ebe11083e0c1e",
+      "slug": "carney-faces-crucial-test-after-walking-away-from-trumps-dea-5fd4de",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "excerpt": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:00:27.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
+      "titleHi": "ट्रम्प के सौदे से दूर जाने के बाद कार्नी को महत्वपूर्ण परीक्षा का सामना करना पड़ता है",
+      "excerptHi": "कनाडा के प्रधान मंत्री के पास अपना जुआ बेचना होगा कि व्हाइट हाउस के साथ बातचीत से दूर जाना परिणामों के लायक होगा।",
+      "archived": false
+    },
+    {
+      "id": "e5a16bd6b740bb8653a9c7b646e0898233e7a690",
+      "slug": "w-kamau-bell-has-the-most-practical-most-indispensable-tool-e5a16b",
+      "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
+      "excerpt": "I’m just as confused as you. | Image: Aundre Larrow W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased, to Politically Re-Active, United Shades of America, and We Need to…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bell-W.-Kamau-2-PC-Aundre-Larrow.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T15:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "guid": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
+      "titleHi": "डब्ल्यू. कामऊ बेल के पास सबसे व्यावहारिक ‘सबसे अपरिहार्य उपकरण’ है",
+      "excerptHi": "मैं भी तुम्हारी तरह उलझन में हूँ. | छवि: ऑंड्रे लैरो डब्ल्यू. कमौ बेल उन लोगों में से एक हैं, जो हमेशा से वहां मौजूद रहे हैं। पूरी तरह से पक्षपातपूर्ण, राजनीतिक रूप से फिर से सक्रिय, यूनाइटेड शेड्स ऑफ अमेरिका से, और हमें …",
+      "archived": false
+    },
+    {
+      "id": "ec765b82abd6513899a8493898401f22745e32b9",
+      "slug": "wigan-score-11-tries-in-victory-against-st-helens-ec765b",
+      "title": "Wigan score 11 tries in victory against St Helens",
+      "excerpt": "Wigan Warriors convincingly beat neighbours St Helens to make it 10 wins out of 10 in the Women's Super League this season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a4/live/36a399b0-9e36-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T14:52:36.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-league/articles/cvg0j91ynkmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/cvg0j91ynkmo#9",
+      "titleHi": "विगन ने सेंट हेलेन्स के खिलाफ जीत में 11 प्रयास किए",
+      "excerptHi": "विगन वॉरियर्स ने इस सीज़न में महिला सुपर लीग में 10 में से 10 में जीत हासिल करने के लिए पड़ोसियों सेंट हेलेन्स को हराया।",
+      "archived": false
+    },
+    {
+      "id": "cb587998467897d985c6df4d23f59e4438666fe8",
+      "slug": "williams-and-alcaraz-to-play-us-open-mixed-doubles-cb5879",
+      "title": "Williams and Alcaraz to play US Open mixed doubles",
+      "excerpt": "Serena Williams will pair up with Carlos Alcaraz for the mixed doubles at the US Open at Flushing Meadows.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234d/live/2510b660-9d9b-11f1-a291-b542ee92de7c.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T14:41:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo#0",
+      "titleHi": "विलियम्स और अल्कारज़ यूएस ओपन मिश्रित युगल खेलेंगे",
+      "excerptHi": "सेरेना विलियम्स फ्लशिंग मीडोज में यूएस ओपन में मिश्रित युगल के लिए कार्लोस अल्कारज़ के साथ जोड़ी बनाएंगी।",
+      "archived": false
+    },
+    {
+      "id": "c5b94ff843acdeb7782166c677800ef0b953b0e7",
+      "slug": "we-didnt-click---carrick-on-man-utds-loss-c5b94f",
+      "title": "'We didn't click' - Carrick on Man Utd's loss",
+      "excerpt": "Manchester United head coach Michael Carrick says his side 'didn't click' as they suffered a 2-0 defeat at newly promoted Hull City in their first game of the 2026-27 Premier League season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790b/live/e40627e0-9e35-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T14:40:57.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo#3",
+      "titleHi": "'हमने क्लिक नहीं किया' - मैन यूटीडी के नुकसान पर कैरिक",
+      "excerptHi": "मैनचेस्टर यूनाइटेड के मुख्य कोच माइकल कैरिक का कहना है कि उनकी टीम ने 'क्लिक नहीं किया' क्योंकि उन्हें 2026 -27 प्रीमियर लीग सीज़न के अपने पहले गेम में नए पदोन्नत हल सिटी में 2 -0 से हार का सामना करना पड़ा।",
+      "archived": false
+    },
+    {
+      "id": "32150869e65b0862cdfc62c2f792b0961574f949",
+      "slug": "infantino-asked-to-stay-away-from-youth-tournament-321508",
+      "title": "Infantino asked to stay away from youth tournament",
+      "excerpt": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T14:29:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o#1",
+      "titleHi": "इन्फैंटिनो ने युवा टूर्नामेंट से दूर रहने के लिए कहा",
+      "excerptHi": "कॉनकाफ के अध्यक्ष विक्टर मोंटाग्लियानी ने जियानी इन्फैंटिनो को इस सप्ताह के अंत में डोमिनिकन गणराज्य में एक युवा फुटबॉल टूर्नामेंट से दूर रहने के लिए कहा है।",
+      "archived": false
+    },
+    {
+      "id": "bf8e484306756746d6ad23d6951566a660198a6f",
+      "slug": "wade-wins-first-world-series-title-in-australia-bf8e48",
+      "title": "Wade wins first World Series title in Australia",
+      "excerpt": "England's James Wade beats Australian qualifier Brody Klinge 8-5 in the Australian Masters final for his first World Series darts title.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/036bd260-9e31-11f1-8a71-eb9ef5df2469.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T14:18:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o#5",
+      "titleHi": "वेड ने ऑस्ट्रेलिया में पहला विश्व सीरीज खिताब जीता",
+      "excerptHi": "इंग्लैंड के जेम्स वेड ने अपने पहले विश्व सीरीज डार्ट्स खिताब के लिए ऑस्ट्रेलियाई मास्टर्स फाइनल में ऑस्ट्रेलियाई क्वालीफायर ब्रॉडी क्लिंग को 8 -5 से हराया।",
+      "archived": false
+    },
+    {
+      "id": "74d00406f3284b9d33486663a7543676ccd2109c",
+      "slug": "we-showed-we-can-compete---jakirovic-74d004",
+      "title": "'We showed we can compete' - Jakirovic",
+      "excerpt": "Hull City head coach Sergej Jakirovic praises his side for their approach and sticking to the tactical plan to gain a 2-0 win against Manchester United on the opening weekend of the Premier League season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0438/live/d4046fd0-9e32-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T14:17:59.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cgmkm9xgv1zo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cgmkm9xgv1zo#3",
+      "titleHi": "'हमने दिखाया कि हम प्रतिस्पर्धा कर सकते हैं' - जाकिरोविच",
+      "excerptHi": "हल सिटी के मुख्य कोच सर्गेज जाकिरोविच ने प्रीमियर लीग सीज़न के शुरुआती सप्ताहांत में मैनचेस्टर यूनाइटेड के खिलाफ 2 -0 से जीत हासिल करने के लिए उनके दृष्टिकोण और रणनीतिक योजना पर कायम रहने के लिए उनकी टीम की सराहना की।",
+      "archived": false
+    },
     {
       "id": "5cd00769afdee0a5136b3a25188f71b6449e1ed2",
       "slug": "formula-one-2026-dutch-grand-prix-qualifying-after-george-ru-5cd007",
@@ -740,8 +1193,8 @@
       "publishedAt": "2026-08-22T11:49:08.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o#0",
-      "titleHi": "Martinelli deserves better from Arsenal - Wright",
-      "excerptHi": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
+      "titleHi": "मार्टिनेली आर्सेनल से बेहतर का हकदार है - राइट",
+      "excerptHi": "इयान राइट का कहना है कि गेब्रियल मार्टिनेली आर्सेनल से \"अधिक सम्मान\" के हकदार हैं और जिस तरह से क्लब ने विंगर के संभावित निकास को संभाला है, उस पर सवाल उठाते हैं।",
       "archived": false
     },
     {
@@ -760,8 +1213,8 @@
       "publishedAt": "2026-08-22T11:31:09.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo#0",
-      "titleHi": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "excerptHi": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "titleHi": "जंगल की आग के बाद वेल्श काउंटी कार्बन उत्सर्जन के लिए वैश्विक हॉटस्पॉट बन गया",
+      "excerptHi": "कार्डिफ़ में 30 मील दूर ब्लेनावोन जंगल की आग से जलने की गंध की सूचना मिली थी।",
       "archived": false
     },
     {
@@ -780,8 +1233,8 @@
       "publishedAt": "2026-08-22T11:10:39.000Z",
       "sourceUrl": "https://www.nytimes.com/2026/08/22/opinion/vacation-type-b-mom.html",
       "guid": "https://www.nytimes.com/2026/08/22/opinion/vacation-type-b-mom.html",
-      "titleHi": "How a Type-A Mom Learned to (Briefly) Unclench",
-      "excerptHi": "Or, how a river taught me how to go with the flow (sorry, had to).",
+      "titleHi": "कैसे एक प्रकार - एक माँ ने (संक्षेप में) अनक्लेंच से सीखा",
+      "excerptHi": "या, कैसे एक नदी ने मुझे प्रवाह के साथ जाना सिखाया (क्षमा करें, करना पड़ा)।",
       "archived": false
     },
     {
@@ -802,7 +1255,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/22/trescothick-england-coach-fleming-test-cricket-pakistan-series",
       "titleHi": "Trescothick keen on England role under incoming Fleming: ‘It’s a wonderful place to be’",
       "excerptHi": "Former Test batter has interim coach post for Pakistan series Australian Mike Hussey confirms ‘casual approach’ Marcus Trescothick would like to remain part of Stephen Fleming’s backroom staff when the incoming head…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4d73defc48f84ea6ee234509135a3aef8ec8033c",
@@ -822,7 +1275,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/andy-beshear-president-kentucky.html",
       "titleHi": "Is Andy Beshear of Kentucky the Next Bill Clinton?",
       "excerptHi": "A Democratic governor popular in a state that glows red offers lessons for winning working-class voters. For one, speak plain English.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "92779736c0b80c61b4ddb8866676805fc42fbbf9",
@@ -842,7 +1295,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html",
       "titleHi": "Natalie’s Magnificent Obsession",
       "excerptHi": "This human printer runs — but not out of ink.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cc7995d3ed278ff135eafd6c876698c5ebf07d04",
@@ -862,7 +1315,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html",
       "titleHi": "The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’",
       "excerptHi": "As primary results trickle in, both parties are wrestling with what they stand for — and where they’re headed.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8557e5f54f57c8a8887316f07fb6fe70e34aa55e",
@@ -884,7 +1337,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/22/premier-league-buildup-transfers-and-hull-v-manchester-united-early-news-matchday-live",
       "titleHi": "Premier League buildup, transfers and João Pedro signs new Chelsea deal – as it happened",
       "excerptHi": "João Pedro signed a new contract at Chelsea until 2034 and the team news before Hull City v Manchester United On the topic of signings. Mikel Arteta said he was ‘really happy’ with the squad he’s got at The Emirates,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f1b1f6484605bbec7baf0f66b88c8765b139a729",
@@ -904,7 +1357,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/antidepressants-mental-health.html",
       "titleHi": "Beyond the Stigma of Antidepressants",
       "excerptHi": "Readers react to a guest essay about how some patients struggle with getting off medications used to treat depression.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5c49b6ced3ad7a500036d9c1b6e55ba9bf95776c",
@@ -924,7 +1377,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/us-debt-40-trillion.html",
       "titleHi": "$40 Trillion Debt? The Ancient Sumerians Wouldn’t Have Cared.",
       "excerptHi": "U.S. debt has topped $40 trillion. In the ancient world, debt forgiveness was a regular tool to control the economy. Why have we forgotten it?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "68ba73d95c3612bf0802e767b28b4a2e43ca2e8e",
@@ -944,7 +1397,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/surveillance-pricing-data-companies.html",
       "titleHi": "Companies Shouldn’t Set Prices One Customer at a Time",
       "excerptHi": "Surveillance pricing hurts consumers. It’s time to combat it with stronger laws on fair pricing.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "47159ea0f6076b3bab5c4ee8fd085dd08899f48e",
@@ -964,7 +1417,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
       "titleHi": "US kindergarten vaccination rates dip as exemptions hit record high",
       "excerptHi": "New CDC data shows MMR vaccination among kindergarteners declining slightly as non-medical exemptions climb to 4.2% A week after Donald Trump made a series of misleading claims about vaccines – including that some…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f45bb17d952a8ee0bfced3b3e3c634eb8334a2bf",
@@ -984,7 +1437,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o#0",
       "titleHi": "'We're not Brendon and Ben' - Root's calmness praised",
       "excerptHi": "Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair \"are not\" Ben Stokes and Brendon McCullum.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cb6ff69fe124faa808d039a027cb4226e6244976",
@@ -1004,7 +1457,7 @@
       "guid": "https://www.nytimes.com/video/opinion/100000011101498/the-right-is-rethinking-maga-the-left-is-rethinking-woke.html",
       "titleHi": "The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’",
       "excerptHi": "As primary results trickle in, both parties are wrestling with what they stand for — and where they’re headed.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0822198b8d751f387cf3c597212894550293f194",
@@ -1024,7 +1477,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o#3",
       "titleHi": "Taxi drivers urge council to agree 8% fare hike",
       "excerptHi": "Taxi fares could rise by 8% to help drivers combat rising fuel prices and the cost of living.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "edfb3d089004e80d297e1e89819809a6ecd5b1ce",
@@ -1044,7 +1497,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/22/zolani-last-born-tete-world-boxing-champion-shot-dead-south-africa",
       "titleHi": "Former world boxing champion, 38, shot dead outside home in South Africa",
       "excerptHi": "Zolani Tete was arriving at his house in Eastern Cape when two men in balaclavas got out of a car and shot him The former boxing world champion Zolani “Last Born” Tete was shot dead outside his home in South Africa on…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "02a677a68da8a429fda642ab23c6d31772b3e2f5",
@@ -1066,7 +1519,7 @@
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o#1",
       "titleHi": "Russell wins Dutch GP sprint from pole position",
       "excerptHi": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b8c0ed27bcb3f46a1216e1e4c2b3dddc05a5cd24",
@@ -1088,7 +1541,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
       "titleHi": "Chinese robot runs 100m sprint quicker than Usain Bolt’s world record",
       "excerptHi": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5b94864688e9757cea48ed8081df203f94b0778e",
@@ -1110,7 +1563,7 @@
       "guid": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
       "titleHi": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
       "excerptHi": "US President Donald Trump says the project is being funded by private donors and companies.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1e3509b978b7b4815546600c2f651fda1b68286d",
@@ -1130,7 +1583,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c1d1v63ngz1o#1",
       "titleHi": "Council set to axe climate emergency declaration",
       "excerptHi": "Barnsley Council says a review is under way to asses climate and net zero-related activity.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ed26f638795a04929e97e3805cc67427cf4f8977",
@@ -1150,7 +1603,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o#5",
       "titleHi": "Joao Pedro extends Chelsea stay until 2034",
       "excerptHi": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5794d90483e08d007d03d8688162bae6b5fc9c5f",
@@ -1172,7 +1625,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/c9v4v8ke01xo#5",
       "titleHi": "Bejlek continues stunning run to set up Gauff semi",
       "excerptHi": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final where she will face fourth seed Coco Gauff.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "926c138da422c9a62e979d4600e64721365633bf",
@@ -1194,7 +1647,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o#3",
       "titleHi": "Robot horse and rider steal the spotlight at Chinese conference",
       "excerptHi": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f374c7eddcf487f49a27336f7baa68ab60c2333c",
@@ -1214,7 +1667,7 @@
       "guid": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
       "titleHi": "Latest news bulletin | August 22nd, 2026 – Midday",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7cd564f14de522aa7bd8c972209da11f12b8a957",
@@ -1234,7 +1687,7 @@
       "guid": "https://www.theguardian.com/commentisfree/picture/2026/aug/22/samuel-ojo-on-the-stages-of-summer-holiday-denial-cartoon",
       "titleHi": "Samuel Ojo on the stages of summer holiday denial – cartoon",
       "excerptHi": "Continue reading...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "79596dc02152ee6952a80c9902489398bdd3e020",
