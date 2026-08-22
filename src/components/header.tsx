@@ -114,10 +114,10 @@ export function Header({ region = "india" }: { region?: "india" | "europe" }) {
           {/* Logo */}
           <Link href="/" className="flex shrink-0 items-center gap-2.5">
             <Image
-              src="/ecn-logo.jpg"
+              src="/ecn-logo.png"
               alt="Euro Connect News logo"
-              width={44}
-              height={44}
+              width={400}
+              height={298}
               priority
               className="h-9 w-9 shrink-0 object-contain sm:h-10 sm:w-10"
             />
