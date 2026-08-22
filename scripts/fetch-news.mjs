@@ -435,10 +435,66 @@ async function main() {
     JSON.stringify({ generatedAt: now, india: indiaLocal, europe: europeLocal }, null, 2) + "\n"
   );
 
+  // Best-effort: pre-warm the on-demand AI illustrations (for stories with no
+  // usable source image) so they load instantly and reliably for visitors.
+  // Pollinations rate-limits concurrency, so warm SEQUENTIALLY. Never fatal.
+  try {
+    await warmAiImages([...current, ...indiaLocal, ...europeLocal]);
+  } catch (e) {
+    console.warn("[news] AI warm skipped:", e.message);
+  }
+
   const translated = current.filter((i) => i.titleHi !== i.title).length;
   console.log(
     `[news] wrote ${current.length} current + ${all.length} archived (${newCount} new, ${translated} Hindi) `
   );
+}
+
+// --- AI illustration warming (mirrors src/lib/mock-data.ts) --------------------
+function aiTooSmall(url) {
+  const m = url && url.match(/[?&]width=(\d+)/i);
+  return m && parseInt(m[1], 10) < 500;
+}
+function aiImageUrl(item) {
+  const prompt =
+    `${item.title}. Editorial conceptual illustration for a news website about ${item.category}, ` +
+    `clean modern digital art, tasteful, non-photorealistic, no text, no letters, no watermark`;
+  let seed = 0;
+  for (const ch of String(item.id)) seed = (seed * 31 + ch.charCodeAt(0)) % 1_000_000;
+  return (
+    "https://image.pollinations.ai/prompt/" +
+    encodeURIComponent(prompt) +
+    `?width=800&height=500&nologo=true&seed=${seed}&model=flux`
+  );
+}
+async function warmAiImages(items) {
+  const seen = new Set();
+  const targets = [];
+  for (const it of items) {
+    if (!it || !it.id || seen.has(it.id)) continue;
+    seen.add(it.id);
+    if (!it.image || aiTooSmall(it.image)) targets.push(aiImageUrl(it));
+    if (targets.length >= 40) break;
+  }
+  if (!targets.length) return;
+  console.log(`[news] warming ${targets.length} AI illustrations (sequential)…`);
+  let ok = 0;
+  for (const url of targets) {
+    for (let a = 1; a <= 3; a++) {
+      try {
+        const ctl = new AbortController();
+        const t = setTimeout(() => ctl.abort(), 45000);
+        const r = await fetch(url, { signal: ctl.signal });
+        clearTimeout(t);
+        if (r.ok) { await r.arrayBuffer(); ok++; break; }
+        if (r.status === 429) { await new Promise((x) => setTimeout(x, 4000 * a)); continue; }
+        break;
+      } catch {
+        await new Promise((x) => setTimeout(x, 2500 * a));
+      }
+    }
+  }
+  console.log(`[news] warmed ${ok}/${targets.length} AI illustrations`);
 }
 
 // Run the full pipeline only when executed directly (not when imported by tests).
