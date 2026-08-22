@@ -430,16 +430,24 @@ async function main() {
   const europeLocal = all
     .filter((x) => (x.category || "").toLowerCase() === "europe")
     .slice(0, 10);
+  // Global section for visitors outside India/Europe (US, Asia, Africa, …).
+  const worldLocal = all
+    .filter((x) => (x.category || "").toLowerCase() === "world")
+    .slice(0, 10);
   writeFileSync(
     LOCAL_PATH,
-    JSON.stringify({ generatedAt: now, india: indiaLocal, europe: europeLocal }, null, 2) + "\n"
+    JSON.stringify(
+      { generatedAt: now, india: indiaLocal, europe: europeLocal, world: worldLocal },
+      null,
+      2
+    ) + "\n"
   );
 
   // Best-effort: pre-warm the on-demand AI illustrations (for stories with no
   // usable source image) so they load instantly and reliably for visitors.
   // Pollinations rate-limits concurrency, so warm SEQUENTIALLY. Never fatal.
   try {
-    await warmAiImages([...current, ...indiaLocal, ...europeLocal]);
+    await warmAiImages([...current, ...indiaLocal, ...europeLocal, ...worldLocal]);
   } catch (e) {
     console.warn("[news] AI warm skipped:", e.message);
   }

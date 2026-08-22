@@ -19,10 +19,10 @@ const QUICK_LINKS = [
 
 export function Hero({
   leadArticles,
-  leadCategory = "India",
+  leadCategory = "World",
 }: {
   leadArticles?: Article[];
-  leadCategory?: "India" | "Europe";
+  leadCategory?: "India" | "Europe" | "World";
 }) {
   const t = useTranslations("common");
   const tq = useTranslations("home.quickLinks");

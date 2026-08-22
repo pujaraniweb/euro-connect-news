@@ -2,7 +2,11 @@
 
 import { useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { COOKIE_NAME, regionForCountry, type Region } from "@/lib/region-shared";
+import {
+  COOKIE_NAME,
+  regionForCountryWorldwide,
+  type Region,
+} from "@/lib/region-shared";
 
 /**
  * Client-side country verifier. The server already renders a best guess from the
@@ -36,8 +40,8 @@ export function RegionSync({ serverRegion }: { serverRegion: Region }) {
         const loc = (text.match(/^loc=([A-Za-z]{2})/m) || [])[1];
         if (!loc) return;
 
-        // Non-India / non-European countries → keep the site's India default.
-        const detected: Region = regionForCountry(loc) ?? "india";
+        // India / Europe → local section; everywhere else → the global "world".
+        const detected: Region = regionForCountryWorldwide(loc);
         if (cancelled || detected === serverRegion) return;
 
         // Persist the corrected region and re-render the server components.

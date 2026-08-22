@@ -11,9 +11,14 @@ export default async function HomePage() {
   // generation time into a tiny local-news.json (top India + Europe stories from
   // the full corpus), so the homepage always has real local coverage WITHOUT
   // importing the heavy archive.json into the homepage bundle.
-  const leadCategory = region === "europe" ? "Europe" : "India";
+  const leadCategory =
+    region === "europe" ? "Europe" : region === "world" ? "World" : "India";
   const pool = (
-    region === "europe" ? localNews.europe : localNews.india
+    region === "europe"
+      ? localNews.europe
+      : region === "world"
+        ? localNews.world
+        : localNews.india
   ) as GeneratedItem[];
   const leadArticles = pool.map((it, i) => fromGenerated(it, i));
 

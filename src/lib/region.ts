@@ -1,7 +1,7 @@
 import { cookies, headers } from "next/headers";
 import {
   COOKIE_NAME,
-  regionForCountry,
+  regionForCountryWorldwide,
   type Region,
 } from "./region-shared";
 
@@ -26,9 +26,10 @@ import {
  */
 export type { Region };
 
-export const LOCAL_LABEL: Record<Region, "India" | "Europe"> = {
+export const LOCAL_LABEL: Record<Region, "India" | "Europe" | "World"> = {
   india: "India",
   europe: "Europe",
+  world: "World",
 };
 
 /** Detect the visitor's home region (server components / route handlers only). */
@@ -36,7 +37,8 @@ export async function detectRegion(): Promise<Region> {
   // 1) Explicit override (client verifier / manual choice) wins.
   const cookieStore = await cookies();
   const override = cookieStore.get(COOKIE_NAME)?.value;
-  if (override === "india" || override === "europe") return override;
+  if (override === "india" || override === "europe" || override === "world")
+    return override;
 
   // 2) Edge geolocation header forwarded to the origin — no API key required.
   const h = await headers();
@@ -46,10 +48,7 @@ export async function detectRegion(): Promise<Region> {
     h.get("x-geo-country") ||
     h.get("x-country-code") ||
     "";
-  const byGeo = regionForCountry(cc);
-  if (byGeo) return byGeo;
-
-  // 3) Fallback: India (the site's default). The client verifier will correct
-  //    this for European visitors whose header was missing.
-  return "india";
+  // India / Europe → local section; every other country → the global "world"
+  // section (never defaulted to India). Client verifier refines if needed.
+  return regionForCountryWorldwide(cc);
 }

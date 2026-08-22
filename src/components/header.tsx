@@ -37,9 +37,16 @@ function navHref(label: string) {
   return `/category/${label.toLowerCase()}`;
 }
 
-export function Header({ region = "india" }: { region?: "india" | "europe" }) {
-  const localCategory = region === "europe" ? "Europe" : "India";
-  const NAV = [localCategory, ...NAV_TAIL];
+export function Header({
+  region = "world",
+}: {
+  region?: "india" | "europe" | "world";
+}) {
+  const localCategory =
+    region === "europe" ? "Europe" : region === "india" ? "India" : "World";
+  // First item = the visitor's local section; drop it from the fixed tail so a
+  // "World" visitor doesn't see World twice.
+  const NAV = [localCategory, ...NAV_TAIL.filter((c) => c !== localCategory)];
 
   const t = useTranslations("nav");
   const tc = useTranslations("common");
