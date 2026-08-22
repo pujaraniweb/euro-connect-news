@@ -46,7 +46,9 @@ export function BreakingTicker() {
                 className="text-sm text-white/95 transition-opacity hover:text-white"
               >
                 <span className="font-medium">{it.title}</span>
-                <span className="ml-2 tabular text-white/70">{it.time}</span>
+                <span suppressHydrationWarning className="ml-2 tabular text-white/70">
+                  {it.time}
+                </span>
                 <span className="mx-4 text-white/40">•</span>
               </Link>
             ))}

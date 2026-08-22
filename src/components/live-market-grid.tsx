@@ -16,7 +16,10 @@ export function LiveMarketGrid() {
   return (
     <div>
       <div className="mb-4 flex items-center justify-between">
-        <p className="flex items-center gap-2 text-xs text-muted-foreground">
+        <p
+          suppressHydrationWarning
+          className="flex items-center gap-2 text-xs text-muted-foreground"
+        >
           <span className="h-2 w-2 rounded-full bg-up pulse-dot" />
           {t("liveUpdated", { time: shownTime })}
         </p>

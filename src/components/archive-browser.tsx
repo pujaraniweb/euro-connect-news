@@ -105,7 +105,9 @@ export function ArchiveBrowser({
                     : "text-foreground/80 hover:bg-surface-muted"
                 )}
               >
-                <span className="whitespace-nowrap">{fmtDate(k)}</span>
+                <span suppressHydrationWarning className="whitespace-nowrap">
+                  {fmtDate(k)}
+                </span>
                 <span
                   className={cn(
                     "rounded-full px-1.5 text-[11px] tabular",

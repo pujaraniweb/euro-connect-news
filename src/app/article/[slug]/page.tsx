@@ -102,7 +102,9 @@ export default async function ArticlePage({
             <span className="font-semibold">{article.author} ·</span>
           )}
           <span className="font-semibold">{article.source}</span>
-          <span className="text-muted-foreground">· {published}</span>
+          <span suppressHydrationWarning className="text-muted-foreground">
+            · {published}
+          </span>
           <span className="ml-auto rounded-full bg-surface-muted px-2.5 py-0.5 text-xs text-muted-foreground">
             {tcommon("minRead", { count: article.readTime })}
           </span>
