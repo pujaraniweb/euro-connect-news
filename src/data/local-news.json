@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:12:00.846Z",
+  "generatedAt": "2026-08-22T18:14:19.790Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -207,6 +207,66 @@
   ],
   "usa": [
     {
+      "id": "35d7fb33192e00ddfbcb74b2574384090c7d96ec",
+      "slug": "maybe-people-will-stop-sleeping-on-us---hull-enjoy-dream-ret-35d7fb",
+      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+      "excerpt": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/9279f370-9e3f-11f1-bb45-576721ee33bb.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T17:35:09.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o#2",
+      "titleHi": "'शायद लोग हम पर सोना बंद कर देंगे' - हल सपनों की वापसी का आनंद लें",
+      "excerptHi": "प्रतिनिधिमंडल के पसंदीदा हल सिटी मैनचेस्टर यूनाइटेड पर जीत के साथ सीज़न की अच्छी शुरुआत करते हैं क्योंकि उनके प्रबंधक का कहना है कि \"हम लोगों को गलत साबित करने की कोशिश कर रहे हैं\"।",
+      "archived": false
+    },
+    {
+      "id": "524958d33aa6b42843defcd117cc29a15167620c",
+      "slug": "us-military-newspaper-editor-voices-censorship-fears-after-b-524958",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "excerpt": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:57:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
+      "titleHi": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
+      "excerptHi": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।",
+      "archived": false
+    },
+    {
+      "id": "06787fad4f100bab5a5a5122422f1586b8180c94",
+      "slug": "the-real-natalie-harp-scandal-is-the-presidents-information-06787f",
+      "title": "The Real Natalie Harp Scandal Is the President’s Information Diet",
+      "excerpt": "President Trump exists in a degraded, chaotic environment.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Jamelle Bouie",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22bouie-newsletter-tcqf/22bouie-newsletter-tcqf-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T16:36:43.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/22/opinion/trump-natalie-harp-information-news.html",
+      "guid": "https://www.nytimes.com/2026/08/22/opinion/trump-natalie-harp-information-news.html",
+      "titleHi": "असली नेटली हार्प स्कैंडल राष्ट्रपति का सूचना आहार है",
+      "excerptHi": "राष्ट्रपति ट्रम्प एक अपमानित, अराजक वातावरण में मौजूद हैं।",
+      "archived": false
+    },
+    {
       "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
       "slug": "carney-calls-trumps-fresh-tariffs-a-miscalculation-after-tra-f4c36d",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -355,69 +415,6 @@
       "titleHi": "फ़ेयरमिंट के सीईओ का कहना है कि टोकन वाले शेयरों में वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को दोहराने का जोखिम है",
       "excerptHi": "Fairmint के CEO Joris Delanoue ने टोकन वाले स्टॉक को खंडित प्रणालियों और मानकों के माध्यम से वॉल स्ट्रीट के 1960 के दशक के पेपर संकट को फिर से बनाने के जोखिम की चेतावनी दी है।",
       "archived": false
-    },
-    {
-      "id": "5abd6232f2fce01ba467f27b754b9c9c1c834d42",
-      "slug": "kalshi-off-limits-in-multiple-states-as-prediction-markets-c-5abd62",
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "excerpt": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "author": "Jesse Hamilton",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T13:30:00.000Z",
-      "sourceUrl": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "guid": "15e77a72-fff3-48db-b931-f3c4c3e7eddc",
-      "titleHi": "भविष्यवाणी बाजार के रूप में कई राज्यों में कलशी ऑफ - लिमिट्स, सीएफटीसी लड़ाई के लिए तैयार है",
-      "excerptHi": "वाशिंगटन राज्य कलशी ग्राहकों के लिए कट ऑफ है जबकि कंपनी अदालत में विकास का मुकाबला करती है और इसका संघीय नियामक नए नियमों का पालन करता रहता है।",
-      "archived": false
-    },
-    {
-      "id": "1ba93b10329615133774632eeea3b8e4f462ec2d",
-      "slug": "canada-says-it-will-match-us-tariffs-dollar-for-dollar-as-tr-1ba93b",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "excerpt": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Sports"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T12:20:46.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo#0",
-      "titleHi": "कनाडा का कहना है कि व्यापार वार्ता टूटने के बाद यह अमेरिकी टैरिफ 'डॉलर के लिए डॉलर' से मेल खाएगा",
-      "excerptHi": "$ 20 बिलियन कनाडाई आयात पर एक नया 50% लेवी व्यापार वार्ता में आखिरी मिनट के ब्रेकडाउन के बाद लागू होता है।",
-      "archived": false
-    },
-    {
-      "id": "5c49b6ced3ad7a500036d9c1b6e55ba9bf95776c",
-      "slug": "40-trillion-debt-the-ancient-sumerians-wouldnt-have-cared-5c49b6",
-      "title": "$40 Trillion Debt? The Ancient Sumerians Wouldn’t Have Cared.",
-      "excerpt": "U.S. debt has topped $40 trillion. In the ancient world, debt forgiveness was a regular tool to control the economy. Why have we forgotten it?",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "Paul Vigna",
-      "image": "https://static01.nyt.com/images/2026/08/22/opinion/22vigna/22vigna-mediumSquareAt3X.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T11:00:10.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/22/opinion/us-debt-40-trillion.html",
-      "guid": "https://www.nytimes.com/2026/08/22/opinion/us-debt-40-trillion.html",
-      "titleHi": "$40 Trillion Debt? The Ancient Sumerians Wouldn’t Have Cared.",
-      "excerptHi": "U.S. debt has topped $40 trillion. In the ancient world, debt forgiveness was a regular tool to control the economy. Why have we forgotten it?",
-      "archived": true
     }
   ],
   "europe": [
@@ -503,7 +500,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/22/two-uk-men-convicted-explicit-content-onlyfans-without-consent",
       "titleHi": "ब्रिटेन की अदालत के मामलों से पता चलता है कि केवल प्रशंसकों की स्पष्ट सामग्री पोस्ट करने के लिए महिलाओं को जबरदस्ती या धोखा देने वाले दुर्व्यवहारकर्ता",
       "excerptHi": "अलग - अलग आपराधिक सजाएं तब आती हैं जब घरेलू हिंसा चैरिटीज ने तकनीक - सुगम दुर्व्यवहार और जबरदस्ती की चेतावनी दी है। इस सप्ताह दो लोगों को अलग - अलग आपराधिक मामलों में दोषी ठहराया गया है, जिनसे पता चला है कि उन्होंने स्पष्ट रूप से पोस्ट किया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3e64e5260d2db8f6f21870d00ba0f21ad721f15f",
@@ -526,7 +523,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
       "titleHi": "एंडी बर्नहम का कहना है कि वह 2042 में पुरुषों के विश्व कप को ब्रिटेन में वापस लाना चाहते हैं",
       "excerptHi": "प्रधानमंत्री ने क्षेत्रीय महापौरों को बताया कि वह 1966 के बाद पहली बार ब्रिटिश द्वीप समूह में खेले जाने वाले टूर्नामेंट के लिए उत्सुक हैं एंडी बर्नहम ने कहा है कि वह 2042 में ब्रिटेन में पुरुषों के विश्व कप को लाना चाहते हैं, जिससे टूर्नामेंट को...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5b94864688e9757cea48ed8081df203f94b0778e",
@@ -720,7 +717,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
       "titleHi": "जापान की सबसे ऊँची चोटी पर चढ़ने से पहले आदमी छोटे बेटे को फ़ूजी पर्वत पर छोड़ देता है",
       "excerptHi": "सात साल के लड़के ने थकान महसूस करने की शिकायत की थी इसलिए पिता ने उसे स्नैक्स और सॉफ्ट ड्रिंक के साथ छोड़ दिया और अपनी चढ़ाई जारी रखी एक आदमी जिसने अपने सात साल के बेटे को जापान में माउंट फ़ूजी पर छोड़ दिया जब लड़के ने महसूस करने की शिकायत की...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "75ac2db7433a1d945342de5088c5198ece7e2f1f",
@@ -1272,6 +1269,26 @@
   ],
   "latam": [
     {
+      "id": "139a8aab6d4090c0187d9779329864ff4a86b6c6",
+      "slug": "gianni-infantino-angers-concacaf-nations-after-hijacking-car-139a8a",
+      "title": "Gianni Infantino angers Concacaf nations after hijacking Caribbean Football Union meeting",
+      "excerpt": "Infantino used opportunity to lobby for election votes Fifa president was asked to stay away from CFU meeting Gianni Infantino has angered many of the Concacaf nations, whose support he is seeking in his re-election…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Exclusive by Matt Hughes and Nick Ames",
+      "image": "https://i.guim.co.uk/img/media/cffabf5751d502ec5967b532359f40fc92decb63/182_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=ae603183cba05ca822e94b84115ac675",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T18:02:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election",
+      "guid": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election",
+      "titleHi": "कैरेबियन फुटबॉल यूनियन की बैठक को हाईजैक करने के बाद Gianni Infantino ने Concacaf देशों को गुस्सा दिलाया",
+      "excerptHi": "इन्फैंटिनो ने चुनाव वोटों के लिए लॉबी करने के अवसर का इस्तेमाल किया फीफा अध्यक्ष को सीएफयू की बैठक से दूर रहने के लिए कहा गया था जियानी इन्फैंटिनो ने कई कॉन्काकाफ राष्ट्रों को नाराज कर दिया है, जिनका समर्थन वह अपने फिर से चुनाव में मांग रहे हैं...",
+      "archived": false
+    },
+    {
       "id": "343314a9898ca1da18bf96af4d089aa57943b5ce",
       "slug": "leandro-paredes-receives-10-match-ban-as-argentina-punished-343314",
       "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
@@ -1455,26 +1472,6 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c2lq5dk0gneo#2",
       "titleHi": "रोनाल्डिन्हो ने 46 साल की उम्र में वापसी करते हुए 300वां गोल किया",
       "excerptHi": "ब्राजील के महान खिलाड़ी रोनाल्डिन्हो का कहना है कि उन्हें उम्मीद है कि वह इतालवी तृतीय - स्तरीय टीम रेवेना में 46 साल की उम्र में वापसी की घोषणा करने के बाद अपने करियर का 300 वां गोल कर सकते हैं।",
-      "archived": true
-    },
-    {
-      "id": "5270533fc20326e1ed3957c3399e1157dd17d3e4",
-      "slug": "watch-fishermen-rescued-after-five-days-adrift-in-cool-box-527053",
-      "title": "Watch: Fishermen rescued after five days adrift in cool box",
-      "excerpt": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c19/live/afd9c7b0-9ccd-11f1-89bd-5bf7cf30291a.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T20:41:31.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o#3",
-      "titleHi": "देखें: मछुआरों को पांच दिनों तक ठंडे डिब्बे में रखने के बाद बचाया गया",
-      "excerptHi": "53 और 32 साल के पुरुषों ने मेक्सिको के तट से 75 मील दूर 14 अगस्त को अपनी मछली पकड़ने की सहकारी संस्था से संपर्क खो दिया।",
       "archived": true
     }
   ],
@@ -1685,6 +1682,49 @@
   ],
   "world": [
     {
+      "id": "524958d33aa6b42843defcd117cc29a15167620c",
+      "slug": "us-military-newspaper-editor-voices-censorship-fears-after-b-524958",
+      "title": "US military newspaper editor voices censorship fears after being fired",
+      "excerpt": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:57:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
+      "titleHi": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
+      "excerptHi": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।",
+      "archived": false
+    },
+    {
+      "id": "96958a6e435d6145914d599c2944a9bca4688eec",
+      "slug": "badenoch-says-reform-defectors-some-of-the-most-dishonest-pe-96958a",
+      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
+      "excerpt": "Tory leader rules out coalition with Farage’s party and says ‘drama queens’ who left will not be welcomed back Kemi Badenoch has called defectors who left for Reform “some of the most dishonest people” she has ever met,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Geneva Abdul",
+      "image": "https://i.guim.co.uk/img/media/71d34405327d208136835310eee0fe5a770a868a/1026_0_5131_4106/master/5131.jpg?width=140&quality=85&auto=format&fit=max&s=2bca559c0a33396ee909ed44bbeacd8d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T16:08:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "guid": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "titleHi": "बदेनोच कहते हैं कि सुधार के दलबदलू ‘कुछ सबसे बेईमान लोग जिनसे मैं मिला हूं’",
+      "excerptHi": "टोरी नेता ने फराज की पार्टी के साथ गठबंधन करने से इंकार कर दिया और कहा कि ‘ड्रामा क्वीन’ जो चली गईं, उनका स्वागत नहीं किया जाएगा केमी बाडेनोच ने सुधार के लिए रवाना होने वाले दलबदलुओं को \"सबसे बेईमान लोगों में से कुछ\" कहा है,...",
+      "archived": false
+    },
+    {
       "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
       "slug": "carney-calls-trumps-fresh-tariffs-a-miscalculation-after-tra-f4c36d",
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -1854,46 +1894,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
       "titleHi": "म्यांमार के मठ पर हमले में 14 लोगों की मौत",
       "excerptHi": "एक बचाव कार्यकर्ता ने कहा कि ध्यान में पीछे हटने के लिए नागरिकों के इकट्ठा होने पर साइट पर दो बार हमला किया गया था।",
-      "archived": false
-    },
-    {
-      "id": "53bb1fd30a975690a233b91f6419dec0393ed04f",
-      "slug": "two-police-officers-among-seven-people-killed-in-north-yorks-53bb1f",
-      "title": "Two police officers among seven people killed in North Yorkshire crash",
-      "excerpt": "Watchdog launches inquiry into collision involving police car and another vehicle on A66 in early hours of Saturday Seven people, including two police officers, died in a crash near Middlesbrough in the early hours of…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Geneva Abdul",
-      "image": "https://i.guim.co.uk/img/media/9df64fa1269ac937143437463fdb7c1d0dae94cd/188_0_1000_800/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=a174ac8b959b1e624ada180319428f77",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T12:47:55.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
-      "titleHi": "नॉर्थ यॉर्कशायर दुर्घटना में दो पुलिस अधिकारियों सहित सात लोगों की मौत",
-      "excerptHi": "वॉचडॉग ने शनिवार तड़के A66 पर पुलिस कार और एक अन्य वाहन से जुड़ी टक्कर की जांच शुरू की दो पुलिस अधिकारियों सहित सात लोगों की …",
-      "archived": false
-    },
-    {
-      "id": "2c70430db957c8ba3f887a14f91467557720bd6c",
-      "slug": "man-leaves-young-son-on-mount-fuji-before-ascending-japans-h-2c7043",
-      "title": "Man leaves young son on Mount Fuji before ascending Japan’s highest peak",
-      "excerpt": "Boy, seven, had complained of feeling tired so father left him with snacks and a soft drink and continued his climb A man who abandoned his seven-year-old son on Mount Fuji in Japan after the boy complained of feeling…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Donna Ferguson",
-      "image": "https://i.guim.co.uk/img/media/ba78d28c71b36e38bbf7f0d1bc2e16058322109d/689_0_6859_5491/master/6859.jpg?width=140&quality=85&auto=format&fit=max&s=c786792ccf866d3f490de7833a174bde",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T12:25:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-      "guid": "https://www.theguardian.com/world/2026/aug/22/man-leaves-young-son-mount-fuji-japan",
-      "titleHi": "जापान की सबसे ऊँची चोटी पर चढ़ने से पहले आदमी छोटे बेटे को फ़ूजी पर्वत पर छोड़ देता है",
-      "excerptHi": "सात साल के लड़के ने थकान महसूस करने की शिकायत की थी इसलिए पिता ने उसे स्नैक्स और सॉफ्ट ड्रिंक के साथ छोड़ दिया और अपनी चढ़ाई जारी रखी एक आदमी जिसने अपने सात साल के बेटे को जापान में माउंट फ़ूजी पर छोड़ दिया जब लड़के ने महसूस करने की शिकायत की...",
       "archived": false
     }
   ]
