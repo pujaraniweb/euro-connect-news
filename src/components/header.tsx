@@ -47,7 +47,6 @@ export function Header({ region = "world" }: { region?: Region }) {
   const t = useTranslations("nav");
   const tc = useTranslations("common");
   const th = useTranslations("header");
-  const tb = useTranslations("brand");
   const locale = useLocale() as Locale;
   const router = useRouter();
   const pathname = usePathname();
@@ -128,9 +127,6 @@ export function Header({ region = "world" }: { region?: Region }) {
                 )}
               >
                 Euro Connect News
-              </span>
-              <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-muted-foreground">
-                {tb("tagline")}
               </span>
             </span>
           </Link>
