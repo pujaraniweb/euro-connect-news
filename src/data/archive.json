@@ -1,8 +1,653 @@
 {
-  "generatedAt": "2026-08-23T14:19:23.966Z",
+  "generatedAt": "2026-08-23T16:13:24.135Z",
   "retentionDays": 45,
-  "total": 2043,
+  "total": 2079,
   "items": [
+    {
+      "id": "4774e258c0540c7fdaedcd32b9309294dd201b2f",
+      "slug": "newcastle-united-v-liverpool-premier-league-live-4774e2",
+      "title": "Newcastle United v Liverpool: Premier League – live",
+      "excerpt": "⚽ Premier League updates from the 4.30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line Delving into the Liverpool XI, there are two eye-catching selections. Firstly, Rio Ngumoha: the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Michael Butler",
+      "image": "https://i.guim.co.uk/img/media/190f83ed96bf1b58b170d1b17359c8679900b1a8/261_0_2223_1779/master/2223.jpg?width=140&quality=85&auto=format&fit=max&s=71441c86d5178acae33314a0f7e857e7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:04:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "guid": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "titleHi": "न्यूकैसल यूनाइटेड बनाम लिवरपूल: प्रीमियर लीग – LIVE",
+      "excerptHi": "शाम 4.30बजे (BST) किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | फुटबॉल डेली ईमेल प्राप्त करें | हमें लिवरपूल इलेवन में एक लाइन ड्रॉप करें, दो आकर्षक चयन हैं। सबसे पहले, रियो नगुमोहा: द...",
+      "archived": false
+    },
+    {
+      "id": "239cdb0175422a6ade6d5287fe988f0013bcb4cd",
+      "slug": "brydon-carse-handcuffed-by-police-outside-nightclub-promptin-239cdb",
+      "title": "Brydon Carse handcuffed by police outside nightclub prompting ECB investigation",
+      "excerpt": "England fast bowler released without charge Incident happened in Derby as Durham celebrated win Brydon Carse was handcuffed by police in Derby on Saturday as he became the latest England cricketer to become involved in…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "PA Media",
+      "image": "https://i.guim.co.uk/img/media/3f96fa2388d6f8b6ad9ab5579c520b30a37fe28b/343_0_5295_4236/master/5295.jpg?width=140&quality=85&auto=format&fit=max&s=c19d00cfdf77504c83c782b4dac1d69a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:04:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/23/brydon-carse-handcuffed-by-police-outside-nightclub-prompting-ecb-investigation",
+      "guid": "https://www.theguardian.com/sport/2026/aug/23/brydon-carse-handcuffed-by-police-outside-nightclub-prompting-ecb-investigation",
+      "titleHi": "ईसीबी की जांच के लिए नाइट क्लब के बाहर पुलिस द्वारा ब्राइडन कार्स की हथकड़ी",
+      "excerptHi": "इंग्लैंड के तेज गेंदबाज को बिना किसी आरोप के रिहा कर दिया गया डर्बी में घटना घटी जब डरहम ने जीत का जश्न मनाया ब्राइडन कार्स को शनिवार को डर्बी में पुलिस ने हथकड़ी लगा दी क्योंकि वह शामिल होने वाले नवीनतम इंग्लैंड क्रिकेटर बन गए...",
+      "archived": false
+    },
+    {
+      "id": "fdc1a8081eb2b08a4b73489fa586073347ca02d5",
+      "slug": "latest-news-bulletin-august-23rd-2026-evening-fdc1a8",
+      "title": "Latest news bulletin | August 23rd, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening",
+      "titleHi": "नवीनतम समाचार बुलेटिन | 23 अगस्त, 2026 – शाम",
+      "excerptHi": "23 अगस्त, 2026 - ताज़ा खबरें, ब्रेकिंग न्यूज़, दुनिया, बिज़नेस, एंटरटेनमेंट, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
+      "archived": false
+    },
+    {
+      "id": "7430b126d2e1badbe36b563957e45e9702b4e926",
+      "slug": "vuelta-a-espaa-britains-matt-brennan-soars-to-victory-in-sec-7430b1",
+      "title": "Vuelta a España: Britain’s Matt Brennan soars to victory in second stage",
+      "excerpt": "The 20-year-old Briton is riding in his first grand tour Tadej Pogacar retains overall leader’s red jersey Britain’s Matt Brennan sprinted ⁠to victory in the second stage of ⁠the Vuelta ⁠a ​España on Sunday with overall…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/6616a77f33997697292c09d1ff136cf84d8a6b0f/364_0_3635_2908/master/3635.jpg?width=140&quality=85&auto=format&fit=max&s=c50895da3297798c41039032346afb40",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:58:29.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/23/vuelta-a-espana-britains-matt-brennan-soars-to-victory-in-second-stage",
+      "guid": "https://www.theguardian.com/sport/2026/aug/23/vuelta-a-espana-britains-matt-brennan-soars-to-victory-in-second-stage",
+      "titleHi": "Vuelta a España: ब्रिटेन के मैट ब्रेनन ने दूसरे चरण में जीत हासिल की",
+      "excerptHi": "20 वर्षीय ब्रिटन अपने पहले भव्य दौरे में सवारी कर रहे हैं तदेज पोगाकर ने कुल लीडर की लाल जर्सी को बरकरार रखा है ब्रिटेन के मैट ब्रेनन ने रविवार को वुल्टा ए स्पेन के दूसरे चरण में जीत के लिए दौड़ लगाई...",
+      "archived": false
+    },
+    {
+      "id": "b11fa1f9ca0df1e4f58c9d39353d2df793b1fc11",
+      "slug": "thousands-struggling-without-power-in-indiana-12-days-after-b11fa1",
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "excerpt": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:54:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#0",
+      "titleHi": "इंडियाना में भयंकर तूफ़ानों के 12 दिन बाद हज़ारों लोग बिना बिजली के संघर्ष कर रहे हैं",
+      "excerptHi": "गैरी शहर में, जहां एक तिहाई निवासी गरीबी में रहते हैं, लोगों का कहना है कि वे \"उत्तरजीविता मोड\" में रह रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "e9470698809602091a53d2b17fb853c8b1644832",
+      "slug": "newcastle-and-liverpool-united-in-tribute-to-legend-keegan-e94706",
+      "title": "Newcastle and Liverpool united in tribute to legend Keegan",
+      "excerpt": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T15:53:38.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo#0",
+      "titleHi": "न्यूकैसल और लिवरपूल ने लीजेंड कीगन को श्रद्धांजलि दी",
+      "excerptHi": "न्यूकैसल और लिवरपूल दोनों ने प्रीमियर लीग सीज़न के शुरुआती सप्ताहांत पर अपने दिग्गज खिलाड़ी को श्रद्धांजलि अर्पित की।",
+      "archived": false
+    },
+    {
+      "id": "81646cf5962505ed0302fd55ad12e395297c6999",
+      "slug": "man-city-completely-deserved-to-win---maresca-81646c",
+      "title": "Man City 'completely deserved to win' - Maresca",
+      "excerpt": "Enzo Maresca marks his first Premier League game as Manchester City manager with a dramatic late comeback against Bournemouth, making a winning start to the 2026–27 season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1c/live/91c19fe0-9f03-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:52:45.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c4gkgy8ljqvo#2",
+      "titleHi": "मैन सिटी 'पूरी तरह से जीतने के योग्य' है - मारेशका",
+      "excerptHi": "एंजो मारेस्का ने मैनचेस्टर सिटी मैनेजर के रूप में अपना पहला प्रीमियर लीग गेम बॉर्नमाउथ के खिलाफ नाटकीय रूप से देर से वापसी की, जिससे 2026 -27 सत्र में जीत की शुरुआत हुई।",
+      "archived": false
+    },
+    {
+      "id": "31830035b43f75b693a037171ef1ed2a91d697ff",
+      "slug": "xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasur-318300",
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "excerpt": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Omkar Godbole",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T15:52:21.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "guid": "3034046e-a861-48fd-b839-518e74f51f1b",
+      "titleHi": "21 महीनों में सबसे बड़े साप्ताहिक लाभ के लिए XRP ट्रैक पर है क्योंकि ट्रेजरी बायबैक 'कर्व कंट्रोल' की उम्मीद बढ़ाता है",
+      "excerptHi": "इस हफ़्ते XRP की कीमत में 50% की बढ़ोतरी हुई है, जो नवंबर 2024 के बाद से सबसे अच्छा प्रदर्शन है। यहाँ बताया गया है कि रैली को क्या चला रहा है।",
+      "archived": false
+    },
+    {
+      "id": "5d3c4219d723a4862b0ab82ec8728a5bcafc3d32",
+      "slug": "jamieson-ends-14-year-wait-for-second-title-at-trump-course-5d3c42",
+      "title": "Jamieson ends 14-year wait for second title at Trump course",
+      "excerpt": "Scott Jamieson shoots a final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4408/live/715e2280-9f0a-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:42:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o#0",
+      "titleHi": "जेमीसन ने ट्रम्प कोर्स में दूसरे खिताब के लिए 14 साल का इंतजार खत्म किया",
+      "excerptHi": "स्कॉट जैमीसन ने अपने 14 साल के सूखे को समाप्त करने और एबरडीनशायर में ट्रम्प इंटरनेशनल गोल्फ लिंक्स में नेक्सो चैंपियनशिप में लगातार स्कॉटिश विजेताओं को बनाने के लिए 67 के अंतिम दौर की शूटिंग की।",
+      "archived": false
+    },
+    {
+      "id": "30d9fc92c0c956cb1734f74605041777b9b57c9d",
+      "slug": "fed-study-finds-crypto-investors-driven-by-beliefs-easily-sw-30d9fc",
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "excerpt": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto…",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Robert Lakin",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-future-of-public-finance-will-be-crypto-assets-for-liquid-democracy.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:30:53.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
+      "titleHi": "फेड अध्ययन में विश्वासों से प्रेरित क्रिप्टो निवेशक मिलते हैं, जो आसानी से रिटर्न से प्रभावित होते हैं",
+      "excerptHi": "फेडरल रिजर्व बैंक ऑफ क्लीवलैंड के एक अध्ययन में पाया गया है कि क्रिप्टो निवेशक रिटर्न और जोखिम पर तेजी से अलग - अलग विचार रखते हैं, जबकि बिटकॉइन के पिछले लाभों के बारे में जानकारी वांछित आवंटन और वास्तविक क्रिप्टो दोनों को बढ़ा सकती है...",
+      "archived": false
+    },
+    {
+      "id": "e7d6dd95517f7d548d02e95879f77c3a13c74ead",
+      "slug": "lando-norris-denies-antonelli-in-f1-dutch-gp-after-verstappe-e7d6dd",
+      "title": "Lando Norris denies Antonelli in F1 Dutch GP after Verstappen crashes out of home race",
+      "excerpt": "Antonelli second and Russell third in final Zandvoort race Dutch driver hits wall on opening lap resulting in restart Lando Norris won the Dutch Grand Prix, putting in a superb drive to retake the lead in a thrilling…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Giles Richards at Zandvoort",
+      "image": "https://i.guim.co.uk/img/media/d0cb964d3c00a1ae8e57812417d7a7f689b78bf8/25_309_3755_3005/master/3755.jpg?width=140&quality=85&auto=format&fit=max&s=65899e8b7bce145514b05def67982393",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:28:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/23/lando-norris-kimi-antonelli-george-russell-max-verstappen-crash-f1-dutch-grand-prix",
+      "guid": "https://www.theguardian.com/sport/2026/aug/23/lando-norris-kimi-antonelli-george-russell-max-verstappen-crash-f1-dutch-grand-prix",
+      "titleHi": "वर्स्टापेन के घरेलू रेस से बाहर होने के बाद लैंडो नॉरिस ने एंटोनेली को F1 डच जीपी में नामंजूर कर दिया",
+      "excerptHi": "अंतिम Zandvoort दौड़ में एंटोनेली दूसरे और रसेल तीसरे डच ड्राइवर ने ओपनिंग लैप पर दीवार को मारा जिसके परिणामस्वरूप लैंडो नॉरिस ने डच ग्रैंड प्रिक्स जीता, जिसने रोमांचक रूप से बढ़त हासिल करने के लिए शानदार ड्राइव लगाई...",
+      "archived": false
+    },
+    {
+      "id": "f1c15a1086ee6b5fdb56da31983b2135a735992e",
+      "slug": "norris-beats-antonelli-to-claim-final-dutch-gp-win-f1c15a",
+      "title": "Norris beats Antonelli to claim final Dutch GP win",
+      "excerpt": "Lando Norris and McLaren beat Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/540d/live/a65d7220-9f09-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:20:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o#0",
+      "titleHi": "नॉरिस ने एंटोनेली को हराकर अंतिम डच जीपी जीत हासिल की",
+      "excerptHi": "लैंडो नॉरिस और मैकलारेन ने मर्सिडीज के कीमी एंटोनेली को हराकर एक आकर्षक डच ग्रैंड प्रिक्स में शानदार रणनीतिक जीत हासिल की।",
+      "archived": false
+    },
+    {
+      "id": "71f5b148de22b4e3af9f97f7eba10101001afa71",
+      "slug": "guhi-and-gvardiol-late-show-earns-manchester-city-dramatic-w-71f5b1",
+      "title": "Guéhi and Gvardiol late show earns Manchester City dramatic win against Bournemouth",
+      "excerpt": "“WELCOME BACK ENZO” read the tifo beforehand and by the breathless close this was a joyous return for Manchester City’s new manager, Enzo Maresca, as a damaging loss became a memorable win due to Marc Guéhi’s…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jamie Jackson at the Etihad Stadium",
+      "image": "https://i.guim.co.uk/img/media/65784bcf716cf246d12888c08b5b814b33c15f7f/346_46_2614_2091/master/2614.jpg?width=140&quality=85&auto=format&fit=max&s=dab8b1bcb35101929d1df76390d51ef3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:14:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "guid": "https://www.theguardian.com/football/2026/aug/23/manchester-city-bournemouth-premier-league-match-report",
+      "titleHi": "Guéhi और Gvardiol लेट शो ने मैनचेस्टर सिटी को बोर्नमाउथ के खिलाफ नाटकीय जीत दिलाई",
+      "excerptHi": "\"वेलकम बैक एंजो\" ने पहले से ही टिफो पढ़ा और सांस बंद होने तक यह मैनचेस्टर सिटी के नए मैनेजर, एंजो मारेस्का के लिए एक खुशी की वापसी थी, क्योंकि मार्क गुही की वजह से एक हानिकारक हार एक यादगार जीत बन गई...",
+      "archived": false
+    },
+    {
+      "id": "9cf7bfe27592bb0c527bbb5101fbdfc7602129e5",
+      "slug": "hull-punished-united-defence-in-victory-but-carricks-attack-9cf7bf",
+      "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
+      "excerpt": "Manchester United again struggled against a back five as their newly promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Andrew Beasley",
+      "image": "https://i.guim.co.uk/img/media/06d9eaa90d4c56039263bed24f07e159a5504caf/300_320_2273_1818/master/2273.jpg?width=140&quality=85&auto=format&fit=max&s=d095526bf2f80110f23c5ecd60df51bb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:07:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
+      "guid": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
+      "titleHi": "हल ने जीत में यूनाइटेड डिफेंस को दंडित किया लेकिन कैरिक का हमला चिंता का बड़ा क्षेत्र है | एंड्रयू बीसली",
+      "excerptHi": "मैनचेस्टर यूनाइटेड फिर से बैक फाइव के खिलाफ संघर्ष कर रहा था क्योंकि उनके नए पदोन्नत मेजबानों ने सेट - पीस कमजोरी का फायदा उठाया था हल ने पिछले सीज़न में सेट प्ले से नौ लीग गोल किए थे, जो चैम्पियनशिप में संयुक्त रूप से सबसे कम थे। फिर भी दो...",
+      "archived": false
+    },
+    {
+      "id": "fb87ad05da20e91b856db32bf381c8b6fdae3ef5",
+      "slug": "ecb-investigates-carse-nightclub-incident-fb87ad",
+      "title": "ECB investigates Carse 'nightclub incident'",
+      "excerpt": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:07:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo#0",
+      "titleHi": "ईसीबी ने कार्से 'नाइट क्लब की घटना' की जांच की",
+      "excerptHi": "इंग्लैंड के गेंदबाज ब्राइडन कार्स को हथकड़ी पहने नाइट क्लब से दूर ले जाते हुए दिखाई देने वाले वीडियो के बाद ईसीबी ऑनलाइन प्रसारित होने के बाद जांच कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "4a7b92cbd9ac0310d40a5abafa1d8fdcdb4ac401",
+      "slug": "gvardiol-rescues-result-for-maresca---player-ratings-for-man-4a7b92",
+      "title": "Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth",
+      "excerpt": "How Man City and Bournemouth players rated following their Premier League match.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffab/live/d1460ab0-9f04-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T15:05:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o#1",
+      "titleHi": "Gvardiol ने Maresca के लिए परिणाम बचाया - मैन सिटी बनाम बोर्नमाउथ के लिए खिलाड़ी रेटिंग",
+      "excerptHi": "मैन सिटी और बॉर्नमाउथ के खिलाड़ियों ने अपने प्रीमियर लीग मैच के बाद कैसे रेटिंग दी।",
+      "archived": false
+    },
+    {
+      "id": "3dc8ee756f87e0ccdd349434a2b5de1faa3f7aae",
+      "slug": "spying-device-detectors-may-give-domestic-abuse-victims-fals-3dc8ee",
+      "title": "Spying device detectors may give domestic abuse victims false sense of security, study finds",
+      "excerpt": "Many tools fail to help victims find hidden cameras, microphones and trackers, leaving them at risk of ongoing surveillance Commercial detectors intended to help domestic abuse victims find hidden spying devices may…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Priya Bharadia",
+      "image": "https://i.guim.co.uk/img/media/0f06402ec28db55546af8c6a6eb2ccae3ed6fcd2/550_0_6105_4884/master/6105.jpg?width=140&quality=85&auto=format&fit=max&s=c109fbe165543474583dc6abeb340a24",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/23/spying-device-detectors-may-give-domestic-abuse-victims-false-sense-of-security-study-finds",
+      "guid": "https://www.theguardian.com/society/2026/aug/23/spying-device-detectors-may-give-domestic-abuse-victims-false-sense-of-security-study-finds",
+      "titleHi": "जासूसी डिवाइस डिटेक्टर घरेलू दुर्व्यवहार पीड़ितों को सुरक्षा की झूठी भावना दे सकते हैं, अध्ययन से पता चलता है",
+      "excerptHi": "कई उपकरण पीड़ितों को छिपे हुए कैमरे, माइक्रोफ़ोन और ट्रैकर्स खोजने में मदद करने में विफल रहते हैं, जिससे उन्हें चल रही निगरानी के जोखिम पर छोड़ दिया जाता है घरेलू दुर्व्यवहार पीड़ितों को छिपे हुए जासूसी उपकरणों को खोजने में मदद करने के इरादे से वाणिज्यिक डिटेक्टर…",
+      "archived": false
+    },
+    {
+      "id": "3d38ad745d2b805f866de487e1e92c977f27be79",
+      "slug": "illicit-deeds-have-just-gotten-a-new-halloween-video-game-ba-3d38ad",
+      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
+      "excerpt": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news email, free app or…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Jackson Ryan",
+      "image": "https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=96e2fb2af633479c6a2059368579ce41",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "titleHi": "ऑस्ट्रेलिया में हाल ही में एक नया हैलोवीन वीडियो गेम प्रतिबंधित किया गया है – और यह हिंसा के कारण नहीं है",
+      "excerptHi": "शिक्षाविद – और ऑस्ट्रेलिया के वर्गीकरण बोर्ड के एक पूर्व निदेशक – हेलोवीन कहते हैं: ‘प्रोत्साहित नशीली दवाओं के उपयोग‘ के कारण गेम का प्रतिबंध मानकों के एक असंगत सेट पर प्रकाश डालता है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या...",
+      "archived": false
+    },
+    {
+      "id": "9042dfc9f2c0c1083fa448de05b8cf673b8ed3b1",
+      "slug": "australias-marine-parks-protect-places-no-one-goes-rather-th-9042df",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "excerpt": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email, free app or daily news podcast The Australian government has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "guid": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "titleHi": "ऑस्ट्रेलिया के समुद्री पार्क नाजुक तटीय क्षेत्रों के बजाय ‘उन जगहों की रक्षा करते हैं जहां कोई नहीं जाता ', वैज्ञानिकों का कहना है",
+      "excerptHi": "सैकड़ों विशेषज्ञों ने पर्यावरण मंत्री को पत्र लिखकर ‘अद्वितीय और विशिष्ट‘ समुद्री पारिस्थितिकी प्रणालियों के लिए मजबूत सुरक्षा की मांग की है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलियाई सरकार ने...",
+      "archived": false
+    },
+    {
+      "id": "848d1c5700c6c3e49f6db778d5c900ef7b1983bd",
+      "slug": "the-end-of-latrobe-valley-coal-in-pictures-848d1c",
+      "title": "The end of Latrobe Valley coal – in pictures",
+      "excerpt": "Once the economic lifeblood of the region, Latrobe Valley’s coal industry is in terminal decline. Jesse Thompson’s photographic project aims to document this period of rapid change and examine the legacy that is being…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jesse Thompson",
+      "image": "https://i.guim.co.uk/img/media/69801ef906d5d7e1c74f67da2ee7a15000f279d5/832_0_4316_3456/master/4316.jpg?width=140&quality=85&auto=format&fit=max&s=4d9a09aa38b3edde19462720d3f5fdb4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/gallery/2026/aug/24/the-end-of-latrobe-valley-coal-in-pictures",
+      "guid": "https://www.theguardian.com/australia-news/gallery/2026/aug/24/the-end-of-latrobe-valley-coal-in-pictures",
+      "titleHi": "लैट्रोब वैली कोयले का अंत – तस्वीरों में",
+      "excerptHi": "एक बार जब इस क्षेत्र का आर्थिक जीवन समाप्त हो जाता है, तो लैट्रोब वैली का कोयला उद्योग टर्मिनल गिरावट में है। जेसी थॉम्पसन की फोटोग्राफिक परियोजना का उद्देश्य तेजी से परिवर्तन की इस अवधि को दस्तावेज करना और उस विरासत की जांच करना है जो चल रही है...",
+      "archived": false
+    },
+    {
+      "id": "a3043fc96e770006e72eda742f96971c58ed402f",
+      "slug": "australias-first-home-buyers-are-still-taking-out-loans-as-p-a3043f",
+      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "excerpt": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email, free app or daily news podcast First home buyers are…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=1ce63abf1c21d5bc4ab9ca1052309623",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
+      "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
+      "archived": false
+    },
+    {
+      "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
+      "slug": "absurd-children-to-see-gambling-logos-on-sports-jerseys-unti-f4081a",
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "excerpt": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email, free app or daily news podcast Children across Australia will…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Henry Belot and Josh Butler",
+      "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
+      "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
+      "archived": false
+    },
+    {
+      "id": "95e7989acecfc8863ae3fdf79d839722361bbfd7",
+      "slug": "france-links-rise-in-drownings-to-heatwaves-95e798",
+      "title": "France links rise in drownings to heatwaves",
+      "excerpt": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
+      "titleHi": "फ़्रांस डूबने की घटनाओं में बढ़ोतरी को हीटवेव से जोड़ता है",
+      "excerptHi": "एक सरकारी मंत्री का कहना है कि लोग पानी में जाकर जोखिम उठा रहे हैं, 19 जून से अब तक 301 लोगों की मौत हो चुकी है।",
+      "archived": false
+    },
+    {
+      "id": "2eeae85dd49ff353565421bfdfa11299eed9868c",
+      "slug": "were-all-going-to-the-worlds-fair-is-an-intimate-coming-of-a-2eeae8",
+      "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "excerpt": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "guid": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "titleHi": "वी आर ऑल गोइंग टू द वर्ल्ड्स फेयर एक अंतरंग आने वाली हॉरर फिल्म है",
+      "excerptHi": "Jane Schoenbrun की नवीनतम फिल्म, Teenage Sex and Death at Camp Miasma, अभी सिनेमाघरों में धूम मचा रही है। तो ऐसा लगता है कि यह उनकी पहली फिल्म, वी आर ऑल गोइंग टू द वर्ल्ड्स फेयर को फिर से देखने का सही समय है। मैं गिर गया...",
+      "archived": false
+    },
+    {
+      "id": "ebea646ed8123b5df14ae473e59ae573077b5dee",
+      "slug": "crypto-card-spending-tops-1-billion-as-stablecoins-move-into-ebea64",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "excerpt": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Francisco Rodrigues",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:00.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "guid": "6beefa8d-f97c-45b4-8ce4-47dd49e6c9c0",
+      "titleHi": "क्रिप्टो कार्ड खर्च $ 1 बिलियन से ऊपर है क्योंकि स्टेबलकॉइन्स रोजमर्रा की खरीदारी में जाते हैं",
+      "excerptHi": "एक साल में कार्ड वॉल्यूम को तीन गुना से भी ज़्यादा ट्रैक किया गया, जिसमें USDC और USDT का फ़ंड 70% से भी ज़्यादा खर्च होता है, क्योंकि यूज़र किराने का सामान, राइड और सब्सक्रिप्शन के लिए ज़्यादा - से - ज़्यादा भुगतान करते हैं।",
+      "archived": false
+    },
+    {
+      "id": "098afc13502921589a511836e6b4c1ad2255bebc",
+      "slug": "brighton-hammer-aston-villa-and-joo-gomes-red-adds-to-unai-e-098afc",
+      "title": "Brighton hammer Aston Villa and João Gomes red adds to Unai Emery’s pain",
+      "excerpt": "It is important to say that Aston Villa were not the only team here to have lost key players over the summer; to play under the threat of further departures; to be without others because of injury. It has been a testing…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "David Hytner at the Amex Stadium",
+      "image": "https://i.guim.co.uk/img/media/4815c8a9245119170437dd8f2fceac26e97deb6b/350_27_2002_1602/master/2002.jpg?width=140&quality=85&auto=format&fit=max&s=08fa0f9061df05b4ddd24ba1d7bbc157",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:56:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/23/brighton-aston-villa-premier-league-match-report",
+      "guid": "https://www.theguardian.com/football/2026/aug/23/brighton-aston-villa-premier-league-match-report",
+      "titleHi": "ब्राइटन हैमर एस्टन विला और जोआओ गोम्स का लाल रंग ऊनाई एमरी के दर्द को बढ़ाता है",
+      "excerptHi": "यह कहना महत्वपूर्ण है कि एस्टन विला यहां एकमात्र टीम नहीं थी जिसने गर्मियों में प्रमुख खिलाड़ियों को खो दिया है; आगे के प्रस्थान के खतरे के तहत खेलने के लिए; चोट के कारण दूसरों के बिना रहने के लिए। यह एक परीक्षण रहा है...",
+      "archived": false
+    },
+    {
+      "id": "c57277d44ed7560cd1e623231f7334cd24583803",
+      "slug": "former-abercrombie-ceo-mentally-fit-for-sex-trafficking-tria-c57277",
+      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
+      "excerpt": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentally competent to stand trial as he faces…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fed1198d76e876d2f753627abec5dc0130e170cc/254_0_2543_2035/master/2543.jpg?width=140&quality=85&auto=format&fit=max&s=f03a234d8159c35d9313c1c683fd504c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:32:56.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "titleHi": "जज का कहना है कि एबरक्रॉम्बी के पूर्व सीईओ सेक्स - ट्रैफिकिंग ट्रायल के लिए मानसिक रूप से फिट हैं",
+      "excerptHi": "माइकल जेफ्री को मनोभ्रंश के लक्षणों के लिए महीनों अस्पताल में भर्ती रहने के बाद मुकदमा चलाने के लिए मानसिक रूप से सक्षम माना जाता है एबरक्रॉम्बी एंड फिच के पूर्व सीईओ को मानसिक रूप से सक्षम माना गया है क्योंकि वह...",
+      "archived": false
+    },
+    {
+      "id": "b2bb8559ca9edd3297b08e16a1e407dd3bb277c3",
+      "slug": "crosscountry-cancels-almost-all-rail-services-after-power-cu-b2bb85",
+      "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
+      "excerpt": "Transport secretary asks ‘publicly owned operators to lay on extra services where possible’ CrossCountry has cancelled almost all of its train services in Great Britain after a power cut in Birmingham hit its control…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lauren Almeida",
+      "image": "https://i.guim.co.uk/img/media/4677f07b7d2142f63297aa80be64a50e0ff8ea70/475_37_3877_3104/master/3877.jpg?width=140&quality=85&auto=format&fit=max&s=a9cba5ab166a1947bf146a08ccef337d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:25:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
+      "guid": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
+      "titleHi": "बिजली कटौती नियंत्रण केंद्र से टकरा जाने के बाद क्रॉसकंट्री ने लगभग सभी रेल सेवाएं रद्द कर दीं",
+      "excerptHi": "परिवहन सचिव ने ‘सार्वजनिक रूप से स्वामित्व वाले ऑपरेटरों से कहा कि जहां संभव हो अतिरिक्त सेवाएं दें’ बर्मिंघम में बिजली कटौती के बाद क्रॉसकंट्री ने ग्रेट ब्रिटेन में अपनी लगभग सभी ट्रेन सेवाओं को रद्द कर दिया है...",
+      "archived": false
+    },
+    {
+      "id": "3cad1c64cc900d8f4a6f83e23207ad36365f148f",
+      "slug": "kane-first-englishman-to-win-germanys-player-of-the-year-awa-3cad1c",
+      "title": "Kane first Englishman to win Germany's player of the year award",
+      "excerpt": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T14:16:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo#3",
+      "titleHi": "केन जर्मनी का प्लेयर ऑफ द ईयर पुरस्कार जीतने वाले पहले अंग्रेज",
+      "excerptHi": "हैरी केन को वर्ष का 2026 जर्मन फुटबॉलर चुना गया है, जो पुरस्कार जीतने वाले पहले अंग्रेज बन गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "191040cd43427e4edb4e2f8b9ad609fcdea3301a",
+      "slug": "european-football-bayern-munichs-harry-kane-named-player-of-191040",
+      "title": "European football: Bayern Munich’s Harry Kane named player of the year in Germany",
+      "excerpt": "Striker becomes first Englishman to win the award Teammate Michael Olise finishes second Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian sport and agencies",
+      "image": "https://i.guim.co.uk/img/media/3250bb04b30c0ec98693c1258a7f608adf23b218/488_180_4269_3415/master/4269.jpg?width=140&quality=85&auto=format&fit=max&s=ddefe9341fbb57869a33632060ae71d4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:12:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "guid": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "titleHi": "यूरोपीय फुटबॉल: बायर्न म्यूनिख के हैरी केन जर्मनी में वर्ष के सर्वश्रेष्ठ खिलाड़ी चुने गए",
+      "excerptHi": "स्ट्राइकर पुरस्कार जीतने वाले पहले अंग्रेज बन गए टीममेट माइकल ओलिस दूसरे बायर्न म्यूनिख स्ट्राइकर हैरी केन को जर्मनी में 2026 प्लेयर ऑफ द ईयर के रूप में चुना गया था...",
+      "archived": false
+    },
+    {
+      "id": "0ffe997203baab35869de28d16247003ad3609aa",
+      "slug": "le-court-claims-tour-of-britain-glory-despite-wiebess-fourth-0ffe99",
+      "title": "Le Court claims Tour of Britain glory despite Wiebes’s fourth stage win in five",
+      "excerpt": "Mauritian claims landmark victory at Leamington Spa Wiebes finishes second after 137th career stage win Kim Le Court sealed overall victory in the Tour of Britain Women in Royal Leamington Spa, despite Lorena Wiebes…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Jeremy Whittle",
+      "image": "https://i.guim.co.uk/img/media/407a57ab1682058fbdb82a4fe510b0596e32c895/571_0_4470_3576/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=15c6002210e357a7dbed909d0aa42f76",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:11:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/23/kim-le-court-tour-of-britain-women-lorena-wiebes-cycling",
+      "guid": "https://www.theguardian.com/sport/2026/aug/23/kim-le-court-tour-of-britain-women-lorena-wiebes-cycling",
+      "titleHi": "ले कोर्ट ने पांच मैचों में वाइब्स की चौथे चरण की जीत के बावजूद ब्रिटेन दौरे के गौरव का दावा किया",
+      "excerptHi": "मॉरीशस का दावा है कि लीमिंगटन स्पा वाइब्स में ऐतिहासिक जीत 137 वें कैरियर स्टेज जीत के बाद दूसरे स्थान पर है किम ले कोर्ट ने रॉयल लीमिंगटन स्पा में टूर ऑफ ब्रिटेन महिलाओं में समग्र जीत को सील कर दिया, लोरेना वाइब्स के बावजूद...",
+      "archived": false
+    },
     {
       "id": "62ab3ec8047e75313c4b39024d44edd7521a116a",
       "slug": "twitter-broke-the-left-x-will-break-the-right-62ab3e",
@@ -21,6 +666,26 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "titleHi": "ट्विटर ने बाईं ओर तोड़ दिया। X दाईं ओर से टूट जाएगा।",
       "excerptHi": "डेमोक्रेट्स ने ट्विटर पर अपनी राजनीति बनाने के लिए कीमत चुकाई; अधिकार X पर अपना बनाने के लिए कीमत चुकाएगा।",
+      "archived": false
+    },
+    {
+      "id": "edc8f273eb85d49ba85435bee6a81d1ca77659f4",
+      "slug": "robots-smash-human-track-records-including-bolts-100m-sprint-edc8f2",
+      "title": "Robots smash human track records, including Bolt's 100m sprint — video",
+      "excerpt": "Humanoid robots have smashed human track records at the five-day World Humanoid Robot Games in Beijing. Among the records broken was Usain Bolt's 9.58-second 100m, with a robot developed by the Beijing Innovation Centre…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/bc4d26dee8b00dc77f8f607a7a13db526863af06/882_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=748ff42a4daabe74140ce09987ba7258",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:08:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
+      "guid": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
+      "titleHi": "रोबोट ने बोल्ट के 100 मीटर स्प्रिंट सहित मानव ट्रैक रिकॉर्ड को तोड़ा — वीडियो",
+      "excerptHi": "ह्यूमनॉइड रोबोटों ने बीजिंग में पांच दिवसीय विश्व ह्यूमनॉइड रोबोट गेम्स में मानव ट्रैक रिकॉर्ड तोड़ दिया है। तोड़े गए रिकॉर्डों में उसैन बोल्ट का 9.58 - सेकंड 100 मीटर था, जिसमें बीजिंग इनोवेशन सेंटर द्वारा विकसित एक रोबोट था...",
       "archived": false
     },
     {
@@ -87,6 +752,26 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
       "titleHi": "मैनचेस्टर सिटी बनाम बोर्नमाउथ: प्रीमियर लीग – LIVE",
       "excerptHi": "2PM BST किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | फुटबॉल डेली के लिए साइन अप करें | मेल एमिलिया मोरे ने अय्यूब बौद्दी के लिए शहर के कदम पर यहाँ: मार्को रोज ने अपने पहले प्रतिस्पर्धी मैच से पहले सकारात्मक बात की...",
+      "archived": false
+    },
+    {
+      "id": "1d4cc92e343d9cfea3720ec6602c7ea24c3f1474",
+      "slug": "an-ai-debt-bomb-crisis-no-this-isnt-enron-20-gene-marks-1d4cc9",
+      "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+      "excerpt": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” crisis because big datacenter builders such…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Gene Marks",
+      "image": "https://i.guim.co.uk/img/media/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/master/2681.jpg?width=140&quality=85&auto=format&fit=max&s=f50cffb2d718ac8b103c50bfb2b1bed0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "guid": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+      "titleHi": "एआई 'डेट बम’ संकट? नहीं, यह एनरॉन 2.0 नहीं है | जीन मार्क्स",
+      "excerptHi": "डेटासेंटर बिल्डआउट ऋण संकट की आशंका अतिरंजित है। जोखिम अतीत की तुलना में अलग हैं और वे वसूली योग्य हैं कुछ विशेषज्ञ \"डेट बम\" संकट की चेतावनी दे रहे हैं क्योंकि बड़े डेटासेंटर बिल्डर्स जैसे...",
       "archived": false
     },
     {
@@ -338,6 +1023,26 @@
       "archived": false
     },
     {
+      "id": "9ce71f7acc3b34a165ef6af332e83d413e4830ed",
+      "slug": "cryptos-next-billion-users-might-be-ai-agents-and-theyre-pay-9ce71f",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "excerpt": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Francisco Rodrigues",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b3f7b7e0e6d86e4e32cb82bf213fc59e1ca5d7-8660x5773.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T13:00:00.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "guid": "1e20fc9b-5a07-4765-9582-9284b17ca9f7",
+      "titleHi": "क्रिप्टो के अगले अरब उपयोगकर्ता एआई एजेंट हो सकते हैं, और वे स्टेबलकॉइन्स के साथ भुगतान कर रहे हैं",
+      "excerptHi": "Coinbase के AI प्रॉडक्ट के हेड के मुताबिक, फ़िलहाल हम \"नैपस्टर/LimeWire युग\" के एजेंटिक भुगतान के दौर में हैं।",
+      "archived": false
+    },
+    {
       "id": "c85614423c829fa13b510c22c264a5e457de5b28",
       "slug": "zelensky-should-be-asked-what-he-knew-about-government-corru-c85614",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -525,6 +1230,26 @@
       "archived": false
     },
     {
+      "id": "6b863d7f5ba6191a67d534697435e77e123f92ad",
+      "slug": "grand-theft-auto-vi-exists-in-its-own-universe-6b863d",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "guid": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "titleHi": "ग्रैंड थेफ्ट ऑटो VI अपने ही ब्रह्मांड में मौजूद है",
+      "excerptHi": "यह द स्टेपबैक है, जो एक साप्ताहिक न्यूज़लेटर है, जो तकनीकी दुनिया की एक ज़रूरी कहानी को तोड़ता है। GTA VI और वीडियो गेम उद्योग की स्थिति के बारे में अधिक जानकारी के लिए, एंड्रयू वेबस्टर का अनुसरण करें। स्टेपबैक हमारे... में आता है",
+      "archived": false
+    },
+    {
       "id": "5453647fbaee77fe15115c9d183417d80f392c38",
       "slug": "dozens-of-co-ordinated-arson-attacks-hit-southern-thailand-545364",
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -542,7 +1267,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#0",
       "titleHi": "दक्षिणी थाईलैंड में दर्जनों समन्वित आगजनी हमले हुए",
       "excerptHi": "किसी भी समूह ने हमलों की जिम्मेदारी नहीं ली है, जिसे सेना ने \"अशांति पैदा करने के उद्देश्य से\" कहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "39ea562d9b810ee494dc446875233d8986b14d2f",
@@ -564,7 +1289,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
       "titleHi": "ज़ेलेंस्की कहते हैं, युद्ध के समय में चुनाव कराने से यूक्रेन को नष्ट करने का जोखिम होगा",
       "excerptHi": "राष्ट्रपति ने प्रस्ताव की तीखी आलोचना करते हुए कहा कि ‘अभी चुनाव उस राज्य के लिए सुनामी हैं जो यूक्रेन को विभाजित करेगा’ वोलोडिमिर ज़ेलेंस्की ने कहा है कि युद्ध के दौरान यूक्रेन में चुनाव कराने से...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "13980f13c03ea9e8d39f9dbb2c9aa3e4fc6eab9a",
@@ -584,7 +1309,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro#3",
       "titleHi": "रूनी का कहना है कि मैन यूटीडी को डर लगना चाहिए - लेकिन हल में क्या गड़बड़ हुई?",
       "excerptHi": "मैनचेस्टर यूनाइटेड ने नव - प्रचारित हल में अपने प्रीमियर लीग अभियान की एक भयानक शुरुआत की। क्या गड़बड़ हुई?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1afccde2ef3b726834de66f95ca18a2fd0c1dd6f",
@@ -606,7 +1331,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c1414my6165o#1",
       "titleHi": "मॉरिन्हो ने विनीसियस जूनियर से भावनाओं को नियंत्रित करने का आग्रह किया",
       "excerptHi": "जोस मोरिन्हो का कहना है कि खेलों में धमकाने पर रियल मैड्रिड के ब्राजील के विंगर विनीसियस जूनियर को \"बहुत भावनात्मक नियंत्रण रखने की आवश्यकता है\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c9c0033a32d87f6fba2a33c10be9dd29fb3af6bc",
@@ -628,7 +1353,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live",
       "titleHi": "इसाक लिवरपूल, प्रीमियर लीग बिल्डअप और बहुत कुछ के साथ न्यूकैसल लौटते हैं – जैसा कि हुआ था",
       "excerptHi": "प्रीमियर लीग में रविवार के जुड़नार के सभी निर्माण, साथ ही शनिवार के नाटकीय परिणामों की प्रतिक्रिया और आखिरी लेकिन कम से कम, लीड्स ने वन में एक शून्य से जीत हासिल की। देर से नाटक के साथ एक और मैच...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0f7415ce5b12a30f40334c112c439b07f01ee2d0",
@@ -650,7 +1375,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
       "titleHi": "बर्नहम को गाजा में इजरायल के कार्यों को नरसंहार के रूप में मान्यता देने के लिए श्रम सम्मेलन में दबाव का सामना करना पड़ेगा",
       "excerptHi": "जमीनी स्तर के समूह प्रधानमंत्री से स्टारर नीति को तोड़ने और इजरायल जमीनी स्तर के श्रम समूहों पर पूर्ण हथियार प्रतिबंध लगाने का आग्रह करने के लिए गाजा पर एंडी बर्नहम के साथ एक सम्मेलन शोडाउन की तैयारी कर रहे हैं, क्योंकि पार्टी के सदस्य चाहते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ab025cf7a060143523401aacd0a91ec7110cc6f9",
@@ -670,7 +1395,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/23/halloween-capitalism-climate-change",
       "titleHi": "स्टोर अगस्त में हैलोवीन का सामान बेच रहे हैं। समय ने सभी अर्थ खो दिए हैं | डेव शिलिंग",
       "excerptHi": "पूंजीवाद और जलवायु संकट मौसम की अवधारणा को नष्ट करने की साजिश कर रहे हैं। मैं अपने कद्दू के मसाले में सांत्वना लूंगा, सभी को डरावना मौसम मुबारक हो! उन जैक -ओ - लालटेन को बाहर निकालें, क्योंकि हैलोवीन बस के आसपास है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ef36be6a2c5fbf1f0925f6872af6fa57401705a1",
@@ -693,7 +1418,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
       "titleHi": "पाइन - शंकु ग्रेनेड और प्लैनेट - बेकिंग कार्बन: फ़्रेंच आग 170 साल से बना रही है – एक विज़ुअल गाइड",
       "excerptHi": "गिरोंडे नरक की स्थितियों का उत्पादन करने के लिए संयुक्त रूप से दलदल को निकालने और एक मोनोकल्चर, पेड़ों से डिट्रिटस और वैश्विक हीटिंग लगाने का 1857 का फरमान। इस गर्मी में फ्रांस के कुछ हिस्सों में लगी विनाशकारी आग...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9b744b4df0e683cd52b777bd6fe49f0ac70db9d6",
@@ -713,7 +1438,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/23/peak-district-countryside-england-rightwing-vision",
       "titleHi": "पीक डिस्ट्रिक्ट में घूमते हुए, मुझे इंग्लैंड के दाईं ओर के मोनोटोन विजन की एक अद्भुत अस्वीकृति मिली | जॉन हैरिस",
       "excerptHi": "परिदृश्य आश्चर्यजनक था, लेकिन लंबी पैदल यात्रा करने वालों की विविधता भी ऐसी ही थी। हम इसे नया सामान्य बना सकते हैं – और हमें एक पखवाड़े पहले, मेरे दो किशोर बच्चे और मैं पीक डिस्ट्रिक्ट में तीन रात की यात्रा पर निकल पड़ें...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "82a2676821c50b60f58e5acb42a7514b74dc5923",
@@ -735,7 +1460,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/23/manuscript-fragments-discovery-medieval-guernsey",
       "titleHi": "पांडुलिपि के छिपे हुए टुकड़े मध्ययुगीन ग्वेर्नसे के साहित्यिक जीवन पर प्रकाश डालते हैं",
       "excerptHi": "शोधकर्ताओं का कहना है कि 12 वीं से 15 वीं शताब्दी के ग्रंथों ने एक ऐसी संस्कृति की ओर इशारा किया है जिसकी कल्पना भी नहीं की गई है ’मध्य युग के दौरान ग्वेर्नसे द्वीप पर साहित्यिक और बौद्धिक जीवन में अभूतपूर्व अंतर्दृष्टि है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "43ce3a85543130ff1c79f567394aefbfda855435",
@@ -755,7 +1480,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/personal-care-products-unlabeled-toxic-chemicals",
       "titleHi": "Personal care products are awash in unlabeled toxic chemicals, study finds",
       "excerptHi": "Even products labeled ‘eco’, ‘green’ or ‘natural’ can contain dangerous compounds including Pfas Common personal care products widely contain unlabeled toxic chemicals, results from a new peer-reviewed study suggest.…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3fb3f23fc839ca2c95604211d0e2b8a8fdb36421",
@@ -778,7 +1503,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "titleHi": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "excerptHi": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f878e88ff7aa8bc36bbaf5dda7419488f1f557f6",
@@ -798,7 +1523,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
       "titleHi": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
       "excerptHi": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength “Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fcda88548290d74bbd069000c439e9fcb67de7e0",
@@ -818,7 +1543,7 @@
       "guid": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
       "titleHi": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
       "excerptHi": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "85ea0396667474f193f6220f31e6db33bc53bd9e",
@@ -840,7 +1565,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window",
       "titleHi": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
       "excerptHi": "Striker wants move and said final year of deal was invalid 29-year-old took his case to tribunal and Fifa but lost Jean-Philippe Mateta is in dispute with Crystal Palace over the final year of his contract but failed in…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "41472bbf217095109f47026d3288c6183de9f101",
@@ -862,7 +1587,7 @@
       "guid": "https://www.bbc.co.uk/sport/gymnastics/articles/cy8e8ly92eeo#5",
       "titleHi": "GB's Fraser wins European gold and bronze",
       "excerptHi": "Britain's Joe Fraser wins gold in the high bar and bronze in the parallel bars at the European Gymnastics Championships in Zagreb.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3827ff72f04daf2c294f4990e944b14c25105fc7",
@@ -884,7 +1609,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro#1",
       "titleHi": "Abuse from Liverpool fans hurts - Alexander-Arnold",
       "excerptHi": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9b94841f34eb9a5dc952105948911fe91735e9fc",
@@ -907,7 +1632,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
       "titleHi": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
       "excerptHi": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1a27d2a00ce04f479e5ded454081a7fcbbe46159",
@@ -930,7 +1655,7 @@
       "guid": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
       "titleHi": "Artemis II crew to receive top US space medal for historic lunar journey",
       "excerptHi": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e12791ef863cb68e86303fffa1717edaf1b9c97a",
@@ -950,7 +1675,7 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html",
       "titleHi": "Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.",
       "excerptHi": "Four years at Harvard won’t corrupt your children.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fc621cb6655e09ae2fb416b0e26a7806ee32d99c",
@@ -970,7 +1695,7 @@
       "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-midday",
       "titleHi": "Latest news bulletin | August 23rd, 2026 – Midday",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bc4b59b69712dc33f151dbdb7c3870b985df938a",
@@ -990,7 +1715,7 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/beach-battle-nemesis.html",
       "titleHi": "‘Hey! You’re the Jerk at the Beach!’",
       "excerptHi": "As New Yorkers, we’re used to negotiating over tiny patches of space. But I didn’t expect that to continue on the beach.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "29e5bc91a773175ac4b6bc215a6a38bde218fbab",
@@ -1010,7 +1735,7 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/music-conservatories-teachers-gods.html",
       "titleHi": "Musical Gods Are False Idols",
       "excerptHi": "Musicians have a special tendency to elevate their teachers to divine status. It’s the worst thing a serious artist can do.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61478f1bbb4e98c305b589ca4ff1712ba6114236",
@@ -1033,7 +1758,7 @@
       "guid": "http://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time",
       "titleHi": "Chinese humanoid robot beats Bolt's 100-metre world record time",
       "excerptHi": "\"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics,\" organisers of the World Humanoid Robot Games said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "87add60be7fceef0a2fa9df114a4ff35f8edcbfb",
@@ -1055,7 +1780,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro#1",
       "titleHi": "Lopez beats Romero then snubs Catterall fight",
       "excerptHi": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0508b87dbfb9d4cb0e68c956985c844cb2e253de",
@@ -1077,7 +1802,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
       "titleHi": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
       "excerptHi": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d0bc5b704a02ac914a5c08114747aa569cea502d",
@@ -1099,7 +1824,7 @@
       "guid": "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37",
       "titleHi": "5.9-magnitude earthquake strikes Japan, injuring at least 37",
       "excerptHi": "\"I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude,\" Japanese Prime Minister Sanae Takaichi said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "51eaeec6eaf5c8b6fd5dee0f8b3c4e42ba901c91",
@@ -1119,7 +1844,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
       "titleHi": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
       "excerptHi": "New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2ce5c592093ff5bde595032a1d2907ffd7a5f740",
@@ -1141,7 +1866,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/23/glasgow-india-racist-disorder",
       "titleHi": "When I first moved to Glasgow from India, I felt welcomed and included. Now I just feel scrutinised | Sanghmitra Singh",
       "excerptHi": "The city that used to be full of kind strangers is increasingly witnessing racist disorder. I hope it can find its way back to its old friendliness Scottish people have always been known for their friendliness. “We’re…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2a6247ac6b61ba10fca0038020398ef85086e247",
@@ -1163,7 +1888,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/23/teofimo-lopez-rolly-romero-fight-result-boxing",
       "titleHi": "Teófimo López outpoints Rolly Romero to win title in third weight class",
       "excerptHi": "López wins majority decision to claim WBA crown Romero brands judges’ verdict a ‘robbery’ New champion adds to previous 135lb, 140lb belts Teófimo López became a three-division world champion on Saturday night, winning…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "83e432d7211131e4dd786f5786441922c8b49bc0",
@@ -1183,7 +1908,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o#5",
       "titleHi": "What does Savinho's £75m move reveal about Man City's multi-club model?",
       "excerptHi": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4771f8f1803b3fa71687b1e3b58e5892f67944c5",
@@ -1203,7 +1928,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo#1",
       "titleHi": "Australia beat Bangladesh in two days",
       "excerptHi": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "faf8ec8675ec8431ce525ac5a45f68ae713ffa24",
@@ -1223,7 +1948,7 @@
       "guid": "http://www.euronews.com/2026/08/23/indian-coast-guard-launches-search-and-rescue-operation-after-cargo-vessel-sinks-in-bay-of",
       "titleHi": "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
       "excerptHi": "The crew consisted of 20 Chinese nationals, three Myanmar nationals, and one Bangladeshi, the Indian Coast Guard said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c0e88e0446fb9163e39f259f2cf041c8e86f3a80",
@@ -1243,7 +1968,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo#3",
       "titleHi": "Pegula's three-hour epic sets up all‑US final",
       "excerptHi": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "973a7bc1d13da176edbf57ef29648f90af8d92db",
@@ -1263,7 +1988,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/clyxyj73d0mo#5",
       "titleHi": "Can you name the top 20 Test batters in the world?",
       "excerptHi": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cdf9633c6a1e0ba300f8d2dfe304e21f879862b1",
@@ -1451,6 +2176,26 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
       "titleHi": "बार्बी बैकलैश",
       "excerptHi": "‘द ओडिसी’ और ‘बार्बी’ एक ज़ेइटगिस्ट बदलाव दिखाते हैं जो हॉलीवुड से परे है: नायक की कथा हमारे राजनीतिक और सार्वजनिक जीवन को प्रभावित कर रही है।",
+      "archived": true
+    },
+    {
+      "id": "77d1dae941f3a1cee86846a4c9c419db5be370d2",
+      "slug": "man-completes-2800-mile-scoot-across-australia-77d1da",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "excerpt": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5080/live/9458f1d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T06:01:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o#1",
+      "titleHi": "Man completes 2,800 mile scoot across Australia",
+      "excerptHi": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
       "archived": true
     },
     {

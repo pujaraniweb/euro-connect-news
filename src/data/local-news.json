@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T14:19:23.966Z",
+  "generatedAt": "2026-08-23T16:13:24.135Z",
   "india": [
     {
       "id": "2ce5c592093ff5bde595032a1d2907ffd7a5f740",
@@ -21,7 +21,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/23/glasgow-india-racist-disorder",
       "titleHi": "When I first moved to Glasgow from India, I felt welcomed and included. Now I just feel scrutinised | Sanghmitra Singh",
       "excerptHi": "The city that used to be full of kind strangers is increasingly witnessing racist disorder. I hope it can find its way back to its old friendliness Scottish people have always been known for their friendliness. “We’re…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "faf8ec8675ec8431ce525ac5a45f68ae713ffa24",
@@ -41,7 +41,7 @@
       "guid": "http://www.euronews.com/2026/08/23/indian-coast-guard-launches-search-and-rescue-operation-after-cargo-vessel-sinks-in-bay-of",
       "titleHi": "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
       "excerptHi": "The crew consisted of 20 Chinese nationals, three Myanmar nationals, and one Bangladeshi, the Indian Coast Guard said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -210,6 +210,46 @@
   ],
   "usa": [
     {
+      "id": "4774e258c0540c7fdaedcd32b9309294dd201b2f",
+      "slug": "newcastle-united-v-liverpool-premier-league-live-4774e2",
+      "title": "Newcastle United v Liverpool: Premier League – live",
+      "excerpt": "⚽ Premier League updates from the 4.30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line Delving into the Liverpool XI, there are two eye-catching selections. Firstly, Rio Ngumoha: the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Michael Butler",
+      "image": "https://i.guim.co.uk/img/media/190f83ed96bf1b58b170d1b17359c8679900b1a8/261_0_2223_1779/master/2223.jpg?width=140&quality=85&auto=format&fit=max&s=71441c86d5178acae33314a0f7e857e7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:04:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "guid": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+      "titleHi": "न्यूकैसल यूनाइटेड बनाम लिवरपूल: प्रीमियर लीग – LIVE",
+      "excerptHi": "शाम 4.30बजे (BST) किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | फुटबॉल डेली ईमेल प्राप्त करें | हमें लिवरपूल इलेवन में एक लाइन ड्रॉप करें, दो आकर्षक चयन हैं। सबसे पहले, रियो नगुमोहा: द...",
+      "archived": false
+    },
+    {
+      "id": "5d3c4219d723a4862b0ab82ec8728a5bcafc3d32",
+      "slug": "jamieson-ends-14-year-wait-for-second-title-at-trump-course-5d3c42",
+      "title": "Jamieson ends 14-year wait for second title at Trump course",
+      "excerpt": "Scott Jamieson shoots a final round of 67 to end his 14-year drought and make it back-to-back Scottish winners at the Nexo Championship at Trump International Golf Links in Aberdeenshire.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4408/live/715e2280-9f0a-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:42:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/c8xnx252220o#0",
+      "titleHi": "जेमीसन ने ट्रम्प कोर्स में दूसरे खिताब के लिए 14 साल का इंतजार खत्म किया",
+      "excerptHi": "स्कॉट जैमीसन ने अपने 14 साल के सूखे को समाप्त करने और एबरडीनशायर में ट्रम्प इंटरनेशनल गोल्फ लिंक्स में नेक्सो चैंपियनशिप में लगातार स्कॉटिश विजेताओं को बनाने के लिए 67 के अंतिम दौर की शूटिंग की।",
+      "archived": false
+    },
+    {
       "id": "4d764894799a5e2397f1eea8bcffdc1d8ffd47fb",
       "slug": "formula-one-2026-max-verstappen-crashes-out-of-dutch-grand-p-4d7648",
       "title": "Formula One 2026: Max Verstappen crashes out of Dutch Grand Prix – live",
@@ -292,7 +332,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "titleHi": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
       "excerptHi": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f878e88ff7aa8bc36bbaf5dda7419488f1f557f6",
@@ -312,7 +352,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
       "titleHi": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
       "excerptHi": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength “Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9b94841f34eb9a5dc952105948911fe91735e9fc",
@@ -335,7 +375,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
       "titleHi": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
       "excerptHi": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1a27d2a00ce04f479e5ded454081a7fcbbe46159",
@@ -358,7 +398,7 @@
       "guid": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
       "titleHi": "Artemis II crew to receive top US space medal for historic lunar journey",
       "excerptHi": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "87add60be7fceef0a2fa9df114a4ff35f8edcbfb",
@@ -380,52 +420,72 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro#1",
       "titleHi": "Lopez beats Romero then snubs Catterall fight",
       "excerptHi": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.",
-      "archived": false
-    },
-    {
-      "id": "0508b87dbfb9d4cb0e68c956985c844cb2e253de",
-      "slug": "iran-linked-hackers-blamed-for-cyber-attack-that-shut-down-u-0508b8",
-      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "excerpt": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Ben Quinn Political correspondent",
-      "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T09:07:44.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "guid": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "titleHi": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "excerptHi": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "archived": false
-    },
-    {
-      "id": "c0e88e0446fb9163e39f259f2cf041c8e86f3a80",
-      "slug": "pegulas-three-hour-epic-sets-up-allus-final-c0e88e",
-      "title": "Pegula's three-hour epic sets up all‑US final",
-      "excerpt": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years.",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0919/live/22f1e270-9eb6-11f1-84b4-615bda525456.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T07:27:28.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo#3",
-      "titleHi": "Pegula's three-hour epic sets up all‑US final",
-      "excerptHi": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years.",
-      "archived": false
+      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "fdc1a8081eb2b08a4b73489fa586073347ca02d5",
+      "slug": "latest-news-bulletin-august-23rd-2026-evening-fdc1a8",
+      "title": "Latest news bulletin | August 23rd, 2026 – Evening",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:00:29.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening",
+      "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-evening",
+      "titleHi": "नवीनतम समाचार बुलेटिन | 23 अगस्त, 2026 – शाम",
+      "excerptHi": "23 अगस्त, 2026 - ताज़ा खबरें, ब्रेकिंग न्यूज़, दुनिया, बिज़नेस, एंटरटेनमेंट, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
+      "archived": false
+    },
+    {
+      "id": "95e7989acecfc8863ae3fdf79d839722361bbfd7",
+      "slug": "france-links-rise-in-drownings-to-heatwaves-95e798",
+      "title": "France links rise in drownings to heatwaves",
+      "excerpt": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dc9/live/a89a9c70-9eff-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
+      "titleHi": "फ़्रांस डूबने की घटनाओं में बढ़ोतरी को हीटवेव से जोड़ता है",
+      "excerptHi": "एक सरकारी मंत्री का कहना है कि लोग पानी में जाकर जोखिम उठा रहे हैं, 19 जून से अब तक 301 लोगों की मौत हो चुकी है।",
+      "archived": false
+    },
+    {
+      "id": "b2bb8559ca9edd3297b08e16a1e407dd3bb277c3",
+      "slug": "crosscountry-cancels-almost-all-rail-services-after-power-cu-b2bb85",
+      "title": "CrossCountry cancels almost all rail services after power cut hits control centre",
+      "excerpt": "Transport secretary asks ‘publicly owned operators to lay on extra services where possible’ CrossCountry has cancelled almost all of its train services in Great Britain after a power cut in Birmingham hit its control…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lauren Almeida",
+      "image": "https://i.guim.co.uk/img/media/4677f07b7d2142f63297aa80be64a50e0ff8ea70/475_37_3877_3104/master/3877.jpg?width=140&quality=85&auto=format&fit=max&s=a9cba5ab166a1947bf146a08ccef337d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:25:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
+      "guid": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
+      "titleHi": "बिजली कटौती नियंत्रण केंद्र से टकरा जाने के बाद क्रॉसकंट्री ने लगभग सभी रेल सेवाएं रद्द कर दीं",
+      "excerptHi": "परिवहन सचिव ने ‘सार्वजनिक रूप से स्वामित्व वाले ऑपरेटरों से कहा कि जहां संभव हो अतिरिक्त सेवाएं दें’ बर्मिंघम में बिजली कटौती के बाद क्रॉसकंट्री ने ग्रेट ब्रिटेन में अपनी लगभग सभी ट्रेन सेवाओं को रद्द कर दिया है...",
+      "archived": false
+    },
     {
       "id": "2d437afd40fb9f6242e0c32aef467c08558fc516",
       "slug": "trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-u-2d437a",
@@ -530,7 +590,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
       "titleHi": "ज़ेलेंस्की कहते हैं, युद्ध के समय में चुनाव कराने से यूक्रेन को नष्ट करने का जोखिम होगा",
       "excerptHi": "राष्ट्रपति ने प्रस्ताव की तीखी आलोचना करते हुए कहा कि ‘अभी चुनाव उस राज्य के लिए सुनामी हैं जो यूक्रेन को विभाजित करेगा’ वोलोडिमिर ज़ेलेंस्की ने कहा है कि युद्ध के दौरान यूक्रेन में चुनाव कराने से...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ef36be6a2c5fbf1f0925f6872af6fa57401705a1",
@@ -553,7 +613,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
       "titleHi": "पाइन - शंकु ग्रेनेड और प्लैनेट - बेकिंग कार्बन: फ़्रेंच आग 170 साल से बना रही है – एक विज़ुअल गाइड",
       "excerptHi": "गिरोंडे नरक की स्थितियों का उत्पादन करने के लिए संयुक्त रूप से दलदल को निकालने और एक मोनोकल्चर, पेड़ों से डिट्रिटस और वैश्विक हीटिंग लगाने का 1857 का फरमान। इस गर्मी में फ्रांस के कुछ हिस्सों में लगी विनाशकारी आग...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fc621cb6655e09ae2fb416b0e26a7806ee32d99c",
@@ -573,77 +633,30 @@
       "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-midday",
       "titleHi": "Latest news bulletin | August 23rd, 2026 – Midday",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": false
-    },
-    {
-      "id": "61478f1bbb4e98c305b589ca4ff1712ba6114236",
-      "slug": "chinese-humanoid-robot-beats-bolts-100-metre-world-record-ti-61478f",
-      "title": "Chinese humanoid robot beats Bolt's 100-metre world record time",
-      "excerpt": "\"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics,\" organisers of the World Humanoid Robot Games said.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T09:59:13.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time",
-      "guid": "http://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time",
-      "titleHi": "Chinese humanoid robot beats Bolt's 100-metre world record time",
-      "excerptHi": "\"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics,\" organisers of the World Humanoid Robot Games said.",
-      "archived": false
-    },
-    {
-      "id": "0508b87dbfb9d4cb0e68c956985c844cb2e253de",
-      "slug": "iran-linked-hackers-blamed-for-cyber-attack-that-shut-down-u-0508b8",
-      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "excerpt": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Ben Quinn Political correspondent",
-      "image": "https://i.guim.co.uk/img/media/677e2019dcd9c7efa20b39c0eef036ad95af750b/376_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=a2b02730588e2b5c0683c795d96a8a59",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T09:07:44.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "guid": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-      "titleHi": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-      "excerptHi": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "archived": false
-    },
-    {
-      "id": "d0bc5b704a02ac914a5c08114747aa569cea502d",
-      "slug": "59-magnitude-earthquake-strikes-japan-injuring-at-least-37-d0bc5b",
-      "title": "5.9-magnitude earthquake strikes Japan, injuring at least 37",
-      "excerpt": "\"I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude,\" Japanese Prime Minister Sanae Takaichi said.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T09:02:48.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37",
-      "guid": "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37",
-      "titleHi": "5.9-magnitude earthquake strikes Japan, injuring at least 37",
-      "excerptHi": "\"I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude,\" Japanese Prime Minister Sanae Takaichi said.",
-      "archived": false
+      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "edc8f273eb85d49ba85435bee6a81d1ca77659f4",
+      "slug": "robots-smash-human-track-records-including-bolts-100m-sprint-edc8f2",
+      "title": "Robots smash human track records, including Bolt's 100m sprint — video",
+      "excerpt": "Humanoid robots have smashed human track records at the five-day World Humanoid Robot Games in Beijing. Among the records broken was Usain Bolt's 9.58-second 100m, with a robot developed by the Beijing Innovation Centre…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "The Guardian",
+      "image": "https://i.guim.co.uk/img/media/bc4d26dee8b00dc77f8f607a7a13db526863af06/882_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=748ff42a4daabe74140ce09987ba7258",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:08:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
+      "guid": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
+      "titleHi": "रोबोट ने बोल्ट के 100 मीटर स्प्रिंट सहित मानव ट्रैक रिकॉर्ड को तोड़ा — वीडियो",
+      "excerptHi": "ह्यूमनॉइड रोबोटों ने बीजिंग में पांच दिवसीय विश्व ह्यूमनॉइड रोबोट गेम्स में मानव ट्रैक रिकॉर्ड तोड़ दिया है। तोड़े गए रिकॉर्डों में उसैन बोल्ट का 9.58 - सेकंड 100 मीटर था, जिसमें बीजिंग इनोवेशन सेंटर द्वारा विकसित एक रोबोट था...",
+      "archived": false
+    },
     {
       "id": "69ac612af8beebe25e85584d3192d7489958c688",
       "slug": "hampshire-v-yorkshire-somerset-v-essex-and-more-county-crick-69ac61",
@@ -705,7 +718,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#0",
       "titleHi": "दक्षिणी थाईलैंड में दर्जनों समन्वित आगजनी हमले हुए",
       "excerptHi": "किसी भी समूह ने हमलों की जिम्मेदारी नहीं ली है, जिसे सेना ने \"अशांति पैदा करने के उद्देश्य से\" कहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61478f1bbb4e98c305b589ca4ff1712ba6114236",
@@ -728,7 +741,7 @@
       "guid": "http://www.euronews.com/2026/08/23/chinese-humanoid-robot-beats-bolts-100-metre-world-record-time",
       "titleHi": "Chinese humanoid robot beats Bolt's 100-metre world record time",
       "excerptHi": "\"In 1 year alone the robots competing have become twice as fast. This highlights the pace of advancement both in the market, and specifically in Chinese robotics,\" organisers of the World Humanoid Robot Games said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d0bc5b704a02ac914a5c08114747aa569cea502d",
@@ -750,7 +763,7 @@
       "guid": "http://www.euronews.com/2026/08/23/59-magnitude-earthquake-strikes-japan-injuring-at-least-37",
       "titleHi": "5.9-magnitude earthquake strikes Japan, injuring at least 37",
       "excerptHi": "\"I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude,\" Japanese Prime Minister Sanae Takaichi said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4771f8f1803b3fa71687b1e3b58e5892f67944c5",
@@ -770,7 +783,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo#1",
       "titleHi": "Australia beat Bangladesh in two days",
       "excerptHi": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "faf8ec8675ec8431ce525ac5a45f68ae713ffa24",
@@ -790,7 +803,7 @@
       "guid": "http://www.euronews.com/2026/08/23/indian-coast-guard-launches-search-and-rescue-operation-after-cargo-vessel-sinks-in-bay-of",
       "titleHi": "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
       "excerptHi": "The crew consisted of 20 Chinese nationals, three Myanmar nationals, and one Bangladeshi, the Indian Coast Guard said.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "907e900f5db29168eaa64c613d17797e29010dfc",
@@ -832,26 +845,6 @@
       "guid": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
       "titleHi": "देखें: पल रोबोट ने उसैन बोल्ट के 100 मीटर रिकॉर्ड को मात देने की कोशिश की",
       "excerptHi": "स्मार्टफोन निर्माता ऑनर का कहना है कि चीन के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में एक एंड्रॉइड बोल्ट के विश्व रिकॉर्ड की तुलना में तेज़ी से चला।",
-      "archived": true
-    },
-    {
-      "id": "347841731a2a6fa00eaeac81e32c010e2b4a6912",
-      "slug": "fourteen-killed-in-strike-on-myanmar-monastery-347841",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "excerpt": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T13:48:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o#0",
-      "titleHi": "म्यांमार के मठ पर हमले में 14 लोगों की मौत",
-      "excerptHi": "एक बचाव कार्यकर्ता ने कहा कि ध्यान में पीछे हटने के लिए नागरिकों के इकट्ठा होने पर साइट पर दो बार हमला किया गया था।",
       "archived": true
     }
   ],
@@ -914,7 +907,7 @@
       "guid": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
       "titleHi": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
       "excerptHi": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a53bddc97566a384e0a71b5b05ca1c3e34c33cfe",
@@ -1102,7 +1095,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
       "titleHi": "बर्नहम को गाजा में इजरायल के कार्यों को नरसंहार के रूप में मान्यता देने के लिए श्रम सम्मेलन में दबाव का सामना करना पड़ेगा",
       "excerptHi": "जमीनी स्तर के समूह प्रधानमंत्री से स्टारर नीति को तोड़ने और इजरायल जमीनी स्तर के श्रम समूहों पर पूर्ण हथियार प्रतिबंध लगाने का आग्रह करने के लिए गाजा पर एंडी बर्नहम के साथ एक सम्मेलन शोडाउन की तैयारी कर रहे हैं, क्योंकि पार्टी के सदस्य चाहते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0508b87dbfb9d4cb0e68c956985c844cb2e253de",
@@ -1124,7 +1117,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
       "titleHi": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
       "excerptHi": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1f5d1456e501c0de76c4e184123f61decfadf7ba",
@@ -1318,7 +1311,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c1414my6165o#1",
       "titleHi": "मॉरिन्हो ने विनीसियस जूनियर से भावनाओं को नियंत्रित करने का आग्रह किया",
       "excerptHi": "जोस मोरिन्हो का कहना है कि खेलों में धमकाने पर रियल मैड्रिड के ब्राजील के विंगर विनीसियस जूनियर को \"बहुत भावनात्मक नियंत्रण रखने की आवश्यकता है\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "139a8aab6d4090c0187d9779329864ff4a86b6c6",
@@ -1487,6 +1480,97 @@
   ],
   "oceania": [
     {
+      "id": "3d38ad745d2b805f866de487e1e92c977f27be79",
+      "slug": "illicit-deeds-have-just-gotten-a-new-halloween-video-game-ba-3d38ad",
+      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
+      "excerpt": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news email, free app or…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Jackson Ryan",
+      "image": "https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=96e2fb2af633479c6a2059368579ce41",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "titleHi": "ऑस्ट्रेलिया में हाल ही में एक नया हैलोवीन वीडियो गेम प्रतिबंधित किया गया है – और यह हिंसा के कारण नहीं है",
+      "excerptHi": "शिक्षाविद – और ऑस्ट्रेलिया के वर्गीकरण बोर्ड के एक पूर्व निदेशक – हेलोवीन कहते हैं: ‘प्रोत्साहित नशीली दवाओं के उपयोग‘ के कारण गेम का प्रतिबंध मानकों के एक असंगत सेट पर प्रकाश डालता है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या...",
+      "archived": false
+    },
+    {
+      "id": "9042dfc9f2c0c1083fa448de05b8cf673b8ed3b1",
+      "slug": "australias-marine-parks-protect-places-no-one-goes-rather-th-9042df",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "excerpt": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email, free app or daily news podcast The Australian government has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "guid": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "titleHi": "ऑस्ट्रेलिया के समुद्री पार्क नाजुक तटीय क्षेत्रों के बजाय ‘उन जगहों की रक्षा करते हैं जहां कोई नहीं जाता ', वैज्ञानिकों का कहना है",
+      "excerptHi": "सैकड़ों विशेषज्ञों ने पर्यावरण मंत्री को पत्र लिखकर ‘अद्वितीय और विशिष्ट‘ समुद्री पारिस्थितिकी प्रणालियों के लिए मजबूत सुरक्षा की मांग की है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलियाई सरकार ने...",
+      "archived": false
+    },
+    {
+      "id": "a3043fc96e770006e72eda742f96971c58ed402f",
+      "slug": "australias-first-home-buyers-are-still-taking-out-loans-as-p-a3043f",
+      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "excerpt": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email, free app or daily news podcast First home buyers are…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=1ce63abf1c21d5bc4ab9ca1052309623",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
+      "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
+      "archived": false
+    },
+    {
+      "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
+      "slug": "absurd-children-to-see-gambling-logos-on-sports-jerseys-unti-f4081a",
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "excerpt": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email, free app or daily news podcast Children across Australia will…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Henry Belot and Josh Butler",
+      "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
+      "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
+      "archived": false
+    },
+    {
       "id": "69ac612af8beebe25e85584d3192d7489958c688",
       "slug": "hampshire-v-yorkshire-somerset-v-essex-and-more-county-crick-69ac61",
       "title": "Hampshire v Yorkshire, Somerset v Essex, and more: county cricket day four – live",
@@ -1524,7 +1608,27 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo#1",
       "titleHi": "Australia beat Bangladesh in two days",
       "excerptHi": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "77d1dae941f3a1cee86846a4c9c419db5be370d2",
+      "slug": "man-completes-2800-mile-scoot-across-australia-77d1da",
+      "title": "Man completes 2,800 mile scoot across Australia",
+      "excerpt": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5080/live/9458f1d0-9bbc-11f1-9cab-ed9e722cbe4c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T06:01:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o#1",
+      "titleHi": "Man completes 2,800 mile scoot across Australia",
+      "excerptHi": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney.",
+      "archived": true
     },
     {
       "id": "2f30b2d39716525b10458830506a6e8b364549a5",
@@ -1590,114 +1694,160 @@
       "titleHi": "सिडनी मैराथन ने ‘दुर्भाग्यपूर्ण त्रुटि‘ को स्वीकार किया क्योंकि फिनिशर के पदक में रेस हाइलाइट के रूप में म्यूनिख स्टेडियम को दर्शाया गया है",
       "excerptHi": "पदक के ‘लैंडमार्क’ पक्ष में सिडनी में एलियांज स्टेडियम के बजाय जर्मन शहर में एलियांज एरिना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
       "archived": true
-    },
-    {
-      "id": "07fa1256153f34fdb38ca406c54a500f9a7701a1",
-      "slug": "fur-seals-death-marks-first-australian-mainland-mammal-fatal-07fa12",
-      "title": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
-      "excerpt": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Lisa Cox and Sarah Basford Canales",
-      "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=36a1e74feec5a1502590d0641dd3a9c1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T00:42:49.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
-      "guid": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
-      "titleHi": "फर सील की मौत H5 बर्ड फ़्लू स्ट्रेन फैलने से पहली ऑस्ट्रेलियाई मुख्य भूमि स्तनपायी मृत्यु को चिह्नित करती है",
-      "excerptHi": "दक्षिण ऑस्ट्रेलिया के बीचपोर्ट में मृत पाया गया सील ‘महत्वपूर्ण नुकसान‘ का कारण बनता है, मंत्री ने चेतावनी दी नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ए...",
-      "archived": true
-    },
-    {
-      "id": "907e900f5db29168eaa64c613d17797e29010dfc",
-      "slug": "australia-v-bangladesh-second-mens-test-day-two-live-907e90",
-      "title": "Australia v Bangladesh: second men’s Test, day two – live",
-      "excerpt": "Updates from the Great Barrier Reef Arena in Mackay Any thoughts? Email Megan 45th over: Australia 184-8 (Green 65, Lyon 15) After that loose over from Hasan, we have Taijul Islam coming into the attack with his left…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Megan Maurice (now) and Geoff Lemon (later)",
-      "image": "https://i.guim.co.uk/img/media/4a8e2ff0f583b88c4d6311331c8d675a839597de/66_0_3033_2428/master/3033.jpg?width=140&quality=85&auto=format&fit=max&s=6d5beac7b49324872643f2ad550bfcd1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T00:34:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
-      "guid": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
-      "titleHi": "ऑस्ट्रेलिया बनाम बांग्लादेश: दूसरा पुरुष टेस्ट, दूसरा दिन – लाइव",
-      "excerptHi": "मैके में ग्रेट बैरियर रीफ एरिना से अपडेट कोई विचार? ईमेल मेगन 45 वां ओवर: ऑस्ट्रेलिया 184 -8 (ग्रीन 65, लियोन 15) हसन से ढीले होने के बाद, हमारे पास ताइजुल इस्लाम अपने बाएं के साथ हमले में आ रहा है...",
-      "archived": true
-    },
-    {
-      "id": "61f34710bc52ed6dafea1263d9d6c4821fea701b",
-      "slug": "australia-news-live-dead-fur-seal-the-first-mainland-mammal-61f347",
-      "title": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
-      "excerpt": "Follow live As parliament debated the future of the National Disability Insurance Scheme this week, Ali Kuylaars was worried. Her two children, both diagnosed with autism, could be among thousands across the country…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Stephanie Convery",
-      "image": "https://i.guim.co.uk/img/media/78e802a1a6c1173709e4b8e2806b9636eb77d9ff/830_404_2746_2197/master/2746.jpg?width=140&quality=85&auto=format&fit=max&s=1c459f3713940282d89cfa0ad22e4816",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T00:32:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: मृत फर H5 बर्ड फ्लू के पहले मुख्य भूमि स्तनपायी पीड़ित को सील करता है; लिबरल ने विक्टोरियन अपील अदालत के कट्टरपंथी पुन: डिजाइन की योजना बनाई है",
-      "excerptHi": "जैसा कि संसद ने इस सप्ताह राष्ट्रीय विकलांगता बीमा योजना के भविष्य पर चर्चा की, अली कुइलार्स चिंतित थे। उसके दो बच्चे, दोनों ऑटिजम से पीड़ित हैं, देश भर में हजारों में हो सकते हैं...",
-      "archived": true
-    },
-    {
-      "id": "bf8e484306756746d6ad23d6951566a660198a6f",
-      "slug": "wade-wins-first-world-series-title-in-australia-bf8e48",
-      "title": "Wade wins first World Series title in Australia",
-      "excerpt": "England's James Wade beats Australian qualifier Brody Klinge 8-5 in the Australian Masters final for his first World Series darts title.",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/036bd260-9e31-11f1-8a71-eb9ef5df2469.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T14:18:20.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o#5",
-      "titleHi": "वेड ने ऑस्ट्रेलिया में पहला विश्व सीरीज खिताब जीता",
-      "excerptHi": "इंग्लैंड के जेम्स वेड ने अपने पहले विश्व सीरीज डार्ट्स खिताब के लिए ऑस्ट्रेलियाई मास्टर्स फाइनल में ऑस्ट्रेलियाई क्वालीफायर ब्रॉडी क्लिंग को 8 -5 से हराया।",
-      "archived": true
-    },
-    {
-      "id": "3292da8e330cc12eda4b295a96c8b1af8519115e",
-      "slug": "south-africa-v-new-zealand-rugby-union-first-test-live-3292da",
-      "title": "South Africa v New Zealand: rugby union first Test – live",
-      "excerpt": "The All Blacks begin their four-test tour at Ellis Park. 7.10pm KO Sign up for The Breakdown | Mail Daniel Some sporting contests are poorly named. Teams from only two nations compete for the World Series in baseball.…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Daniel Gallan",
-      "image": "https://i.guim.co.uk/img/media/637af598994945f7255050718cf90d8ba6ec2484/1_0_4710_3770/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=0a0eccbb90c34c9ac50ca4bcef3d9e18",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T14:10:05.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/22/south-africa-v-new-zealand-rugby-union-first-test-live",
-      "guid": "https://www.theguardian.com/sport/live/2026/aug/22/south-africa-v-new-zealand-rugby-union-first-test-live",
-      "titleHi": "दक्षिण अफ्रीका बनाम न्यूजीलैंड: रग्बी यूनियन पहला टेस्ट – LIVE",
-      "excerptHi": "ऑल ब्लैक एलिस पार्क में अपने चार - टेस्ट दौरे की शुरुआत करते हैं। शाम 7.10बजे KO ब्रेकडाउन के लिए साइन अप करें | मेल डैनियल कुछ खेल प्रतियोगिताओं का नाम खराब है। केवल दो देशों की टीमें बेसबॉल में विश्व श्रृंखला के लिए प्रतिस्पर्धा करती हैं।...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "b11fa1f9ca0df1e4f58c9d39353d2df793b1fc11",
+      "slug": "thousands-struggling-without-power-in-indiana-12-days-after-b11fa1",
+      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "excerpt": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92c/live/de9d69e0-9e70-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:54:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo#0",
+      "titleHi": "इंडियाना में भयंकर तूफ़ानों के 12 दिन बाद हज़ारों लोग बिना बिजली के संघर्ष कर रहे हैं",
+      "excerptHi": "गैरी शहर में, जहां एक तिहाई निवासी गरीबी में रहते हैं, लोगों का कहना है कि वे \"उत्तरजीविता मोड\" में रह रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "3dc8ee756f87e0ccdd349434a2b5de1faa3f7aae",
+      "slug": "spying-device-detectors-may-give-domestic-abuse-victims-fals-3dc8ee",
+      "title": "Spying device detectors may give domestic abuse victims false sense of security, study finds",
+      "excerpt": "Many tools fail to help victims find hidden cameras, microphones and trackers, leaving them at risk of ongoing surveillance Commercial detectors intended to help domestic abuse victims find hidden spying devices may…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Priya Bharadia",
+      "image": "https://i.guim.co.uk/img/media/0f06402ec28db55546af8c6a6eb2ccae3ed6fcd2/550_0_6105_4884/master/6105.jpg?width=140&quality=85&auto=format&fit=max&s=c109fbe165543474583dc6abeb340a24",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/23/spying-device-detectors-may-give-domestic-abuse-victims-false-sense-of-security-study-finds",
+      "guid": "https://www.theguardian.com/society/2026/aug/23/spying-device-detectors-may-give-domestic-abuse-victims-false-sense-of-security-study-finds",
+      "titleHi": "जासूसी डिवाइस डिटेक्टर घरेलू दुर्व्यवहार पीड़ितों को सुरक्षा की झूठी भावना दे सकते हैं, अध्ययन से पता चलता है",
+      "excerptHi": "कई उपकरण पीड़ितों को छिपे हुए कैमरे, माइक्रोफ़ोन और ट्रैकर्स खोजने में मदद करने में विफल रहते हैं, जिससे उन्हें चल रही निगरानी के जोखिम पर छोड़ दिया जाता है घरेलू दुर्व्यवहार पीड़ितों को छिपे हुए जासूसी उपकरणों को खोजने में मदद करने के इरादे से वाणिज्यिक डिटेक्टर…",
+      "archived": false
+    },
+    {
+      "id": "3d38ad745d2b805f866de487e1e92c977f27be79",
+      "slug": "illicit-deeds-have-just-gotten-a-new-halloween-video-game-ba-3d38ad",
+      "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
+      "excerpt": "Academics – and a former director of Australia’s Classification Board – say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards Get our breaking news email, free app or…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Jackson Ryan",
+      "image": "https://i.guim.co.uk/img/media/2d00d59461704425390fb74429398239f2dbb7e5/239_0_1109_887/master/1109.jpg?width=140&quality=85&auto=format&fit=max&s=96e2fb2af633479c6a2059368579ce41",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "titleHi": "ऑस्ट्रेलिया में हाल ही में एक नया हैलोवीन वीडियो गेम प्रतिबंधित किया गया है – और यह हिंसा के कारण नहीं है",
+      "excerptHi": "शिक्षाविद – और ऑस्ट्रेलिया के वर्गीकरण बोर्ड के एक पूर्व निदेशक – हेलोवीन कहते हैं: ‘प्रोत्साहित नशीली दवाओं के उपयोग‘ के कारण गेम का प्रतिबंध मानकों के एक असंगत सेट पर प्रकाश डालता है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या...",
+      "archived": false
+    },
+    {
+      "id": "9042dfc9f2c0c1083fa448de05b8cf673b8ed3b1",
+      "slug": "australias-marine-parks-protect-places-no-one-goes-rather-th-9042df",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "excerpt": "Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems Get our breaking news email, free app or daily news podcast The Australian government has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/472bdde0a67fc8cb423f8306738cb3c5e60ebe82/367_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=61bcba4b08d36892cfc2c2c7a1789d2f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "guid": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "titleHi": "ऑस्ट्रेलिया के समुद्री पार्क नाजुक तटीय क्षेत्रों के बजाय ‘उन जगहों की रक्षा करते हैं जहां कोई नहीं जाता ', वैज्ञानिकों का कहना है",
+      "excerptHi": "सैकड़ों विशेषज्ञों ने पर्यावरण मंत्री को पत्र लिखकर ‘अद्वितीय और विशिष्ट‘ समुद्री पारिस्थितिकी प्रणालियों के लिए मजबूत सुरक्षा की मांग की है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलियाई सरकार ने...",
+      "archived": false
+    },
+    {
+      "id": "a3043fc96e770006e72eda742f96971c58ed402f",
+      "slug": "australias-first-home-buyers-are-still-taking-out-loans-as-p-a3043f",
+      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "excerpt": "Exclusive: New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says Get our breaking news email, free app or daily news podcast First home buyers are…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/f720114f68ff0e4cff909f63a65558cec306ba41/916_0_5336_4271/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=1ce63abf1c21d5bc4ab9ca1052309623",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
+      "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
+      "archived": false
+    },
+    {
+      "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
+      "slug": "absurd-children-to-see-gambling-logos-on-sports-jerseys-unti-f4081a",
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "excerpt": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email, free app or daily news podcast Children across Australia will…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Henry Belot and Josh Butler",
+      "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
+      "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
+      "archived": false
+    },
+    {
+      "id": "c57277d44ed7560cd1e623231f7334cd24583803",
+      "slug": "former-abercrombie-ceo-mentally-fit-for-sex-trafficking-tria-c57277",
+      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
+      "excerpt": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentally competent to stand trial as he faces…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fed1198d76e876d2f753627abec5dc0130e170cc/254_0_2543_2035/master/2543.jpg?width=140&quality=85&auto=format&fit=max&s=f03a234d8159c35d9313c1c683fd504c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T14:32:56.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
+      "titleHi": "जज का कहना है कि एबरक्रॉम्बी के पूर्व सीईओ सेक्स - ट्रैफिकिंग ट्रायल के लिए मानसिक रूप से फिट हैं",
+      "excerptHi": "माइकल जेफ्री को मनोभ्रंश के लक्षणों के लिए महीनों अस्पताल में भर्ती रहने के बाद मुकदमा चलाने के लिए मानसिक रूप से सक्षम माना जाता है एबरक्रॉम्बी एंड फिच के पूर्व सीईओ को मानसिक रूप से सक्षम माना गया है क्योंकि वह...",
+      "archived": false
+    },
     {
       "id": "e15e2647d853c314f813d9875c973bca5f07da4d",
       "slug": "burnham-stays-away-from-no-10-north-wedding-after-brides-ple-e15e26",
@@ -1760,151 +1910,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
       "titleHi": "मैसाचुसेट्स के अधिकारी की पत्नी के घर पर मृत पाए जाने पर गिरफ्तारी वारंट जारी किया गया",
       "excerptHi": "रविवार को लापता हुए एक मानसिक स्वास्थ्य वकील के लिए एक गिरफ्तारी वारंट जारी किया गया है, जो पांच से अधिक…",
-      "archived": false
-    },
-    {
-      "id": "c3b1997522c5378e882c168b4c3cf340bf7304c6",
-      "slug": "tributes-paid-to-officers-killed-in-a66-crash-as-police-name-c3b199",
-      "title": "Tributes paid to officers killed in A66 crash as police name five in other car",
-      "excerpt": "Redcar MP says Teesside community is ‘reeling’ after head-on collision involving vehicle being driven wrong way Tributes are being paid to two police officers who died on Teesside when a car travelling the wrong way…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Mark Brown North of England correspondent",
-      "image": "https://i.guim.co.uk/img/media/731e798cf0c4e3b64e84258000d65129e0667e8c/128_280_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=15085e1a730893186cf1586b7403bd19",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T13:15:04.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
-      "titleHi": "A66 दुर्घटना में मारे गए अधिकारियों को श्रद्धांजलि अर्पित की गई क्योंकि पुलिस ने अन्य कार में पांच लोगों को नामित किया था",
-      "excerptHi": "रेडकार के सांसद का कहना है कि टीसाइड समुदाय आमने - सामने की टक्कर के बाद ‘रीलिंग’ कर रहा है, जिसमें वाहन को गलत तरीके से चलाया जा रहा है, दो पुलिस अधिकारियों को श्रद्धांजलि दी जा रही है, जिनकी मृत्यु टीसाइड पर हुई थी, जब एक कार गलत तरीके से यात्रा कर रही थी...",
-      "archived": false
-    },
-    {
-      "id": "9df0000ed14466ed1c06b4d5ba3fb683d37c65b1",
-      "slug": "wicker-man-directors-sons-complete-their-late-fathers-film-t-9df000",
-      "title": "Wicker Man director's sons complete their late father's film trilogy",
-      "excerpt": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
-      "category": "World",
-      "secondaryCategories": [
-        "Culture"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T12:51:15.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo#2",
-      "titleHi": "विकर मैन के निर्देशक के बेटे अपने दिवंगत पिता की फिल्म की त्रयी पूरी करते हैं",
-      "excerptHi": "लोक डरावनी त्रयी में अंतिम फिल्म गाथा के साथ - साथ इसके निर्माता के परिवार को 50 से अधिक वर्षों के बाद बंद कर देती है।",
-      "archived": false
-    },
-    {
-      "id": "0ddadb7cee88e362c822dab264f8e99d56ba4094",
-      "slug": "robot-boxing-football-and-sprinting-at-world-humanoid-games-0ddadb",
-      "title": "Robot boxing, football and sprinting at World Humanoid Games",
-      "excerpt": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Sports"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T12:47:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#2",
-      "titleHi": "वर्ल्ड ह्यूमनॉइड गेम्स में रोबोट बॉक्सिंग, फुटबॉल और स्प्रिंटिंग",
-      "excerptHi": "पांच दिवसीय प्रतियोगिता का दूसरा संस्करण शनिवार को बीजिंग, चीन में शुरू हुआ।",
-      "archived": false
-    },
-    {
-      "id": "042d59a9ae009e51e13a823d22cdf0c5455dee72",
-      "slug": "new-season-new-trim---haaland-reveals-buzzcut-042d59",
-      "title": "'New season, new trim' - Haaland reveals buzzcut",
-      "excerpt": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T12:36:54.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo#0",
-      "titleHi": "'नया सीज़न, नई ट्रिम' - हालैंड ने बज़कट का खुलासा किया",
-      "excerptHi": "मैनचेस्टर सिटी के स्ट्राइकर एर्लिंग हेलैंड ने सोशल मीडिया पर अपनी नई चर्चा का खुलासा किया।",
-      "archived": false
-    },
-    {
-      "id": "f69b5c55bc03a44b9b657bd9fd7607853b6ccd45",
-      "slug": "golf-brand-apologises-for-advert-that-shows-woman-being-push-f69b5c",
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "excerpt": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d7/live/fa537640-9ee1-11f1-9797-eb684645fdf7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T12:25:40.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o#0",
-      "titleHi": "गोल्फ ब्रांड ने उस विज्ञापन के लिए माफी मांगी जिसमें दिखाया गया है कि महिला को धक्का दिया जा रहा है",
-      "excerptHi": "कंटेंट क्रिएटर गुड गुड माफी माँगता है और एक ऐसे विज्ञापन को हटाता है, जिसमें दिखाया गया है कि किसी पुरुष के गोल्फ क्लब के लिए पहुँचते ही एक महिला को ज़मीन पर धकेल दिया जाता है।",
-      "archived": false
-    },
-    {
-      "id": "a068dfa858bad647bdadc6c6554a333ca4bab662",
-      "slug": "double-jeopardy-luigi-mangione-state-case-unlikely-to-procee-a068df",
-      "title": "Double jeopardy? Luigi Mangione state case unlikely to proceed, experts say",
-      "excerpt": "Defense files motion to dismiss state case after federal guilty plea but prosecutors say they are prepared to litigate After Luigi Mangione admitted in Manhattan federal court that he killed UnitedHealthcare CEO Brian…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Victoria Bekiempis in New York",
-      "image": "https://i.guim.co.uk/img/media/478b5740417490d2f3f53db350ed47d6120d4612/150_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=0b8f2cc3cea031024a858d9b41696c1f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T12:00:32.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/23/luigi-mangione-state-case-brian-thompson",
-      "titleHi": "दोहरा खतरा? लुइगी मैंगियोन राज्य का मामला आगे बढ़ने की संभावना नहीं है, विशेषज्ञों का कहना है",
-      "excerptHi": "संघीय दोषी याचिका के बाद राज्य के मामले को खारिज करने के लिए बचाव पक्ष ने प्रस्ताव दायर किया लेकिन अभियोजकों का कहना है कि वे मुकदमेबाजी के लिए तैयार हैं जब लुइगी मैंगियोन ने मैनहट्टन संघीय अदालत में स्वीकार किया कि उसने यूनाइटेडहेल्थकेयर के सीईओ ब्रायन को मार डाला...",
-      "archived": false
-    },
-    {
-      "id": "5453647fbaee77fe15115c9d183417d80f392c38",
-      "slug": "dozens-of-co-ordinated-arson-attacks-hit-southern-thailand-545364",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "excerpt": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb09/live/98ca1da0-9ee8-11f1-9ebe-a78ab900c4a7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T11:50:59.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o#0",
-      "titleHi": "दक्षिणी थाईलैंड में दर्जनों समन्वित आगजनी हमले हुए",
-      "excerptHi": "किसी भी समूह ने हमलों की जिम्मेदारी नहीं ली है, जिसे सेना ने \"अशांति पैदा करने के उद्देश्य से\" कहा है।",
       "archived": false
     }
   ]
