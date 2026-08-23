@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T00:39:42.795Z",
+  "generatedAt": "2026-08-23T02:54:42.043Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -266,7 +266,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
       "titleHi": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
       "excerptHi": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "06787fad4f100bab5a5a5122422f1586b8180c94",
@@ -420,6 +420,29 @@
     }
   ],
   "europe": [
+    {
+      "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
+      "slug": "sydney-marathon-admits-unfortunate-error-as-finishers-medal-4f21b2",
+      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
+      "excerpt": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Stephanie Convery",
+      "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=140&quality=85&auto=format&fit=max&s=5f1134c9a7d8ca7850e1c5104cf0f446",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T02:14:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "titleHi": "सिडनी मैराथन ने ‘दुर्भाग्यपूर्ण त्रुटि‘ को स्वीकार किया क्योंकि फिनिशर के पदक में रेस हाइलाइट के रूप में म्यूनिख स्टेडियम को दर्शाया गया है",
+      "excerptHi": "पदक के ‘लैंडमार्क’ पक्ष में सिडनी में एलियांज स्टेडियम के बजाय जर्मन शहर में एलियांज एरिना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
     {
       "id": "eb3b2489e4a87ec30fb5df8fe4742a3ff1aaa596",
       "slug": "meghans-casting-in-the-gentlemen-reportedly-withdrawn-eb3b24",
@@ -611,26 +634,6 @@
       "guid": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
       "titleHi": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
       "excerptHi": "US President Donald Trump says the project is being funded by private donors and companies.",
-      "archived": true
-    },
-    {
-      "id": "f374c7eddcf487f49a27336f7baa68ab60c2333c",
-      "slug": "latest-news-bulletin-august-22nd-2026-midday-f374c7",
-      "title": "Latest news bulletin | August 22nd, 2026 – Midday",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T10:00:16.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
-      "guid": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-midday",
-      "titleHi": "Latest news bulletin | August 22nd, 2026 – Midday",
-      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     }
   ],
@@ -1475,6 +1478,52 @@
   ],
   "oceania": [
     {
+      "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
+      "slug": "sydney-marathon-admits-unfortunate-error-as-finishers-medal-4f21b2",
+      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
+      "excerpt": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Crypto",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Stephanie Convery",
+      "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=140&quality=85&auto=format&fit=max&s=5f1134c9a7d8ca7850e1c5104cf0f446",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T02:14:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
+      "titleHi": "सिडनी मैराथन ने ‘दुर्भाग्यपूर्ण त्रुटि‘ को स्वीकार किया क्योंकि फिनिशर के पदक में रेस हाइलाइट के रूप में म्यूनिख स्टेडियम को दर्शाया गया है",
+      "excerptHi": "पदक के ‘लैंडमार्क’ पक्ष में सिडनी में एलियांज स्टेडियम के बजाय जर्मन शहर में एलियांज एरिना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "07fa1256153f34fdb38ca406c54a500f9a7701a1",
+      "slug": "fur-seals-death-marks-first-australian-mainland-mammal-fatal-07fa12",
+      "title": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+      "excerpt": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Lisa Cox and Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=36a1e74feec5a1502590d0641dd3a9c1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:42:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "titleHi": "फर सील की मौत H5 बर्ड फ़्लू स्ट्रेन फैलने से पहली ऑस्ट्रेलियाई मुख्य भूमि स्तनपायी मृत्यु को चिह्नित करती है",
+      "excerptHi": "दक्षिण ऑस्ट्रेलिया के बीचपोर्ट में मृत पाया गया सील ‘महत्वपूर्ण नुकसान‘ का कारण बनता है, मंत्री ने चेतावनी दी नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ए...",
+      "archived": false
+    },
+    {
       "id": "907e900f5db29168eaa64c613d17797e29010dfc",
       "slug": "australia-v-bangladesh-second-mens-test-day-two-live-907e90",
       "title": "Australia v Bangladesh: second men’s Test, day two – live",
@@ -1635,52 +1684,52 @@
       "titleHi": "Australia v Bangladesh: second men’s Test, day one – as it happened",
       "excerptHi": "Mitchell Starc rips through Bangladesh with six wickets before Australia build 101-run lead as Cameron Green holds innings together in Mackay Bangladesh have also made one change with rangy left-armer Shoriful Islam…",
       "archived": true
+    }
+  ],
+  "world": [
+    {
+      "id": "91f9a2d4a4bb6e3183cdac7822c55ef5a1fcd76f",
+      "slug": "swedish-sword-attack-victim-was-17-year-old-girl-police-say-91f9a2",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "excerpt": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T01:34:15.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo#1",
+      "titleHi": "पुलिस का कहना है कि स्वीडिश तलवार हमले की शिकार 17 वर्षीय लड़की थी",
+      "excerptHi": "हमले में 12 और 17 साल के दो लड़के भी घायल हो गए, जबकि एक 18 वर्षीय संदिग्ध को हिरासत में लिया गया है।",
+      "archived": false
     },
     {
-      "id": "12681a12c00a6e2dd96c0bf16483f3847b8c15f2",
-      "slug": "victorian-labor-promises-free-dental-care-if-re-elected-in-a-12681a",
-      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-      "excerpt": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email, free app or daily news podcast Victorians would be able to walk into a dental…",
+      "id": "07fa1256153f34fdb38ca406c54a500f9a7701a1",
+      "slug": "fur-seals-death-marks-first-australian-mainland-mammal-fatal-07fa12",
+      "title": "Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+      "excerpt": "Seal found dead at Beachport in South Australia presages ‘significant losses’, minister warns Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A…",
       "category": "World",
       "secondaryCategories": [
         "Technology",
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Benita Kolovos Victorian state correspondent",
-      "image": "https://i.guim.co.uk/img/media/6b5a42253a30cc8ec4bb1d1565aa0b39617ecb08/344_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=b385c812d13bcfcc6349d4e1197864d6",
+      "author": "Lisa Cox and Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/477e4b57e8708325995c483a09c9726c05d11095/2304_1636_2647_2118/master/2647.jpg?width=140&quality=85&auto=format&fit=max&s=36a1e74feec5a1502590d0641dd3a9c1",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-21T19:00:42.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "titleHi": "ऑस्ट्रेलिया के पहले कदम में फिर से चुने जाने पर विक्टोरियन लेबर मुफ्त दंत चिकित्सा देखभाल का वादा करता है",
-      "excerptHi": "प्रीमियर बेन कैरोल का कहना है कि $ 230m को 10 पब्लिक डेंटल क्लीनिकों के लिए वॉक - इन आधार पर संचालित करने के लिए निर्धारित किया जाएगा हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरियन एक दंत चिकित्सा में चलने में सक्षम होंगे...",
-      "archived": true
+      "publishedAt": "2026-08-23T00:42:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "titleHi": "फर सील की मौत H5 बर्ड फ़्लू स्ट्रेन फैलने से पहली ऑस्ट्रेलियाई मुख्य भूमि स्तनपायी मृत्यु को चिह्नित करती है",
+      "excerptHi": "दक्षिण ऑस्ट्रेलिया के बीचपोर्ट में मृत पाया गया सील ‘महत्वपूर्ण नुकसान‘ का कारण बनता है, मंत्री ने चेतावनी दी नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ए...",
+      "archived": false
     },
-    {
-      "id": "52e71dd5edfae20947f65172e4f3d06ac8498fc8",
-      "slug": "uk-canada-and-australia-condemn-israel-for-refusing-criminal-52e71d",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "excerpt": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-21T15:58:57.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno#0",
-      "titleHi": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "excerptHi": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "archived": true
-    }
-  ],
-  "world": [
     {
       "id": "61f34710bc52ed6dafea1263d9d6c4821fea701b",
       "slug": "australia-news-live-dead-fur-seal-the-first-mainland-mammal-61f347",
@@ -1807,7 +1856,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
       "titleHi": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
       "excerptHi": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "96958a6e435d6145914d599c2944a9bca4688eec",
@@ -1853,48 +1902,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
       "titleHi": "व्यापार वार्ता के पतन के बाद कार्नी ने ट्रम्प के नए टैरिफ को 'गलत गणना' कहा",
       "excerptHi": "शनिवार सुबह एक भाषण में, प्रधान मंत्री मार्क कार्नी ने कहा कि कनाडा अपनी संप्रभुता की रक्षा के लिए बातचीत की मेज से दूर चला गया।",
-      "archived": true
-    },
-    {
-      "id": "177cf6acb82d296549eda1a6e273e1b6bbc6ef38",
-      "slug": "40000-bottles-of-eye-drops-across-the-us-recalled-over-issue-177cf6",
-      "title": "40,000 bottles of eye drops across the US recalled over issues with sterility of product",
-      "excerpt": "Prestige Brand Holdings has voluntarily recalled a batch of its Clear Eyes eye drops after FDA alert Nearly 40,000 bottles of eye drops are being pulled from store shelves across the US over concerns about potential…",
-      "category": "World",
-      "secondaryCategories": [
-        "Crypto"
-      ],
-      "source": "The Guardian",
-      "author": "Marina Dunbar",
-      "image": "https://i.guim.co.uk/img/media/769b4b8243788f118ce87d2ccedaff5971169d06/491_0_4901_3922/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=a285f3ec32778bf59e30e06e634b2488",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T15:44:00.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
-      "titleHi": "उत्पाद की बाँझपन के मुद्दों पर अमेरिका भर में आंखों की बूंदों की 40,000 बोतलें वापस ली गईं",
-      "excerptHi": "प्रेस्टीज ब्रांड होल्डिंग्स ने एफडीए अलर्ट के बाद अपनी क्लियर आइज़ आई ड्रॉप के एक बैच को स्वेच्छा से वापस बुला लिया है संभावित चिंताओं के बारे में अमेरिका भर में स्टोर अलमारियों से आंखों की बूंदों की लगभग 40,000 बोतलें खींची जा रही हैं...",
-      "archived": true
-    },
-    {
-      "id": "631bf69c9012c037e346aa5f766c6b3af6c6676e",
-      "slug": "indiana-residents-endure-11th-day-without-power-after-storms-631bf6",
-      "title": "Indiana residents endure 11th day without power after storms topple power lines",
-      "excerpt": "33,124 residents still in the dark as utility company says it is working to restore power in north-west of state Thousands of residents of north-west Indiana on Saturday were headed for their 11th day without electric…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Edward Helmore",
-      "image": "https://i.guim.co.uk/img/media/d7094952c1c7eebabb825d5731e36f545b17d225/741_0_5415_4333/master/5415.jpg?width=140&quality=85&auto=format&fit=max&s=4f36e23da74962e0d1a6933fc9bc265c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T15:08:38.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
-      "titleHi": "तूफान ने बिजली की लाइनें गिरा दीं, इंडियाना के निवासियों को 11वें दिन भी बिजली नहीं मिली",
-      "excerptHi": "33,124 निवासी अभी भी अंधेरे में हैं क्योंकि यूटिलिटी कंपनी का कहना है कि वह उत्तर - पश्चिम राज्य में बिजली बहाल करने के लिए काम कर रही है शनिवार को उत्तर - पश्चिम इंडियाना के हजारों निवासी बिना बिजली के अपने 11 वें दिन जा रहे थे...",
       "archived": true
     }
   ]
