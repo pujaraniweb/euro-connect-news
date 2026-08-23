@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:54:42.043Z",
+  "generatedAt": "2026-08-23T04:27:45.313Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -207,6 +207,29 @@
   ],
   "usa": [
     {
+      "id": "1f5d1456e501c0de76c4e184123f61decfadf7ba",
+      "slug": "irans-new-security-chief-says-neighbours-who-join-us-economi-1f5d14",
+      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+      "excerpt": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=0d8c48d1225c37e53a613dbe217219bc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T03:34:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "titleHi": "ईरान के नए सुरक्षा प्रमुख का कहना है कि अमेरिकी आर्थिक युद्ध में शामिल होने वाले पड़ोसियों को ‘दुश्मन‘ माना जाएगा",
+      "excerptHi": "कट्टरपंथी मोहसिन रेज़ई सर्वोच्च राष्ट्रीय सुरक्षा परिषद में नियुक्ति के बाद पहले साक्षात्कार में अमेरिकी आर्थिक हितों को भी धमकी देते हैं ईरान के शीर्ष सुरक्षा निकाय के नए नेता ने अपने पड़ोसियों को चेतावनी दी है...",
+      "archived": false
+    },
+    {
       "id": "53a16abfaac8447d479d40a73f1acb4128f3655d",
       "slug": "nancy-kassebaum-baker-former-us-senator-from-kansas-dies-age-53a16a",
       "title": "Nancy Kassebaum Baker, former US senator from Kansas, dies aged 94",
@@ -246,7 +269,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o#2",
       "titleHi": "'शायद लोग हम पर सोना बंद कर देंगे' - हल सपनों की वापसी का आनंद लें",
       "excerptHi": "प्रतिनिधिमंडल के पसंदीदा हल सिटी मैनचेस्टर यूनाइटेड पर जीत के साथ सीज़न की अच्छी शुरुआत करते हैं क्योंकि उनके प्रबंधक का कहना है कि \"हम लोगों को गलत साबित करने की कोशिश कर रहे हैं\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "524958d33aa6b42843defcd117cc29a15167620c",
@@ -394,32 +417,31 @@
       "titleHi": "विलियम्स और अल्कारज़ यूएस ओपन मिश्रित युगल खेलेंगे",
       "excerptHi": "सेरेना विलियम्स फ्लशिंग मीडोज में यूएस ओपन में मिश्रित युगल के लिए कार्लोस अल्कारज़ के साथ जोड़ी बनाएंगी।",
       "archived": true
-    },
-    {
-      "id": "de9106f840b104ba30a375f3127d6e083fb3c4f6",
-      "slug": "canada-vows-dollar-for-dollar-response-as-us-puts-50-tariffs-de9106",
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "excerpt": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and the country’s prime minister, Mark…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Sports"
-      ],
-      "source": "The Guardian",
-      "author": "William Christou and agencies",
-      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T14:04:57.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "guid": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "titleHi": "कनाडा ने ‘डॉलर के लिए डॉलर’ प्रतिक्रिया की कसम खाई क्योंकि अमेरिका कुछ सामानों पर 50% टैरिफ लगाता है",
-      "excerptHi": "व्यापार वार्ता के पतन से नौकरी का नुकसान हो सकता है, लेकिन पारंपरिक सहयोगियों पर सबसे बड़ा प्रभाव राजनीतिक होने की उम्मीद है अमेरिका ने कनाडा से कुछ सामानों पर 50% टैरिफ लगाया है, और देश के प्रधान मंत्री, मार्क...",
-      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "2c5c0676a0edaebb8fcb5d8a858ceffedff31c1d",
+      "slug": "the-ordinary-woman-accused-of-assassinating-a-russian-comman-2c5c06",
+      "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
+      "excerpt": "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through It was just after dawn in Sevastopol…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Sports"
+      ],
+      "source": "The Guardian",
+      "author": "Pjotr Sauer",
+      "image": "https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=97dee069194b098e5f0c06c6f5f95c33",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T04:00:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+      "titleHi": "क्रीमिया में एक रूसी कमांडर की हत्या के आरोप में ‘सामान्य’ महिला",
+      "excerptHi": "मार्गरीटा रीट के करीबी दोस्त हैरान हैं कि वह कथित तौर पर बम लगा सकती है जिसने यूक्रेनी दलबदलू रॉबर्ट शागेव को मार डाला, जबकि अन्य लोग किसी भी योजना को देखने के लिए एक जिद्दी धैर्य को याद करते हैं यह सेवास्तोपोल में सुबह के ठीक बाद था...",
+      "archived": false
+    },
     {
       "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
       "slug": "sydney-marathon-admits-unfortunate-error-as-finishers-medal-4f21b2",
@@ -612,28 +634,6 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/22/andy-burnham-uk-host-mens-world-cup-football-2042",
       "titleHi": "एंडी बर्नहम का कहना है कि वह 2042 में पुरुषों के विश्व कप को ब्रिटेन में वापस लाना चाहते हैं",
       "excerptHi": "प्रधानमंत्री ने क्षेत्रीय महापौरों को बताया कि वह 1966 के बाद पहली बार ब्रिटिश द्वीप समूह में खेले जाने वाले टूर्नामेंट के लिए उत्सुक हैं एंडी बर्नहम ने कहा है कि वह 2042 में ब्रिटेन में पुरुषों के विश्व कप को लाना चाहते हैं, जिससे टूर्नामेंट को...",
-      "archived": true
-    },
-    {
-      "id": "5b94864688e9757cea48ed8081df203f94b0778e",
-      "slug": "white-house-ballroom-will-cost-nearly-400m-as-supreme-court-5b9486",
-      "title": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
-      "excerpt": "US President Donald Trump says the project is being funded by private donors and companies.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T10:18:23.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
-      "guid": "http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue",
-      "titleHi": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
-      "excerptHi": "US President Donald Trump says the project is being funded by private donors and companies.",
       "archived": true
     }
   ],
@@ -1057,6 +1057,29 @@
   ],
   "middleeast": [
     {
+      "id": "1f5d1456e501c0de76c4e184123f61decfadf7ba",
+      "slug": "irans-new-security-chief-says-neighbours-who-join-us-economi-1f5d14",
+      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+      "excerpt": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=0d8c48d1225c37e53a613dbe217219bc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T03:34:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "titleHi": "ईरान के नए सुरक्षा प्रमुख का कहना है कि अमेरिकी आर्थिक युद्ध में शामिल होने वाले पड़ोसियों को ‘दुश्मन‘ माना जाएगा",
+      "excerptHi": "कट्टरपंथी मोहसिन रेज़ई सर्वोच्च राष्ट्रीय सुरक्षा परिषद में नियुक्ति के बाद पहले साक्षात्कार में अमेरिकी आर्थिक हितों को भी धमकी देते हैं ईरान के शीर्ष सुरक्षा निकाय के नए नेता ने अपने पड़ोसियों को चेतावनी दी है...",
+      "archived": false
+    },
+    {
       "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
       "slug": "syria-says-israeli-strike-near-damascus-violation-of-interna-e31109",
       "title": "Syria says Israeli strike near Damascus violation of international law",
@@ -1243,28 +1266,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
       "titleHi": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
       "excerptHi": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli…",
-      "archived": true
-    },
-    {
-      "id": "1aa205174881f15ca442c225c81addf7c0a8c480",
-      "slug": "nsw-seeking-urgent-advice-on-controversial-court-ruling-that-1aa205",
-      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-      "excerpt": "Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email, free app or daily news podcast The New…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Jordyn Beazley",
-      "image": "https://i.guim.co.uk/img/media/b700dbfc23550bc95e1959cc15c1929dc3665b79/97_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=0e7569aa8308db0e7f79e1455486a0a1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T15:00:39.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "titleHi": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-      "excerptHi": "Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email, free app or daily news podcast The New…",
       "archived": true
     }
   ],
@@ -1478,6 +1479,28 @@
   ],
   "oceania": [
     {
+      "id": "fb2509a17843151c816151e84754e638265ea030",
+      "slug": "one-nation-mp-concedes-partys-migration-target-not-too-diffe-fb2509",
+      "title": "One Nation MP concedes party’s migration target ‘not too different’ from Labor’s once rural workforce included",
+      "excerpt": "David Farley says party wants 100,000 migrant rural workers in addition to the 130,000 migration target it considers the ‘true’ number Follow our Australia news live blog for latest updates Get our breaking news email,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/9c107767a63fa9f7b9e7b9ad6af354114d40b043/522_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=0eac13cc2f997cba27835e29309e7cc2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T03:12:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
+      "titleHi": "वन नेशन एमपी ने पार्टी के प्रवासन लक्ष्य को लेबर के एक बार ग्रामीण कार्यबल से ’बहुत अलग नहीं' माना",
+      "excerptHi": "डेविड फ़ार्ले का कहना है कि पार्टी 130,000 माइग्रेशन लक्ष्य के अलावा 100,000 प्रवासी ग्रामीण श्रमिकों को चाहती है, जिसे वह ‘सही‘ संख्या मानती है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल प्राप्त करें,...",
+      "archived": false
+    },
+    {
       "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
       "slug": "sydney-marathon-admits-unfortunate-error-as-finishers-medal-4f21b2",
       "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
@@ -1664,29 +1687,77 @@
       "titleHi": "Sydney Marathon medal mistakenly depicts Munich stadium",
       "excerptHi": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
       "archived": true
-    },
-    {
-      "id": "50e15deb73e9e4bd7dd6209b659cb13541fc26f9",
-      "slug": "australia-v-bangladesh-second-mens-test-day-one-as-it-happen-50e15d",
-      "title": "Australia v Bangladesh: second men’s Test, day one – as it happened",
-      "excerpt": "Mitchell Starc rips through Bangladesh with six wickets before Australia build 101-run lead as Cameron Green holds innings together in Mackay Bangladesh have also made one change with rangy left-armer Shoriful Islam…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Jonathan Howcroft (earlier) and Geoff Lemon (later)",
-      "image": "https://i.guim.co.uk/img/media/93882250a950742a68229032a2fb37138880b9f4/135_0_2429_1944/master/2429.jpg?width=140&quality=85&auto=format&fit=max&s=cd2b8ebddf9546efa3527481f7b85c10",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T07:53:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live",
-      "guid": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live",
-      "titleHi": "Australia v Bangladesh: second men’s Test, day one – as it happened",
-      "excerptHi": "Mitchell Starc rips through Bangladesh with six wickets before Australia build 101-run lead as Cameron Green holds innings together in Mackay Bangladesh have also made one change with rangy left-armer Shoriful Islam…",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "025f546c49ed06564324971e9556569361394a92",
+      "slug": "liberal-plan-to-split-victorian-appeals-court-attacked-as-th-025f54",
+      "title": "Liberal plan to split Victorian appeals court attacked as ‘thought bubble’ that would politicise judiciary",
+      "excerpt": "Opposition leader Jess Wilson says new dedicated court of criminal appeal would set precedents for tougher sentences Get our breaking news email, free app or daily news podcast A radical overhaul of Victoria’s highest…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "image": "https://i.guim.co.uk/img/media/b21f1d19bda7f0efc07d91e03790c46764f4ca64/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4d3ed3f1b984d220b67d174dc1990cf9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T04:00:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/victoria-election-liberals-plan-split-appeals-court-attacked-as-thought-bubble-politicise-judiciary",
+      "titleHi": "विक्टोरियाई अपील अदालत को विभाजित करने की उदारवादी योजना पर ‘विचार बुलबुला‘ के रूप में हमला किया गया जो न्यायपालिका का राजनीतिकरण करेगा",
+      "excerptHi": "विपक्षी नेता जेस विल्सन का कहना है कि आपराधिक अपील की नई समर्पित अदालत सख्त वाक्यों के लिए मिसाल कायम करेगी हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट को प्राप्त करें विक्टोरिया के उच्चतम…",
+      "archived": false
+    },
+    {
+      "id": "1f5d1456e501c0de76c4e184123f61decfadf7ba",
+      "slug": "irans-new-security-chief-says-neighbours-who-join-us-economi-1f5d14",
+      "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+      "excerpt": "Hardliner Mohsen Rezaei also threatens American economic interests in first interview since appointment to supreme national security council The new leader of Iran’s top security body has warned its neighbours against…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=0d8c48d1225c37e53a613dbe217219bc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T03:34:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "guid": "https://www.theguardian.com/world/2026/aug/23/iran-new-security-chief-trump-economic-war-enemies-mohsen-rezaei",
+      "titleHi": "ईरान के नए सुरक्षा प्रमुख का कहना है कि अमेरिकी आर्थिक युद्ध में शामिल होने वाले पड़ोसियों को ‘दुश्मन‘ माना जाएगा",
+      "excerptHi": "कट्टरपंथी मोहसिन रेज़ई सर्वोच्च राष्ट्रीय सुरक्षा परिषद में नियुक्ति के बाद पहले साक्षात्कार में अमेरिकी आर्थिक हितों को भी धमकी देते हैं ईरान के शीर्ष सुरक्षा निकाय के नए नेता ने अपने पड़ोसियों को चेतावनी दी है...",
+      "archived": false
+    },
+    {
+      "id": "fb2509a17843151c816151e84754e638265ea030",
+      "slug": "one-nation-mp-concedes-partys-migration-target-not-too-diffe-fb2509",
+      "title": "One Nation MP concedes party’s migration target ‘not too different’ from Labor’s once rural workforce included",
+      "excerpt": "David Farley says party wants 100,000 migrant rural workers in addition to the 130,000 migration target it considers the ‘true’ number Follow our Australia news live blog for latest updates Get our breaking news email,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/9c107767a63fa9f7b9e7b9ad6af354114d40b043/522_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=0eac13cc2f997cba27835e29309e7cc2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T03:12:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
+      "titleHi": "वन नेशन एमपी ने पार्टी के प्रवासन लक्ष्य को लेबर के एक बार ग्रामीण कार्यबल से ’बहुत अलग नहीं' माना",
+      "excerptHi": "डेविड फ़ार्ले का कहना है कि पार्टी 130,000 माइग्रेशन लक्ष्य के अलावा 100,000 प्रवासी ग्रामीण श्रमिकों को चाहती है, जिसे वह ‘सही‘ संख्या मानती है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल प्राप्त करें,...",
+      "archived": false
+    },
     {
       "id": "91f9a2d4a4bb6e3183cdac7822c55ef5a1fcd76f",
       "slug": "swedish-sword-attack-victim-was-17-year-old-girl-police-say-91f9a2",
@@ -1837,72 +1908,6 @@
       "titleHi": "होटल बुकिंग मिक्स - अप जो मशरूम कातिल को मुक्त कर सकता है",
       "excerptHi": "एक टेबल टेनिस टूर्नामेंट और एक गले का लोजेंज एरिन पैटरसन के वकीलों को उसकी सजा को पलटने में मदद कर सकता है।",
       "archived": false
-    },
-    {
-      "id": "524958d33aa6b42843defcd117cc29a15167620c",
-      "slug": "us-military-newspaper-editor-voices-censorship-fears-after-b-524958",
-      "title": "US military newspaper editor voices censorship fears after being fired",
-      "excerpt": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d51/live/20fafd70-9e53-11f1-8871-ff7211da55c9.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T16:57:19.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o#0",
-      "titleHi": "अमेरिकी सैन्य समाचार पत्र के संपादक ने बर्खास्त होने के बाद सेंसरशिप की आशंका जताई",
-      "excerptHi": "एरिक स्लाविन का मानना है कि उन्हें एक साक्षात्कार में यह कहने के लिए निकाल दिया गया था कि \"एक काल्पनिक स्थिति में, सेंसरशिप एक लाल रेखा होगी\"।",
-      "archived": true
-    },
-    {
-      "id": "96958a6e435d6145914d599c2944a9bca4688eec",
-      "slug": "badenoch-says-reform-defectors-some-of-the-most-dishonest-pe-96958a",
-      "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
-      "excerpt": "Tory leader rules out coalition with Farage’s party and says ‘drama queens’ who left will not be welcomed back Kemi Badenoch has called defectors who left for Reform “some of the most dishonest people” she has ever met,…",
-      "category": "World",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Geneva Abdul",
-      "image": "https://i.guim.co.uk/img/media/71d34405327d208136835310eee0fe5a770a868a/1026_0_5131_4106/master/5131.jpg?width=140&quality=85&auto=format&fit=max&s=2bca559c0a33396ee909ed44bbeacd8d",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T16:08:23.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
-      "guid": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
-      "titleHi": "बदेनोच कहते हैं कि सुधार के दलबदलू ‘कुछ सबसे बेईमान लोग जिनसे मैं मिला हूं’",
-      "excerptHi": "टोरी नेता ने फराज की पार्टी के साथ गठबंधन करने से इंकार कर दिया और कहा कि ‘ड्रामा क्वीन’ जो चली गईं, उनका स्वागत नहीं किया जाएगा केमी बाडेनोच ने सुधार के लिए रवाना होने वाले दलबदलुओं को \"सबसे बेईमान लोगों में से कुछ\" कहा है,...",
-      "archived": true
-    },
-    {
-      "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
-      "slug": "carney-calls-trumps-fresh-tariffs-a-miscalculation-after-tra-f4c36d",
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "excerpt": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T16:05:04.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
-      "titleHi": "व्यापार वार्ता के पतन के बाद कार्नी ने ट्रम्प के नए टैरिफ को 'गलत गणना' कहा",
-      "excerptHi": "शनिवार सुबह एक भाषण में, प्रधान मंत्री मार्क कार्नी ने कहा कि कनाडा अपनी संप्रभुता की रक्षा के लिए बातचीत की मेज से दूर चला गया।",
-      "archived": true
     }
   ]
 }
