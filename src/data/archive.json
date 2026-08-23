@@ -1,8 +1,260 @@
 {
-  "generatedAt": "2026-08-23T04:27:45.313Z",
+  "generatedAt": "2026-08-23T06:22:40.272Z",
   "retentionDays": 45,
-  "total": 1954,
+  "total": 1971,
   "items": [
+    {
+      "id": "0b6fb79e49fc21228ca42d6ed8df444955f7ef60",
+      "slug": "canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-0b6fb7",
+      "title": "Canadian PM Carney says new US tariffs are 'designed to hurt us and divide us'",
+      "excerpt": "\"We cannot accept what they've offered, and we will not give what they've asked,\" Carney said during a speech outlining Canada's position on the trade dispute with the US.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T06:15:08.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us",
+      "guid": "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us",
+      "titleHi": "कनाडाई पीएम कार्नी का कहना है कि नए अमेरिकी टैरिफ 'हमें चोट पहुंचाने और हमें विभाजित करने के लिए डिज़ाइन किए गए हैं'",
+      "excerptHi": "कार्नी ने अमेरिका के साथ व्यापार विवाद पर कनाडा की स्थिति को रेखांकित करते हुए एक भाषण के दौरान कहा, \"हम स्वीकार नहीं कर सकते कि उन्होंने क्या पेशकश की है, और हम वह नहीं देंगे जो उन्होंने पूछा है।\"",
+      "archived": false
+    },
+    {
+      "id": "452a8730cb0f276b2dd8b4cef1b944d397c2dfc6",
+      "slug": "the-barbie-backlash-452a87",
+      "title": "The Barbie Backlash",
+      "excerpt": "‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Susan Faludi",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T06:13:18.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
+      "guid": "https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html",
+      "titleHi": "बार्बी बैकलैश",
+      "excerptHi": "‘द ओडिसी’ और ‘बार्बी’ एक ज़ेइटगिस्ट बदलाव दिखाते हैं जो हॉलीवुड से परे है: नायक की कथा हमारे राजनीतिक और सार्वजनिक जीवन को प्रभावित कर रही है।",
+      "archived": false
+    },
+    {
+      "id": "0d012f1c35fe1f4e1c1b5acd8b91006926300bc5",
+      "slug": "nine-out-of-10-unsolved-murders-in-london-linked-to-non-whit-0d012f",
+      "title": "Nine out of 10 unsolved murders in London linked to non-white victims",
+      "excerpt": "Exclusive: analysis risks deepening perception of ‘unequal protection under the law’ Killers who take the lives of black people have a greater chance of getting away with their crimes than those who target white people,…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Vikram Dodd Police and crime corespondent",
+      "image": "https://i.guim.co.uk/img/media/1db5090050ddbb31e63d7de4d64a5c084196906d/90_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=7c9b064e86dc8641800a2e8364edad25",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T06:00:25.000Z",
+      "sourceUrl": "https://www.theguardian.com/law/2026/aug/23/nine-out-of-10-unsolved-murders-in-london-linked-to-non-white-victims",
+      "guid": "https://www.theguardian.com/law/2026/aug/23/nine-out-of-10-unsolved-murders-in-london-linked-to-non-white-victims",
+      "titleHi": "लंदन में गैर - श्वेत पीड़ितों से जुड़ी 10 अनसुलझी हत्याओं में से नौ",
+      "excerptHi": "अनन्य: विश्लेषण 'कानून के तहत असमान सुरक्षा‘ की धारणा को गहरा करने का जोखिम उठाता है काले लोगों की जान लेने वाले हत्यारों को श्वेत लोगों को लक्षित करने वालों की तुलना में अपने अपराधों से दूर होने की अधिक संभावना होती है,...",
+      "archived": false
+    },
+    {
+      "id": "978628afeb7dc4fe108e50b16887b8b3976ad760",
+      "slug": "onshore-windfarm-applications-hit-10-year-high-in-england-978628",
+      "title": "Onshore windfarm applications hit 10-year high in England",
+      "excerpt": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to March Plans for new onshore windfarms in England have reached their highest annual level in a decade, after the…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jillian Ambrose and Alex Clark",
+      "image": "https://i.guim.co.uk/img/media/7dae85af94e1a216c5bde354e33f0ef7eee9e2d6/379_0_3939_3151/master/3939.jpg?width=140&quality=85&auto=format&fit=max&s=78e69363cd35e4287388d8f0447131a2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T06:00:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+      "guid": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+      "titleHi": "इंग्लैंड में ऑनशोर विंडफार्म एप्लिकेशन 10 साल के उच्चतम स्तर पर पहुंच गए",
+      "excerptHi": "प्रस्तावों में वृद्धि लेबर द्वारा वास्तविक प्रतिबंध हटाने के बाद हुई है, जिसमें इंग्लैंड में नए तटवर्ती पवन फार्मों के लिए मार्च तक वर्ष में लगभग 45 योजनाएं प्रस्तुत की गई हैं, जो एक दशक में अपने उच्चतम वार्षिक स्तर पर पहुंच गई हैं, के बाद...",
+      "archived": false
+    },
+    {
+      "id": "208ba005c73ee40649305202a0de36671c521a75",
+      "slug": "friday-afternoon-fraud-warning-for-uk-homebuyers-on-bank-sca-208ba0",
+      "title": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
+      "excerpt": "Victims have lost tens of thousands – and in one case £300,000 – due to fake emails from solicitor or estate agent You are poised to move house and are awaiting the solicitor’s instructions that things are ready to go…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Hilary Osborne",
+      "image": "https://i.guim.co.uk/img/media/cbc2179b927db643ea162ac1f4f830e3e51c1b7e/676_1182_4772_3818/master/4772.jpg?width=140&quality=85&auto=format&fit=max&s=9de6c56ea7a138e884ad7b0f39d0a8ef",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T06:00:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+      "guid": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+      "titleHi": "‘शुक्रवार दोपहर धोखाधड़ी ': बैंक घोटालों पर ब्रिटेन के घर खरीदारों के लिए चेतावनी",
+      "excerptHi": "सॉलिसिटर या एस्टेट एजेंट के फर्जी ईमेल के कारण पीड़ितों ने हजारों – और एक मामले में £ 300,000 – को खो दिया है आप घर स्थानांतरित करने के लिए तैयार हैं और सॉलिसिटर के निर्देशों का इंतजार कर रहे हैं कि चीजें जाने के लिए तैयार हैं...",
+      "archived": false
+    },
+    {
+      "id": "1299100a566bd6de31e0155c1f65731307b79cc0",
+      "slug": "five-in-five-formula-1-quiz-no-1-129910",
+      "title": "Five in Five: Formula 1 quiz No 1",
+      "excerpt": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba3/live/1de261c0-9af0-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T05:56:51.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o#3",
+      "titleHi": "पांच में पांच: फ़ॉर्मूला 1 क्विज़ नंबर 1",
+      "excerptHi": "क्या आप पांच मिनट में आज के सभी पांच उत्तर प्राप्त करके घड़ी को हरा देंगे?",
+      "archived": false
+    },
+    {
+      "id": "84746a318c298d2e45dd61172e6e5641c51da564",
+      "slug": "relive-keegans-newcastle-lose-thriller-to-liverpool-84746a",
+      "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
+      "excerpt": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a61/live/ba82a210-9a5f-11f1-b792-a710e56a11dc.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T05:17:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o#4",
+      "titleHi": "जीवंत: कीगन का न्यूकैसल लिवरपूल से थ्रिलर हार गया",
+      "excerptHi": "बीबीसी स्पोर्ट प्रीमियर लीग के अब तक के सबसे अच्छे खेलों में से एक को देखता है क्योंकि न्यूकैसल, जिसे तब केविन कीगन द्वारा प्रबंधित किया गया था, लिवरपूल से एक थ्रिलर हार गया। दोनों क्लब अपने प्रीमियर लीग के पहले मैच से पहले कीगन को श्रद्धांजलि देंगे...",
+      "archived": false
+    },
+    {
+      "id": "69906f3bfa8f24bd475e94880cc22661f87af14a",
+      "slug": "latest-news-bulletin-august-23rd-2026-morning-69906f",
+      "title": "Latest news bulletin | August 23rd, 2026 – Morning",
+      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T05:00:33.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning",
+      "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning",
+      "titleHi": "नवीनतम समाचार बुलेटिन | 23 अगस्त, 2026 – सुबह",
+      "excerptHi": "23 अगस्त, 2026 - ताज़ा खबरें, ब्रेकिंग न्यूज़, दुनिया, बिज़नेस, एंटरटेनमेंट, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
+      "archived": false
+    },
+    {
+      "id": "f6b8c7dc84e49cc2394c72a464b14c6ac62ed3c5",
+      "slug": "burnham-expected-to-give-mayors-new-powers-over-local-planni-f6b8c7",
+      "title": "Burnham expected to give mayors new powers over local planning decisions",
+      "excerpt": "Move would allow mayors to greenlight large-scale developments and have more say on national housing funding Andy Burnham is expected to give mayors new powers to take control of local planning decisions and greenlight…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Nadeem Badshah",
+      "image": "https://i.guim.co.uk/img/media/08972ae99068d18226a9f405d1b6b47c1f49e9b5/1675_152_1607_1286/master/1607.jpg?width=140&quality=85&auto=format&fit=max&s=963e121197a0de47f5d7adccdcbbcf22",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T05:00:25.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+      "guid": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+      "titleHi": "बर्नहम से अपेक्षा की जाती है कि वह स्थानीय नियोजन निर्णयों पर मेयरों को नई शक्तियां देगा",
+      "excerptHi": "इस कदम से महापौरों को बड़े पैमाने पर होने वाले विकास को हरी झंडी देने और राष्ट्रीय आवास वित्तपोषण पर अधिक कहने की अनुमति मिलेगी एंडी बर्नहम से उम्मीद की जाती है कि वे महापौरों को स्थानीय नियोजन निर्णयों और ग्रीनलाइट पर नियंत्रण रखने के लिए नई शक्तियां देंगे...",
+      "archived": false
+    },
+    {
+      "id": "46fee4a81681eba3e58717166d6f8431b81affcf",
+      "slug": "british-corporation-continued-trafficking-of-enslaved-africa-46fee4",
+      "title": "British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition",
+      "excerpt": "Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Chris Osuh Community affairs correspondent",
+      "image": "https://i.guim.co.uk/img/media/228727e773687b6f78831edc8b85629790ae81c3/606_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=317b19c774161a8db529663f5bf68112",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T05:00:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter",
+      "guid": "https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter",
+      "titleHi": "ब्रिटिश निगम ने उन्मूलन के 40 साल बाद गुयाना में गुलाम अफ्रीकियों की तस्करी जारी रखी",
+      "excerptHi": "1847 में सैंडबैक, टिन और कंपनी के लिवरपूल कार्यालय को लिखे गए पत्र से पता चलता है कि यह करदाता - वित्त पोषित मुआवजा प्राप्त करने के बाद अभ्यास में लगी हुई है, पुस्तक कहती है जब ब्रिटेन ने गुलामी को समाप्त किया, तो बागान मालिकों ने...",
+      "archived": false
+    },
+    {
+      "id": "02e6a9707bbc0fded664993a7b468c5d3da08f34",
+      "slug": "drill-burnham-drill-the-oil-basin-that-is-a-totem-for-trump-02e6a9",
+      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
+      "excerpt": "North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland…",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Matthew Taylor Environment correspondent",
+      "image": "https://i.guim.co.uk/img/media/c643457f774bd61407850b463c617e1141a13be4/0_0_3065_2452/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=6d4a832a1c9687170c5c0d6014f2e600",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T05:00:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "guid": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "titleHi": "ड्रिल, बर्नहम, ड्रिल? वह तेल बेसिन जो ट्रम्प के लिए एक टोटेम है - और ब्रिटेन के नए प्रधानमंत्री के लिए सिरदर्द है",
+      "excerptHi": "उत्तरी सागर तेल, एक बार ब्रिटेन की अर्थव्यवस्था का प्रेरक बल, घट रहा हो सकता है लेकिन यह प्रतिष्ठा का प्रतीक और राजनीतिक बहस के लिए एक समृद्ध संसाधन बना हुआ है जब स्कॉटलैंड के उत्तर - पूर्वी तट पर पहली बार तेल की खोज की गई थी...",
+      "archived": false
+    },
+    {
+      "id": "c91df501548075fbd8e596b79e0edea35ca93c89",
+      "slug": "wales-pushing-the-pain-barrier-in-bid-to-improve-c91df5",
+      "title": "Wales pushing the pain barrier in bid to improve",
+      "excerpt": "BBC Sport spends a day in Wales' pre-season camp, watching players put through their paces ahead of the new WXV Global Series.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62d/live/9a0807f0-9c8f-11f1-8d19-93d7082c5662.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T04:49:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx7n5gw0wxo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx7n5gw0wxo#3",
+      "titleHi": "वेल्स सुधार के लिए दर्द बाधा को आगे बढ़ा रहे हैं",
+      "excerptHi": "बीबीसी स्पोर्ट वेल्स के प्री - सीज़न कैंप में एक दिन बिताता है, जो खिलाड़ियों को नई WXV ग्लोबल सीरीज़ से पहले अपनी गति से आगे बढ़ते हुए देखता है।",
+      "archived": false
+    },
     {
       "id": "025f546c49ed06564324971e9556569361394a92",
       "slug": "liberal-plan-to-split-victorian-appeals-court-attacked-as-th-025f54",
@@ -49,6 +301,26 @@
       "archived": false
     },
     {
+      "id": "2f30b2d39716525b10458830506a6e8b364549a5",
+      "slug": "were-not-going-to-run-from-it-sydney-marathon-laughs-off-med-2f30b2",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "excerpt": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T03:44:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro#0",
+      "titleHi": "'हम इससे भागने वाले नहीं हैं ': सिडनी मैराथन मेडल की गड़बड़ी पर हंसी",
+      "excerptHi": "धावकों को 2026 सिडनी मैराथन में एक जर्मन स्टेडियम की उत्कीर्णन के साथ पदक मिलेगा।",
+      "archived": false
+    },
+    {
       "id": "1f5d1456e501c0de76c4e184123f61decfadf7ba",
       "slug": "irans-new-security-chief-says-neighbours-who-join-us-economi-1f5d14",
       "title": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
@@ -91,6 +363,46 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce",
       "titleHi": "वन नेशन एमपी ने पार्टी के प्रवासन लक्ष्य को लेबर के एक बार ग्रामीण कार्यबल से ’बहुत अलग नहीं' माना",
       "excerptHi": "डेविड फ़ार्ले का कहना है कि पार्टी 130,000 माइग्रेशन लक्ष्य के अलावा 100,000 प्रवासी ग्रामीण श्रमिकों को चाहती है, जिसे वह ‘सही‘ संख्या मानती है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल प्राप्त करें,...",
+      "archived": false
+    },
+    {
+      "id": "649481f21c25f65c2c6459a443bbe7c9eca932e6",
+      "slug": "mayors-to-get-powers-to-overrule-local-councils-on-planning-649481",
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "excerpt": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7205/live/1fb3cdf0-9d83-11f1-adf5-2dc21c9cc109.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T03:10:51.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o#0",
+      "titleHi": "मेयरों को नियोजन निर्णयों पर स्थानीय परिषदों को उखाड़ फेंकने का अधिकार मिलेगा",
+      "excerptHi": "आवास मंत्री मैथ्यू पेनीकूक ने कहा कि मेयरों को \"प्रभावी रूप से नए घरों को वितरित करने\" में मदद करने के लिए यह बदलाव \"आवश्यक\" था।",
+      "archived": false
+    },
+    {
+      "id": "09f697accaba01abdced877f51a436c44246f67a",
+      "slug": "restriction-zone-scheme-for-offenders-to-start-in-october-09f697",
+      "title": "Restriction zone scheme for offenders to start in October",
+      "excerpt": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e93/live/e7605c80-9e8f-11f1-8854-6b09b84b2062.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T02:37:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo#0",
+      "titleHi": "अपराधियों के लिए प्रतिबंध क्षेत्र योजना अक्टूबर में शुरू होगी",
+      "excerptHi": "गंभीर हिंसक और यौन अपराधियों को परिवीक्षा पर जेल छोड़ने के बाद कुछ ही मील के क्षेत्रों तक सीमित किया जा सकता है।",
       "archived": false
     },
     {
@@ -241,6 +553,26 @@
       "guid": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
       "titleHi": "हीथ्रो विस्तार ‘इंग्लैंड के सबसे बड़े जीवित मध्ययुगीन खलिहान के लिए खतरा है’",
       "excerptHi": "एक्सक्लूसिव: प्रचारकों ने चेतावनी दी है कि हरमंड्सवर्थ में 600 साल पुराने नए खलिहान को कंपन द्वारा ’टुकड़ों में हिलाया जा सकता है' इसके निर्माण के छह सौ साल बाद, इंग्लैंड का सबसे बड़ा जीवित मध्ययुगीन लकड़ी से बने खलिहान अब हो सकता है...",
+      "archived": false
+    },
+    {
+      "id": "a53bddc97566a384e0a71b5b05ca1c3e34c33cfe",
+      "slug": "did-a-goat-herders-lucky-200-nugget-spark-a-gold-rush-in-wes-a53bdd",
+      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "excerpt": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T23:22:02.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o#2",
+      "titleHi": "क्या एक बकरी चरवाहे की सौभाग्यशाली $ 200 की डली ने पश्चिमी केन्या में सोने की भीड़ पैदा की?",
+      "excerptHi": "प्रॉस्पेक्टर्स वेस्ट पोकोट काउंटी में इस उम्मीद में आए हैं कि कीमती धातु का एक ग्राम उनके जीवन को बदल सकता है।",
       "archived": false
     },
     {
@@ -947,7 +1279,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo#0",
       "titleHi": "ब्रेंटफोर्ड ने ओपनिंग डे में स्पर्स को हराया",
       "excerptHi": "रॉबर्टो डी ज़ेर्बी के नेतृत्व में टोटेनहम हॉट्सपुर के प्रीमियर लीग सीज़न की शुरुआत निराशाजनक रही क्योंकि वे जीटेक कम्युनिटी स्टेडियम में एक प्रमुख ब्रेंटफोर्ड टीम से 3 -0 से हार गए।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d02e590177ac8cbfcfc92836d92f3f81670ce631",
@@ -967,7 +1299,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo#0",
       "titleHi": "इप्सविच के रूप में देर से नाटक ने सुंदरलैंड को स्तब्ध कर दिया",
       "excerptHi": "इप्सविच टाउन ने सुंदरलैंड को हराया क्योंकि जैक क्लार्क ने प्रीमियर लीग में वापसी पर अपना खाता खोलने के लिए 90 वें मिनट के विजेता का स्कोर किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "28d35843d7efa42a45adb727e9a635ffa510ecf5",
@@ -987,7 +1319,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo#0",
       "titleHi": "जंगल के प्रशंसकों को चुप कराने के लिए लीड्स ने देर से विजेता का स्कोर बनाया",
       "excerptHi": "एंटोन स्टैच ने 88वें मिनट में गोल करके लीड्स यूनाइटेड को प्रीमियर लीग में नॉटिंघम फॉरेस्ट के प्रभारी ओलिवर ग्लासनर के पहले गेम में जीत दिलाई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d0e61f10c88fed34869bf4e7675a3840f6f2c991",
@@ -1007,7 +1339,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro#0",
       "titleHi": "सेज के पहले गेम में एवर्टन द्वारा दंडित वेस्टफुल पैलेस",
       "excerptHi": "एवर्टन ने पांच साल में पहली बार प्रीमियर लीग सीज़न के अपने शुरुआती गेम को जीतने के लिए क्रिस्टल पैलेस को 2 -0 से हराया, जिसमें कीर्नान ड्यूसबरी-हॉल और थियर्नो के गोल थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0940b08af1f9dbb0ccda9bd94d7ad3d291d46e84",
@@ -1027,7 +1359,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo#0",
       "titleHi": "ड्रीम प्रीमियर लीग वापसी के साथ हल शॉक मैन यूटीडी",
       "excerptHi": "MKM स्टेडियम में शुरुआती सप्ताहांत में मैनचेस्टर यूनाइटेड को 2 -0 से हराते हुए, हॉल सिटी प्रीमियर लीग में अपनी वापसी के लिए एक सपने की शुरुआत करते हुए हाइलाइट्स देखें।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "acc4c5ffd13c30a36c301562c85d3333415e0d5e",
@@ -1049,7 +1381,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/23/aston-villa-upheaval-unai-emery-exodus-key-players-youthful-arrivals",
       "titleHi": "एस्टन विला उथल - पुथल एक जोखिम है लेकिन एमरी v2.0 जारी कर सकता है और पुरस्कार प्राप्त कर सकता है | जोनाथन विल्सन",
       "excerptHi": "प्रमुख खिलाड़ियों के पलायन के बाद, 1982 में यूरोपीय कप जीतने के बाद से पिछले सीज़न के बारे में उत्साहित होने के लिए गर्मियों में एक नई शुरुआत के लिए युवा आगमन सबसे बड़ा एस्टन विला था।…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d1ae9427bee3427bba545d8332b2abd7ee9a7ea8",
@@ -1069,7 +1401,7 @@
       "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/c79gpe1y7r8o#3",
       "titleHi": "हल केआर की शीर्ष चार उम्मीदें टूलूज़ से हारने से प्रभावित हुईं",
       "excerptHi": "सुपर लीग में शीर्ष चार में पहुंचने की हल केआर की उम्मीदें टूलूज़ से हारने से क्षतिग्रस्त हो गई हैं, जो उनकी लगातार दूसरी घरेलू हार है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "20610befb671ddd0b5fc74c963dd9105e5fe4bfc",
@@ -1091,7 +1423,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/22/brentford-tottenham-premier-league-match-report",
       "titleHi": "क्योड ने वेक - अप कॉल फॉर सॉरी स्पर्स में ब्रेंटफोर्ड की जोरदार जीत दर्ज की",
       "excerptHi": "इस सड़क को जारी रखें और \"लिंकन दूर\" के मंत्रों को फिर से शुरू होने में अधिक समय नहीं लगेगा। यह टोटेनहम के बहादुर नए युग की शुरुआत थी लेकिन किसी भी बदलाव का कोई संकेत नहीं था। पुरानी खामियां अभी भी थीं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6932d0024744530e13e728c29fbc563be039c5ef",
@@ -1111,7 +1443,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cjwxw2365wpo#3",
       "titleHi": "फ़ार्क टर्नअराउंड में लीड्स का लक्ष्य केवल जीवित रहना ही नहीं है",
       "excerptHi": "रोमांचक नए हस्ताक्षरों और बढ़ते विश्वास के साथ, लीड्स यूनाइटेड को उम्मीद होगी कि प्रीमियर लीग की विजयी शुरुआत का मतलब है कि वे इस बार केवल जीवित रहने के बजाय फलने - फूलने का लक्ष्य रख सकते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f80e0c958e643f00ec666ad3ea4f905c69a6b851",
@@ -1131,7 +1463,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cp878q13v72o#1",
       "titleHi": "संगारे सितारों के रूप में टोनाली दुःस्वप्न - ब्रेंटफोर्ड बनाम स्पर्स खिलाड़ी रेटिंग",
       "excerptHi": "ब्रेंटफोर्ड और टोटेनहम के खिलाड़ियों ने अपने प्रीमियर लीग मैच के बाद कैसे रेटिंग दी।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5b3cd9cecef23eb75db6a07464f93128600a3e55",
@@ -1153,7 +1485,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/22/cycling-pogacar-dominates-first-stage-vuelta-a-espana-lay-down-grand-tour-treble-marker",
       "titleHi": "‘मैं जोश के लिए काम कर रहा था ': पोगाकर ने टारलिंग तीसरे के साथ वुल्टा ओपनिंग स्टेज जीता",
       "excerptHi": "पोगाकर ने मोनाको समय परीक्षण में एथन हेटर को बाहर किया जोश टार्लिंग तीसरे सप्ताह भाई फिनले ताडेज पोगाकर की मृत्यु के बाद व्यक्तिगत समय परीक्षण में जीत के लिए पहले के बाद नेता की लाल जर्सी का दावा करने के लिए हमला किया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8004ed2501ffe94c904987091e91334b633480ce",
@@ -1173,7 +1505,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/22/bills-mourn-unthinkable-tragedy-after-death-of-ed-olivers-two-year-old-son",
       "titleHi": "एड ओलिवर के दो साल के बेटे की मौत के बाद बिलों ने ‘अकल्पनीय त्रासदी’ का शोक मनाया",
       "excerptHi": "बच्चा आवासीय पूल में अनुत्तरदायी पाया गया था खिलाड़ी जून त्रासदी के बाद से टीम के साथ अभ्यास कर रहा है बफ़ेलो बिल के महाप्रबंधक ब्रैंडन बीन ने एड ओलिवर के लिए संगठन की संवेदना व्यक्त की है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b360d17ebc458411bef9e57f9cf8ee2bf73ceb9c",
@@ -1193,7 +1525,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
       "titleHi": "स्वीडन में स्कूल में तलवार से हमले में सत्रह वर्षीय लड़की की मौत हो गई",
       "excerptHi": "फेगरस्टा स्कूल में तलवार से हमला करने वाले 18 वर्षीय व्यक्ति के बाद घायल हुए तीन अन्य लोग स्वीडन के एक स्कूल में तलवार से हमला करने वाले एक किशोरी के बाद 17 वर्षीय लड़की की मौत हो गई है, पुलिस...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6a5c7b62a699e0e762d2fabe7ae6b977b1e6b288",
@@ -1215,7 +1547,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo#0",
       "titleHi": "25 साल के पूर्व वेस्ट ब्रोम मिडफील्डर कास्त्रो की दोस्ताना अंदाज़ में मौत हो गई",
       "excerptHi": "पूर्व वेस्ट ब्रोम मिडफील्डर क्यूविन कास्त्रो की पुर्तगाल में एक मैच के दौरान गिरने से 25 साल की उम्र में मृत्यु हो गई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "17376dace66ef9cece803fbd6fef78c243e28050",
@@ -1237,7 +1569,7 @@
       "guid": "https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o#0",
       "titleHi": "भाई की मौत के बाद Vuelta ओपनर में तीसरे नंबर पर टारलिंग",
       "excerptHi": "ब्रिटेन के जोश टार्लिंग अपने भाई फिन के दुर्घटना में अपनी जान गंवाने के ठीक आठ दिन बाद वुल्टा ए एस्पाना के शुरुआती चरण में तीसरे स्थान पर रहे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "139a8aab6d4090c0187d9779329864ff4a86b6c6",
@@ -1257,7 +1589,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election",
       "titleHi": "कैरेबियन फुटबॉल यूनियन की बैठक को हाईजैक करने के बाद Gianni Infantino ने Concacaf देशों को गुस्सा दिलाया",
       "excerptHi": "इन्फैंटिनो ने चुनाव वोटों के लिए लॉबी करने के अवसर का इस्तेमाल किया फीफा अध्यक्ष को सीएफयू की बैठक से दूर रहने के लिए कहा गया था जियानी इन्फैंटिनो ने कई कॉन्काकाफ राष्ट्रों को नाराज कर दिया है, जिनका समर्थन वह अपने फिर से चुनाव में मांग रहे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3e0d1ae8fa9f5ffa577f6baf13c0d35d4344d8a7",
@@ -3104,6 +3436,26 @@
       "guid": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o#1",
       "titleHi": "Russell wins Dutch GP sprint from pole position",
       "excerptHi": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
+      "archived": true
+    },
+    {
+      "id": "bf9c66c8c379f311b4323ed8370a3e756a05e229",
+      "slug": "laptop-catches-fire-on-us-flight-with-passenger-treated-at-a-bf9c66",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "excerpt": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T10:27:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/ce979zpjj85o#1",
+      "titleHi": "Laptop catches fire on US flight, with passenger treated at airport",
+      "excerptHi": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
       "archived": true
     },
     {
