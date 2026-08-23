@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T22:11:52.497Z",
+  "generatedAt": "2026-08-23T00:39:42.795Z",
   "india": [
     {
       "id": "b36b46e2748dc569dec138d35d70f980dcd50aa3",
@@ -286,7 +286,7 @@
       "guid": "https://www.nytimes.com/2026/08/22/opinion/trump-natalie-harp-information-news.html",
       "titleHi": "असली नेटली हार्प स्कैंडल राष्ट्रपति का सूचना आहार है",
       "excerptHi": "राष्ट्रपति ट्रम्प एक अपमानित, अराजक वातावरण में मौजूद हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
@@ -309,7 +309,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
       "titleHi": "व्यापार वार्ता के पतन के बाद कार्नी ने ट्रम्प के नए टैरिफ को 'गलत गणना' कहा",
       "excerptHi": "शनिवार सुबह एक भाषण में, प्रधान मंत्री मार्क कार्नी ने कहा कि कनाडा अपनी संप्रभुता की रक्षा के लिए बातचीत की मेज से दूर चला गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "177cf6acb82d296549eda1a6e273e1b6bbc6ef38",
@@ -331,7 +331,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
       "titleHi": "उत्पाद की बाँझपन के मुद्दों पर अमेरिका भर में आंखों की बूंदों की 40,000 बोतलें वापस ली गईं",
       "excerptHi": "प्रेस्टीज ब्रांड होल्डिंग्स ने एफडीए अलर्ट के बाद अपनी क्लियर आइज़ आई ड्रॉप के एक बैच को स्वेच्छा से वापस बुला लिया है संभावित चिंताओं के बारे में अमेरिका भर में स्टोर अलमारियों से आंखों की बूंदों की लगभग 40,000 बोतलें खींची जा रही हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5fd4de93df4f2cd9196a238cb88ebe11083e0c1e",
@@ -502,7 +502,7 @@
       "guid": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening",
       "titleHi": "नवीनतम समाचार बुलेटिन | 22 अगस्त, 2026 – शाम",
       "excerptHi": "22 अगस्त, 2026 - ताज़ा खबरें, ब्रेकिंग न्यूज़, दुनिया, बिज़नेस, एंटरटेनमेंट, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे महत्वपूर्ण कहानियों से रूबरू हों।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9fed109d45b879d29c33048855f0b3405d6d1b0a",
@@ -524,7 +524,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/22/chemical-suppression-why-the-uk-is-exploring-libido-control-drugs-to-treat-sex-offenders",
       "titleHi": "रासायनिक दमन: ब्रिटेन यौन अपराधियों के इलाज के लिए कामेच्छा नियंत्रण दवाओं की खोज क्यों कर रहा है",
       "excerptHi": "कई देशों में पैरोल बोर्डों द्वारा उपचार पहले से ही आवश्यक है, लेकिन कुछ को लगता है कि यह अभ्यास अनैतिक है इंग्लैंड और वेल्स में हजारों यौन अपराधियों को कामेच्छा को दबाने वाली दवाएं मिल सकती हैं …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d30f5b77eb2fc3ba8621be63de5a00f90b996012",
@@ -544,7 +544,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
       "titleHi": "इंग्लैंड और वेल्स में हजारों यौन अपराधियों को कामेच्छा को दबाने वाली दवाएं मिल सकती हैं",
       "excerptHi": "20 जेलों तक विस्तार करने के लिए सेक्स ड्राइव - दबाने वाली दवा का स्वैच्छिक उपयोग और विशेषज्ञ का कहना है कि इसे 2028 के अंत तक व्यापक रूप से लागू किया जा सकता है रासायनिक दमन: यूके सेक्स के इलाज के लिए कामेच्छा नियंत्रण दवाओं की खोज क्यों कर रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8006e1f3a5ab49a1d6aa55c8c90858e888141ae2",
@@ -635,6 +635,26 @@
     }
   ],
   "asia": [
+    {
+      "id": "907e900f5db29168eaa64c613d17797e29010dfc",
+      "slug": "australia-v-bangladesh-second-mens-test-day-two-live-907e90",
+      "title": "Australia v Bangladesh: second men’s Test, day two – live",
+      "excerpt": "Updates from the Great Barrier Reef Arena in Mackay Any thoughts? Email Megan 45th over: Australia 184-8 (Green 65, Lyon 15) After that loose over from Hasan, we have Taijul Islam coming into the attack with his left…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Megan Maurice (now) and Geoff Lemon (later)",
+      "image": "https://i.guim.co.uk/img/media/4a8e2ff0f583b88c4d6311331c8d675a839597de/66_0_3033_2428/master/3033.jpg?width=140&quality=85&auto=format&fit=max&s=6d5beac7b49324872643f2ad550bfcd1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:34:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
+      "guid": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
+      "titleHi": "ऑस्ट्रेलिया बनाम बांग्लादेश: दूसरा पुरुष टेस्ट, दूसरा दिन – लाइव",
+      "excerptHi": "मैके में ग्रेट बैरियर रीफ एरिना से अपडेट कोई विचार? ईमेल मेगन 45 वां ओवर: ऑस्ट्रेलिया 184 -8 (ग्रीन 65, लियोन 15) हसन से ढीले होने के बाद, हमारे पास ताइजुल इस्लाम अपने बाएं के साथ हमले में आ रहा है...",
+      "archived": false
+    },
     {
       "id": "e07785f45baae759e4bd904205e02aa4d7b0615f",
       "slug": "watch-moment-robot-attempts-to-beat-usain-bolts-100m-record-e07785",
@@ -819,26 +839,6 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/22/aus-vs-ban-second-mens-test-day-one-live",
       "titleHi": "Australia v Bangladesh: second men’s Test, day one – as it happened",
       "excerptHi": "Mitchell Starc rips through Bangladesh with six wickets before Australia build 101-run lead as Cameron Green holds innings together in Mackay Bangladesh have also made one change with rangy left-armer Shoriful Islam…",
-      "archived": true
-    },
-    {
-      "id": "6eb75b33d07096f8d731499ca398b3a10ea8cbcc",
-      "slug": "fab-four-and-fleming-on-the-phone---englands-first-test-take-6eb75b",
-      "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-      "excerpt": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T05:47:00.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o#2",
-      "titleHi": "Fab Four and Fleming on the phone - England's first-Test takeaways",
-      "excerptHi": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
       "archived": true
     }
   ],
@@ -1054,6 +1054,26 @@
   ],
   "middleeast": [
     {
+      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
+      "slug": "syria-says-israeli-strike-near-damascus-violation-of-interna-e31109",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "excerpt": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T21:42:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo#0",
+      "titleHi": "सीरिया ने दमिश्क के पास इजरायली हमले को अंतरराष्ट्रीय कानून का उल्लंघन बताया",
+      "excerptHi": "यह ताजा घटना ऐसी खबरों के कुछ दिनों बाद सामने आई है कि इजरायल ने तुर्की सीमा के पास एक सैन्य हवाई अड्डे पर हमला किया था।",
+      "archived": false
+    },
+    {
       "id": "8557e5f54f57c8a8887316f07fb6fe70e34aa55e",
       "slug": "premier-league-buildup-transfers-and-joo-pedro-signs-new-che-8557e5",
       "title": "Premier League buildup, transfers and João Pedro signs new Chelsea deal – as it happened",
@@ -1242,26 +1262,6 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
       "titleHi": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
       "excerptHi": "Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars Get our breaking news email, free app or daily news podcast The New…",
-      "archived": true
-    },
-    {
-      "id": "d200ba3a5351e409e89a9a2f41e854c86a4da6f4",
-      "slug": "binance-says-employees-questioned-in-uae-cleared-and-release-d200ba",
-      "title": "Binance says employees questioned in UAE cleared and released",
-      "excerpt": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "Cointelegraph",
-      "author": "Cointelegraph by Zoltan Vardai",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T12:48:04.000Z",
-      "sourceUrl": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "guid": "https://cointelegraph.com/news/binance-employees-questioned-uae-released",
-      "titleHi": "Binance says employees questioned in UAE cleared and released",
-      "excerptHi": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
       "archived": true
     }
   ],
@@ -1475,6 +1475,48 @@
   ],
   "oceania": [
     {
+      "id": "907e900f5db29168eaa64c613d17797e29010dfc",
+      "slug": "australia-v-bangladesh-second-mens-test-day-two-live-907e90",
+      "title": "Australia v Bangladesh: second men’s Test, day two – live",
+      "excerpt": "Updates from the Great Barrier Reef Arena in Mackay Any thoughts? Email Megan 45th over: Australia 184-8 (Green 65, Lyon 15) After that loose over from Hasan, we have Taijul Islam coming into the attack with his left…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Megan Maurice (now) and Geoff Lemon (later)",
+      "image": "https://i.guim.co.uk/img/media/4a8e2ff0f583b88c4d6311331c8d675a839597de/66_0_3033_2428/master/3033.jpg?width=140&quality=85&auto=format&fit=max&s=6d5beac7b49324872643f2ad550bfcd1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:34:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
+      "guid": "https://www.theguardian.com/sport/live/2026/aug/23/aus-vs-ban-second-mens-test-day-two-live",
+      "titleHi": "ऑस्ट्रेलिया बनाम बांग्लादेश: दूसरा पुरुष टेस्ट, दूसरा दिन – लाइव",
+      "excerptHi": "मैके में ग्रेट बैरियर रीफ एरिना से अपडेट कोई विचार? ईमेल मेगन 45 वां ओवर: ऑस्ट्रेलिया 184 -8 (ग्रीन 65, लियोन 15) हसन से ढीले होने के बाद, हमारे पास ताइजुल इस्लाम अपने बाएं के साथ हमले में आ रहा है...",
+      "archived": false
+    },
+    {
+      "id": "61f34710bc52ed6dafea1263d9d6c4821fea701b",
+      "slug": "australia-news-live-dead-fur-seal-the-first-mainland-mammal-61f347",
+      "title": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
+      "excerpt": "Follow live As parliament debated the future of the National Disability Insurance Scheme this week, Ali Kuylaars was worried. Her two children, both diagnosed with autism, could be among thousands across the country…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Stephanie Convery",
+      "image": "https://i.guim.co.uk/img/media/78e802a1a6c1173709e4b8e2806b9636eb77d9ff/830_404_2746_2197/master/2746.jpg?width=140&quality=85&auto=format&fit=max&s=1c459f3713940282d89cfa0ad22e4816",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:32:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: मृत फर H5 बर्ड फ्लू के पहले मुख्य भूमि स्तनपायी पीड़ित को सील करता है; लिबरल ने विक्टोरियन अपील अदालत के कट्टरपंथी पुन: डिजाइन की योजना बनाई है",
+      "excerptHi": "जैसा कि संसद ने इस सप्ताह राष्ट्रीय विकलांगता बीमा योजना के भविष्य पर चर्चा की, अली कुइलार्स चिंतित थे। उसके दो बच्चे, दोनों ऑटिजम से पीड़ित हैं, देश भर में हजारों में हो सकते हैं...",
+      "archived": false
+    },
+    {
       "id": "bf8e484306756746d6ad23d6951566a660198a6f",
       "slug": "wade-wins-first-world-series-title-in-australia-bf8e48",
       "title": "Wade wins first World Series title in Australia",
@@ -1636,49 +1678,53 @@
       "titleHi": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "excerptHi": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "archived": true
-    },
-    {
-      "id": "b52636cb9d1409113f261d140039946ae8db0c50",
-      "slug": "shameful-uk-australia-and-canada-criticise-israel-over-gaza-b52636",
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "excerpt": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Jason Burke",
-      "image": "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T15:03:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "guid": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "titleHi": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "excerptHi": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli…",
-      "archived": true
-    },
-    {
-      "id": "d6a5724e6e7458f1ddbf2d21799332cd6def9676",
-      "slug": "australian-police-charge-man-accused-of-attempting-to-share-d6a572",
-      "title": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
-      "excerpt": "Vladmir Teslov, 27, charged after allegedly seeking to provide information about Ukrainian forces to ‘Russian intelligence services’ Australian police have charged a man who allegedly joined the Ukrainian military and…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Nino Bucci and Andrew Messenger",
-      "image": "https://i.guim.co.uk/img/media/d5e43bc671746cebfb46719aa9c59a84f32f8510/430_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=b3226eebc4ccff54a46443f071ba0227",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T07:11:46.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/21/vladimir-teslov-australian-charged-sharing-ukraine-intel-russian-agents-ntwnfb",
-      "titleHi": "Australian police charge man accused of attempting to share Ukrainian military intel with Russian agents",
-      "excerptHi": "Vladmir Teslov, 27, charged after allegedly seeking to provide information about Ukrainian forces to ‘Russian intelligence services’ Australian police have charged a man who allegedly joined the Ukrainian military and…",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "61f34710bc52ed6dafea1263d9d6c4821fea701b",
+      "slug": "australia-news-live-dead-fur-seal-the-first-mainland-mammal-61f347",
+      "title": "Australia news live: Dead fur seal the first mainland mammal victim of H5 bird flu; Liberals plan radical redesign of Victorian appeals court",
+      "excerpt": "Follow live As parliament debated the future of the National Disability Insurance Scheme this week, Ali Kuylaars was worried. Her two children, both diagnosed with autism, could be among thousands across the country…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Stephanie Convery",
+      "image": "https://i.guim.co.uk/img/media/78e802a1a6c1173709e4b8e2806b9636eb77d9ff/830_404_2746_2197/master/2746.jpg?width=140&quality=85&auto=format&fit=max&s=1c459f3713940282d89cfa0ad22e4816",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:32:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: मृत फर H5 बर्ड फ्लू के पहले मुख्य भूमि स्तनपायी पीड़ित को सील करता है; लिबरल ने विक्टोरियन अपील अदालत के कट्टरपंथी पुन: डिजाइन की योजना बनाई है",
+      "excerptHi": "जैसा कि संसद ने इस सप्ताह राष्ट्रीय विकलांगता बीमा योजना के भविष्य पर चर्चा की, अली कुइलार्स चिंतित थे। उसके दो बच्चे, दोनों ऑटिजम से पीड़ित हैं, देश भर में हजारों में हो सकते हैं...",
+      "archived": false
+    },
+    {
+      "id": "7c18c577c9a0e4f443233cc360b094ffb7a36476",
+      "slug": "heathrow-expansion-is-threat-to-englands-largest-surviving-m-7c18c5",
+      "title": "Heathrow expansion ‘is threat to England’s largest surviving medieval barn’",
+      "excerpt": "Exclusive: campaigners warn 600-year-old New Barn at Harmondsworth could be ‘shaken to pieces’ by vibrations Six hundred years after it was built, England’s largest surviving medieval timber-framed barn could now be…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Dalya Alberge",
+      "image": "https://i.guim.co.uk/img/media/70ff2f5d147b655601b7b0de64ffbcb848250a7e/365_0_5009_4008/master/5009.jpg?width=140&quality=85&auto=format&fit=max&s=b6d77322b35087a60a70552967c346ca",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T00:00:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "guid": "https://www.theguardian.com/environment/2026/aug/23/heathrow-expansion-is-threat-to-englands-largest-surviving-medieval-barn",
+      "titleHi": "हीथ्रो विस्तार ‘इंग्लैंड के सबसे बड़े जीवित मध्ययुगीन खलिहान के लिए खतरा है’",
+      "excerptHi": "एक्सक्लूसिव: प्रचारकों ने चेतावनी दी है कि हरमंड्सवर्थ में 600 साल पुराने नए खलिहान को कंपन द्वारा ’टुकड़ों में हिलाया जा सकता है' इसके निर्माण के छह सौ साल बाद, इंग्लैंड का सबसे बड़ा जीवित मध्ययुगीन लकड़ी से बने खलिहान अब हो सकता है...",
+      "archived": false
+    },
     {
       "id": "67a59d4907b81531d9498ceafd692925845f4cdc",
       "slug": "tropical-storm-moke-poised-to-slam-into-hawaii-just-days-aft-67a59d",
@@ -1699,6 +1745,48 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/hawaii-tropical-storm-moke",
       "titleHi": "तूफ़ान लाला के कुछ ही दिनों बाद उष्णकटिबंधीय तूफ़ान मोक हवाई में गिरने के लिए तैयार है",
       "excerptHi": "मौसम सेवा ने बाढ़ और मडस्लाइड की चेतावनी दी है, विशेष रूप से पिछले तूफान से प्रभावित क्षेत्रों में उष्णकटिबंधीय तूफान मोक हवाई के द्वीपों के दक्षिण में गिरने के लिए तैयार है, पूर्वानुमानकर्ताओं ने भारी बारिश की भविष्यवाणी की है...",
+      "archived": false
+    },
+    {
+      "id": "e31109fac92933aca985656ecba5f3857ae5d42c",
+      "slug": "syria-says-israeli-strike-near-damascus-violation-of-interna-e31109",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "excerpt": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T21:42:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo#0",
+      "titleHi": "सीरिया ने दमिश्क के पास इजरायली हमले को अंतरराष्ट्रीय कानून का उल्लंघन बताया",
+      "excerptHi": "यह ताजा घटना ऐसी खबरों के कुछ दिनों बाद सामने आई है कि इजरायल ने तुर्की सीमा के पास एक सैन्य हवाई अड्डे पर हमला किया था।",
+      "archived": false
+    },
+    {
+      "id": "1c70cb419c6741b5c88b9c13852f38ba2e1dc748",
+      "slug": "the-hotel-booking-mix-up-that-could-free-mushroom-murderer-1c70cb",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "excerpt": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "category": "World",
+      "secondaryCategories": [
+        "Sports"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c1/live/1bf3a560-9d46-11f1-a137-179a8d1c790b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-22T19:03:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o#2",
+      "titleHi": "होटल बुकिंग मिक्स - अप जो मशरूम कातिल को मुक्त कर सकता है",
+      "excerptHi": "एक टेबल टेनिस टूर्नामेंट और एक गले का लोजेंज एरिन पैटरसन के वकीलों को उसकी सजा को पलटने में मदद कर सकता है।",
       "archived": false
     },
     {
@@ -1742,7 +1830,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
       "titleHi": "बदेनोच कहते हैं कि सुधार के दलबदलू ‘कुछ सबसे बेईमान लोग जिनसे मैं मिला हूं’",
       "excerptHi": "टोरी नेता ने फराज की पार्टी के साथ गठबंधन करने से इंकार कर दिया और कहा कि ‘ड्रामा क्वीन’ जो चली गईं, उनका स्वागत नहीं किया जाएगा केमी बाडेनोच ने सुधार के लिए रवाना होने वाले दलबदलुओं को \"सबसे बेईमान लोगों में से कुछ\" कहा है,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f4c36d47d3ddcc6e0681e5e0e5243f254f2b1829",
@@ -1765,7 +1853,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cx272np7vgyo#0",
       "titleHi": "व्यापार वार्ता के पतन के बाद कार्नी ने ट्रम्प के नए टैरिफ को 'गलत गणना' कहा",
       "excerptHi": "शनिवार सुबह एक भाषण में, प्रधान मंत्री मार्क कार्नी ने कहा कि कनाडा अपनी संप्रभुता की रक्षा के लिए बातचीत की मेज से दूर चला गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "177cf6acb82d296549eda1a6e273e1b6bbc6ef38",
@@ -1787,7 +1875,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/eyedrop-recall-clear-eyes",
       "titleHi": "उत्पाद की बाँझपन के मुद्दों पर अमेरिका भर में आंखों की बूंदों की 40,000 बोतलें वापस ली गईं",
       "excerptHi": "प्रेस्टीज ब्रांड होल्डिंग्स ने एफडीए अलर्ट के बाद अपनी क्लियर आइज़ आई ड्रॉप के एक बैच को स्वेच्छा से वापस बुला लिया है संभावित चिंताओं के बारे में अमेरिका भर में स्टोर अलमारियों से आंखों की बूंदों की लगभग 40,000 बोतलें खींची जा रही हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "631bf69c9012c037e346aa5f766c6b3af6c6676e",
@@ -1807,93 +1895,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/22/indiana-residents-11th-day-without-power",
       "titleHi": "तूफान ने बिजली की लाइनें गिरा दीं, इंडियाना के निवासियों को 11वें दिन भी बिजली नहीं मिली",
       "excerptHi": "33,124 निवासी अभी भी अंधेरे में हैं क्योंकि यूटिलिटी कंपनी का कहना है कि वह उत्तर - पश्चिम राज्य में बिजली बहाल करने के लिए काम कर रही है शनिवार को उत्तर - पश्चिम इंडियाना के हजारों निवासी बिना बिजली के अपने 11 वें दिन जा रहे थे...",
-      "archived": true
-    },
-    {
-      "id": "5fd4de93df4f2cd9196a238cb88ebe11083e0c1e",
-      "slug": "carney-faces-crucial-test-after-walking-away-from-trumps-dea-5fd4de",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "excerpt": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T15:00:27.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo#0",
-      "titleHi": "ट्रम्प के सौदे से दूर जाने के बाद कार्नी को महत्वपूर्ण परीक्षा का सामना करना पड़ता है",
-      "excerptHi": "कनाडा के प्रधान मंत्री के पास अपना जुआ बेचना होगा कि व्हाइट हाउस के साथ बातचीत से दूर जाना परिणामों के लायक होगा।",
-      "archived": true
-    },
-    {
-      "id": "e07785f45baae759e4bd904205e02aa4d7b0615f",
-      "slug": "watch-moment-robot-attempts-to-beat-usain-bolts-100m-record-e07785",
-      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-      "excerpt": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T14:10:05.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
-      "titleHi": "देखें: पल रोबोट ने उसैन बोल्ट के 100 मीटर रिकॉर्ड को मात देने की कोशिश की",
-      "excerptHi": "स्मार्टफोन निर्माता ऑनर का कहना है कि चीन के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में एक एंड्रॉइड बोल्ट के विश्व रिकॉर्ड की तुलना में तेज़ी से चला।",
-      "archived": true
-    },
-    {
-      "id": "de9106f840b104ba30a375f3127d6e083fb3c4f6",
-      "slug": "canada-vows-dollar-for-dollar-response-as-us-puts-50-tariffs-de9106",
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "excerpt": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and the country’s prime minister, Mark…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Sports"
-      ],
-      "source": "The Guardian",
-      "author": "William Christou and agencies",
-      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T14:04:57.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "guid": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "titleHi": "कनाडा ने ‘डॉलर के लिए डॉलर’ प्रतिक्रिया की कसम खाई क्योंकि अमेरिका कुछ सामानों पर 50% टैरिफ लगाता है",
-      "excerptHi": "व्यापार वार्ता के पतन से नौकरी का नुकसान हो सकता है, लेकिन पारंपरिक सहयोगियों पर सबसे बड़ा प्रभाव राजनीतिक होने की उम्मीद है अमेरिका ने कनाडा से कुछ सामानों पर 50% टैरिफ लगाया है, और देश के प्रधान मंत्री, मार्क...",
-      "archived": true
-    },
-    {
-      "id": "508f4496688bc0fb0cc4cecd162c4f3424f99ab6",
-      "slug": "nebraska-school-district-asks-police-to-stop-using-shock-glo-508f44",
-      "title": "Nebraska school district asks police to stop using shock gloves on students",
-      "excerpt": "Omaha police agreed to stop carrying electric shock gloves in the halls of state’s largest public school district Omaha police recently agreed to stop carrying gloves that can deliver electric shocks to students in the…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Associated Press",
-      "image": "https://i.guim.co.uk/img/media/bbc8e90923f55bed3262694e8ecffbbbbbebb383/121_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=ac3e86408866a03640ae3961ffc72223",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T14:00:55.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
-      "titleHi": "नेब्रास्का स्कूल डिस्ट्रिक्ट ने पुलिस से छात्रों पर शॉक ग्लव्स का इस्तेमाल बंद करने को कहा",
-      "excerptHi": "ओमाहा पुलिस राज्य के सबसे बड़े पब्लिक स्कूल जिले के हॉल में बिजली के झटके दस्ताने ले जाने से रोकने के लिए सहमत हुई ओमाहा पुलिस हाल ही में दस्ताने ले जाने से रोकने के लिए सहमत हुई है जो छात्रों को बिजली के झटके पहुंचा सकती है...",
       "archived": true
     }
   ]
