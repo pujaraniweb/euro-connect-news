@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:13:24.135Z",
+  "generatedAt": "2026-08-23T18:14:53.568Z",
   "india": [
     {
       "id": "2ce5c592093ff5bde595032a1d2907ffd7a5f740",
@@ -210,6 +210,137 @@
   ],
   "usa": [
     {
+      "id": "907a3d920a149076e44a4ba09eddbc9cb50b1629",
+      "slug": "democrats-incredulous-over-hakeem-jeffries-and-jared-kushner-907a3d",
+      "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+      "excerpt": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Levine",
+      "image": "https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cebe99a2ebb823c2145ce8f376d8c177",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:55:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+      "titleHi": "हकीम जेफ़्रीज़ और जेरेड कुशनर की मुलाकात पर डेमोक्रेट्स अविश्वसनीय",
+      "excerptHi": "आलोचकों में सीनेटर क्रिस वैन होलेन, ओबामा टॉमी विटोर के पूर्व सहयोगी और पूर्व रिपब्लिकन कांग्रेसी एडम किन्ज़िंगर डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों ने रविवार को न्यूयॉर्क टाइम्स की एक रिपोर्ट पर अविश्वसनीय प्रतिक्रिया व्यक्त की...",
+      "archived": false
+    },
+    {
+      "id": "205682e3e19c88b3a54146d75432ee41fe0e4f57",
+      "slug": "trump-waves-green-flag-kicking-off-high-speed-indycar-race-t-205682",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "excerpt": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/d2a173a0-9f12-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:54:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o#0",
+      "titleHi": "ट्रम्प ने वाशिंगटन के माध्यम से हाई - स्पीड इंडीकार रेस की शुरुआत करते हुए हरे रंग का झंडा लहराया",
+      "excerptHi": "राष्ट्रपति ने दौड़ से पहले ट्रैक की एक औपचारिक गोद ली, जो देश के 250 वें जन्मदिन को चिह्नित करने के लिए आयोजनों की गर्मियों की समाप्ति है।",
+      "archived": false
+    },
+    {
+      "id": "05a262ac14cab33780504c7b6b417937d0ceff2f",
+      "slug": "the-lesson-from-canadas-collapsed-trade-talks-with-the-us-ne-05a262",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "excerpt": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Olivia Bowden",
+      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:24:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "titleHi": "अमेरिका के साथ कनाडा की ध्वस्त व्यापार वार्ता से सबक: बातचीत व्यर्थ हो सकती है",
+      "excerptHi": "ब्रेकडाउन से पता चलता है कि वॉशिंगटन अब साझा आर्थिक आधार की किसी भी झलक पर अपने हितों को प्राथमिकता देता है ‘अब और नहीं!!! ': अमेरिका - कनाडा वार्ता व्यापार युद्ध में तब्दील होने के बाद ट्रम्प ने पलटवार किया व्यापार का विनाशकारी पतन…",
+      "archived": false
+    },
+    {
+      "id": "bd8006f861fd23c27ce0057a1f3d9b2af0d3d7c2",
+      "slug": "tim-scott-defends-darline-grahams-national-security-is-not-m-bd8006",
+      "title": "Tim Scott defends Darline Graham’s ‘national security is not my thing’ comment",
+      "excerpt": "Republican senator tries to assuage concerns but does not offer details of Graham’s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham’s knowledge of national…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Levine",
+      "image": "https://i.guim.co.uk/img/media/b5c07786267821d0bac0c6a21e311e3286840c1a/282_0_2818_2254/master/2818.jpg?width=140&quality=85&auto=format&fit=max&s=3921de02decbb7ae6a6d04ea169a9eb1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:18:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
+      "titleHi": "टिम स्कॉट ने डार्लिन ग्राहम की ‘राष्ट्रीय सुरक्षा मेरी बात नहीं है’ टिप्पणी का बचाव किया",
+      "excerptHi": "रिपब्लिकन सीनेटर चिंताओं को शांत करने की कोशिश करता है लेकिन ग्राहम के राष्ट्रीय सुरक्षा अनुभव का विवरण नहीं देता है टिम स्कॉट ने साथी यूएस साउथ कैरोलिना रिपब्लिकन सीनेटर डार्लिन ग्राहम के राष्ट्रीय ज्ञान का बचाव किया...",
+      "archived": false
+    },
+    {
+      "id": "a92c28f61bdbc9cdc95edc06fa021113b1ca0e79",
+      "slug": "is-this-why-close-encounters-with-intelligent-aliens-have-so-a92c28",
+      "title": "Is this why close encounters with intelligent aliens have so far eluded us? | Letters",
+      "excerpt": "Readers offer their explanations for the absence of hard evidence for extraterrestrial civilisations, in response to an article by Adam Kirsch When thinking about why we have not encountered intelligent aliens yet, as…",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/8da39b99198eb6ca791768e5721fb013f9fa534d/512_0_5120_4096/master/5120.jpg?width=140&quality=85&auto=format&fit=max&s=60b670c0d5d1690b0998ee1030ab4bbc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:57:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/science/2026/aug/23/is-this-why-close-encounters-with-intelligent-aliens-have-so-far-eluded-us",
+      "guid": "https://www.theguardian.com/science/2026/aug/23/is-this-why-close-encounters-with-intelligent-aliens-have-so-far-eluded-us",
+      "titleHi": "क्या यही कारण है कि बुद्धिमान एलियंस के साथ घनिष्ठ मुठभेड़ों ने अब तक हमें दूर कर दिया है? | पत्र",
+      "excerptHi": "एडम किर्श के एक लेख के जवाब में पाठक अलौकिक सभ्यताओं के लिए कठोर सबूतों की अनुपस्थिति के लिए अपने स्पष्टीकरण पेश करते हैं, जब इस बारे में सोचते हैं कि हमने अभी तक बुद्धिमान एलियंस का सामना क्यों नहीं किया है, जैसा कि...",
+      "archived": false
+    },
+    {
+      "id": "d9f67a391ea61fd5815c63b4625488b7a7a590a4",
+      "slug": "natalie-harp-reportedly-posted-150-pro-trump-tweets-on-day-o-d9f67a",
+      "title": "Natalie Harp reportedly posted 150 pro-Trump tweets on day of Capitol riot",
+      "excerpt": "Devoted Trump aide flooded her now-disabled profile urging people to ‘never concede’ on 6 January 2021 The Donald Trump aide Natalie Harp flooded a since-disabled social media account with pro-Trump posts on the day…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/62426c6f19fe01680fc4c5345769a4489befe170/373_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=9cf37b04851b2094e9af23b4b6d2655e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:47:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
+      "titleHi": "नताली हार्प ने कथित तौर पर कैपिटल दंगों के दिन 150 ट्रम्प समर्थक ट्वीट पोस्ट किए",
+      "excerptHi": "समर्पित ट्रम्प सहयोगी ने 6 जनवरी 2021 को लोगों से ‘कभी हार न मानने‘ का आग्रह करते हुए अपनी अब विकलांग प्रोफ़ाइल में बाढ़ आ गई डोनाल्ड ट्रम्प की सहयोगी नताली हार्प ने उस दिन ट्रम्प समर्थक पोस्टों के साथ एक विकलांग सोशल मीडिया अकाउंट में बाढ़ आ गई...",
+      "archived": false
+    },
+    {
       "id": "4774e258c0540c7fdaedcd32b9309294dd201b2f",
       "slug": "newcastle-united-v-liverpool-premier-league-live-4774e2",
       "title": "Newcastle United v Liverpool: Premier League – live",
@@ -289,141 +420,74 @@
       "guid": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
       "titleHi": "ट्रम्प ने ट्रूथ सोशल पर होर्मुज का दावा किया, रेज़ई ने कहा, 'जब तक अमेरिका नहीं बदलता तब तक बंद रहें'",
       "excerptHi": "रेज़ाई ने ईरानी सरकारी टीवी को बताया कि अमेरिकी दावों के बावजूद, होर्मुज जलडमरूमध्य बंद है, और जब तक अमेरिका अपना 'व्यवहार' नहीं बदलता तब तक इसे फिर से नहीं खोला जाएगा।",
-      "archived": false
-    },
-    {
-      "id": "d7a45e6a3e0ff775806907d2a39457a5066d6e71",
-      "slug": "democrats-need-a-candidate-who-inspires-and-can-win-d7a45e",
-      "title": "Democrats Need a Candidate Who Inspires, and Can Win",
-      "excerpt": "Readers respond to a guest column outlining what Democrats need to do when selecting a presidential candidate. Also, President Trump’s health reports; video at the Supreme Court.",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "The New York Times",
-      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/18plouffe-lmwz/18plouffe-lmwz-mediumSquareAt3X.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T13:00:12.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/23/opinion/letters/democrats-2028-candidate.html",
-      "guid": "https://www.nytimes.com/2026/08/23/opinion/letters/democrats-2028-candidate.html",
-      "titleHi": "डेमोक्रेट्स को एक ऐसे उम्मीदवार की ज़रूरत है जो प्रेरणा दे, और जीत सके",
-      "excerptHi": "पाठक एक मेहमान कॉलम का जवाब देते हैं, जिसमें बताया गया है कि राष्ट्रपति पद के उम्मीदवार का चयन करते समय डेमोक्रेट्स को क्या करना चाहिए। इसके अलावा, राष्ट्रपति ट्रम्प की स्वास्थ्य रिपोर्ट; सुप्रीम कोर्ट में वीडियो।",
-      "archived": false
-    },
-    {
-      "id": "3fb3f23fc839ca2c95604211d0e2b8a8fdb36421",
-      "slug": "no-more-trump-lashes-out-after-us-canada-talks-devolve-into-3fb3f2",
-      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "excerpt": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Lauren Almeida",
-      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T11:00:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "titleHi": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "excerptHi": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a…",
-      "archived": true
-    },
-    {
-      "id": "f878e88ff7aa8bc36bbaf5dda7419488f1f557f6",
-      "slug": "jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-f878e8",
-      "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-      "excerpt": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength “Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Heather Stewart",
-      "image": "https://i.guim.co.uk/img/media/ecbb3a56cf670fd00f63f1801fc17289fac40503/1110_859_2182_1747/master/2182.jpg?width=140&quality=85&auto=format&fit=max&s=02e76331f323c8489277c7284183382b",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T10:53:53.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
-      "guid": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
-      "titleHi": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-      "excerptHi": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength “Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, told CNBC insouciantly…",
-      "archived": true
-    },
-    {
-      "id": "9b94841f34eb9a5dc952105948911fe91735e9fc",
-      "slug": "against-the-wind-despite-trumps-attacks-unions-are-fighting-9b9484",
-      "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-      "excerpt": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Dharna Noor",
-      "image": "https://i.guim.co.uk/img/media/9a6f8fa4a0f7dbfac1448d1bddefca433188a2e4/900_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d3ef62b1c8c600008d4d46948f0224ca",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T10:00:30.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
-      "titleHi": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
-      "excerptHi": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequality Ryan McElroen had spent years repairing the New York City subway underground when he got the opportunity…",
-      "archived": true
-    },
-    {
-      "id": "1a27d2a00ce04f479e5ded454081a7fcbbe46159",
-      "slug": "artemis-ii-crew-to-receive-top-us-space-medal-for-historic-l-1a27d2",
-      "title": "Artemis II crew to receive top US space medal for historic lunar journey",
-      "excerpt": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal,…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Ramon Antonio Vargas",
-      "image": "https://i.guim.co.uk/img/media/204f54fe96b9a20b5ff2ec283d776a874493da9e/490_0_4892_3915/master/4892.jpg?width=140&quality=85&auto=format&fit=max&s=8e6082b48d153971f320c0073199fc62",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T10:00:30.000Z",
-      "sourceUrl": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
-      "guid": "https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal",
-      "titleHi": "Artemis II crew to receive top US space medal for historic lunar journey",
-      "excerptHi": "Reid Wiseman, Victor Glover, Christina Koch and Jeremy Hansen broke record for farthest distance traveled from Earth The crew of the historic Artemis II lunar flyby mission have earned the US’s top space medal,…",
-      "archived": true
-    },
-    {
-      "id": "87add60be7fceef0a2fa9df114a4ff35f8edcbfb",
-      "slug": "lopez-beats-romero-then-snubs-catterall-fight-87add6",
-      "title": "Lopez beats Romero then snubs Catterall fight",
-      "excerpt": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e9c/live/c7dd59a0-9ece-11f1-8957-ef757d61d645.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T09:14:37.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c87n7rd30vro#1",
-      "titleHi": "Lopez beats Romero then snubs Catterall fight",
-      "excerptHi": "American Teofimo Lopez beats Rolando Romero in Las Vegas to claim the WBA welterweight title then seemingly snubs number one challenger Jack Catterall.",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "907a3d920a149076e44a4ba09eddbc9cb50b1629",
+      "slug": "democrats-incredulous-over-hakeem-jeffries-and-jared-kushner-907a3d",
+      "title": "Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting",
+      "excerpt": "Critics include Senator Chris van Hollen, ex-aide to Obama Tommy Vietor and ex-Republican congressman Adam Kinzinger Democrats and other Donald Trump critics reacted incredulously to a New York Times report on Sunday…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Levine",
+      "image": "https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cebe99a2ebb823c2145ce8f376d8c177",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:55:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/hakeem-jeffries-jared-kushner-meeting",
+      "titleHi": "हकीम जेफ़्रीज़ और जेरेड कुशनर की मुलाकात पर डेमोक्रेट्स अविश्वसनीय",
+      "excerptHi": "आलोचकों में सीनेटर क्रिस वैन होलेन, ओबामा टॉमी विटोर के पूर्व सहयोगी और पूर्व रिपब्लिकन कांग्रेसी एडम किन्ज़िंगर डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों ने रविवार को न्यूयॉर्क टाइम्स की एक रिपोर्ट पर अविश्वसनीय प्रतिक्रिया व्यक्त की...",
+      "archived": false
+    },
+    {
+      "id": "bd8006f861fd23c27ce0057a1f3d9b2af0d3d7c2",
+      "slug": "tim-scott-defends-darline-grahams-national-security-is-not-m-bd8006",
+      "title": "Tim Scott defends Darline Graham’s ‘national security is not my thing’ comment",
+      "excerpt": "Republican senator tries to assuage concerns but does not offer details of Graham’s national security experience Tim Scott defended fellow US South Carolina Republican senator Darline Graham’s knowledge of national…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Levine",
+      "image": "https://i.guim.co.uk/img/media/b5c07786267821d0bac0c6a21e311e3286840c1a/282_0_2818_2254/master/2818.jpg?width=140&quality=85&auto=format&fit=max&s=3921de02decbb7ae6a6d04ea169a9eb1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:18:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/tim-scott-defends-darline-graham",
+      "titleHi": "टिम स्कॉट ने डार्लिन ग्राहम की ‘राष्ट्रीय सुरक्षा मेरी बात नहीं है’ टिप्पणी का बचाव किया",
+      "excerptHi": "रिपब्लिकन सीनेटर चिंताओं को शांत करने की कोशिश करता है लेकिन ग्राहम के राष्ट्रीय सुरक्षा अनुभव का विवरण नहीं देता है टिम स्कॉट ने साथी यूएस साउथ कैरोलिना रिपब्लिकन सीनेटर डार्लिन ग्राहम के राष्ट्रीय ज्ञान का बचाव किया...",
+      "archived": false
+    },
+    {
+      "id": "4bd090ad9f1c0a17efd9a66e95dd54efc820bc6f",
+      "slug": "iryna-zarutskas-family-sues-north-carolina-city-over-her-mur-4bd090",
+      "title": "Iryna Zarutska’s family sues North Carolina city over her murder",
+      "excerpt": "Relatives of woman fatally stabbed on public transit allege death was preventable and Charlotte knew of violent crime issue The family of Iryna Zarutska is suing Charlotte and a security company one year after the…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/769e6e552843dfb0d83bf047563162428734abf4/451_0_5160_4128/master/5160.jpg?width=140&quality=85&auto=format&fit=max&s=9e33134ba159efc0d2a2ed5aed2be4d0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:14:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/iryna-zarutska-charlotte-nc-lawsuit",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/iryna-zarutska-charlotte-nc-lawsuit",
+      "titleHi": "इरीना ज़रुत्स्का के परिवार ने उत्तरी कैरोलिना शहर पर उसकी हत्या के लिए मुकदमा दायर किया",
+      "excerptHi": "सार्वजनिक पारगमन पर जानलेवा हमला करने वाली महिला के रिश्तेदारों का आरोप है कि मौत को रोका जा सकता था और शार्लोट को हिंसक अपराध के मुद्दे के बारे में पता था Iryna Zarutska का परिवार शार्लोट और एक सुरक्षा कंपनी पर मुकदमा कर रहा है …",
+      "archived": false
+    },
     {
       "id": "fdc1a8081eb2b08a4b73489fa586073347ca02d5",
       "slug": "latest-news-bulletin-august-23rd-2026-evening-fdc1a8",
@@ -504,7 +568,7 @@
       "guid": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
       "titleHi": "ट्रम्प ने ट्रूथ सोशल पर होर्मुज का दावा किया, रेज़ई ने कहा, 'जब तक अमेरिका नहीं बदलता तब तक बंद रहें'",
       "excerptHi": "रेज़ाई ने ईरानी सरकारी टीवी को बताया कि अमेरिकी दावों के बावजूद, होर्मुज जलडमरूमध्य बंद है, और जब तक अमेरिका अपना 'व्यवहार' नहीं बदलता तब तक इसे फिर से नहीं खोला जाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "359ed305a65a5649562a1b9944b6cd6bdf61b09f",
@@ -526,7 +590,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
       "titleHi": "क्रेमलिन द्वारा यूक्रेन के समर्थन पर दबाव बढ़ाए जाने के बाद रूस ने ब्रिटेन के राजदूत को वापस ले लिया",
       "excerptHi": "लंदन में दूतावास का कहना है कि सात साल तक कूटनीतिक पद पर रहने के बाद रूस ने ब्रिटेन में अपने राजदूत को वापस ले लिया है, यह उभरा है, क्योंकि क्रेमलिन ब्रिटेन पर दबाव बनाने की कोशिश कर रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c85614423c829fa13b510c22c264a5e457de5b28",
@@ -548,7 +612,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po#0",
       "titleHi": "बर्खास्त मंत्री ने बीबीसी को बताया कि ज़ेलेंस्की से पूछा जाना चाहिए कि उन्हें सरकारी भ्रष्टाचार के बारे में क्या पता था",
       "excerptHi": "मिखाइलो फेडोरोव ने यूक्रेन में युद्ध के समय चुनाव कराने का भी आह्वान किया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "02fe1f5a459e041338df214e5c61ae4e6a52d453",
@@ -568,75 +632,32 @@
       "guid": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#0",
       "titleHi": "डीआर कांगो और एम23 विद्रोही शांति वार्ता के लिए रोडमैप पर सहमत",
       "excerptHi": "संघर्ष को हल करने के लिए अगले कदमों पर काम करने के लिए प्रतिनिधियों ने स्विट्ज़रलैंड में मुलाकात की।",
-      "archived": false
-    },
-    {
-      "id": "39ea562d9b810ee494dc446875233d8986b14d2f",
-      "slug": "holding-election-in-wartime-would-risk-destroying-ukraine-sa-39ea56",
-      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
-      "excerpt": "President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’ Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Dan Sabbagh in Dnipro",
-      "image": "https://i.guim.co.uk/img/media/125d91e786f9cb71270d91c213096e4a92d6289b/638_0_3065_2451/master/3065.jpg?width=140&quality=85&auto=format&fit=max&s=35c300c1bd3c78cd1fcf6d5bc7760f0d",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T11:50:12.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "guid": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
-      "titleHi": "ज़ेलेंस्की कहते हैं, युद्ध के समय में चुनाव कराने से यूक्रेन को नष्ट करने का जोखिम होगा",
-      "excerptHi": "राष्ट्रपति ने प्रस्ताव की तीखी आलोचना करते हुए कहा कि ‘अभी चुनाव उस राज्य के लिए सुनामी हैं जो यूक्रेन को विभाजित करेगा’ वोलोडिमिर ज़ेलेंस्की ने कहा है कि युद्ध के दौरान यूक्रेन में चुनाव कराने से...",
-      "archived": true
-    },
-    {
-      "id": "ef36be6a2c5fbf1f0925f6872af6fa57401705a1",
-      "slug": "pine-cone-grenades-and-planet-baking-carbon-the-french-fires-ef36be",
-      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
-      "excerpt": "An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno The ruinous fires that overran parts of France this summer…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Ajit Niranjan with graphics by Lucy Swan, Harvey Symons and Paul Scruton",
-      "image": "https://i.guim.co.uk/img/media/de0eebbd7e69e52f32ac7d863895c935845f2435/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=54302ec8f3bb79e946b3d890e34d6a79",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T11:00:32.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
-      "guid": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
-      "titleHi": "पाइन - शंकु ग्रेनेड और प्लैनेट - बेकिंग कार्बन: फ़्रेंच आग 170 साल से बना रही है – एक विज़ुअल गाइड",
-      "excerptHi": "गिरोंडे नरक की स्थितियों का उत्पादन करने के लिए संयुक्त रूप से दलदल को निकालने और एक मोनोकल्चर, पेड़ों से डिट्रिटस और वैश्विक हीटिंग लगाने का 1857 का फरमान। इस गर्मी में फ्रांस के कुछ हिस्सों में लगी विनाशकारी आग...",
-      "archived": true
-    },
-    {
-      "id": "fc621cb6655e09ae2fb416b0e26a7806ee32d99c",
-      "slug": "latest-news-bulletin-august-23rd-2026-midday-fc621c",
-      "title": "Latest news bulletin | August 23rd, 2026 – Midday",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T10:00:16.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-midday",
-      "guid": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-midday",
-      "titleHi": "Latest news bulletin | August 23rd, 2026 – Midday",
-      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "50487404df51256af814730166f3c0f95ab9f84e",
+      "slug": "ireland-seal-highest-world-cup-finish-despite-loss-504874",
+      "title": "Ireland seal highest World Cup finish despite loss",
+      "excerpt": "Ireland will face either New Zealand or Pakistan ninth place at the World Cup despite Sunday's 2-1 defeat by France.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa1/live/eacfa0f0-9f03-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:27:11.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o#11",
+      "titleHi": "आयरलैंड ने हार के बावजूद विश्व कप का सबसे बड़ा खिताब अपने नाम किया",
+      "excerptHi": "रविवार को फ्रांस से 2 -1 से हार के बावजूद आयरलैंड का सामना विश्व कप में न्यूजीलैंड या पाकिस्तान से नौवें स्थान पर होगा।",
+      "archived": false
+    },
     {
       "id": "edc8f273eb85d49ba85435bee6a81d1ca77659f4",
       "slug": "robots-smash-human-track-records-including-bolts-100m-sprint-edc8f2",
@@ -675,7 +696,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/23/hampshire-v-yorkshire-somerset-v-essex-and-more-county-cricket-day-four-live",
       "titleHi": "हैम्पशायर बनाम यॉर्कशायर, समरसेट बनाम एसेक्स, और बहुत कुछ: काउंटी क्रिकेट का चौथा दिन – लाइव",
       "excerptHi": "अंतिम दिन ऑस्ट्रेलिया ने बांग्लादेश को हराया | स्पिन प्राप्त करें | मेल तान्या बोहनन, इस सीज़न में औसतन 19.52, रक्षात्मक रूप से आगे बढ़ता है लेकिन यह ल्यूक प्रोक्टर का एक झिंगर है, जो...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0ddadb7cee88e362c822dab264f8e99d56ba4094",
@@ -698,7 +719,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo#2",
       "titleHi": "वर्ल्ड ह्यूमनॉइड गेम्स में रोबोट बॉक्सिंग, फुटबॉल और स्प्रिंटिंग",
       "excerptHi": "पांच दिवसीय प्रतियोगिता का दूसरा संस्करण शनिवार को बीजिंग, चीन में शुरू हुआ।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5453647fbaee77fe15115c9d183417d80f392c38",
@@ -824,28 +845,6 @@
       "titleHi": "ऑस्ट्रेलिया बनाम बांग्लादेश: दूसरा पुरुष टेस्ट, दूसरा दिन – लाइव",
       "excerptHi": "मैके में ग्रेट बैरियर रीफ एरिना से अपडेट कोई विचार? ईमेल मेगन 45 वां ओवर: ऑस्ट्रेलिया 184 -8 (ग्रीन 65, लियोन 15) हसन से ढीले होने के बाद, हमारे पास ताइजुल इस्लाम अपने बाएं के साथ हमले में आ रहा है...",
       "archived": true
-    },
-    {
-      "id": "e07785f45baae759e4bd904205e02aa4d7b0615f",
-      "slug": "watch-moment-robot-attempts-to-beat-usain-bolts-100m-record-e07785",
-      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-      "excerpt": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-22T14:10:05.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo#3",
-      "titleHi": "देखें: पल रोबोट ने उसैन बोल्ट के 100 मीटर रिकॉर्ड को मात देने की कोशिश की",
-      "excerptHi": "स्मार्टफोन निर्माता ऑनर का कहना है कि चीन के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स में एक एंड्रॉइड बोल्ट के विश्व रिकॉर्ड की तुलना में तेज़ी से चला।",
-      "archived": true
     }
   ],
   "africa": [
@@ -867,7 +866,7 @@
       "guid": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro#1",
       "titleHi": "केजेल्चा ने पुरुषों के हाफ मैराथन विश्व रिकॉर्ड को 29 सेकंड से तोड़ा",
       "excerptHi": "इथियोपिया के योमिफ केजेल्चा ने ब्यूनस आयर्स में विश्व एथलेटिक्स सड़क दौड़ में 56 मिनट 51 सेकंड के समय में पुरुषों की हाफ मैराथन विश्व रिकॉर्ड तोड़ दिया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "02fe1f5a459e041338df214e5c61ae4e6a52d453",
@@ -887,7 +886,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#0",
       "titleHi": "डीआर कांगो और एम23 विद्रोही शांति वार्ता के लिए रोडमैप पर सहमत",
       "excerptHi": "संघर्ष को हल करने के लिए अगले कदमों पर काम करने के लिए प्रतिनिधियों ने स्विट्ज़रलैंड में मुलाकात की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fcda88548290d74bbd069000c439e9fcb67de7e0",
@@ -1073,7 +1072,7 @@
       "guid": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
       "titleHi": "ट्रम्प ने ट्रूथ सोशल पर होर्मुज का दावा किया, रेज़ई ने कहा, 'जब तक अमेरिका नहीं बदलता तब तक बंद रहें'",
       "excerptHi": "रेज़ाई ने ईरानी सरकारी टीवी को बताया कि अमेरिकी दावों के बावजूद, होर्मुज जलडमरूमध्य बंद है, और जब तक अमेरिका अपना 'व्यवहार' नहीं बदलता तब तक इसे फिर से नहीं खोला जाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0f7415ce5b12a30f40334c112c439b07f01ee2d0",
@@ -1289,7 +1288,7 @@
       "guid": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro#1",
       "titleHi": "केजेल्चा ने पुरुषों के हाफ मैराथन विश्व रिकॉर्ड को 29 सेकंड से तोड़ा",
       "excerptHi": "इथियोपिया के योमिफ केजेल्चा ने ब्यूनस आयर्स में विश्व एथलेटिक्स सड़क दौड़ में 56 मिनट 51 सेकंड के समय में पुरुषों की हाफ मैराथन विश्व रिकॉर्ड तोड़ दिया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1afccde2ef3b726834de66f95ca18a2fd0c1dd6f",
@@ -1480,6 +1479,28 @@
   ],
   "oceania": [
     {
+      "id": "50487404df51256af814730166f3c0f95ab9f84e",
+      "slug": "ireland-seal-highest-world-cup-finish-despite-loss-504874",
+      "title": "Ireland seal highest World Cup finish despite loss",
+      "excerpt": "Ireland will face either New Zealand or Pakistan ninth place at the World Cup despite Sunday's 2-1 defeat by France.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa1/live/eacfa0f0-9f03-11f1-8ab2-7700e58d1417.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T15:27:11.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o#11",
+      "titleHi": "आयरलैंड ने हार के बावजूद विश्व कप का सबसे बड़ा खिताब अपने नाम किया",
+      "excerptHi": "रविवार को फ्रांस से 2 -1 से हार के बावजूद आयरलैंड का सामना विश्व कप में न्यूजीलैंड या पाकिस्तान से नौवें स्थान पर होगा।",
+      "archived": false
+    },
+    {
       "id": "3d38ad745d2b805f866de487e1e92c977f27be79",
       "slug": "illicit-deeds-have-just-gotten-a-new-halloween-video-game-ba-3d38ad",
       "title": "Illicit deeds have just gotten a new Halloween video game banned in Australia – and it’s not because of the violence",
@@ -1588,7 +1609,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/23/hampshire-v-yorkshire-somerset-v-essex-and-more-county-cricket-day-four-live",
       "titleHi": "हैम्पशायर बनाम यॉर्कशायर, समरसेट बनाम एसेक्स, और बहुत कुछ: काउंटी क्रिकेट का चौथा दिन – लाइव",
       "excerptHi": "अंतिम दिन ऑस्ट्रेलिया ने बांग्लादेश को हराया | स्पिन प्राप्त करें | मेल तान्या बोहनन, इस सीज़न में औसतन 19.52, रक्षात्मक रूप से आगे बढ़ता है लेकिन यह ल्यूक प्रोक्टर का एक झिंगर है, जो...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4771f8f1803b3fa71687b1e3b58e5892f67944c5",
@@ -1671,32 +1692,76 @@
       "titleHi": "वन नेशन एमपी ने पार्टी के प्रवासन लक्ष्य को लेबर के एक बार ग्रामीण कार्यबल से ’बहुत अलग नहीं' माना",
       "excerptHi": "डेविड फ़ार्ले का कहना है कि पार्टी 130,000 माइग्रेशन लक्ष्य के अलावा 100,000 प्रवासी ग्रामीण श्रमिकों को चाहती है, जिसे वह ‘सही‘ संख्या मानती है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल प्राप्त करें,...",
       "archived": true
-    },
-    {
-      "id": "4f21b246542f5caf3a672137399ec7e3b23b7252",
-      "slug": "sydney-marathon-admits-unfortunate-error-as-finishers-medal-4f21b2",
-      "title": "Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight",
-      "excerpt": "‘Landmarks’ side of the medal features the Allianz Arena in German city rather than Allianz Stadium in Sydney Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Crypto",
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Stephanie Convery",
-      "image": "https://i.guim.co.uk/img/media/bcb5be27066d591f5b99283bdb63f22018974ba1/0_0_1975_1580/master/1975.jpg?width=140&quality=85&auto=format&fit=max&s=5f1134c9a7d8ca7850e1c5104cf0f446",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T02:14:52.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/23/sydney-marathon-medal-allianz-stadium-munich-germany-unfortunate-error",
-      "titleHi": "सिडनी मैराथन ने ‘दुर्भाग्यपूर्ण त्रुटि‘ को स्वीकार किया क्योंकि फिनिशर के पदक में रेस हाइलाइट के रूप में म्यूनिख स्टेडियम को दर्शाया गया है",
-      "excerptHi": "पदक के ‘लैंडमार्क’ पक्ष में सिडनी में एलियांज स्टेडियम के बजाय जर्मन शहर में एलियांज एरिना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "205682e3e19c88b3a54146d75432ee41fe0e4f57",
+      "slug": "trump-waves-green-flag-kicking-off-high-speed-indycar-race-t-205682",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "excerpt": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/d2a173a0-9f12-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:54:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o#0",
+      "titleHi": "ट्रम्प ने वाशिंगटन के माध्यम से हाई - स्पीड इंडीकार रेस की शुरुआत करते हुए हरे रंग का झंडा लहराया",
+      "excerptHi": "राष्ट्रपति ने दौड़ से पहले ट्रैक की एक औपचारिक गोद ली, जो देश के 250 वें जन्मदिन को चिह्नित करने के लिए आयोजनों की गर्मियों की समाप्ति है।",
+      "archived": false
+    },
+    {
+      "id": "05a262ac14cab33780504c7b6b417937d0ceff2f",
+      "slug": "the-lesson-from-canadas-collapsed-trade-talks-with-the-us-ne-05a262",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "excerpt": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground ‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war The calamitous collapse of trade…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Olivia Bowden",
+      "image": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=140&quality=85&auto=format&fit=max&s=f4a441fe501f609c181fb9eae8b6798a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T17:24:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "titleHi": "अमेरिका के साथ कनाडा की ध्वस्त व्यापार वार्ता से सबक: बातचीत व्यर्थ हो सकती है",
+      "excerptHi": "ब्रेकडाउन से पता चलता है कि वॉशिंगटन अब साझा आर्थिक आधार की किसी भी झलक पर अपने हितों को प्राथमिकता देता है ‘अब और नहीं!!! ': अमेरिका - कनाडा वार्ता व्यापार युद्ध में तब्दील होने के बाद ट्रम्प ने पलटवार किया व्यापार का विनाशकारी पतन…",
+      "archived": false
+    },
+    {
+      "id": "d9f67a391ea61fd5815c63b4625488b7a7a590a4",
+      "slug": "natalie-harp-reportedly-posted-150-pro-trump-tweets-on-day-o-d9f67a",
+      "title": "Natalie Harp reportedly posted 150 pro-Trump tweets on day of Capitol riot",
+      "excerpt": "Devoted Trump aide flooded her now-disabled profile urging people to ‘never concede’ on 6 January 2021 The Donald Trump aide Natalie Harp flooded a since-disabled social media account with pro-Trump posts on the day…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/62426c6f19fe01680fc4c5345769a4489befe170/373_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=9cf37b04851b2094e9af23b4b6d2655e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T16:47:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/natalie-harp-january-6-trump-capitol-tweets",
+      "titleHi": "नताली हार्प ने कथित तौर पर कैपिटल दंगों के दिन 150 ट्रम्प समर्थक ट्वीट पोस्ट किए",
+      "excerptHi": "समर्पित ट्रम्प सहयोगी ने 6 जनवरी 2021 को लोगों से ‘कभी हार न मानने‘ का आग्रह करते हुए अपनी अब विकलांग प्रोफ़ाइल में बाढ़ आ गई डोनाल्ड ट्रम्प की सहयोगी नताली हार्प ने उस दिन ट्रम्प समर्थक पोस्टों के साथ एक विकलांग सोशल मीडिया अकाउंट में बाढ़ आ गई...",
+      "archived": false
+    },
     {
       "id": "b11fa1f9ca0df1e4f58c9d39353d2df793b1fc11",
       "slug": "thousands-struggling-without-power-in-indiana-12-days-after-b11fa1",
@@ -1846,70 +1911,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
       "titleHi": "जज का कहना है कि एबरक्रॉम्बी के पूर्व सीईओ सेक्स - ट्रैफिकिंग ट्रायल के लिए मानसिक रूप से फिट हैं",
       "excerptHi": "माइकल जेफ्री को मनोभ्रंश के लक्षणों के लिए महीनों अस्पताल में भर्ती रहने के बाद मुकदमा चलाने के लिए मानसिक रूप से सक्षम माना जाता है एबरक्रॉम्बी एंड फिच के पूर्व सीईओ को मानसिक रूप से सक्षम माना गया है क्योंकि वह...",
-      "archived": false
-    },
-    {
-      "id": "e15e2647d853c314f813d9875c973bca5f07da4d",
-      "slug": "burnham-stays-away-from-no-10-north-wedding-after-brides-ple-e15e26",
-      "title": "Burnham stays away from No 10 North wedding after bride’s plea",
-      "excerpt": "Prime minister sends video message to newlyweds instead after bride Sarah Burwin asked him not to ‘ruin’ vibe at Heron House wedding Andy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Harry Taylor",
-      "image": "https://i.guim.co.uk/img/media/28ce282dad72f048044a593d5d1cc06c6a2da37f/1077_1269_1948_1559/master/1948.jpg?width=140&quality=85&auto=format&fit=max&s=a3d3de7e5da040fd335e434226f414c2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T13:56:40.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
-      "guid": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
-      "titleHi": "दुल्हन की दलील के बाद बर्नहम नंबर 10 नॉर्थ वेडिंग से दूर रहती है",
-      "excerptHi": "प्रधान मंत्री ने दुल्हन सारा बर्विन द्वारा हेरोन हाउस की शादी में ‘बर्बाद‘ न करने के लिए कहने के बजाय नवविवाहितों को वीडियो संदेश भेजा एंडी बर्नहम ने अपनी शादी के लिए नहीं आकर दुल्हन की इच्छाओं को पूरा किया...",
-      "archived": false
-    },
-    {
-      "id": "7e7a0d4f47e3d00266f1406589d1975c1e04b3e2",
-      "slug": "kejelcha-breaks-mens-half-marathon-world-record-by-29-second-7e7a0d",
-      "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "excerpt": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T13:35:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro#1",
-      "titleHi": "केजेल्चा ने पुरुषों के हाफ मैराथन विश्व रिकॉर्ड को 29 सेकंड से तोड़ा",
-      "excerptHi": "इथियोपिया के योमिफ केजेल्चा ने ब्यूनस आयर्स में विश्व एथलेटिक्स सड़क दौड़ में 56 मिनट 51 सेकंड के समय में पुरुषों की हाफ मैराथन विश्व रिकॉर्ड तोड़ दिया।",
-      "archived": false
-    },
-    {
-      "id": "a64d5780bea709e4341bef0be224488a36284261",
-      "slug": "arrest-warrant-issued-for-wife-of-massachusetts-officer-foun-a64d57",
-      "title": "Arrest warrant issued for wife of Massachusetts officer found dead at home",
-      "excerpt": "Woman remains missing more than five days after police found officer she was married to dead in their home An arrest warrant has been issued for a mental health advocate who remained missing on Sunday, more than five…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Associated Press and Guardian staff",
-      "image": "https://i.guim.co.uk/img/media/2b4a48951f37b3c7ff5030ab3244672ef31ccca4/88_0_876_701/master/876.jpg?width=140&quality=85&auto=format&fit=max&s=a22adcf4f4f023fd6c9c2b5559c83cc3",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T13:25:20.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/23/massachusetts-officer-death-home-wife-arrest-warrant",
-      "titleHi": "मैसाचुसेट्स के अधिकारी की पत्नी के घर पर मृत पाए जाने पर गिरफ्तारी वारंट जारी किया गया",
-      "excerptHi": "रविवार को लापता हुए एक मानसिक स्वास्थ्य वकील के लिए एक गिरफ्तारी वारंट जारी किया गया है, जो पांच से अधिक…",
       "archived": false
     }
   ]
