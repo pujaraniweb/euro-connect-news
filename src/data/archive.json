@@ -1,8 +1,339 @@
 {
-  "generatedAt": "2026-08-23T18:14:53.568Z",
+  "generatedAt": "2026-08-23T20:11:16.646Z",
   "retentionDays": 45,
-  "total": 2103,
+  "total": 2120,
   "items": [
+    {
+      "id": "6fc4ee59f002123ba4cef0fb53a1de213b943270",
+      "slug": "uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-tar-6fc4ee",
+      "title": "Uzbekistan and Azerbaijan deepen alliance with $1bn trade target and stronger Trans-Caspian links",
+      "excerpt": "Presidents Shavkat Mirziyoyev and Ilham Aliyev signed a Treaty on Eternal Friendship in Tashkent and launched new projects in banking, energy, tourism and mining. The two countries will also co-host the FIFA U-20 World…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Sports"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:59:41.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian",
+      "guid": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian",
+      "titleHi": "उज़्बेकिस्तान और अज़रबैजान ने $ 1 बिलियन के व्यापार लक्ष्य और मजबूत ट्रांस - कैस्पियन लिंक के साथ गठबंधन को गहरा किया",
+      "excerptHi": "राष्ट्रपतियों शावकत मिर्जियोयेव और इल्हाम अलीयेव ने ताशकंद में अनन्त मैत्री पर एक संधि पर हस्ताक्षर किए और बैंकिंग, ऊर्जा, पर्यटन और खनन में नई परियोजनाओं की शुरुआत की। दोनों देश फीफा अंडर -20 वर्ल्ड की सह - मेजबानी भी करेंगे...",
+      "archived": false
+    },
+    {
+      "id": "848fdb30bc54c67219dd611171d2a1d8a3659faf",
+      "slug": "iraola-wouldnt-have-signed-up-for-draw-but-relieved-to-earn-848fdb",
+      "title": "Iraola ‘wouldn’t have signed up for’ draw but relieved to earn late point at Newcastle",
+      "excerpt": "Szoboszlai’s 99th-minute penalty levels score at 2-2 Isak underwhelming for Liverpool on return to Tyneside Andoni Iraola said he “wouldn’t have signed up for this result” after his Liverpool side left it late to secure…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Louise Taylor at St James' Park",
+      "image": "https://i.guim.co.uk/img/media/c561ec08bc93d71092f4997618e02b78229c205b/93_0_1779_1423/master/1779.jpg?width=140&quality=85&auto=format&fit=max&s=45d8d8a148d8e93f82fa74bef76f42e4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:53:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle",
+      "guid": "https://www.theguardian.com/football/2026/aug/23/andoni-iraola-liverpool-alexander-isak-matthias-jaissle-newcastle",
+      "titleHi": "इराओला ने ‘ड्रॉ’ के लिए साइन अप नहीं किया होता, लेकिन न्यूकैसल में लेट पॉइंट अर्जित करने में उन्हें राहत मिली",
+      "excerptHi": "टाइनेसाइड लौटने पर लिवरपूल के लिए 2 -2 इसाक अंडरवेलिंग पर जोबोस्लाई का 99 वें मिनट का पेनल्टी लेवल स्कोर एंडोनी इराओला ने कहा कि उनकी लिवरपूल टीम ने सुरक्षित करने के लिए देर से छोड़े जाने के बाद उन्होंने \"इस परिणाम के लिए साइन अप नहीं किया होगा\"...",
+      "archived": false
+    },
+    {
+      "id": "f0a55f3207b0fb06ac79f90283b790052d6a5099",
+      "slug": "relief-for-iraola-but-liverpool-have-work-to-do-after-snatch-f0a55f",
+      "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+      "excerpt": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:27:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo#0",
+      "titleHi": "इराओला के लिए राहत लेकिन न्यूकैसल में स्नैचिंग ड्रॉ के बाद लिवरपूल को काम करना है",
+      "excerptHi": "डोमिनिक जोबोस्ज़लाई की चोट के समय का जुर्माना एंडोनी इराओला युग की शुरुआत में एक बिंदु बचाता है - लेकिन लिवरपूल को नीचे के प्रदर्शन के बाद सुधार करने की आवश्यकता है।",
+      "archived": false
+    },
+    {
+      "id": "dc192810830c336073372fb0f1035722fe5a6918",
+      "slug": "frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f-dc1928",
+      "title": "Frustrated Lewis Hamilton claims Ferrari strategy cost him F1 Dutch GP podium",
+      "excerpt": "Briton says team too slow to pit Charles Leclerc ‘It’s something that we need to discuss offline’ Lewis Hamilton has told his Ferrari team that they must up their game if he is to remain in the Formula One world…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Giles Richards at Zandvoort",
+      "image": "https://i.guim.co.uk/img/media/0c2e04a991a3dbbae3de17090180239efde260f4/2089_259_2819_2255/master/2819.jpg?width=140&quality=85&auto=format&fit=max&s=f83344081d3e86410c4d750a177037a2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:15:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium",
+      "guid": "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium",
+      "titleHi": "निराश लुईस हैमिल्टन का दावा है कि फेरारी रणनीति की वजह से उन्हें F1 डच जीपी पोडियम की कीमत चुकानी पड़ी",
+      "excerptHi": "ब्रिटन का कहना है कि टीम चार्ल्स लेक्लेर्क को पिटाने में बहुत धीमी है ‘यह कुछ ऐसा है जिस पर हमें ऑफ़लाइन चर्चा करने की आवश्यकता है’ लुईस हैमिल्टन ने अपनी फेरारी टीम से कहा है कि अगर उन्हें फॉर्मूला वन वर्ल्ड में बने रहना है तो उन्हें अपने खेल को बढ़ाना होगा...",
+      "archived": false
+    },
+    {
+      "id": "438d57e3ec531f14e629de72aa5bb6b12c57c7e2",
+      "slug": "gta-vi-all-the-news-on-rockstars-next-entry-in-the-grand-the-438d57",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "excerpt": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:14:37.000Z",
+      "sourceUrl": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "guid": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "titleHi": "GTA VI: ग्रैंड थेफ्ट ऑटो सीरीज़ में रॉकस्टार की अगली एंट्री की सभी ख़बरें",
+      "excerptHi": "जीटीए वी के आने के बाद से एक दशक और दो कंसोल पीढ़ियों से अधिक समय हो गया है, और इसका सीक्वल अभी भी एक काम प्रगति पर है। GTA VI को कई देरी का सामना करना पड़ा है, डेवलपर रॉकस्टार गेम्स ने अपनी अनुमानित रिलीज़ को वापस ले लिया है...",
+      "archived": false
+    },
+    {
+      "id": "09811bda9e4bdb6059ac700f211b4b093853997a",
+      "slug": "marescas-manchester-city-reign-begins-with-dramatic-comeback-09811b",
+      "title": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
+      "excerpt": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bc/live/b4da1f90-9f06-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:03:31.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cpd7dp7zeqzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cpd7dp7zeqzo#1",
+      "titleHi": "बोर्नमाउथ के खिलाफ नाटकीय वापसी के साथ Maresca के मैनचेस्टर सिटी शासनकाल की शुरुआत",
+      "excerptHi": "नए क्लबों के प्रभारी दो प्रबंधक मार्को रोज़ के तहत एन्ज़ो मेरेसका और बोर्नमाउथ के तहत मैनचेस्टर सिटी के साथ आमने - सामने हैं, क्योंकि मेजबान नाटकीय तरीके से नए प्रीमियर लीग सीज़न को शुरू करने के लिए देर से वापसी कर रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "3aa763a26a855034d0ba879ad8c0bbdb0b436f3e",
+      "slug": "brighton-dominate-10-man-villa-3aa763",
+      "title": "Brighton dominate 10-man Villa",
+      "excerpt": "Brighton start their season with an emphatic win at home against Europa League winners Aston Villa, with four first-half goals.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a9/live/eb749380-9f03-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:02:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo#2",
+      "titleHi": "ब्राइटन 10 - मैन विला पर हावी है",
+      "excerptHi": "ब्राइटन ने अपने सीज़न की शुरुआत यूरोपा लीग के विजेता एस्टन विला के खिलाफ चार पहले - आधे गोल के साथ घर पर एक जोरदार जीत के साथ की।",
+      "archived": false
+    },
+    {
+      "id": "5afca3d5dafe119bebbdf906ca7eed0c937baf10",
+      "slug": "late-penalty-for-liverpool-denies-newcastle-win-5afca3",
+      "title": "Late penalty for Liverpool denies Newcastle win",
+      "excerpt": "Szoboszlai rescues a point for Liverpool, scoring a stoppage-time penalty to deny Newcastle an opening game victory at St James' Park in the Premier League.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/2a64e490-9f19-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:01:23.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo#0",
+      "titleHi": "लिवरपूल के लिए देर से जुर्माना न्यूकैसल जीत से इनकार करता है",
+      "excerptHi": "जोबोस्लाई ने लिवरपूल के लिए एक अंक बचाया, प्रीमियर लीग में सेंट जेम्स पार्क में न्यूकैसल को शुरुआती गेम में जीत से वंचित करने के लिए स्टॉप - टाइम पेनल्टी लगाई।",
+      "archived": false
+    },
+    {
+      "id": "6d490fc196683e49c21774d567353bcde3395c68",
+      "slug": "using-international-football-to-reignite-premier-league-drea-6d490f",
+      "title": "Using international football to reignite Premier League dreams",
+      "excerpt": "Before his potential Premier League debut for Fulham, BBC Sport looks at the role international football has played in the development of players like Shea Charles.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d352/live/eab94290-9e2e-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:48:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c7vg4dn9qymo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c7vg4dn9qymo#11",
+      "titleHi": "प्रीमियर लीग के सपनों को साकार करने के लिए अंतरराष्ट्रीय फुटबॉल का उपयोग करना",
+      "excerptHi": "फुलहम के लिए अपनी संभावित प्रीमियर लीग की शुरुआत से पहले, बीबीसी स्पोर्ट शिया चार्ल्स जैसे खिलाड़ियों के विकास में अंतरराष्ट्रीय फुटबॉल की भूमिका को देखता है।",
+      "archived": false
+    },
+    {
+      "id": "518b120cd4618b23fc259a36eca4b2e0f6ee0651",
+      "slug": "ferrari-delay-in-moving-leclerc-costly---hamilton-518b12",
+      "title": "Ferrari delay in moving Leclerc costly - Hamilton",
+      "excerpt": "Lewis Hamilton says Ferrari's delay in moving team-mate Charles Leclerc out of his way could have cost him second place at the Dutch Grand Prix.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6c8/live/34b023b0-9f1e-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:39:27.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o#1",
+      "titleHi": "लेक्लेर्क को ले जाने में फेरारी की देरी महंगी पड़ी - हैमिल्टन",
+      "excerptHi": "लुईस हैमिल्टन का कहना है कि टीम के साथी चार्ल्स लेक्लेर्क को अपने रास्ते से हटाने में फेरारी की देरी से उन्हें डच ग्रैंड प्रिक्स में दूसरा स्थान मिल सकता था।",
+      "archived": false
+    },
+    {
+      "id": "79d4f74ec27781c24b35619eb4877e675b565555",
+      "slug": "viral-cat-in-the-hat-tiktok-trend-sparks-fun-fake-videos-but-79d4f7",
+      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+      "excerpt": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/d9818a60-9f0e-11f1-bca9-4d339be997b1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:38:36.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o#0",
+      "titleHi": "वायरल 'कैट इन द हैट' TikTok ट्रेंड ने फर्जी वीडियो के साथ - साथ असली डर भी जगाया है",
+      "excerptHi": "सोशल मीडिया पोस्ट ने आयरलैंड और यूके में पुलिस बलों को बयान जारी करने के लिए प्रेरित किया है कि तस्वीरें नकली हैं।",
+      "archived": false
+    },
+    {
+      "id": "45a57b4151aac6c8901cd2f1331a89e684348714",
+      "slug": "gbs-men-defend-team-gold-at-european-championships-45a57b",
+      "title": "GB's men defend team gold at European Championships",
+      "excerpt": "Great Britain produce a superb performance to successfully defend the men's team gold at the European Gymnastics Championships in Zagreb for the first time.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c7/live/73f4ff60-9f1d-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:30:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/gymnastics/articles/c20e0e7qx92o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/gymnastics/articles/c20e0e7qx92o#3",
+      "titleHi": "GB के पुरुष यूरोपीय चैंपियनशिप में टीम के स्वर्ण का बचाव करते हैं",
+      "excerptHi": "ग्रेट ब्रिटेन ने पहली बार ज़ाग्रेब में यूरोपीय जिम्नास्टिक चैंपियनशिप में पुरुषों की टीम के स्वर्ण पदक का सफलतापूर्वक बचाव करने के लिए शानदार प्रदर्शन किया।",
+      "archived": false
+    },
+    {
+      "id": "9796a5734d34ca6bc61dd960e7228493d1eec6a7",
+      "slug": "regulation-crypto-is-here-state-of-crypto-9796a5",
+      "title": "Regulation Crypto is here: State of Crypto",
+      "excerpt": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Nikhilesh De",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T18:30:00.000Z",
+      "sourceUrl": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "guid": "fde2f69c-d2e2-4109-8824-b6e5f8e11a43",
+      "titleHi": "विनियमन क्रिप्टो यहाँ है: क्रिप्टो राज्य",
+      "excerptHi": "एसईसी ने पिछले सप्ताह अपने रेग क्रिप्टो प्रस्ताव को प्रकाशित किया, जनता को टिप्पणी करने के लिए 60 दिन दिए।",
+      "archived": false
+    },
+    {
+      "id": "315ed7d5eee43745e26374698e3f33c6e4634a80",
+      "slug": "when-you-score-at-the-end-it-tastes-better---iraola-315ed7",
+      "title": "'When you score at the end it tastes better' - Iraola",
+      "excerpt": "Liverpool head coach Andoni Iraola reacts to his sides 2-2 draw against Newcastle United on the opening weekend of the 2026-27 Premier League season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9646/live/06631cb0-9f1e-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:28:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o#2",
+      "titleHi": "'जब आप अंत में स्कोर करते हैं तो इसका स्वाद बेहतर होता है' - इराओला",
+      "excerptHi": "लिवरपूल के मुख्य कोच एंडोनी इराओला ने 2026 -27 प्रीमियर लीग सीज़न के शुरुआती सप्ताहांत में न्यूकैसल यूनाइटेड के खिलाफ अपनी टीम के 2 -2 के ड्रॉ पर प्रतिक्रिया व्यक्त की।",
+      "archived": false
+    },
+    {
+      "id": "c6209fd5504508ada87c575c168b4b6be182c309",
+      "slug": "fast-moving-wildfire-in-reno-nevada-forces-thousands-to-evac-c6209f",
+      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+      "excerpt": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar and agencies",
+      "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=40d26ed080c5af284172c2611408eda4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:22:15.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "titleHi": "रेनो, नेवादा में तेज़ी से बढ़ रही जंगल की आग, हजारों लोगों को घरों को खाली करने के लिए मजबूर करती है",
+      "excerptHi": "हॉक आग ने 13,000 एकड़ से अधिक क्षेत्र को कवर किया है क्योंकि रेनो में नेवादा विश्वविद्यालय परिसर में आग लग गई है। रविवार की सुबह तेजी से बढ़ने वाली नेवादा जंगल की आग 13,000 एकड़ (5,200 हेक्टेयर) से अधिक में विस्फोट हो गई, जिससे...",
+      "archived": false
+    },
+    {
+      "id": "c3bfba41d6117e82f0c27eec80c126fc2d74cae6",
+      "slug": "guinea-rubbish-landfill-collapse-kills-30-c3bfba",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "excerpt": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T18:17:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
+      "titleHi": "गिनी में कचरा ढहने से 30 लोगों की मौत",
+      "excerptHi": "सरकार का कहना है कि एक प्रमुख अपशिष्ट स्थल पर कचरे के ढेर ने राजधानी में कई घरों को दफन कर दिया।",
+      "archived": false
+    },
     {
       "id": "907a3d920a149076e44a4ba09eddbc9cb50b1629",
       "slug": "democrats-incredulous-over-hakeem-jeffries-and-jared-kushner-907a3d",
@@ -109,6 +440,26 @@
       "guid": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-premier-league-match-report",
       "titleHi": "लिवरपूल का स्ज़ोबोस्लाई न्यूकैसल में लेट, लेट लेवलर से लेकर साल्वेज पॉइंट तक",
       "excerptHi": "किक - ऑफ से पहले गैलॉगेट एंड में स्वर्गीय केविन कीगन के उद्धरण के साथ एक बैनर उठाया गया था। \"मैं चाहता हूं कि लोग अपने फुटबॉल के बारे में सपने देखें ,\" यह पढ़ा।\" हम सभी को दिल से सपने देखने वाले होना चाहिए। \"आउट ऑन...",
+      "archived": false
+    },
+    {
+      "id": "f9c4cd76290e0147e0b3e7097906be99acd13756",
+      "slug": "al-hilal-open-talks-to-sign-arsenal-winger-martinelli-f9c4cd",
+      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+      "excerpt": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T17:37:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo#5",
+      "titleHi": "अल - हिलाल ने आर्सेनल विंगर मार्टिनेली पर हस्ताक्षर करने के लिए खुली बातचीत की",
+      "excerptHi": "सऊदी अरब के क्लब अल - हिलाल ने ब्राजील के फॉरवर्ड गेब्रियल मार्टिनेली के लिए एक कदम पर आर्सेनल के साथ बातचीत शुरू की।",
       "archived": false
     },
     {
@@ -918,7 +1269,7 @@
       "guid": "https://www.theguardian.com/australia-news/gallery/2026/aug/24/the-end-of-latrobe-valley-coal-in-pictures",
       "titleHi": "लैट्रोब वैली कोयले का अंत – तस्वीरों में",
       "excerptHi": "एक बार जब इस क्षेत्र का आर्थिक जीवन समाप्त हो जाता है, तो लैट्रोब वैली का कोयला उद्योग टर्मिनल गिरावट में है। जेसी थॉम्पसन की फोटोग्राफिक परियोजना का उद्देश्य तेजी से परिवर्तन की इस अवधि को दस्तावेज करना और उस विरासत की जांच करना है जो चल रही है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a3043fc96e770006e72eda742f96971c58ed402f",
@@ -941,7 +1292,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
       "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
       "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
@@ -963,7 +1314,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
       "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
       "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "95e7989acecfc8863ae3fdf79d839722361bbfd7",
@@ -985,7 +1336,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
       "titleHi": "फ़्रांस डूबने की घटनाओं में बढ़ोतरी को हीटवेव से जोड़ता है",
       "excerptHi": "एक सरकारी मंत्री का कहना है कि लोग पानी में जाकर जोखिम उठा रहे हैं, 19 जून से अब तक 301 लोगों की मौत हो चुकी है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2eeae85dd49ff353565421bfdfa11299eed9868c",
@@ -1005,7 +1356,7 @@
       "guid": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
       "titleHi": "वी आर ऑल गोइंग टू द वर्ल्ड्स फेयर एक अंतरंग आने वाली हॉरर फिल्म है",
       "excerptHi": "Jane Schoenbrun की नवीनतम फिल्म, Teenage Sex and Death at Camp Miasma, अभी सिनेमाघरों में धूम मचा रही है। तो ऐसा लगता है कि यह उनकी पहली फिल्म, वी आर ऑल गोइंग टू द वर्ल्ड्स फेयर को फिर से देखने का सही समय है। मैं गिर गया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ebea646ed8123b5df14ae473e59ae573077b5dee",
@@ -1025,7 +1376,7 @@
       "guid": "6beefa8d-f97c-45b4-8ce4-47dd49e6c9c0",
       "titleHi": "क्रिप्टो कार्ड खर्च $ 1 बिलियन से ऊपर है क्योंकि स्टेबलकॉइन्स रोजमर्रा की खरीदारी में जाते हैं",
       "excerptHi": "एक साल में कार्ड वॉल्यूम को तीन गुना से भी ज़्यादा ट्रैक किया गया, जिसमें USDC और USDT का फ़ंड 70% से भी ज़्यादा खर्च होता है, क्योंकि यूज़र किराने का सामान, राइड और सब्सक्रिप्शन के लिए ज़्यादा - से - ज़्यादा भुगतान करते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "098afc13502921589a511836e6b4c1ad2255bebc",
@@ -1045,7 +1396,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/23/brighton-aston-villa-premier-league-match-report",
       "titleHi": "ब्राइटन हैमर एस्टन विला और जोआओ गोम्स का लाल रंग ऊनाई एमरी के दर्द को बढ़ाता है",
       "excerptHi": "यह कहना महत्वपूर्ण है कि एस्टन विला यहां एकमात्र टीम नहीं थी जिसने गर्मियों में प्रमुख खिलाड़ियों को खो दिया है; आगे के प्रस्थान के खतरे के तहत खेलने के लिए; चोट के कारण दूसरों के बिना रहने के लिए। यह एक परीक्षण रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c57277d44ed7560cd1e623231f7334cd24583803",
@@ -1065,7 +1416,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
       "titleHi": "जज का कहना है कि एबरक्रॉम्बी के पूर्व सीईओ सेक्स - ट्रैफिकिंग ट्रायल के लिए मानसिक रूप से फिट हैं",
       "excerptHi": "माइकल जेफ्री को मनोभ्रंश के लक्षणों के लिए महीनों अस्पताल में भर्ती रहने के बाद मुकदमा चलाने के लिए मानसिक रूप से सक्षम माना जाता है एबरक्रॉम्बी एंड फिच के पूर्व सीईओ को मानसिक रूप से सक्षम माना गया है क्योंकि वह...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b2bb8559ca9edd3297b08e16a1e407dd3bb277c3",
@@ -1085,7 +1436,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
       "titleHi": "बिजली कटौती नियंत्रण केंद्र से टकरा जाने के बाद क्रॉसकंट्री ने लगभग सभी रेल सेवाएं रद्द कर दीं",
       "excerptHi": "परिवहन सचिव ने ‘सार्वजनिक रूप से स्वामित्व वाले ऑपरेटरों से कहा कि जहां संभव हो अतिरिक्त सेवाएं दें’ बर्मिंघम में बिजली कटौती के बाद क्रॉसकंट्री ने ग्रेट ब्रिटेन में अपनी लगभग सभी ट्रेन सेवाओं को रद्द कर दिया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3cad1c64cc900d8f4a6f83e23207ad36365f148f",
@@ -1107,7 +1458,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo#3",
       "titleHi": "केन जर्मनी का प्लेयर ऑफ द ईयर पुरस्कार जीतने वाले पहले अंग्रेज",
       "excerptHi": "हैरी केन को वर्ष का 2026 जर्मन फुटबॉलर चुना गया है, जो पुरस्कार जीतने वाले पहले अंग्रेज बन गए हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "191040cd43427e4edb4e2f8b9ad609fcdea3301a",
@@ -1129,7 +1480,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
       "titleHi": "यूरोपीय फुटबॉल: बायर्न म्यूनिख के हैरी केन जर्मनी में वर्ष के सर्वश्रेष्ठ खिलाड़ी चुने गए",
       "excerptHi": "स्ट्राइकर पुरस्कार जीतने वाले पहले अंग्रेज बन गए टीममेट माइकल ओलिस दूसरे बायर्न म्यूनिख स्ट्राइकर हैरी केन को जर्मनी में 2026 प्लेयर ऑफ द ईयर के रूप में चुना गया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0ffe997203baab35869de28d16247003ad3609aa",
@@ -1151,7 +1502,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/23/kim-le-court-tour-of-britain-women-lorena-wiebes-cycling",
       "titleHi": "ले कोर्ट ने पांच मैचों में वाइब्स की चौथे चरण की जीत के बावजूद ब्रिटेन दौरे के गौरव का दावा किया",
       "excerptHi": "मॉरीशस का दावा है कि लीमिंगटन स्पा वाइब्स में ऐतिहासिक जीत 137 वें कैरियर स्टेज जीत के बाद दूसरे स्थान पर है किम ले कोर्ट ने रॉयल लीमिंगटन स्पा में टूर ऑफ ब्रिटेन महिलाओं में समग्र जीत को सील कर दिया, लोरेना वाइब्स के बावजूद...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "62ab3ec8047e75313c4b39024d44edd7521a116a",
@@ -1171,7 +1522,7 @@
       "guid": "https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html",
       "titleHi": "ट्विटर ने बाईं ओर तोड़ दिया। X दाईं ओर से टूट जाएगा।",
       "excerptHi": "डेमोक्रेट्स ने ट्विटर पर अपनी राजनीति बनाने के लिए कीमत चुकाई; अधिकार X पर अपना बनाने के लिए कीमत चुकाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "edc8f273eb85d49ba85435bee6a81d1ca77659f4",
@@ -1191,7 +1542,7 @@
       "guid": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
       "titleHi": "रोबोट ने बोल्ट के 100 मीटर स्प्रिंट सहित मानव ट्रैक रिकॉर्ड को तोड़ा — वीडियो",
       "excerptHi": "ह्यूमनॉइड रोबोटों ने बीजिंग में पांच दिवसीय विश्व ह्यूमनॉइड रोबोट गेम्स में मानव ट्रैक रिकॉर्ड तोड़ दिया है। तोड़े गए रिकॉर्डों में उसैन बोल्ट का 9.58 - सेकंड 100 मीटर था, जिसमें बीजिंग इनोवेशन सेंटर द्वारा विकसित एक रोबोट था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6869692c8ba1bb3e83232166880ff7d4d7c04c96",
@@ -1213,7 +1564,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go#0",
       "titleHi": "बिजली कटौती के बाद क्रॉसकंट्री ने 'लगभग सभी' यूके सेवाएं रद्द कर दीं",
       "excerptHi": "ग्राहकों का कहना है कि लगभग सभी यूके क्रॉसकंट्री सेवाओं में व्यवधान \"सबसे खराब स्थिति\" है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4d764894799a5e2397f1eea8bcffdc1d8ffd47fb",
@@ -1235,7 +1586,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/23/formula-one-2026-dutch-grand-prix-race-updates-live",
       "titleHi": "फ़ॉर्मूला वन 2026: मैक्स वर्स्टापेन डच ग्रैंड प्रिक्स से बाहर हो गए – LIVE",
       "excerptHi": "Zandvoort की विदाई रेस के ️ अपडेट, दोपहर 2 बजे BST शुरू TikTok, Instagram और Bluesky पर हमें ️ फ़ॉलो करें | मेल यारा मौसम की जाँच: ग्रिड के सामने गान चल रहा है। अब और बारिश नहीं होगी लेकिन क्या ट्रैक काफी सूखा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "58bd09480e75c689e261dc813807059776f0f5dc",
@@ -1257,7 +1608,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/23/manchester-city-v-bournemouth-premier-league-live",
       "titleHi": "मैनचेस्टर सिटी बनाम बोर्नमाउथ: प्रीमियर लीग – LIVE",
       "excerptHi": "2PM BST किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | फुटबॉल डेली के लिए साइन अप करें | मेल एमिलिया मोरे ने अय्यूब बौद्दी के लिए शहर के कदम पर यहाँ: मार्को रोज ने अपने पहले प्रतिस्पर्धी मैच से पहले सकारात्मक बात की...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1d4cc92e343d9cfea3720ec6602c7ea24c3f1474",

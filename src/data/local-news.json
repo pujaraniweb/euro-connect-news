@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T18:14:53.568Z",
+  "generatedAt": "2026-08-23T20:11:16.646Z",
   "india": [
     {
       "id": "2ce5c592093ff5bde595032a1d2907ffd7a5f740",
@@ -400,7 +400,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/23/formula-one-2026-dutch-grand-prix-race-updates-live",
       "titleHi": "फ़ॉर्मूला वन 2026: मैक्स वर्स्टापेन डच ग्रैंड प्रिक्स से बाहर हो गए – LIVE",
       "excerptHi": "Zandvoort की विदाई रेस के ️ अपडेट, दोपहर 2 बजे BST शुरू TikTok, Instagram और Bluesky पर हमें ️ फ़ॉलो करें | मेल यारा मौसम की जाँच: ग्रिड के सामने गान चल रहा है। अब और बारिश नहीं होगी लेकिन क्या ट्रैक काफी सूखा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2d437afd40fb9f6242e0c32aef467c08558fc516",
@@ -424,6 +424,49 @@
     }
   ],
   "europe": [
+    {
+      "id": "6fc4ee59f002123ba4cef0fb53a1de213b943270",
+      "slug": "uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-tar-6fc4ee",
+      "title": "Uzbekistan and Azerbaijan deepen alliance with $1bn trade target and stronger Trans-Caspian links",
+      "excerpt": "Presidents Shavkat Mirziyoyev and Ilham Aliyev signed a Treaty on Eternal Friendship in Tashkent and launched new projects in banking, energy, tourism and mining. The two countries will also co-host the FIFA U-20 World…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Sports"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T19:59:41.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian",
+      "guid": "http://www.euronews.com/2026/08/23/uzbekistan-and-azerbaijan-deepen-alliance-with-1bn-trade-target-and-stronger-trans-caspian",
+      "titleHi": "उज़्बेकिस्तान और अज़रबैजान ने $ 1 बिलियन के व्यापार लक्ष्य और मजबूत ट्रांस - कैस्पियन लिंक के साथ गठबंधन को गहरा किया",
+      "excerptHi": "राष्ट्रपतियों शावकत मिर्जियोयेव और इल्हाम अलीयेव ने ताशकंद में अनन्त मैत्री पर एक संधि पर हस्ताक्षर किए और बैंकिंग, ऊर्जा, पर्यटन और खनन में नई परियोजनाओं की शुरुआत की। दोनों देश फीफा अंडर -20 वर्ल्ड की सह - मेजबानी भी करेंगे...",
+      "archived": false
+    },
+    {
+      "id": "79d4f74ec27781c24b35619eb4877e675b565555",
+      "slug": "viral-cat-in-the-hat-tiktok-trend-sparks-fun-fake-videos-but-79d4f7",
+      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+      "excerpt": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d0/live/d9818a60-9f0e-11f1-bca9-4d339be997b1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:38:36.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o#0",
+      "titleHi": "वायरल 'कैट इन द हैट' TikTok ट्रेंड ने फर्जी वीडियो के साथ - साथ असली डर भी जगाया है",
+      "excerptHi": "सोशल मीडिया पोस्ट ने आयरलैंड और यूके में पुलिस बलों को बयान जारी करने के लिए प्रेरित किया है कि तस्वीरें नकली हैं।",
+      "archived": false
+    },
     {
       "id": "907a3d920a149076e44a4ba09eddbc9cb50b1629",
       "slug": "democrats-incredulous-over-hakeem-jeffries-and-jared-kushner-907a3d",
@@ -528,7 +571,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo#0",
       "titleHi": "फ़्रांस डूबने की घटनाओं में बढ़ोतरी को हीटवेव से जोड़ता है",
       "excerptHi": "एक सरकारी मंत्री का कहना है कि लोग पानी में जाकर जोखिम उठा रहे हैं, 19 जून से अब तक 301 लोगों की मौत हो चुकी है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b2bb8559ca9edd3297b08e16a1e407dd3bb277c3",
@@ -548,7 +591,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/23/crosscountry-cancels-almost-all-rail-services-after-power-cut-hits-control-centre",
       "titleHi": "बिजली कटौती नियंत्रण केंद्र से टकरा जाने के बाद क्रॉसकंट्री ने लगभग सभी रेल सेवाएं रद्द कर दीं",
       "excerptHi": "परिवहन सचिव ने ‘सार्वजनिक रूप से स्वामित्व वाले ऑपरेटरों से कहा कि जहां संभव हो अतिरिक्त सेवाएं दें’ बर्मिंघम में बिजली कटौती के बाद क्रॉसकंट्री ने ग्रेट ब्रिटेन में अपनी लगभग सभी ट्रेन सेवाओं को रद्द कर दिया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2d437afd40fb9f6242e0c32aef467c08558fc516",
@@ -590,48 +633,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
       "titleHi": "क्रेमलिन द्वारा यूक्रेन के समर्थन पर दबाव बढ़ाए जाने के बाद रूस ने ब्रिटेन के राजदूत को वापस ले लिया",
       "excerptHi": "लंदन में दूतावास का कहना है कि सात साल तक कूटनीतिक पद पर रहने के बाद रूस ने ब्रिटेन में अपने राजदूत को वापस ले लिया है, यह उभरा है, क्योंकि क्रेमलिन ब्रिटेन पर दबाव बनाने की कोशिश कर रहा है...",
-      "archived": true
-    },
-    {
-      "id": "c85614423c829fa13b510c22c264a5e457de5b28",
-      "slug": "zelensky-should-be-asked-what-he-knew-about-government-corru-c85614",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "excerpt": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T12:56:43.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po#0",
-      "titleHi": "बर्खास्त मंत्री ने बीबीसी को बताया कि ज़ेलेंस्की से पूछा जाना चाहिए कि उन्हें सरकारी भ्रष्टाचार के बारे में क्या पता था",
-      "excerptHi": "मिखाइलो फेडोरोव ने यूक्रेन में युद्ध के समय चुनाव कराने का भी आह्वान किया है।",
-      "archived": true
-    },
-    {
-      "id": "02fe1f5a459e041338df214e5c61ae4e6a52d453",
-      "slug": "dr-congo-and-m23-rebels-agree-roadmap-for-peace-talks-02fe1f",
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "excerpt": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T12:52:08.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo#0",
-      "titleHi": "डीआर कांगो और एम23 विद्रोही शांति वार्ता के लिए रोडमैप पर सहमत",
-      "excerptHi": "संघर्ष को हल करने के लिए अगले कदमों पर काम करने के लिए प्रतिनिधियों ने स्विट्ज़रलैंड में मुलाकात की।",
       "archived": true
     }
   ],
@@ -676,7 +677,7 @@
       "guid": "https://www.theguardian.com/world/video/2026/aug/23/humanoid-robot-smash-human-records-including-usain-bolts-100m-video",
       "titleHi": "रोबोट ने बोल्ट के 100 मीटर स्प्रिंट सहित मानव ट्रैक रिकॉर्ड को तोड़ा — वीडियो",
       "excerptHi": "ह्यूमनॉइड रोबोटों ने बीजिंग में पांच दिवसीय विश्व ह्यूमनॉइड रोबोट गेम्स में मानव ट्रैक रिकॉर्ड तोड़ दिया है। तोड़े गए रिकॉर्डों में उसैन बोल्ट का 9.58 - सेकंड 100 मीटर था, जिसमें बीजिंग इनोवेशन सेंटर द्वारा विकसित एक रोबोट था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "69ac612af8beebe25e85584d3192d7489958c688",
@@ -1055,6 +1056,26 @@
   ],
   "middleeast": [
     {
+      "id": "f9c4cd76290e0147e0b3e7097906be99acd13756",
+      "slug": "al-hilal-open-talks-to-sign-arsenal-winger-martinelli-f9c4cd",
+      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+      "excerpt": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T17:37:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo#5",
+      "titleHi": "अल - हिलाल ने आर्सेनल विंगर मार्टिनेली पर हस्ताक्षर करने के लिए खुली बातचीत की",
+      "excerptHi": "सऊदी अरब के क्लब अल - हिलाल ने ब्राजील के फॉरवर्ड गेब्रियल मार्टिनेली के लिए एक कदम पर आर्सेनल के साथ बातचीत शुरू की।",
+      "archived": false
+    },
+    {
       "id": "2d437afd40fb9f6242e0c32aef467c08558fc516",
       "slug": "trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-u-2d437a",
       "title": "Trump claims Hormuz on Truth Social, Rezaei says 'shut until US changes'",
@@ -1247,29 +1268,29 @@
       "titleHi": "Trump says he views strait of Hormuz as ‘American territory’",
       "excerptHi": "President at rally in South Carolina makes comments on key strategic waterway and jokes about bombing Iran Donald Trump called the strait of Hormuz “an American territory” on Friday, as the US continues its military…",
       "archived": true
-    },
+    }
+  ],
+  "latam": [
     {
-      "id": "c1a9e7f32e75fee99f0c43e5ccc370be7abf93ba",
-      "slug": "arsenal-start-title-defence-with-comfortable-win-over-covent-c1a9e7",
-      "title": "Arsenal start title defence with comfortable win over Coventry",
-      "excerpt": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+      "id": "f9c4cd76290e0147e0b3e7097906be99acd13756",
+      "slug": "al-hilal-open-talks-to-sign-arsenal-winger-martinelli-f9c4cd",
+      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
+      "excerpt": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
       "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/ec1ad730-9da6-11f1-a291-b542ee92de7c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg",
       "imageType": "real",
       "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T21:35:28.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go#3",
-      "titleHi": "Arsenal start title defence with comfortable win over Coventry",
-      "excerptHi": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
-      "archived": true
-    }
-  ],
-  "latam": [
+      "readTime": 2,
+      "publishedAt": "2026-08-23T17:37:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo#5",
+      "titleHi": "अल - हिलाल ने आर्सेनल विंगर मार्टिनेली पर हस्ताक्षर करने के लिए खुली बातचीत की",
+      "excerptHi": "सऊदी अरब के क्लब अल - हिलाल ने ब्राजील के फॉरवर्ड गेब्रियल मार्टिनेली के लिए एक कदम पर आर्सेनल के साथ बातचीत शुरू की।",
+      "archived": false
+    },
     {
       "id": "7e7a0d4f47e3d00266f1406589d1975c1e04b3e2",
       "slug": "kejelcha-breaks-mens-half-marathon-world-record-by-29-second-7e7a0d",
@@ -1455,26 +1476,6 @@
       "titleHi": "Mexico: Aura battles turn a viral meme into live contests",
       "excerptHi": "Young Mexicans are taking part in 'aura battles', where creativity, confidence and humour decide the winner. The trend is moving from social media to live events.",
       "archived": true
-    },
-    {
-      "id": "648d0ca41335e72062c6aecf703ed8e86675eff5",
-      "slug": "two-fishermen-rescued-by-mexicos-coastguard-after-floating-a-648d0c",
-      "title": "Two fishermen rescued by Mexico's coastguard after floating at sea for five days in cooler box",
-      "excerpt": "Rescue teams gave no details regarding the fate of the boat they had originally taken out, nor did it explain how they survived five days at sea.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T08:05:27.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/21/group-of-15-cuban-migrants-rescued-by-mexicos-navy-after-days-adrift-at-sea",
-      "guid": "http://www.euronews.com/2026/08/21/group-of-15-cuban-migrants-rescued-by-mexicos-navy-after-days-adrift-at-sea",
-      "titleHi": "Two fishermen rescued by Mexico's coastguard after floating at sea for five days in cooler box",
-      "excerptHi": "Rescue teams gave no details regarding the fate of the boat they had originally taken out, nor did it explain how they survived five days at sea.",
-      "archived": true
     }
   ],
   "oceania": [
@@ -1567,7 +1568,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
       "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
       "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
@@ -1589,7 +1590,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
       "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
       "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "69ac612af8beebe25e85584d3192d7489958c688",
@@ -1695,6 +1696,48 @@
     }
   ],
   "world": [
+    {
+      "id": "c6209fd5504508ada87c575c168b4b6be182c309",
+      "slug": "fast-moving-wildfire-in-reno-nevada-forces-thousands-to-evac-c6209f",
+      "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
+      "excerpt": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar and agencies",
+      "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=40d26ed080c5af284172c2611408eda4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T18:22:15.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
+      "titleHi": "रेनो, नेवादा में तेज़ी से बढ़ रही जंगल की आग, हजारों लोगों को घरों को खाली करने के लिए मजबूर करती है",
+      "excerptHi": "हॉक आग ने 13,000 एकड़ से अधिक क्षेत्र को कवर किया है क्योंकि रेनो में नेवादा विश्वविद्यालय परिसर में आग लग गई है। रविवार की सुबह तेजी से बढ़ने वाली नेवादा जंगल की आग 13,000 एकड़ (5,200 हेक्टेयर) से अधिक में विस्फोट हो गई, जिससे...",
+      "archived": false
+    },
+    {
+      "id": "c3bfba41d6117e82f0c27eec80c126fc2d74cae6",
+      "slug": "guinea-rubbish-landfill-collapse-kills-30-c3bfba",
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "excerpt": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T18:17:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o#0",
+      "titleHi": "गिनी में कचरा ढहने से 30 लोगों की मौत",
+      "excerptHi": "सरकार का कहना है कि एक प्रमुख अपशिष्ट स्थल पर कचरे के ढेर ने राजधानी में कई घरों को दफन कर दिया।",
+      "archived": false
+    },
     {
       "id": "205682e3e19c88b3a54146d75432ee41fe0e4f57",
       "slug": "trump-waves-green-flag-kicking-off-high-speed-indycar-race-t-205682",
@@ -1869,49 +1912,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
       "titleHi": "डेटा से पता चलता है कि ऑस्ट्रेलिया के पहले घर खरीदार अभी भी ऋण ले रहे हैं क्योंकि संपत्ति निवेशक पीछे हट रहे हैं",
       "excerptHi": "एक्सक्लूसिव: ब्याज दरों में बढ़ोतरी और टैक्स में बदलाव के बीच लोन के लिए और ज़्यादा आवेदन करने वाले नए मेहमान, मॉर्गेज ब्रोकर कहते हैं कि हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या डेली न्यूज़ पॉडकास्ट प्राप्त करें पहले घर के खरीदार हैं …",
-      "archived": false
-    },
-    {
-      "id": "f4081a7d6d20305ae6dcf4838bbeb3a56b96dfc7",
-      "slug": "absurd-children-to-see-gambling-logos-on-sports-jerseys-unti-f4081a",
-      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
-      "excerpt": "Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision Get our breaking news email, free app or daily news podcast Children across Australia will…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Henry Belot and Josh Butler",
-      "image": "https://i.guim.co.uk/img/media/655191e186b4f05faaf68e74c6ec6a15265ca8d2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=4787c50b6ca35ecc1d2f1e873a6c5a85",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T15:00:35.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
-      "titleHi": "‘बेतुका ': पोकोक द्वारा निंदा की गई संक्रमण अवधि में 2032 तक बच्चों को स्पोर्ट्स जर्सी पर जुआ लोगो देखने के लिए",
-      "excerptHi": "सरकार का कहना है कि उसे उम्मीद है कि क्लब पहले दांव लगाने वाली कंपनियों के साथ जर्सी के सौदे खत्म कर देंगे, लेकिन इसे एक व्यावसायिक निर्णय कहते हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलिया भर के बच्चे …",
-      "archived": false
-    },
-    {
-      "id": "c57277d44ed7560cd1e623231f7334cd24583803",
-      "slug": "former-abercrombie-ceo-mentally-fit-for-sex-trafficking-tria-c57277",
-      "title": "Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says",
-      "excerpt": "Michael Jeffries is ruled mentally competent to stand trial after being hospitalized for months for dementia symptoms The former CEO of Abercrombie & Fitch has been ruled mentally competent to stand trial as he faces…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Associated Press",
-      "image": "https://i.guim.co.uk/img/media/fed1198d76e876d2f753627abec5dc0130e170cc/254_0_2543_2035/master/2543.jpg?width=140&quality=85&auto=format&fit=max&s=f03a234d8159c35d9313c1c683fd504c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T14:32:56.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/23/ex-abercrombie-ceo-mentally-fit-sex-trafficking-trial",
-      "titleHi": "जज का कहना है कि एबरक्रॉम्बी के पूर्व सीईओ सेक्स - ट्रैफिकिंग ट्रायल के लिए मानसिक रूप से फिट हैं",
-      "excerptHi": "माइकल जेफ्री को मनोभ्रंश के लक्षणों के लिए महीनों अस्पताल में भर्ती रहने के बाद मुकदमा चलाने के लिए मानसिक रूप से सक्षम माना जाता है एबरक्रॉम्बी एंड फिच के पूर्व सीईओ को मानसिक रूप से सक्षम माना गया है क्योंकि वह...",
-      "archived": false
+      "archived": true
     }
   ]
 }
