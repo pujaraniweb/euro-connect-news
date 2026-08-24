@@ -10,7 +10,7 @@ name: Update news data
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # every 2 hours (same cadence as the source repo)
+    - cron: "0 * * * *" # every hour — keep recent news continuously fresh
   workflow_dispatch: {} # allow manual runs from the Actions tab
 
 permissions:
