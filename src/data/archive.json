@@ -1,8 +1,336 @@
 {
-  "generatedAt": "2026-08-24T16:36:01.116Z",
+  "generatedAt": "2026-08-24T17:30:12.870Z",
   "retentionDays": 45,
-  "total": 2383,
+  "total": 2403,
   "items": [
+    {
+      "id": "ba3ce8b56ee178e1b9aa955e936f19708647a2b0",
+      "slug": "outrage-in-nepal-over-rape-and-murder-of-3-year-old-girl-ba3ce8",
+      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
+      "excerpt": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T17:24:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
+      "titleHi": "नेपाल में 3 साल की बच्ची के साथ बलात्कार और हत्या पर आक्रोश",
+      "excerptHi": "लड़की के लापता होने के तीन दिन बाद, पिछले सप्ताह मृत पाए जाने के बाद से विरोध प्रदर्शन हो रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "44d8ef2a1fb2b28cf3ca006f18a4903a48bc9d57",
+      "slug": "reform-would-evict-social-housing-tenants-for-poor-garden-ma-44d8ef",
+      "title": "Reform would evict social housing tenants for poor garden maintenance",
+      "excerpt": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couples Social housing tenants will be evicted if they fail to keep their gardens well maintained under a…",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Kiran Stacey Policy editor",
+      "image": "https://i.guim.co.uk/img/media/14acbfa0be66b71dc642fd083965ee2f149ca327/1120_0_6334_5070/master/6334.jpg?width=140&quality=85&auto=format&fit=max&s=ac8ad47d99421cf5c51a17326489f409",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T17:18:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
+      "guid": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
+      "titleHi": "सुधार खराब बगीचे के रखरखाव के लिए सामाजिक आवास किरायेदारों को बेदखल कर देगा",
+      "excerptHi": "सामाजिक घरों से विदेशी नागरिकों को हटाने और युवा ब्रिटिश - जन्मे जोड़ों को प्राथमिकता देने के लिए एक व्यापक नीति का हिस्सा योजनाबद्ध करें सामाजिक आवास किरायेदारों को बेदखल कर दिया जाएगा यदि वे अपने बगीचों को अच्छी तरह से बनाए रखने में विफल रहते हैं...",
+      "archived": false
+    },
+    {
+      "id": "59cc6cc4fe4242932caee111665d60cea2d6d5ff",
+      "slug": "coinbase-debuts-tokenized-stocks-on-base-network-joining-rac-59cc6c",
+      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "excerpt": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Krisztian Sandor",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ada5aa0d3416de51b4842b79a3c498a51d63c33-2526x1676.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T17:12:35.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "guid": "d336df5e-c30a-46c3-a8d5-765fbbe5e1dd",
+      "titleHi": "Coinbase बेस नेटवर्क पर टोकन किए गए शेयरों की शुरुआत करता है, ब्लॉकचेन पर इक्विटी लाने की दौड़ में शामिल होता है",
+      "excerptHi": "क्रिप्टो एक्सचेंज ऐप्पल, एनवीडिया, मेटा और अल्फाबेट के टोकन संस्करणों के साथ शुरू हो रहा है, जो इसके नए अबू धाबी ढांचे के तहत जारी किया गया है।",
+      "archived": false
+    },
+    {
+      "id": "c753d8bf6148bede3e76b90d13a106793462150b",
+      "slug": "problems-brewing-for-the-proper-pint-as-camra-membership-fal-c753d8",
+      "title": "Problems brewing for the proper pint as Camra membership falls",
+      "excerpt": "Cost of living has hit campaign group while multinationals are threatening to squeeze out independent breweries For centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Helena Horton",
+      "image": "https://i.guim.co.uk/img/media/38ba2286001118cefdd63a78d42a4a3909e645cb/746_0_2411_1929/master/2411.jpg?width=140&quality=85&auto=format&fit=max&s=3041d4dcf142ad90d9947fd81c6c5363",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T17:01:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs",
+      "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs",
+      "titleHi": "कैमरा की सदस्यता गिरने पर उचित पिंट के लिए पकने वाली समस्याएं",
+      "excerptHi": "रहने की लागत ने अभियान समूह को प्रभावित किया है जबकि बहुराष्ट्रीय कंपनियां स्वतंत्र ब्रुअरीज को निचोड़ने की धमकी दे रही हैं सदियों से, लकड़ी का असली एले पंप एक अच्छे ब्रिटिश बूज़र की पहचान रहा है। लेकिन अब समस्याएं...",
+      "archived": false
+    },
+    {
+      "id": "2bced0144bb0c2122f4663443c3011cef8a814d1",
+      "slug": "zillow-and-redfin-settle-ftc-antitrust-case-over-their-renta-2bced0",
+      "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+      "excerpt": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T17:01:05.000Z",
+      "sourceUrl": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "guid": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "titleHi": "Zillow और Redfin ने अपनी रेंटल लिस्टिंग पार्टनरशिप को लेकर FTC एंटीट्रस्ट केस सुलझा लिया है",
+      "excerptHi": "FTC और Zillow ने एक समझौते की घोषणा की है जो इस मामले को समाप्त करता है जिसमें आरोप लगाया गया है कि Zillow और Redfin के बीच 2025 की \"साझेदारी\" ने अविश्वास कानूनों का उल्लंघन किया है। FTC ने आरोप लगाया था कि Zillow अपने सिंडिकेट के लिए Redfin को भुगतान करने के लिए सहमत हुआ...",
+      "archived": false
+    },
+    {
+      "id": "0fcdee3fa1bab15d796652dfae9a90050066b5fe",
+      "slug": "fix-that-little-spot-danish-pm-receives-beauty-tips-even-whe-0fcdee",
+      "title": "‘Fix that little spot’: Danish PM receives beauty tips even when in a war zone",
+      "excerpt": "Mette Frederiksen, who was attending meeting in Kyiv, advises high-profile women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, even while she’s in a war zone, Danish prime minister…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Deborah Cole in Berlin",
+      "image": "https://i.guim.co.uk/img/media/465171aefebfeec2269ea8e0de8a32ab67e68802/380_35_4667_3733/master/4667.jpg?width=140&quality=85&auto=format&fit=max&s=56f198b33bd1e4f7277c2051f2cc7250",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:59:53.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "titleHi": "‘उस छोटी सी जगह को ठीक करें ': डेनिश पीएम को युद्ध क्षेत्र में रहते हुए भी ब्यूटी टिप्स मिलते हैं",
+      "excerptHi": "कीव में बैठक में भाग ले रहे मेट फ्रेडरिक्सन, हाई - प्रोफाइल महिलाओं को सलाह देते हैं कि वे सोशल मीडिया पर अवांछित ब्यूटी टिप्स प्राप्त करने के लिए आत्म - स्वीकृति को गले लगाएं, भले ही वह एक युद्ध क्षेत्र में हों, डेनमार्क के प्रधान मंत्री...",
+      "archived": false
+    },
+    {
+      "id": "4eca8e428881c92a4063b7700b4386ec9761e5d9",
+      "slug": "sunderland-sign-ahoka-from-royal-antwerp-4eca8e",
+      "title": "Sunderland sign Ahoka from Royal Antwerp",
+      "excerpt": "Sunderland confirm the signing of midfielder Jules Ahoka for a 10m euros (£8.6m) fee.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80c/live/28564210-9fd8-11f1-b1e7-f78d213f1364.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T16:50:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2ze3dz4jro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2ze3dz4jro#3",
+      "titleHi": "रॉयल एंटवर्प से सुंदरलैंड ने अहोका पर हस्ताक्षर किए",
+      "excerptHi": "सुंदरलैंड ने 10 मिलियन यूरो (£ 8.6 मिलियन) शुल्क के लिए मिडफ़ील्डर जूल्स अहोका के हस्ताक्षर की पुष्टि की।",
+      "archived": false
+    },
+    {
+      "id": "9d308cd10d263da2d4d3212609630ecae83e29a4",
+      "slug": "strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc-asst-9d308c",
+      "title": "Strive buys 1,110 Bitcoin for $81.5M, holdings top 21K BTC; ASST shares surge 11%",
+      "excerpt": "Strive’s Nasdaq-traded shares surged more than 11% as the Bitcoin treasury company said it paid an average of $73,409 per BTC, pushing its holdings to 21,356 Bitcoin.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-state-backed-crypto-fund-just-made-its-first-buy-and-it-wasnt-bitcoin.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:44:55.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc",
+      "titleHi": "स्ट्राइव ने $ 81.5M में 1,110 बिटकॉइन खरीदे, होल्डिंग्स टॉप 21K BTC; ASST के शेयरों में 11% का उछाल",
+      "excerptHi": "स्ट्राइव के नैस्डैक - ट्रेडेड शेयरों में 11% से अधिक की वृद्धि हुई क्योंकि बिटकॉइन ट्रेजरी कंपनी ने कहा कि उसने प्रति बीटीसी औसतन $ 73,409 का भुगतान किया, जिससे इसकी होल्डिंग 21,356 बिटकॉइन हो गई।",
+      "archived": false
+    },
+    {
+      "id": "9605b2b62d248a306774d3e1159565eb343e71f6",
+      "slug": "watkins-departure-would-cut-deepest---and-villa-did-not-see-9605b2",
+      "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "excerpt": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:43:58.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo#0",
+      "titleHi": "वाटकिंस का प्रस्थान सबसे गहरा कट जाएगा - और विला ने इसे आते नहीं देखा",
+      "excerptHi": "ओली वाटकिंस एस्टन विला के दिग्गज रहे हैं, लेकिन ऐसा लगता है कि सऊदी अरब की दिलचस्पी के बीच क्लब में उनका समय एक दर्दनाक अंत के करीब है।",
+      "archived": false
+    },
+    {
+      "id": "ee4f63f58188d61bab59913eb8dedb59dc413423",
+      "slug": "robotaxis-are-real-now-so-is-the-pushback-ee4f63",
+      "title": "Robotaxis are real now — so is the pushback",
+      "excerpt": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:42:37.000Z",
+      "sourceUrl": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "guid": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "titleHi": "रोबोटैक्सिस अब वास्तविक हैं — इसलिए पुशबैक भी है",
+      "excerptHi": "रोबोटैक्सिस का विस्तार हो रहा है। इसलिए उन्हें नियंत्रित करने वाले नियमों पर लड़ाई भी है। न्यूयॉर्क में, गवर्नर कैथी होचुल ने इस साल की शुरुआत में एक प्रस्ताव वापस ले लिया था, जिसने न्यूयॉर्क शहर के बाहर ड्राइवर रहित रोबोटिक्स के लिए दरवाज़ा खोल दिया होता...",
+      "archived": false
+    },
+    {
+      "id": "c9aebfa9bbc57b4e6701d06af2bfe9545e7975dc",
+      "slug": "rupert-lowe-set-to-be-paid-as-much-for-divisive-posts-on-elo-c9aebf",
+      "title": "Rupert Lowe set to be paid as much for divisive posts on Elon Musk’s X as for being MP",
+      "excerpt": "Restore Britain leader paid up to £1,476 an hour by platform, which critics say is financially incentivising inflammatory content Rupert Lowe, the leader of Restore Britain, is on course to earn as much from the social…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Michael Savage Media editor",
+      "image": "https://i.guim.co.uk/img/media/b5442639838639b95cd7e054f8ecdab7bc5871fb/226_233_3225_2580/master/3225.jpg?width=140&quality=85&auto=format&fit=max&s=0641fcb3796d6547e65f4b64cda84bc2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:41:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+      "guid": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+      "titleHi": "रूपर्ट लोवे को एलोन मस्क के एक्स पर विभाजनकारी पदों के लिए उतना ही भुगतान किया जाएगा जितना कि सांसद होने के लिए",
+      "excerptHi": "Restore Britain के लीडर को प्लैटफ़ॉर्म के ज़रिए प्रति घंटे £ 1,476 तक का भुगतान किया जाता है, जिसे आलोचकों का कहना है कि वह भड़काऊ कॉन्टेंट को आर्थिक रूप से प्रोत्साहित कर रहा है। Restore Britain के लीडर Rupert Lowe सोशल मीडिया से उतनी ही कमाई करने वाले हैं...",
+      "archived": false
+    },
+    {
+      "id": "71af33c3c729553adca274032d9bc883ce4dee42",
+      "slug": "prince-harry-quits-board-of-wildlife-charity-after-human-rig-71af33",
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Caroline Davies",
+      "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:40:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "titleHi": "प्रिंस हैरी ने मानवाधिकारों के हनन के बाद वन्यजीव चैरिटी के बोर्ड से इस्तीफा दिया",
+      "excerptHi": "ससेक्स के ड्यूक के प्रवक्ता का कहना है कि वह अफ्रीकी पार्क के मिशन के ‘सक्रिय और उत्साही समर्थक’ बने हुए हैं ससेक्स के ड्यूक ने एक प्रमुख अफ्रीकी वन्यजीव चैरिटी के बोर्ड से इस्तीफा दे दिया है जो केंद्र में था...",
+      "archived": false
+    },
+    {
+      "id": "275e7e9098ffa6938ac3c56fd931b147f2af6fa8",
+      "slug": "more-downpours-and-thunderstorms-are-heading-the-uks-way-275e7e",
+      "title": "More downpours and thunderstorms are heading the UK's way",
+      "excerpt": "More downpours and thunderstorms are heading the UK's way",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd58/live/8f629270-9fcd-11f1-8dfa-d5875b87c784.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T16:38:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c4gdq21de29o#0",
+      "titleHi": "अधिक बारिश और आंधी - तूफान ब्रिटेन के रास्ते की ओर बढ़ रहे हैं",
+      "excerptHi": "अधिक बारिश और आंधी - तूफान ब्रिटेन के रास्ते की ओर बढ़ रहे हैं",
+      "archived": false
+    },
+    {
+      "id": "eae5ac2e5acec72d8d5aa3611ef0be0b4b82250f",
+      "slug": "burnhams-visit-to-kyiv-marks-a-renewal-of-badly-needed-suppo-eae5ac",
+      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "excerpt": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the US Since moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Harding and Dan Sabbagh in Pavlohrad, Ukraine",
+      "image": "https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/355_47_4270_3418/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=14e1c2b657b77249618176fe7e4cb716",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:33:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "guid": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "titleHi": "बर्नहम की कीव यात्रा यूक्रेन के लिए बुरी तरह से आवश्यक समर्थन के नवीनीकरण का प्रतीक है",
+      "excerptHi": "सैन्य सहायता और राजनयिक समर्थन का वचन देने के साथ - साथ, प्रधान मंत्री जुलाई में डाउनिंग स्ट्रीट में जाने के बाद से अमेरिका से निपटने में उपयोगी हो सकते हैं, एंडी बर्नहम – एक विदेश नीति नियोफाइट – ने व्यक्त किया है...",
+      "archived": false
+    },
+    {
+      "id": "1898a8500d9828dbc02178e87302c16897b67e7b",
+      "slug": "rail-companies-sued-for-5m-over-oil-spill-caused-by-derailme-1898a8",
+      "title": "Rail companies sued for £5m over oil spill caused by derailment",
+      "excerpt": "More than 400,000 litres of fuel spilled in the area causing an \"environmental disaster\".",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127d/live/c72264d0-9fd0-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T16:30:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o#0",
+      "titleHi": "रेल कंपनियों ने पटरी से उतरने के कारण तेल रिसाव पर £ 5 मिलियन का मुकदमा दायर किया",
+      "excerptHi": "क्षेत्र में 400,000 लीटर से अधिक ईंधन फैल गया जिससे \"पर्यावरणीय आपदा\" हुई।",
+      "archived": false
+    },
+    {
+      "id": "211229f07209e834053ea06776d4f4b7a468f221",
+      "slug": "vuelta-stage-three-abandoned-after-hail-in-pyrenees-211229",
+      "title": "Vuelta stage three abandoned after hail in Pyrenees",
+      "excerpt": "The third stage of the Vuelta a Espana is abandoned because of severe weather and hailstorms in the French Pyrenees.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da6/live/bb988a30-9fd6-11f1-b1ca-0b18d44a4d5d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:29:31.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/c1e5p00px33o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/c1e5p00px33o#1",
+      "titleHi": "पाइरेनीज़ में ओलावृष्टि के बाद वुल्टा स्टेज तीन को छोड़ दिया गया",
+      "excerptHi": "Vuelta a Espana का तीसरा चरण फ़्रेंच पाइरेनीज़ में गंभीर मौसम और ओलावृष्टि के कारण छोड़ दिया जाता है।",
+      "archived": false
+    },
     {
       "id": "659cf54e9a00fa65a4eed6fb0173f97a3337cb0c",
       "slug": "san-francisco-49ers-owner-jed-york-pleads-no-contest-after-a-659cf5",
@@ -128,6 +456,26 @@
       "archived": false
     },
     {
+      "id": "790e6edec7562d6c4531c709646570a3de090004",
+      "slug": "slayyyter-live-review-raucous-show-announces-a-new-princess-790e6e",
+      "title": "Slayyyter live review – raucous show announces a new princess of sleaze-pop",
+      "excerpt": "Shrine Auditorium, Los Angeles The cult star proves she is ready for pop’s big leagues in a show that blends chaotic punk energy with technical finesse The last time Slayyyter toured, in 2023, she struggled to break…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Emma Madden",
+      "image": "https://i.guim.co.uk/img/media/778b2d297a4bb406233ea6413312c8a3249ba503/334_0_4333_3467/master/4333.jpg?width=140&quality=85&auto=format&fit=max&s=c3381e67b07f80755f36058cc2fdc5fb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:54:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review",
+      "guid": "https://www.theguardian.com/music/2026/aug/24/slayyyter-live-review",
+      "titleHi": "Slayyter लाइव समीक्षा – कर्कश शो ने स्लेज - पॉप की एक नई राजकुमारी की घोषणा की",
+      "excerptHi": "श्राइन ऑडिटोरियम, लॉस एंजिल्स पंथ की स्टार ने साबित किया कि वह एक शो में पॉप की बड़ी लीग के लिए तैयार है जो तकनीकी चालाकी के साथ अराजक पंक ऊर्जा को मिलाती है पिछली बार स्लेयटर ने दौरा किया था, 2023 में, वह तोड़ने के लिए संघर्ष कर रही थी...",
+      "archived": false
+    },
+    {
       "id": "d4e6ef210e98c128cc93fd1e2ea16e789a9b9963",
       "slug": "houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escal-d4e6ef",
       "title": "Houthis claim strike on Saudi tanker in latest Red Sea escalation",
@@ -165,6 +513,26 @@
       "guid": "https://www.nytimes.com/video/opinion/100000011093298/the-frontier-of-algorithmic-fashion.html",
       "titleHi": "‘द फ्रंटियर ऑफ़ एल्गोरिदमिक फ़ैशन’",
       "excerptHi": "निजी इक्विटी और बिग टेक ने फैशन की दुनिया में घुसपैठ की है। यह कैसे हुआ, और उपभोक्ता अधिक जानबूझकर खरीदारी कैसे कर सकते हैं?",
+      "archived": false
+    },
+    {
+      "id": "0e3b2c0202b5f76eb98a0944cbdb04219248386a",
+      "slug": "the-witcher-4-developers-target-a-2028-release-0e3b2c",
+      "title": "The Witcher 4 developers target a 2028 release",
+      "excerpt": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:48:53.000Z",
+      "sourceUrl": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+      "guid": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+      "titleHi": "विचर 4 डेवलपर्स 2028 में रिलीज़ होने का लक्ष्य रखते हैं",
+      "excerptHi": "सीडी प्रोजेक्ट रेड का लक्ष्य 2028 में किसी समय द विचर 4 लॉन्च करना है, संयुक्त सीईओ माइकल नोवाकोवस्की ने एक नए वीडियो में कहा। सीडी प्रोजेक्ट रेड सालों से अपने अगले मेनलाइन विचर टाइटल पर काम कर रहा है और उसने …",
       "archived": false
     },
     {
@@ -376,6 +744,28 @@
       "guid": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
       "titleHi": "एल नीनो के बढ़ने के साथ ही दुनिया के महासागरों ने रिकॉर्ड पर सबसे अधिक तापमान मारा",
       "excerptHi": "यूरोपीय कॉपरनिकस जलवायु परिवर्तन सेवा से डॉ सामंथा बर्गेस के अनुसार, रिकॉर्ड \"बढ़ते तनाव के तहत एक महासागर का एक और स्पष्ट संकेत है\"।",
+      "archived": false
+    },
+    {
+      "id": "ef859f25e4b98c168f9ad950835fe809b2ba3e0a",
+      "slug": "parisians-out-why-the-french-have-had-enough-of-french-touri-ef859f",
+      "title": "‘Parisians out!’ Why the French have had enough of French tourists",
+      "excerpt": "As holidaymakers descend on Brittany this summer, trebling the population of some villages and towns, local people are unimpressed Name: “Parisians out!” Age: It officially commenced at the start of August. Continue…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/faf0ea49a59da72420127c8e2c9d1517d9c36a40/1596_116_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=bbb665071326f8a46ce5ad60387b7618",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:16:53.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/parisians-out-why-french-have-had-enough-of-french-tourists",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/parisians-out-why-french-have-had-enough-of-french-tourists",
+      "titleHi": "‘पेरिस के लोग बाहर !' फ़्रांसिसी पर्यटकों के पास पर्याप्त संख्या में फ़्रांसिसी क्यों हैं",
+      "excerptHi": "जैसे - जैसे छुट्टियाँ मनाने वाले इस गर्मी में ब्रिटनी पर उतरते हैं, कुछ गाँवों और कस्बों की आबादी को दोगुना करते हुए, स्थानीय लोग अप्रभावित होते हैं नाम: \"पेरिस के लोग बाहर!\" आयु: यह आधिकारिक तौर पर अगस्त की शुरुआत में शुरू हुआ। जारी रखें...",
       "archived": false
     },
     {
@@ -869,6 +1259,26 @@
       "archived": false
     },
     {
+      "id": "4a7e867ba844fdda57f10747dfc0623c1e7a26bc",
+      "slug": "a-rock-star-on-her-own-terms-why-were-still-so-fascinated-by-4a7e86",
+      "title": "‘A rock star on her own terms’: why we’re still so fascinated by Meg White",
+      "excerpt": "Recent incorrect attempts to reveal the White Stripes star’s whereabouts reflect how much we’re still obsessed with the one-of-a-kind drummer In February 2011, the White Stripes announced they were no longer going to…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Annie Zaleski",
+      "image": "https://i.guim.co.uk/img/media/dea3669d09b3d17ea169353d30c1f80f078d0109/71_224_1843_1473/master/1843.jpg?width=140&quality=85&auto=format&fit=max&s=d2276a26c82065e0ef4d2e5058cf01f2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination",
+      "guid": "https://www.theguardian.com/music/2026/aug/24/meg-white-white-stripes-fascination",
+      "titleHi": "‘A rock star on her own terms’: why we’re still so fascinated by Meg White",
+      "excerptHi": "Recent incorrect attempts to reveal the White Stripes star’s whereabouts reflect how much we’re still obsessed with the one-of-a-kind drummer In February 2011, the White Stripes announced they were no longer going to…",
+      "archived": true
+    },
+    {
       "id": "38d4eac191b2ddf7fe0a4f1286a3cd82f8c2d31b",
       "slug": "how-gofundme-became-americas-backup-plan-38d4ea",
       "title": "How GoFundMe became America’s backup plan",
@@ -888,7 +1298,7 @@
       "guid": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
       "titleHi": "GoFundMe अमेरिका की बैकअप योजना कैसे बन गई",
       "excerptHi": "आज डिकोडर पर, मैं GoFundMe के CEO टिम कैडोगन से बात कर रहा हूँ। आप GoFundMe को जानते हैं — यह एक प्रमुख धन उगाहने वाला प्लेटफ़ॉर्म है जहाँ आप चिकित्सा व्यय से लेकर छोटी लीग तक सब कुछ के साथ लोगों की मदद करने के लिए दान कर सकते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d220fad39dd4b859d55c33a8b24e64ed15b60304",
@@ -908,7 +1318,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cp8012ejyr6o#0",
       "titleHi": "EsDeeKid रहस्य 'पागल' ऑल पॉइंट्स ईस्ट सेट के बाद प्रशंसकों के लिए कोई समस्या नहीं है",
       "excerptHi": "हम अभी भी स्कूज़ रैपर की असली पहचान नहीं जानते हैं, लेकिन क्या संगीत प्रेमी वास्तव में परवाह करते हैं कि वह कौन है?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
@@ -930,7 +1340,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
       "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
       "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0444f4e556f611b5d4c828bab24e2ab55b402a88",
@@ -952,7 +1362,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/premier-league-soap-opera-tottenham-hotspur-football-daily-newsletter",
       "titleHi": "फुटबॉल डेली | प्रीमियर लीग साबुन ओपेरा वापस आ गया है – और स्पर्स पहले से ही कथा को टटोल रहे हैं",
       "excerptHi": "अभी साइन अप करें! अभी साइन अप करें! अभी साइन अप करें? अभी साइन अप करें! जबकि प्रीमियर लीग जुड़नार के शुरुआती दौर का अभी तक समापन नहीं हुआ है, फुटबॉल डेली अकेले नहीं हो सकता है जिसने दोनों घुटनों को अव्यवस्था के बिंदु पर झटका दिया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "64faad014f8773a391bebd4fa95ab93fca3513bc",
@@ -974,7 +1384,7 @@
       "guid": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
       "titleHi": "हिंसक अपराध के पीड़ितों ने अपराधी प्रतिबंध क्षेत्रों की व्याख्या नहीं करने के लिए न्याय मंत्रालय की आलोचना की",
       "excerptHi": "प्रचारकों ने मंत्रियों पर आरोप लगाया कि वे एक कार्य प्रणाली तैयार होने से पहले घोषणा के साथ सुर्खियों में आने की कोशिश कर रहे हैं हिंसक अपराध के उत्तरजीवी और पीड़ितों के परिवारों ने \"विश्व...\" की घोषणा करने के लिए यूके सरकार की आलोचना की है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
@@ -994,7 +1404,7 @@
       "guid": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
       "titleHi": "नेटफ्लिक्स कथित तौर पर अपने ऐप को अन्य स्ट्रीमर्स के लिए खोलने पर विचार कर रहा है",
       "excerptHi": "द न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, नेटफ्लिक्स के अधिकारियों ने अपने ऐप के भीतर थर्ड - पार्टी स्ट्रीमिंग सेवाओं को उपलब्ध कराने पर विचार किया है। हाल की चर्चा कथित तौर पर मयूर लाने के आसपास केंद्रित थी और...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "65cca3a7c1970214d9bae2381e10f8e9678f600b",
@@ -1014,7 +1424,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o#3",
       "titleHi": "चैरिटी का कहना है कि मुफ्त स्कूल वर्दी की मांग बढ़ी है",
       "excerptHi": "डोरेन पुरानी वर्दी पहनती हैं और उन्हें हल और ईस्ट यॉर्कशायर के परिवारों को मुफ्त में देती हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "53b75ea36da92af340204d0ae7db0a3cc89f68e0",
@@ -1034,7 +1444,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno#0",
       "titleHi": "पूर्व विश्व स्नूकर चैंपियन डॉट बाल यौन शोषण के दोषी हैं",
       "excerptHi": "पूर्व विश्व चैंपियन को एक लड़की और लड़के के प्रति अश्लील और कामुक व्यवहार का दोषी पाया गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
@@ -1057,7 +1467,7 @@
       "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
       "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
       "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "16465c8ed8c8e44cd95505216ed0435cc65764e2",
@@ -1077,7 +1487,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
       "titleHi": "इंडियाना के मेयर ने हजारों लोगों के लिए तूफान के दो सप्ताह बाद बिजली न होना ‘अस्वीकार्य’ बताया",
       "excerptHi": "गैरी के मेयर का कहना है कि तूफान के कारण पेड़ों को गिराने के बाद निवासियों के लिए बिजली के बिना जाने के लिए 12 दिन ‘बहुत लंबे’ हैं गैरी, इंडियाना के मेयर ने कहा है कि यह \"अस्वीकार्य\" है कि शहर में हजारों निवासी हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd25955deb65d05a72e247ea03cae993844ef727",
@@ -1097,7 +1507,7 @@
       "guid": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k",
       "titleHi": "Bitget के सीईओ बिटकॉइन रैली नहीं खरीद रहे हैं — उन्हें $ 50,000 का इंतज़ार है",
       "excerptHi": "बिटगेट की सीईओ ग्रेसी चेन को नहीं लगता कि मौजूदा बिटकॉइन रैली टिकाऊ है, और उनका लक्ष्य 2026 के अंत में या अगले साल की शुरुआत में $ 50,000 के निशान के आसपास अधिक बीटीसी खरीदना है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "77f5073b2148e8648180553dc2cdb800e499c66b",
@@ -1117,7 +1527,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
       "titleHi": "A66 दुर्घटना में दो पुलिस अधिकारियों सहित सात लोगों की मौत के मामले में बारह लोग गिरफ्तार",
       "excerptHi": "घातक टक्कर की घटनाओं की जांच के हिस्से के रूप में 19 से 61 वर्ष की आयु के नौ पुरुषों और तीन महिलाओं को गिरफ्तार किया गया है संगठित रूप से शामिल होने सहित अपराधों के संदेह में बारह लोगों को गिरफ्तार किया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61d193d026919df03d73d33132ca5666981e0e67",
@@ -1137,7 +1547,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
       "titleHi": "रेनो, नेवादा में जंगल में लगी आग में कम से कम छह लोग घायल हो गए, क्योंकि 42,000 लोगों को खाली करने के लिए मजबूर होना पड़ा",
       "excerptHi": "रेनो में तेजी से बढ़ रही, ‘मानव - जनित’ आग हजारों घरों और व्यवसायों को बिजली के बिना छोड़ देती है, अधिकारियों का कहना है कि नेवादा में हजारों लोगों को तेजी से बढ़ रहे, हवा से चलने वाले जंगल की आग बोर के रूप में खाली करने का आग्रह किया गया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2a1dac4f9dd9adc73f756d53197fb75256e03624",
@@ -1157,7 +1567,7 @@
       "guid": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
       "titleHi": "वेनिस फिल्म समारोह में विश्व प्रीमियर प्राप्त करने के लिए गार्जियन द्वारा निर्मित गाजा वृत्तचित्र",
       "excerptHi": "नो अदर लैंड के दो इज़राइली सह - निर्देशक युवाल अब्राहम और राहेल स्ज़ोर द्वारा निर्देशित फिल्म, युद्ध के दौरान ‘इज़राइल द्वारा फिलिस्तीनी नागरिकों की गणना की गई सामूहिक हत्या’ की जांच करती है। इज़राइल के बारे में एक नई वृत्तचित्र...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
@@ -1177,7 +1587,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
       "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
       "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1cdaafeab45f85eb00a9b1a0b8b23e3b5c7e500b",
@@ -1199,7 +1609,7 @@
       "guid": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
       "titleHi": "सेंट पीटर्सबर्ग के पास वेयरहाउस जल रहा है क्योंकि यूक्रेन ओज़ोन स्थलों को निशाना बना रहा है",
       "excerptHi": "अग्निशामकों ने सेंट पीटर्सबर्ग के बाहरी इलाके में एक ओजोन सुविधा के बगल में एक रसद केंद्र में आग से निपटा, क्योंकि यूक्रेन ने कहा कि वह रूसी ई - कॉमर्स गोदामों के खिलाफ अपने ड्रोन अभियान का विस्तार कर रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "400d3f4f9fbf99b839f1ce584b86e1658074330b",
@@ -1219,7 +1629,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo#0",
       "titleHi": "एआई को प्रशिक्षित करने के लिए लाइवस्ट्रीम का उपयोग करने पर ट्विच और अमेज़ॅन को कानूनी कार्रवाई का सामना करना पड़ता है",
       "excerptHi": "मुकदमे में आरोप लगाया गया है कि ट्विच ने बिना अनुमति या उचित मुआवजे के एआई को प्रशिक्षित करने के लिए स्ट्रीमर्स के वीडियो का इस्तेमाल किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "82ce08f81c6ca3805d1d2f7e22e588a426b58157",
@@ -1239,7 +1649,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo#3",
       "titleHi": "हेगबो प्रतिबंध ने एफए - मॉरिसन के लिए कीड़े के कैन को खोल दिया",
       "excerptHi": "वेस्ट ब्रोमविच एल्बियन के मुख्य कोच जेम्स मॉरिसन का कहना है कि एफए ने धोखाधड़ी के लिए ऑने हेगेबो के दो मैचों के प्रतिबंध पर \"कीड़े का कैन खोल दिया है\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e89f88f50510ebf20238b4450bef06b574f123cf",
@@ -1259,7 +1669,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
       "titleHi": "फ्रांसीसी पुलिस पर चैनल क्रॉसिंग को रोकने के लिए हिंसा के बढ़ते उपयोग का आरोप है",
       "excerptHi": "गैर सरकारी संगठन ने छोटी नौकाओं में फ्रांसीसी समुद्र तटों से निकलने के प्रयासों पर यूके - वित्त पोषित कार्रवाई की ‘मानव लागत’ की आलोचना की चैनल को पार करने की कोशिश कर रहे लोगों ने …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "631084366537d90e0ae4f851169a39d2d0780f7c",

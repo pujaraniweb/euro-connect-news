@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:36:01.116Z",
+  "generatedAt": "2026-08-24T17:30:12.870Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,48 @@
   ],
   "usa": [
     {
+      "id": "ee4f63f58188d61bab59913eb8dedb59dc413423",
+      "slug": "robotaxis-are-real-now-so-is-the-pushback-ee4f63",
+      "title": "Robotaxis are real now — so is the pushback",
+      "excerpt": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:42:37.000Z",
+      "sourceUrl": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "guid": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "titleHi": "रोबोटैक्सिस अब वास्तविक हैं — इसलिए पुशबैक भी है",
+      "excerptHi": "रोबोटैक्सिस का विस्तार हो रहा है। इसलिए उन्हें नियंत्रित करने वाले नियमों पर लड़ाई भी है। न्यूयॉर्क में, गवर्नर कैथी होचुल ने इस साल की शुरुआत में एक प्रस्ताव वापस ले लिया था, जिसने न्यूयॉर्क शहर के बाहर ड्राइवर रहित रोबोटिक्स के लिए दरवाज़ा खोल दिया होता...",
+      "archived": false
+    },
+    {
+      "id": "eae5ac2e5acec72d8d5aa3611ef0be0b4b82250f",
+      "slug": "burnhams-visit-to-kyiv-marks-a-renewal-of-badly-needed-suppo-eae5ac",
+      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "excerpt": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the US Since moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Harding and Dan Sabbagh in Pavlohrad, Ukraine",
+      "image": "https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/355_47_4270_3418/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=14e1c2b657b77249618176fe7e4cb716",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:33:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "guid": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "titleHi": "बर्नहम की कीव यात्रा यूक्रेन के लिए बुरी तरह से आवश्यक समर्थन के नवीनीकरण का प्रतीक है",
+      "excerptHi": "सैन्य सहायता और राजनयिक समर्थन का वचन देने के साथ - साथ, प्रधान मंत्री जुलाई में डाउनिंग स्ट्रीट में जाने के बाद से अमेरिका से निपटने में उपयोगी हो सकते हैं, एंडी बर्नहम – एक विदेश नीति नियोफाइट – ने व्यक्त किया है...",
+      "archived": false
+    },
+    {
       "id": "75b4a8743c67751ef23d79f6b7a96bac27dabe4f",
       "slug": "washington-post-ordered-to-reinstate-opinion-writer-fired-ov-75b4a8",
       "title": "Washington Post ordered to reinstate opinion writer fired over Charlie Kirk posts",
@@ -338,7 +380,7 @@
       "guid": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
       "titleHi": "GoFundMe अमेरिका की बैकअप योजना कैसे बन गई",
       "excerptHi": "आज डिकोडर पर, मैं GoFundMe के CEO टिम कैडोगन से बात कर रहा हूँ। आप GoFundMe को जानते हैं — यह एक प्रमुख धन उगाहने वाला प्लेटफ़ॉर्म है जहाँ आप चिकित्सा व्यय से लेकर छोटी लीग तक सब कुछ के साथ लोगों की मदद करने के लिए दान कर सकते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
@@ -358,7 +400,7 @@
       "guid": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
       "titleHi": "नेटफ्लिक्स कथित तौर पर अपने ऐप को अन्य स्ट्रीमर्स के लिए खोलने पर विचार कर रहा है",
       "excerptHi": "द न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, नेटफ्लिक्स के अधिकारियों ने अपने ऐप के भीतर थर्ड - पार्टी स्ट्रीमिंग सेवाओं को उपलब्ध कराने पर विचार किया है। हाल की चर्चा कथित तौर पर मयूर लाने के आसपास केंद्रित थी और...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
@@ -381,53 +423,94 @@
       "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
       "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
       "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
-      "archived": false
-    },
-    {
-      "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
-      "slug": "sonya-masseys-killer-sean-grayson-dies-in-us-prison-2ef879",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T13:14:10.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
-      "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
-      "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
-      "archived": false
-    },
-    {
-      "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
-      "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
-      "title": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
-      "excerpt": "Key speech to be delivered this week at Jackson Hole said to focus on productivity and demographics in the US. Plus, how do you vaccinate 1,000 little penguins in the wild? Good morning. The new US Federal Reserve…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Martin Belam",
-      "image": "https://i.guim.co.uk/img/media/8a52e2628172d7b6407f8757a2519cd195ecc884/704_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=53ff281a77b26454b6555d1026844abf",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T12:28:35.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
-      "titleHi": "पहली बात: बॉन्ड बाजार की चिंताओं के बीच नई फेड चेयर केविन वॉश को शुरुआती परीक्षा का सामना करना पड़ रहा है",
-      "excerptHi": "जैक्सन होल में इस सप्ताह दिया जाने वाला मुख्य भाषण अमेरिका में उत्पादकता और जनसांख्यिकी पर ध्यान केंद्रित करने के लिए कहा गया। इसके अलावा, आप जंगली में 1,000 छोटे पेंगुइन का टीकाकरण कैसे करते हैं? सुप्रभात। नया अमेरिकी फेडरल रिजर्व...",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "c753d8bf6148bede3e76b90d13a106793462150b",
+      "slug": "problems-brewing-for-the-proper-pint-as-camra-membership-fal-c753d8",
+      "title": "Problems brewing for the proper pint as Camra membership falls",
+      "excerpt": "Cost of living has hit campaign group while multinationals are threatening to squeeze out independent breweries For centuries, the wooden real ale pump has been the hallmark of a good British boozer. But now problems…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Helena Horton",
+      "image": "https://i.guim.co.uk/img/media/38ba2286001118cefdd63a78d42a4a3909e645cb/746_0_2411_1929/master/2411.jpg?width=140&quality=85&auto=format&fit=max&s=3041d4dcf142ad90d9947fd81c6c5363",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T17:01:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs",
+      "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs",
+      "titleHi": "कैमरा की सदस्यता गिरने पर उचित पिंट के लिए पकने वाली समस्याएं",
+      "excerptHi": "रहने की लागत ने अभियान समूह को प्रभावित किया है जबकि बहुराष्ट्रीय कंपनियां स्वतंत्र ब्रुअरीज को निचोड़ने की धमकी दे रही हैं सदियों से, लकड़ी का असली एले पंप एक अच्छे ब्रिटिश बूज़र की पहचान रहा है। लेकिन अब समस्याएं...",
+      "archived": false
+    },
+    {
+      "id": "0fcdee3fa1bab15d796652dfae9a90050066b5fe",
+      "slug": "fix-that-little-spot-danish-pm-receives-beauty-tips-even-whe-0fcdee",
+      "title": "‘Fix that little spot’: Danish PM receives beauty tips even when in a war zone",
+      "excerpt": "Mette Frederiksen, who was attending meeting in Kyiv, advises high-profile women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, even while she’s in a war zone, Danish prime minister…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Deborah Cole in Berlin",
+      "image": "https://i.guim.co.uk/img/media/465171aefebfeec2269ea8e0de8a32ab67e68802/380_35_4667_3733/master/4667.jpg?width=140&quality=85&auto=format&fit=max&s=56f198b33bd1e4f7277c2051f2cc7250",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:59:53.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "titleHi": "‘उस छोटी सी जगह को ठीक करें ': डेनिश पीएम को युद्ध क्षेत्र में रहते हुए भी ब्यूटी टिप्स मिलते हैं",
+      "excerptHi": "कीव में बैठक में भाग ले रहे मेट फ्रेडरिक्सन, हाई - प्रोफाइल महिलाओं को सलाह देते हैं कि वे सोशल मीडिया पर अवांछित ब्यूटी टिप्स प्राप्त करने के लिए आत्म - स्वीकृति को गले लगाएं, भले ही वह एक युद्ध क्षेत्र में हों, डेनमार्क के प्रधान मंत्री...",
+      "archived": false
+    },
+    {
+      "id": "c9aebfa9bbc57b4e6701d06af2bfe9545e7975dc",
+      "slug": "rupert-lowe-set-to-be-paid-as-much-for-divisive-posts-on-elo-c9aebf",
+      "title": "Rupert Lowe set to be paid as much for divisive posts on Elon Musk’s X as for being MP",
+      "excerpt": "Restore Britain leader paid up to £1,476 an hour by platform, which critics say is financially incentivising inflammatory content Rupert Lowe, the leader of Restore Britain, is on course to earn as much from the social…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Michael Savage Media editor",
+      "image": "https://i.guim.co.uk/img/media/b5442639838639b95cd7e054f8ecdab7bc5871fb/226_233_3225_2580/master/3225.jpg?width=140&quality=85&auto=format&fit=max&s=0641fcb3796d6547e65f4b64cda84bc2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:41:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+      "guid": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+      "titleHi": "रूपर्ट लोवे को एलोन मस्क के एक्स पर विभाजनकारी पदों के लिए उतना ही भुगतान किया जाएगा जितना कि सांसद होने के लिए",
+      "excerptHi": "Restore Britain के लीडर को प्लैटफ़ॉर्म के ज़रिए प्रति घंटे £ 1,476 तक का भुगतान किया जाता है, जिसे आलोचकों का कहना है कि वह भड़काऊ कॉन्टेंट को आर्थिक रूप से प्रोत्साहित कर रहा है। Restore Britain के लीडर Rupert Lowe सोशल मीडिया से उतनी ही कमाई करने वाले हैं...",
+      "archived": false
+    },
+    {
+      "id": "eae5ac2e5acec72d8d5aa3611ef0be0b4b82250f",
+      "slug": "burnhams-visit-to-kyiv-marks-a-renewal-of-badly-needed-suppo-eae5ac",
+      "title": "Burnham’s visit to Kyiv marks a renewal of badly needed support for Ukraine",
+      "excerpt": "As well as pledging military help and diplomatic backing, the prime minister could be useful in dealing with the US Since moving into Downing Street in July, Andy Burnham – a foreign policy neophyte – has expressed…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Harding and Dan Sabbagh in Pavlohrad, Ukraine",
+      "image": "https://i.guim.co.uk/img/media/dd6da4bdd6d8ce379491c9a32f8885465ce8c851/355_47_4270_3418/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=14e1c2b657b77249618176fe7e4cb716",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:33:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "guid": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+      "titleHi": "बर्नहम की कीव यात्रा यूक्रेन के लिए बुरी तरह से आवश्यक समर्थन के नवीनीकरण का प्रतीक है",
+      "excerptHi": "सैन्य सहायता और राजनयिक समर्थन का वचन देने के साथ - साथ, प्रधान मंत्री जुलाई में डाउनिंग स्ट्रीट में जाने के बाद से अमेरिका से निपटने में उपयोगी हो सकते हैं, एंडी बर्नहम – एक विदेश नीति नियोफाइट – ने व्यक्त किया है...",
+      "archived": false
+    },
     {
       "id": "41ba82b1d96832fab9b0f0c1a4a80bcd4ac7412d",
       "slug": "latest-news-bulletin-august-24th-2026-evening-41ba82",
@@ -555,100 +638,29 @@
       "titleHi": "ग्रेटा थनबर्ग स्टॉकहोम में 10,000 जलवायु मार्चर्स में शामिल",
       "excerptHi": "स्वीडन के आम चुनाव से एक महीने पहले, रविवार को लगभग 10,000 लोगों ने मजबूत जलवायु कार्रवाई की मांग करते हुए स्टॉकहोम के माध्यम से मार्च किया।",
       "archived": false
-    },
-    {
-      "id": "7912af99b82b9b83a390cee57e1c9df1436ef6e1",
-      "slug": "trump-threatens-to-double-tariffs-on-canadian-vehicles-to-50-7912af",
-      "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
-      "excerpt": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T15:04:14.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
-      "guid": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
-      "titleHi": "ट्रम्प ने व्यापार वार्ता के पतन के बाद कनाडाई वाहनों पर शुल्क को 50% तक दोगुना करने की धमकी दी",
-      "excerptHi": "\"कनाडा वर्षों से संयुक्त राज्य अमेरिका को तोड़ रहा है ,\" राष्ट्रपति ने अपने ट्रुथ सोशल अकाउंट पर एक पोस्ट में लिखा।",
-      "archived": false
-    },
-    {
-      "id": "38ed0beab404ca5f84ddffe751b44ffb6b9b0a22",
-      "slug": "guns-axes-explosives-violent-museum-heists-are-on-the-rise-s-38ed0b",
-      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
-      "excerpt": "EU police agency says shift could point to involvement of new criminal networks focused on specific artefacts Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns,…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Sam Jones",
-      "image": "https://i.guim.co.uk/img/media/4579528ccf5342cc3486b9ea7fb0f0230012a0d7/379_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c297771d551eb078a3af0f4ddcfbbe5",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T14:31:07.000Z",
-      "sourceUrl": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
-      "guid": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
-      "titleHi": "यूरोपोल का कहना है कि बंदूकें, कुल्हाड़ी, विस्फोटक: हिंसक संग्रहालय हिस्ट्स बढ़ रहे हैं",
-      "excerptHi": "यूरोपीय संघ की पुलिस एजेंसी का कहना है कि बदलाव यूरोपीय संग्रहालयों में विशिष्ट कलाकृतियों पर केंद्रित नए आपराधिक नेटवर्क की भागीदारी की ओर इशारा कर सकता है, चोरों के साथ कभी - कभी बंदूकें,...",
-      "archived": false
-    },
-    {
-      "id": "64faad014f8773a391bebd4fa95ab93fca3513bc",
-      "slug": "survivors-of-violent-crime-criticise-moj-for-not-explaining-64faad",
-      "title": "Survivors of violent crime criticise MoJ for not explaining offender restriction zones",
-      "excerpt": "Campaigners accuse ministers of trying to grab headlines with announcement before a working system is ready Survivors of violent crime and families of victims have criticised the UK government for announcing “world…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Steven Morris",
-      "image": "https://i.guim.co.uk/img/media/0bebeb8b913a4509d9ccf8ba2c64f487835644c5/944_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3e95730179fe2a2c2a9d1bf5e2923218",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T13:48:59.000Z",
-      "sourceUrl": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
-      "guid": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
-      "titleHi": "हिंसक अपराध के पीड़ितों ने अपराधी प्रतिबंध क्षेत्रों की व्याख्या नहीं करने के लिए न्याय मंत्रालय की आलोचना की",
-      "excerptHi": "प्रचारकों ने मंत्रियों पर आरोप लगाया कि वे एक कार्य प्रणाली तैयार होने से पहले घोषणा के साथ सुर्खियों में आने की कोशिश कर रहे हैं हिंसक अपराध के उत्तरजीवी और पीड़ितों के परिवारों ने \"विश्व...\" की घोषणा करने के लिए यूके सरकार की आलोचना की है।",
-      "archived": false
-    },
-    {
-      "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
-      "slug": "netflix-disney-and-amazon-price-rises-in-western-europe-high-b99795",
-      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
-      "excerpt": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Science",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Mark Sweney",
-      "image": "https://i.guim.co.uk/img/media/5aefc4c62db8f8bf69199d19e507d212ff26f886/100_17_2466_1973/master/2466.jpg?width=140&quality=85&auto=format&fit=max&s=2b8d96df00f7e4a3dbfd2951992201e2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T13:45:04.000Z",
-      "sourceUrl": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-      "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-      "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
-      "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
-      "archived": false
     }
   ],
   "asia": [
+    {
+      "id": "ba3ce8b56ee178e1b9aa955e936f19708647a2b0",
+      "slug": "outrage-in-nepal-over-rape-and-murder-of-3-year-old-girl-ba3ce8",
+      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
+      "excerpt": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T17:24:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
+      "titleHi": "नेपाल में 3 साल की बच्ची के साथ बलात्कार और हत्या पर आक्रोश",
+      "excerptHi": "लड़की के लापता होने के तीन दिन बाद, पिछले सप्ताह मृत पाए जाने के बाद से विरोध प्रदर्शन हो रहे हैं।",
+      "archived": false
+    },
     {
       "id": "e24edbd604b3fea5dddba8c53a2dc3cba41d3d9e",
       "slug": "brydon-carse-dropped-by-england-as-investigation-begins-into-e24edb",
@@ -840,29 +852,29 @@
       "titleHi": "Beijing Robot Games: humanoids take on sprints, football and tai chi",
       "excerptHi": "More than 2,000 robots compete in races, football and tai chi at the Beijing Robot Games, testing the movement and stability of humanoid machines.",
       "archived": true
-    },
-    {
-      "id": "6372ee5d40448a76148a51e7ea03beafa5b11993",
-      "slug": "china-probes-use-of-formaldehyde-to-keep-cabbages-fresh-6372ee",
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "excerpt": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T05:40:48.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo#1",
-      "titleHi": "China probes use of formaldehyde to keep cabbages fresh",
-      "excerptHi": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
-      "archived": true
     }
   ],
   "africa": [
+    {
+      "id": "71af33c3c729553adca274032d9bc883ce4dee42",
+      "slug": "prince-harry-quits-board-of-wildlife-charity-after-human-rig-71af33",
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Caroline Davies",
+      "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:40:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "titleHi": "प्रिंस हैरी ने मानवाधिकारों के हनन के बाद वन्यजीव चैरिटी के बोर्ड से इस्तीफा दिया",
+      "excerptHi": "ससेक्स के ड्यूक के प्रवक्ता का कहना है कि वह अफ्रीकी पार्क के मिशन के ‘सक्रिय और उत्साही समर्थक’ बने हुए हैं ससेक्स के ड्यूक ने एक प्रमुख अफ्रीकी वन्यजीव चैरिटी के बोर्ड से इस्तीफा दे दिया है जो केंद्र में था...",
+      "archived": false
+    },
     {
       "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
       "slug": "video-shows-hundreds-held-captive-after-nigeria-mosque-kidna-2f3e08",
@@ -1044,29 +1056,29 @@
       "titleHi": "डीआर कांगो और एम23 विद्रोही शांति वार्ता के लिए रोडमैप पर सहमत",
       "excerptHi": "संघर्ष को हल करने के लिए अगले कदमों पर काम करने के लिए प्रतिनिधियों ने स्विट्ज़रलैंड में मुलाकात की।",
       "archived": true
-    },
-    {
-      "id": "fcda88548290d74bbd069000c439e9fcb67de7e0",
-      "slug": "ebola-day-100-why-this-outbreak-could-become-the-deadliest-i-fcda88",
-      "title": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
-      "excerpt": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's…",
-      "category": "Science",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Kat Lay, Laure Boulinier, Kaamil Ahmed and Sarah Bertram",
-      "image": "https://i.guim.co.uk/img/media/53743bfe70e7d0212a7daae5a50111e26b0da385/299_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=638fdb7b04fbb2a173a63505696ce7f6",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T10:50:36.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
-      "guid": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
-      "titleHi": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
-      "excerptHi": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's…",
-      "archived": true
     }
   ],
   "middleeast": [
+    {
+      "id": "9605b2b62d248a306774d3e1159565eb343e71f6",
+      "slug": "watkins-departure-would-cut-deepest---and-villa-did-not-see-9605b2",
+      "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+      "excerpt": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:43:58.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo#0",
+      "titleHi": "वाटकिंस का प्रस्थान सबसे गहरा कट जाएगा - और विला ने इसे आते नहीं देखा",
+      "excerptHi": "ओली वाटकिंस एस्टन विला के दिग्गज रहे हैं, लेकिन ऐसा लगता है कि सऊदी अरब की दिलचस्पी के बीच क्लब में उनका समय एक दर्दनाक अंत के करीब है।",
+      "archived": false
+    },
     {
       "id": "d4e6ef210e98c128cc93fd1e2ea16e789a9b9963",
       "slug": "houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escal-d4e6ef",
@@ -1107,7 +1119,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
       "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
       "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2a1dac4f9dd9adc73f756d53197fb75256e03624",
@@ -1127,7 +1139,7 @@
       "guid": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
       "titleHi": "वेनिस फिल्म समारोह में विश्व प्रीमियर प्राप्त करने के लिए गार्जियन द्वारा निर्मित गाजा वृत्तचित्र",
       "excerptHi": "नो अदर लैंड के दो इज़राइली सह - निर्देशक युवाल अब्राहम और राहेल स्ज़ोर द्वारा निर्देशित फिल्म, युद्ध के दौरान ‘इज़राइल द्वारा फिलिस्तीनी नागरिकों की गणना की गई सामूहिक हत्या’ की जांच करती है। इज़राइल के बारे में एक नई वृत्तचित्र...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -1261,26 +1273,6 @@
       "guid": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
       "titleHi": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
       "excerptHi": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with…",
-      "archived": true
-    },
-    {
-      "id": "5400628a8e7ef84c81efd94a822ec35be3dfcdef",
-      "slug": "let-iran-control-the-strait-of-hormuz-540062",
-      "title": "Let Iran Control the Strait of Hormuz",
-      "excerpt": "President Trump needs to face reality on the Strait of Hormuz.",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "Rosemary Kelanic",
-      "image": "https://static01.nyt.com/images/2026/08/24/opinion/24kelancic-img/24kelancic-img-mediumSquareAt3X.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T05:00:05.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/iran-strait-of-hormuz-oil-trump.html",
-      "guid": "https://www.nytimes.com/2026/08/24/opinion/iran-strait-of-hormuz-oil-trump.html",
-      "titleHi": "Let Iran Control the Strait of Hormuz",
-      "excerptHi": "President Trump needs to face reality on the Strait of Hormuz.",
       "archived": true
     }
   ],
@@ -1715,6 +1707,46 @@
   ],
   "world": [
     {
+      "id": "ba3ce8b56ee178e1b9aa955e936f19708647a2b0",
+      "slug": "outrage-in-nepal-over-rape-and-murder-of-3-year-old-girl-ba3ce8",
+      "title": "Outrage in Nepal over rape and murder of 3-year-old girl",
+      "excerpt": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a191/live/162ecd60-9fe1-11f1-b84a-d1691e36d190.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T17:24:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
+      "titleHi": "नेपाल में 3 साल की बच्ची के साथ बलात्कार और हत्या पर आक्रोश",
+      "excerptHi": "लड़की के लापता होने के तीन दिन बाद, पिछले सप्ताह मृत पाए जाने के बाद से विरोध प्रदर्शन हो रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "71af33c3c729553adca274032d9bc883ce4dee42",
+      "slug": "prince-harry-quits-board-of-wildlife-charity-after-human-rig-71af33",
+      "title": "Prince Harry quits board of wildlife charity after human rights abuses",
+      "excerpt": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Caroline Davies",
+      "image": "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T16:40:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+      "titleHi": "प्रिंस हैरी ने मानवाधिकारों के हनन के बाद वन्यजीव चैरिटी के बोर्ड से इस्तीफा दिया",
+      "excerptHi": "ससेक्स के ड्यूक के प्रवक्ता का कहना है कि वह अफ्रीकी पार्क के मिशन के ‘सक्रिय और उत्साही समर्थक’ बने हुए हैं ससेक्स के ड्यूक ने एक प्रमुख अफ्रीकी वन्यजीव चैरिटी के बोर्ड से इस्तीफा दे दिया है जो केंद्र में था...",
+      "archived": false
+    },
+    {
       "id": "09650df58c2648e5b2ed6ac0053de5aa0b582f77",
       "slug": "john-oliver-on-smart-appliances-spying-on-you-through-the-wa-09650d",
       "title": "John Oliver on ‘smart’ appliances: ‘Spying on you through the washing machine’",
@@ -1885,48 +1917,6 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
       "titleHi": "‘चौंका देने वाला ': बस में स्वदेशी किशोर को गलत तरीके से गिरफ्तार करने के बाद प्रहरी ने पुलिस की निंदा की – फिर तलाशी ली",
       "excerptHi": "लोकपाल इयान एंडरसन का कहना है कि वह चिंतित है कि पुलिस को नस्लीय प्रोफाइलिंग की कोई स्पष्ट परिभाषा नहीं थी ‘हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें कॉमनवेल्थ एंड एक्ट लोकपाल ने...",
-      "archived": false
-    },
-    {
-      "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
-      "slug": "israel-warns-of-forceful-response-to-kites-flown-from-gaza-c5704a",
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T13:56:22.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
-      "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
-      "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
-      "archived": false
-    },
-    {
-      "id": "16465c8ed8c8e44cd95505216ed0435cc65764e2",
-      "slug": "indiana-mayor-calls-it-unacceptable-for-thousands-to-have-no-16465c",
-      "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
-      "excerpt": "Gary mayor says 12 days is ‘too long’ for residents to go without power after storm downed trees on to power lines The mayor of Gary, Indiana, has said it is “unacceptable” that thousands of residents in the city are…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Edward Helmore",
-      "image": "https://i.guim.co.uk/img/media/55eaf08b3a96ee6469d1150deeb15cf10b542708/663_458_4013_3209/master/4013.jpg?width=140&quality=85&auto=format&fit=max&s=dc2fb01b3cbac7ab44fdc3858e9f4e9f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T13:39:18.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
-      "titleHi": "इंडियाना के मेयर ने हजारों लोगों के लिए तूफान के दो सप्ताह बाद बिजली न होना ‘अस्वीकार्य’ बताया",
-      "excerptHi": "गैरी के मेयर का कहना है कि तूफान के कारण पेड़ों को गिराने के बाद निवासियों के लिए बिजली के बिना जाने के लिए 12 दिन ‘बहुत लंबे’ हैं गैरी, इंडियाना के मेयर ने कहा है कि यह \"अस्वीकार्य\" है कि शहर में हजारों निवासी हैं...",
       "archived": false
     }
   ]
