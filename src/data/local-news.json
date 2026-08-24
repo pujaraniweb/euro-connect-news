@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T13:51:28.144Z",
+  "generatedAt": "2026-08-24T14:40:34.989Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,28 @@
   ],
   "usa": [
     {
+      "id": "38d4eac191b2ddf7fe0a4f1286a3cd82f8c2d31b",
+      "slug": "how-gofundme-became-americas-backup-plan-38d4ea",
+      "title": "How GoFundMe became America’s backup plan",
+      "excerpt": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league…",
+      "category": "Technology",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "guid": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "titleHi": "GoFundMe अमेरिका की बैकअप योजना कैसे बन गई",
+      "excerptHi": "आज डिकोडर पर, मैं GoFundMe के CEO टिम कैडोगन से बात कर रहा हूँ। आप GoFundMe को जानते हैं — यह एक प्रमुख धन उगाहने वाला प्लेटफ़ॉर्म है जहाँ आप चिकित्सा व्यय से लेकर छोटी लीग तक सब कुछ के साथ लोगों की मदद करने के लिए दान कर सकते हैं...",
+      "archived": false
+    },
+    {
       "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
       "slug": "netflix-reportedly-considers-opening-its-app-to-other-stream-356f23",
       "title": "Netflix reportedly considers opening its app to other streamers",
@@ -230,6 +252,29 @@
       "guid": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
       "titleHi": "नेटफ्लिक्स कथित तौर पर अपने ऐप को अन्य स्ट्रीमर्स के लिए खोलने पर विचार कर रहा है",
       "excerptHi": "द न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, नेटफ्लिक्स के अधिकारियों ने अपने ऐप के भीतर थर्ड - पार्टी स्ट्रीमिंग सेवाओं को उपलब्ध कराने पर विचार किया है। हाल की चर्चा कथित तौर पर मयूर लाने के आसपास केंद्रित थी और...",
+      "archived": false
+    },
+    {
+      "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
+      "slug": "netflix-disney-and-amazon-price-rises-in-western-europe-high-b99795",
+      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+      "excerpt": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Mark Sweney",
+      "image": "https://i.guim.co.uk/img/media/5aefc4c62db8f8bf69199d19e507d212ff26f886/100_17_2466_1973/master/2466.jpg?width=140&quality=85&auto=format&fit=max&s=2b8d96df00f7e4a3dbfd2951992201e2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:45:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
+      "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
       "archived": false
     },
     {
@@ -360,7 +405,7 @@
       "guid": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
       "titleHi": "मध्यावधि चुनाव से पहले डेमोक्रेट्स के बीच हकीम जेफ्री की जेरेड कुशनर से मुलाकात – अमेरिकी राजनीति LIVE",
       "excerptHi": "राष्ट्रपति के दामाद के साथ हाउस डेमोक्रेटिक नेता की मुलाकात ने हकीम जेफ्रीज और जेरेड कुशनर की डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों से मुलाकात पर अविश्वसनीय रूप से अपनी पार्टी के डेमोक्रेट्स के बीच रोष पैदा कर दिया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7448524138f45e6964e71f1b2cf802de973b0eba",
@@ -383,54 +428,55 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
       "titleHi": "वोटिंग राइट्स एक्ट का समर्थन करने वाली शीर्ष अमेरिकी फर्में इसे कमजोर करने के लिए काम करने वाले समूहों को दान करती हैं",
       "excerptHi": "अभिभावक के साथ साझा किए गए वॉचडॉग डेटा रिपब्लिकन अटॉर्नी जनरल एसोसिएशन और अन्य के लिए योगदान दिखाते हैं एक दर्जन से अधिक अमेरिकी कंपनियों ने 2021 के पत्र पर हस्ताक्षर किए, जिसमें कांग्रेस से वोटिंग राइट्स एक्ट को मजबूत करने का आग्रह किया गया था...",
-      "archived": false
-    },
-    {
-      "id": "6655729cdf1212abd5ed2574698f54947f7f063b",
-      "slug": "iran-faces-greatest-financial-offensive-ever-says-us-treasur-665572",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "excerpt": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:39:23.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
-      "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": true
-    },
-    {
-      "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
-      "slug": "iranian-state-tv-broadcasts-video-targeting-barron-trump-wit-b76f17",
-      "title": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerpt": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:05:31.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
-      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "64faad014f8773a391bebd4fa95ab93fca3513bc",
+      "slug": "survivors-of-violent-crime-criticise-moj-for-not-explaining-64faad",
+      "title": "Survivors of violent crime criticise MoJ for not explaining offender restriction zones",
+      "excerpt": "Campaigners accuse ministers of trying to grab headlines with announcement before a working system is ready Survivors of violent crime and families of victims have criticised the UK government for announcing “world…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Steven Morris",
+      "image": "https://i.guim.co.uk/img/media/0bebeb8b913a4509d9ccf8ba2c64f487835644c5/944_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3e95730179fe2a2c2a9d1bf5e2923218",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:48:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
+      "guid": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
+      "titleHi": "हिंसक अपराध के पीड़ितों ने अपराधी प्रतिबंध क्षेत्रों की व्याख्या नहीं करने के लिए न्याय मंत्रालय की आलोचना की",
+      "excerptHi": "प्रचारकों ने मंत्रियों पर आरोप लगाया कि वे एक कार्य प्रणाली तैयार होने से पहले घोषणा के साथ सुर्खियों में आने की कोशिश कर रहे हैं हिंसक अपराध के उत्तरजीवी और पीड़ितों के परिवारों ने \"विश्व...\" की घोषणा करने के लिए यूके सरकार की आलोचना की है।",
+      "archived": false
+    },
+    {
+      "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
+      "slug": "netflix-disney-and-amazon-price-rises-in-western-europe-high-b99795",
+      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+      "excerpt": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Mark Sweney",
+      "image": "https://i.guim.co.uk/img/media/5aefc4c62db8f8bf69199d19e507d212ff26f886/100_17_2466_1973/master/2466.jpg?width=140&quality=85&auto=format&fit=max&s=2b8d96df00f7e4a3dbfd2951992201e2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:45:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
+      "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
+      "archived": false
+    },
     {
       "id": "1cdaafeab45f85eb00a9b1a0b8b23e3b5c7e500b",
       "slug": "warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-s-1cdaaf",
@@ -597,54 +643,30 @@
       "guid": "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts",
       "titleHi": "'हल्किदिकी जैसी कोई जगह नहीं ': टूरिस्ट प्रोफ़ाइल शिफ्ट होने पर यात्रियों का विश्वास मत",
       "excerptHi": "स्थानीय लोगों और हर साल दस लाख से अधिक विदेशी पर्यटकों का कहना है कि \"हल्किडिकी की तरह कहीं नहीं\" है, फिर भी पिछले पांच वर्षों में भू - राजनीतिक बदलावों ने इस क्षेत्र का दौरा करने वाले लोगों को बदल दिया है – यूरोन्यूज़ की एक ऑन - द - ग्राउंड रिपोर्ट।",
-      "archived": false
-    },
-    {
-      "id": "660067417d2207f137ec804497ee301efc8aa7fb",
-      "slug": "minister-tells-social-media-firms-to-take-down-dangerous-dri-660067",
-      "title": "Minister tells social media firms to take down dangerous driving content in wake of fatal A66 crash in Middlesbrough – UK politics live",
-      "excerpt": "Defence minister says police ‘need time’ but ‘in the meantime’ the government has told platforms to take down content glorifying dangerous driving Lee Anderson, the Reform UK MP for Ashfield, is first up to speak. He…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Yohannes Lowe",
-      "image": "https://i.guim.co.uk/img/media/2ac5412043ca84b2366ba41ab226565941e8ded9/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=035c435f8f806635bb994daacb71e567",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:12:35.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-      "guid": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-      "titleHi": "मंत्री ने सोशल मीडिया फर्मों को मिडल्सब्रो में A66 दुर्घटना के मद्देनजर खतरनाक ड्राइविंग सामग्री को हटाने के लिए कहा – यूके की राजनीति LIVE",
-      "excerptHi": "रक्षा मंत्री का कहना है कि पुलिस को ’समय की जरूरत है‘ लेकिन ‘इस बीच’ सरकार ने प्लेटफार्मों को खतरनाक ड्राइविंग का महिमामंडन करने वाली सामग्री को नीचे ले जाने के लिए कहा है ली एंडरसन, एशफील्ड के लिए सुधार ब्रिटेन के सांसद, सबसे पहले बोलने के लिए तैयार हैं। वह…",
-      "archived": false
-    },
-    {
-      "id": "e1b507f0ed76ba00571e2bc0c0c23cdb27f8ed5f",
-      "slug": "uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-e1b507",
-      "title": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
-      "excerpt": "Moscow warns of increased tensions with Britain as Burnham visits Kyiv to offer declassified details of missile components Europe live – latest updates The Kremlin has warned of an escalation in tensions between the UK…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Jessica Elgot, Kiran Stacey and Dan Sabbagh",
-      "image": "https://i.guim.co.uk/img/media/a42a475125086c1b0e9b54f52f4402520cdc70ab/557_0_3259_2607/master/3259.jpg?width=140&quality=85&auto=format&fit=max&s=4f64cd26cbd8de813f20d0f4e0290a6f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:49:24.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
-      "guid": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
-      "titleHi": "रूस ने कहा, यूक्रेन को हथियारों के ब्लूप्रिंट देकर ब्रिटेन आग में ’ईंधन जोड़ रहा है'",
-      "excerptHi": "मॉस्को ने ब्रिटेन के साथ बढ़ते तनाव की चेतावनी दी है क्योंकि बर्नहम ने कीव का दौरा करके मिसाइल घटकों के सार्वजनिक विवरण की पेशकश की है यूरोप लाइव – नवीनतम अपडेट क्रेमलिन ने ब्रिटेन के बीच तनाव में वृद्धि की चेतावनी दी है...",
-      "archived": false
+      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "aa18bfea81ea7ccff57ea1fc0dd61d4148ea4606",
+      "slug": "england-drop-carse-after-nightclub-incident-aa18bf",
+      "title": "England drop Carse after nightclub incident",
+      "excerpt": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:23:33.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo#0",
+      "titleHi": "नाइट क्लब की घटना के बाद इंग्लैंड ने कार्स को गिरा दिया",
+      "excerptHi": "तेज गेंदबाज ब्राइडन कार्स को पाकिस्तान के खिलाफ दूसरे टेस्ट के लिए इंग्लैंड की टीम से हटा दिया गया है।",
+      "archived": false
+    },
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
       "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
@@ -834,32 +856,29 @@
       "titleHi": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
       "excerptHi": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
       "archived": true
-    },
-    {
-      "id": "8bcb9c0fd42695b99a6371fc54fc13edc3a1438e",
-      "slug": "shein-aims-for-almost-27bn-valuation-in-stock-market-debut-8bcb9c",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "excerpt": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Culture"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T04:06:54.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cdeweewjdxno#0",
-      "titleHi": "SHEIN का लक्ष्य शेयर बाजार की शुरुआत में लगभग $ 27 बिलियन का मूल्यांकन करना है",
-      "excerptHi": "फास्ट - फैशन दिग्गज के शेयर 1 सितंबर को हांगकांग में व्यापार शुरू करने वाले हैं।",
-      "archived": true
     }
   ],
   "africa": [
+    {
+      "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
+      "slug": "video-shows-hundreds-held-captive-after-nigeria-mosque-kidna-2f3e08",
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters in Maidiguri",
+      "image": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=2a21297e74271a7b4614825c88bba983",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:19:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "titleHi": "वीडियो में दिखाया गया है कि नाइजीरिया की मस्जिद के अपहरण के बाद सैकड़ों लोगों को बंदी बनाया",
+      "excerptHi": "बंदूकधारियों ने शुक्रवार को डेकारा गांव में महिलाओं, बच्चों और बुजुर्गों को लेकर पूजा करने वालों पर हमला किया एक सशस्त्र समूह ने एक वीडियो पोस्ट किया है जिसमें दिखाया गया है कि निवासियों ने 600 महिलाओं, बच्चों और ​बुजुर्गों के अपहरण के बारे में क्या कहा था...",
+      "archived": false
+    },
     {
       "id": "ebbd2894abf62abe24b225400da7d16162a18f3e",
       "slug": "boks-drop-feinberg-mngomezulu-to-bench-for-all-blacks-rematc-ebbd28",
@@ -898,7 +917,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
       "titleHi": "केन्या में हाथियों को जहर देने के आरोप में चार गिरफ्तार",
       "excerptHi": "इस बात की जांच की जा रही है कि क्या मौतें टमाटर की फसलों पर छिड़के गए कीटनाशकों के कारण हुई थीं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd3abd4dcc347b90a0c865ed2db5e1e1a9e27420",
@@ -1040,26 +1059,6 @@
       "guid": "https://www.theguardian.com/world/video/2026/aug/23/ebola-day-100-why-this-outbreak-could-become-deadliest-in-history-explainer",
       "titleHi": "Ebola day 100: why this outbreak could become the deadliest in history – video explainer",
       "excerptHi": "More than 2,000 people have died from Ebola in the Democratic Republic of the Congo since the first case of this epidemic was recorded in May. The Guardian's global health correspondent, Kat Lay, spoke to CDC Africa's…",
-      "archived": true
-    },
-    {
-      "id": "a53bddc97566a384e0a71b5b05ca1c3e34c33cfe",
-      "slug": "did-a-goat-herders-lucky-200-nugget-spark-a-gold-rush-in-wes-a53bdd",
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "excerpt": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/1c0143c0-9cb3-11f1-a291-b542ee92de7c.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-22T23:22:02.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o#2",
-      "titleHi": "क्या एक बकरी चरवाहे की सौभाग्यशाली $ 200 की डली ने पश्चिमी केन्या में सोने की भीड़ पैदा की?",
-      "excerptHi": "प्रॉस्पेक्टर्स वेस्ट पोकोट काउंटी में इस उम्मीद में आए हैं कि कीमती धातु का एक ग्राम उनके जीवन को बदल सकता है।",
       "archived": true
     }
   ],
@@ -1712,6 +1711,114 @@
   ],
   "world": [
     {
+      "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
+      "slug": "video-shows-hundreds-held-captive-after-nigeria-mosque-kidna-2f3e08",
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters in Maidiguri",
+      "image": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=2a21297e74271a7b4614825c88bba983",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:19:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "titleHi": "वीडियो में दिखाया गया है कि नाइजीरिया की मस्जिद के अपहरण के बाद सैकड़ों लोगों को बंदी बनाया",
+      "excerptHi": "बंदूकधारियों ने शुक्रवार को डेकारा गांव में महिलाओं, बच्चों और बुजुर्गों को लेकर पूजा करने वालों पर हमला किया एक सशस्त्र समूह ने एक वीडियो पोस्ट किया है जिसमें दिखाया गया है कि निवासियों ने 600 महिलाओं, बच्चों और ​बुजुर्गों के अपहरण के बारे में क्या कहा था...",
+      "archived": false
+    },
+    {
+      "id": "fa58837617121ef8d607b5c40614b694b5c8cde5",
+      "slug": "former-world-snooker-champion-graeme-dott-found-guilty-of-se-fa5883",
+      "title": "Former world snooker champion Graeme Dott found guilty of sexually abusing children",
+      "excerpt": "Five-day trial at high court in Glasgow heard Dott subjected a girl and a boy to multiple incidents of abuse The former world snooker champion Graeme Dott has been found guilty of sexually abusing two primary school age…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "PA Media",
+      "image": "https://i.guim.co.uk/img/media/1b91859d4ce2f1c824e5cd608e6f26b15d82920c/531_245_4998_3999/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=4392c333b5cb08e2ff28d6a0a4f2d36b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:11:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children",
+      "titleHi": "पूर्व विश्व स्नूकर चैंपियन ग्रीम डॉट को बच्चों के यौन शोषण का दोषी पाया गया",
+      "excerptHi": "ग्लासगो में उच्च न्यायालय में पांच दिवसीय मुकदमे की सुनवाई के दौरान डॉट ने एक लड़की और एक लड़के को दुर्व्यवहार की कई घटनाओं के अधीन किया पूर्व विश्व स्नूकर चैंपियन ग्रीम डॉट को दो प्राथमिक विद्यालय की उम्र के यौन शोषण का दोषी पाया गया है...",
+      "archived": false
+    },
+    {
+      "id": "e92e4fb7294af41af76ea4da16fda4951ae563b5",
+      "slug": "albanese-seeks-to-quell-datacentre-disquiet-as-climate-exper-e92e4f",
+      "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "excerpt": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power use Get our breaking news email, free app or daily news podcast Anthony Albanese…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Tom McIlroy and Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=1f8a843f146166d0df4db5d756b17dbc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:01:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "titleHi": "अल्बानियाई डेटासेंटर की बेचैनी को कम करना चाहता है क्योंकि जलवायु विशेषज्ञ ने चेतावनी दी है कि ‘हमें नियमों को सही करने के लिए एक शॉट मिला है’",
+      "excerptHi": "प्रधान मंत्री नए एआई कानून पर प्रमुखों को आश्वस्त करने के लिए राष्ट्रीय कैबिनेट की बैठक का उपयोग करेंगे क्योंकि एईएमओ ने डेटासेंटर बिजली उपयोग में सात गुना वृद्धि का अनुमान लगाया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एंथनी अल्बानिया...",
+      "archived": false
+    },
+    {
+      "id": "1f320fdcd14630ad610e230a8b1838c537f2e7fd",
+      "slug": "staggering-watchdog-condemns-police-after-indigenous-teenage-1f320f",
+      "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
+      "excerpt": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Get our breaking news email, free app or daily news podcast The commonwealth and ACT ombudsman has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Adeshola Ore",
+      "image": "https://i.guim.co.uk/img/media/50db5a3035048c97f2b930c05b42660a207b96ff/378_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=0635a1c7c23d0ad3afed754417b7a586",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:01:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
+      "titleHi": "‘चौंका देने वाला ': बस में स्वदेशी किशोर को गलत तरीके से गिरफ्तार करने के बाद प्रहरी ने पुलिस की निंदा की – फिर तलाशी ली",
+      "excerptHi": "लोकपाल इयान एंडरसन का कहना है कि वह चिंतित है कि पुलिस को नस्लीय प्रोफाइलिंग की कोई स्पष्ट परिभाषा नहीं थी ‘हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें कॉमनवेल्थ एंड एक्ट लोकपाल ने...",
+      "archived": false
+    },
+    {
+      "id": "16465c8ed8c8e44cd95505216ed0435cc65764e2",
+      "slug": "indiana-mayor-calls-it-unacceptable-for-thousands-to-have-no-16465c",
+      "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
+      "excerpt": "Gary mayor says 12 days is ‘too long’ for residents to go without power after storm downed trees on to power lines The mayor of Gary, Indiana, has said it is “unacceptable” that thousands of residents in the city are…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/55eaf08b3a96ee6469d1150deeb15cf10b542708/663_458_4013_3209/master/4013.jpg?width=140&quality=85&auto=format&fit=max&s=dc2fb01b3cbac7ab44fdc3858e9f4e9f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:39:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
+      "titleHi": "इंडियाना के मेयर ने हजारों लोगों के लिए तूफान के दो सप्ताह बाद बिजली न होना ‘अस्वीकार्य’ बताया",
+      "excerptHi": "गैरी के मेयर का कहना है कि तूफान के कारण पेड़ों को गिराने के बाद निवासियों के लिए बिजली के बिना जाने के लिए 12 दिन ‘बहुत लंबे’ हैं गैरी, इंडियाना के मेयर ने कहा है कि यह \"अस्वीकार्य\" है कि शहर में हजारों निवासी हैं...",
+      "archived": false
+    },
+    {
       "id": "77f5073b2148e8648180553dc2cdb800e499c66b",
       "slug": "twelve-people-arrested-over-a66-crash-that-killed-seven-incl-77f507",
       "title": "Twelve people arrested over A66 crash that killed seven including two police officers",
@@ -1812,111 +1919,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
       "titleHi": "पहली बात: बॉन्ड बाजार की चिंताओं के बीच नई फेड चेयर केविन वॉश को शुरुआती परीक्षा का सामना करना पड़ रहा है",
       "excerptHi": "जैक्सन होल में इस सप्ताह दिया जाने वाला मुख्य भाषण अमेरिका में उत्पादकता और जनसांख्यिकी पर ध्यान केंद्रित करने के लिए कहा गया। इसके अलावा, आप जंगली में 1,000 छोटे पेंगुइन का टीकाकरण कैसे करते हैं? सुप्रभात। नया अमेरिकी फेडरल रिजर्व...",
-      "archived": false
-    },
-    {
-      "id": "f631750f09188cef292f0a493292da50afff5071",
-      "slug": "new-zealand-to-introduce-bill-for-under-16s-social-media-ban-f63175",
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "excerpt": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T12:17:34.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
-      "titleHi": "न्यूजीलैंड अंडर -16 सोशल मीडिया प्रतिबंध के लिए विधेयक पेश करेगा",
-      "excerptHi": "सरकार को सांसदों के अपने प्रस्तावों के विरोध का सामना करना पड़ता है जो मानते हैं कि प्रतिबंध काम नहीं करेगा।",
-      "archived": false
-    },
-    {
-      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
-      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
-      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Patrick Wintour Diplomatic editor",
-      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:53:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
-      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
-      "archived": false
-    },
-    {
-      "id": "97d306bab1fa9b73de2a48acaed23c8d89ef2d18",
-      "slug": "nearly-90000-told-to-evacuate-as-wildfire-approaches-reno-ne-97d306",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "excerpt": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e00/live/287ab570-9f95-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T11:25:21.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
-      "titleHi": "रेनो, नेवादा के पास जंगल की आग पहुंचते ही लगभग 90,000 लोगों को बाहर निकलने के लिए कहा गया",
-      "excerptHi": "अधिकारियों का कहना है कि आग ने लगभग 10,500 एकड़ जमीन को जला दिया है और यह पूरी तरह से अपरिवर्तित है।",
-      "archived": false
-    },
-    {
-      "id": "515cc1be6f0f6257ca1e49ca71698fe6905741fa",
-      "slug": "access-to-zambian-courts-prevented-as-election-petition-dead-515cc1",
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "excerpt": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef6d/live/b2d751d0-9fa2-11f1-a83c-33ebef033ca4.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T11:17:28.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
-      "titleHi": "चुनाव याचिका की समय सीमा कम होने के कारण ज़ाम्बियाई अदालतों तक पहुँच को रोका गया",
-      "excerptHi": "राष्ट्रपति Hakainde Hichilema के दूसरे उद्घाटन की तैयारी जारी है।",
-      "archived": false
-    },
-    {
-      "id": "3a7e4db0591fb4b8d4f8c124d35f837213b2a3a3",
-      "slug": "four-arrested-over-suspected-poisoning-of-elephants-in-kenya-3a7e4d",
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "excerpt": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff1/live/98213ac0-9fa9-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T11:08:27.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
-      "titleHi": "केन्या में हाथियों को जहर देने के आरोप में चार गिरफ्तार",
-      "excerptHi": "इस बात की जांच की जा रही है कि क्या मौतें टमाटर की फसलों पर छिड़के गए कीटनाशकों के कारण हुई थीं।",
       "archived": false
     }
   ]

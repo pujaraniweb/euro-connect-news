@@ -1,8 +1,306 @@
 {
-  "generatedAt": "2026-08-24T13:51:28.144Z",
+  "generatedAt": "2026-08-24T14:40:34.989Z",
   "retentionDays": 45,
-  "total": 2332,
+  "total": 2350,
   "items": [
+    {
+      "id": "e1d6d5b512bc461a0bb232e17f730003bda4d547",
+      "slug": "does-elliott-have-a-liverpool-future-after-latest-omission-e1d6d5",
+      "title": "Does Elliott have a Liverpool future after latest omission?",
+      "excerpt": "Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:23:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o#0",
+      "titleHi": "क्या नवीनतम चूक के बाद इलियट का लिवरपूल का भविष्य है?",
+      "excerptHi": "प्रीमियर लीग सीज़न के शुरुआती सप्ताहांत में न्यूकैसल में मैच डे टीम से अनुपस्थिति के बाद लिवरपूल में हार्वे इलियट की स्थिति अनिश्चित दिखती है।",
+      "archived": false
+    },
+    {
+      "id": "aa18bfea81ea7ccff57ea1fc0dd61d4148ea4606",
+      "slug": "england-drop-carse-after-nightclub-incident-aa18bf",
+      "title": "England drop Carse after nightclub incident",
+      "excerpt": "Pace bowler Brydon Carse is removed from England's squad for the second Test against Pakistan following an incident that led to him being handcuffed by police.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685e/live/714f2490-9f9d-11f1-a83c-33ebef033ca4.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:23:33.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cn74lg8xzpvo#0",
+      "titleHi": "नाइट क्लब की घटना के बाद इंग्लैंड ने कार्स को गिरा दिया",
+      "excerptHi": "तेज गेंदबाज ब्राइडन कार्स को पाकिस्तान के खिलाफ दूसरे टेस्ट के लिए इंग्लैंड की टीम से हटा दिया गया है।",
+      "archived": false
+    },
+    {
+      "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
+      "slug": "video-shows-hundreds-held-captive-after-nigeria-mosque-kidna-2f3e08",
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "excerpt": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters in Maidiguri",
+      "image": "https://i.guim.co.uk/img/media/6fceb10673f4af6f590045148db3218713256243/1116_171_4621_3697/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=2a21297e74271a7b4614825c88bba983",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:19:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "titleHi": "वीडियो में दिखाया गया है कि नाइजीरिया की मस्जिद के अपहरण के बाद सैकड़ों लोगों को बंदी बनाया",
+      "excerptHi": "बंदूकधारियों ने शुक्रवार को डेकारा गांव में महिलाओं, बच्चों और बुजुर्गों को लेकर पूजा करने वालों पर हमला किया एक सशस्त्र समूह ने एक वीडियो पोस्ट किया है जिसमें दिखाया गया है कि निवासियों ने 600 महिलाओं, बच्चों और ​बुजुर्गों के अपहरण के बारे में क्या कहा था...",
+      "archived": false
+    },
+    {
+      "id": "abc138ea149ac5caae6471146ee98b042ec8378d",
+      "slug": "cycling-chiefs-criticised-for-response-to-fin-tarlings-death-abc138",
+      "title": "Cycling chiefs criticised for response to Fin Tarling’s death: ‘This simply cannot happen’",
+      "excerpt": "Richard Plugge criticises UCI for its lack of action ‘Riders must be certain they can race on a safe course’ Richard Plugge, the manager of the former Tour de France winner, Jonas Vingegaard, has criticised cycling’s…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Jeremy Whittle",
+      "image": "https://i.guim.co.uk/img/media/6b95ca59eec95c4673bb00d55049e1146f9aeeee/617_248_3680_2944/master/3680.jpg?width=140&quality=85&auto=format&fit=max&s=445aa23bac871824417b78c25f98fbba",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:17:21.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/cycling-chiefs-criticised-for-response-to-fin-tarling-death",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/cycling-chiefs-criticised-for-response-to-fin-tarling-death",
+      "titleHi": "फिन टार्लिंग की मौत पर प्रतिक्रिया के लिए साइकिलिंग प्रमुखों की आलोचना की गई: ‘यह बस नहीं हो सकता’",
+      "excerptHi": "रिचर्ड प्लग ने कार्रवाई की कमी के लिए यूसीआई की आलोचना की ‘राइडर्स को यकीन होना चाहिए कि वे एक सुरक्षित कोर्स पर दौड़ सकते हैं’ टूर डी फ्रांस के पूर्व विजेता, जोनास विंगेगार्ड के प्रबंधक, रिचर्ड प्लग ने साइकिलिंग की आलोचना की है...",
+      "archived": false
+    },
+    {
+      "id": "77bd977af119922a087b3449827bcdde43a1e368",
+      "slug": "mcinnes-could-be-in-stand-for-first-old-firm-game-77bd97",
+      "title": "McInnes could be in stand for first Old Firm game",
+      "excerpt": "Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:15:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c750nd2419ko?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c750nd2419ko#0",
+      "titleHi": "McInnes पहले ओल्ड फर्म गेम के लिए स्टैंड में हो सकता है",
+      "excerptHi": "31 अगस्त की सुनवाई की तारीख के बाद रेंजरों के प्रबंधक के रूप में डेरेक मैकइनेस अपने पहले ओल्ड फर्म मैच के लिए स्टैंड में हो सकते हैं, जो टचलाइन प्रतिबंध के खिलाफ उनकी अपील के लिए निर्धारित किया गया था।",
+      "archived": false
+    },
+    {
+      "id": "fa58837617121ef8d607b5c40614b694b5c8cde5",
+      "slug": "former-world-snooker-champion-graeme-dott-found-guilty-of-se-fa5883",
+      "title": "Former world snooker champion Graeme Dott found guilty of sexually abusing children",
+      "excerpt": "Five-day trial at high court in Glasgow heard Dott subjected a girl and a boy to multiple incidents of abuse The former world snooker champion Graeme Dott has been found guilty of sexually abusing two primary school age…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "PA Media",
+      "image": "https://i.guim.co.uk/img/media/1b91859d4ce2f1c824e5cd608e6f26b15d82920c/531_245_4998_3999/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=4392c333b5cb08e2ff28d6a0a4f2d36b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:11:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/former-world-snooker-champion-graeme-dott-found-guilty-of-sexually-abusing-children",
+      "titleHi": "पूर्व विश्व स्नूकर चैंपियन ग्रीम डॉट को बच्चों के यौन शोषण का दोषी पाया गया",
+      "excerptHi": "ग्लासगो में उच्च न्यायालय में पांच दिवसीय मुकदमे की सुनवाई के दौरान डॉट ने एक लड़की और एक लड़के को दुर्व्यवहार की कई घटनाओं के अधीन किया पूर्व विश्व स्नूकर चैंपियन ग्रीम डॉट को दो प्राथमिक विद्यालय की उम्र के यौन शोषण का दोषी पाया गया है...",
+      "archived": false
+    },
+    {
+      "id": "1359df1968f947662ac7659b0997b66c531d88c2",
+      "slug": "coin-hidden-in-1971-earns-finder-free-pint-of-beer-1359df",
+      "title": "Coin hidden in 1971 earns finder free pint of beer",
+      "excerpt": "The card, discovered by Ellie Mead in Bicester, promised \"one pint best beer if penny returned\".",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ea6/live/ecefb930-9fb0-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T14:10:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo#5",
+      "titleHi": "1971 में छिपा सिक्का खोजक मुक्त बियर कमाता है",
+      "excerptHi": "बिसेस्टर में ऐली मीड द्वारा खोजे गए कार्ड ने \"पैसा लौटाने पर एक पिंट बेस्ट बियर\" का वादा किया।",
+      "archived": false
+    },
+    {
+      "id": "9847b109cf6e270cf80c523fe00579660ed9bf1d",
+      "slug": "apples-four-pack-of-second-gen-airtags-is-20-off-9847b1",
+      "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+      "excerpt": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:04:04.000Z",
+      "sourceUrl": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "guid": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "titleHi": "Apple के सेकंड - जेन AirTags के चार पैक पर $ 20 की छूट है",
+      "excerptHi": "ऐप्पल का दूसरी पीढ़ी के एयरटैग का चार पैक अमेज़ॅन और टारगेट पर $ 79 (मूल रूप से $ 99) तक गिर गया है, जो अभी तक बंडल की सबसे कम कीमत है। आप अभी टुकड़ों में $ 24 के लिए एक AirTag प्राप्त कर सकते हैं, लेकिन चार…",
+      "archived": false
+    },
+    {
+      "id": "8e89fa4bb4734f926ab16199001389604ce78eaf",
+      "slug": "rennes-push-psg-all-the-way-to-show-they-are-the-best-of-the-8e89fa",
+      "title": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
+      "excerpt": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made them By Get French Football News On the scale of expressions of prowess and power, Paris Saint-Germain…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Luke Entwistle",
+      "image": "https://i.guim.co.uk/img/media/e61a59d9e9061ea7c40d33beda1e765295af1e59/386_0_3610_2888/master/3610.jpg?width=140&quality=85&auto=format&fit=max&s=f56e1cfc6d1f6bbe51b2f2e5f857a5ea",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:03:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
+      "guid": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres",
+      "titleHi": "रेनेस ने पीएसजी को यह दिखाने के लिए धक्का दिया कि वे लीग 1 में बाकी हिस्सों में सबसे अच्छे हैं",
+      "excerptHi": "पीएसजी ने अपनी मांसपेशियों को फ्लेक्स किया, दिन को बचाने के लिए फेरन टोरेस को बेंच से उतार दिया, लेकिन केवल इसलिए कि रेंस ने उन्हें फ्रांसीसी फुटबॉल समाचार प्राप्त करके बनाया। कौशल और शक्ति के भावों के पैमाने पर, पेरिस सेंट - जर्मेन...",
+      "archived": false
+    },
+    {
+      "id": "e92e4fb7294af41af76ea4da16fda4951ae563b5",
+      "slug": "albanese-seeks-to-quell-datacentre-disquiet-as-climate-exper-e92e4f",
+      "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "excerpt": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power use Get our breaking news email, free app or daily news podcast Anthony Albanese…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Tom McIlroy and Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=140&quality=85&auto=format&fit=max&s=1f8a843f146166d0df4db5d756b17dbc",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:01:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "titleHi": "अल्बानियाई डेटासेंटर की बेचैनी को कम करना चाहता है क्योंकि जलवायु विशेषज्ञ ने चेतावनी दी है कि ‘हमें नियमों को सही करने के लिए एक शॉट मिला है’",
+      "excerptHi": "प्रधान मंत्री नए एआई कानून पर प्रमुखों को आश्वस्त करने के लिए राष्ट्रीय कैबिनेट की बैठक का उपयोग करेंगे क्योंकि एईएमओ ने डेटासेंटर बिजली उपयोग में सात गुना वृद्धि का अनुमान लगाया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एंथनी अल्बानिया...",
+      "archived": false
+    },
+    {
+      "id": "1f320fdcd14630ad610e230a8b1838c537f2e7fd",
+      "slug": "staggering-watchdog-condemns-police-after-indigenous-teenage-1f320f",
+      "title": "‘Staggering’: watchdog condemns police after Indigenous teenager on bus wrongfully arrested – then searched",
+      "excerpt": "Ombudsman Iain Anderson says he is concerned police ‘had no clearly understood definition of racial profiling’ Get our breaking news email, free app or daily news podcast The commonwealth and ACT ombudsman has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Adeshola Ore",
+      "image": "https://i.guim.co.uk/img/media/50db5a3035048c97f2b930c05b42660a207b96ff/378_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=0635a1c7c23d0ad3afed754417b7a586",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:01:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/watchdog-scathing-after-act-police-searched-indigenous-teen-even-after-they-realised-arrest-was-mistake-ntwnfb",
+      "titleHi": "‘चौंका देने वाला ': बस में स्वदेशी किशोर को गलत तरीके से गिरफ्तार करने के बाद प्रहरी ने पुलिस की निंदा की – फिर तलाशी ली",
+      "excerptHi": "लोकपाल इयान एंडरसन का कहना है कि वह चिंतित है कि पुलिस को नस्लीय प्रोफाइलिंग की कोई स्पष्ट परिभाषा नहीं थी ‘हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें कॉमनवेल्थ एंड एक्ट लोकपाल ने...",
+      "archived": false
+    },
+    {
+      "id": "c0826de1834f7671634a1ede19b0a58fa1136680",
+      "slug": "zondacrypto-boss-seeks-leniency-for-testimony-on-political-t-c0826d",
+      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
+      "excerpt": "Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 million.",
+      "category": "Crypto",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Helen Partz",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/policymaker-bill-poland-1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:00:51.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report",
+      "titleHi": "ज़ोंडाक्रिप्टो बॉस राजनीतिक संबंधों पर गवाही के लिए नरमी चाहते हैं: रिपोर्ट",
+      "excerptHi": "Przemysław Kral पर कथित तौर पर धोखाधड़ी का आरोप है और वह पोलिश अभियोजकों के साथ सहयोग कर रहा है क्योंकि अनुमानित ग्राहक नुकसान $ 650 मिलियन तक पहुंच गया है।",
+      "archived": false
+    },
+    {
+      "id": "38d4eac191b2ddf7fe0a4f1286a3cd82f8c2d31b",
+      "slug": "how-gofundme-became-americas-backup-plan-38d4ea",
+      "title": "How GoFundMe became America’s backup plan",
+      "excerpt": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league…",
+      "category": "Technology",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "guid": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "titleHi": "GoFundMe अमेरिका की बैकअप योजना कैसे बन गई",
+      "excerptHi": "आज डिकोडर पर, मैं GoFundMe के CEO टिम कैडोगन से बात कर रहा हूँ। आप GoFundMe को जानते हैं — यह एक प्रमुख धन उगाहने वाला प्लेटफ़ॉर्म है जहाँ आप चिकित्सा व्यय से लेकर छोटी लीग तक सब कुछ के साथ लोगों की मदद करने के लिए दान कर सकते हैं...",
+      "archived": false
+    },
+    {
+      "id": "64faad014f8773a391bebd4fa95ab93fca3513bc",
+      "slug": "survivors-of-violent-crime-criticise-moj-for-not-explaining-64faad",
+      "title": "Survivors of violent crime criticise MoJ for not explaining offender restriction zones",
+      "excerpt": "Campaigners accuse ministers of trying to grab headlines with announcement before a working system is ready Survivors of violent crime and families of victims have criticised the UK government for announcing “world…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Steven Morris",
+      "image": "https://i.guim.co.uk/img/media/0bebeb8b913a4509d9ccf8ba2c64f487835644c5/944_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=3e95730179fe2a2c2a9d1bf5e2923218",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:48:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
+      "guid": "https://www.theguardian.com/law/2026/aug/24/survivors-violent-crime-criticise-moj-not-explaining-offender-restriction-zones",
+      "titleHi": "हिंसक अपराध के पीड़ितों ने अपराधी प्रतिबंध क्षेत्रों की व्याख्या नहीं करने के लिए न्याय मंत्रालय की आलोचना की",
+      "excerptHi": "प्रचारकों ने मंत्रियों पर आरोप लगाया कि वे एक कार्य प्रणाली तैयार होने से पहले घोषणा के साथ सुर्खियों में आने की कोशिश कर रहे हैं हिंसक अपराध के उत्तरजीवी और पीड़ितों के परिवारों ने \"विश्व...\" की घोषणा करने के लिए यूके सरकार की आलोचना की है।",
+      "archived": false
+    },
     {
       "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
       "slug": "netflix-reportedly-considers-opening-its-app-to-other-stream-356f23",
@@ -61,6 +359,49 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno#0",
       "titleHi": "पूर्व विश्व स्नूकर चैंपियन डॉट बाल यौन शोषण के दोषी हैं",
       "excerptHi": "पूर्व विश्व चैंपियन को एक लड़की और लड़के के प्रति अश्लील और कामुक व्यवहार का दोषी पाया गया था।",
+      "archived": false
+    },
+    {
+      "id": "b9979592e0e75ba2b00b1c84688fe9db88e52208",
+      "slug": "netflix-disney-and-amazon-price-rises-in-western-europe-high-b99795",
+      "title": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+      "excerpt": "World’s largest streaming services have also increased subscription costs repeatedly in US, research finds Business live – latest updates Subscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Mark Sweney",
+      "image": "https://i.guim.co.uk/img/media/5aefc4c62db8f8bf69199d19e507d212ff26f886/100_17_2466_1973/master/2466.jpg?width=140&quality=85&auto=format&fit=max&s=2b8d96df00f7e4a3dbfd2951992201e2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:45:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "guid": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
+      "titleHi": "पश्चिमी यूरोप में Netflix, Disney+ और Amazon की कीमतें ‘दुनिया में सबसे ज़्यादा’ बढ़ी हैं",
+      "excerptHi": "दुनिया की सबसे बड़ी स्ट्रीमिंग सेवाओं ने भी अमेरिका में बार - बार सदस्यता लागत में वृद्धि की है, शोध से पता चलता है कि बिजनेस लाइव – नवीनतम अपडेट पश्चिमी यूरोप में नेटफ्लिक्स, डिज्नी+ और अमेज़ॅन प्राइम वीडियो के ग्राहकों ने...",
+      "archived": false
+    },
+    {
+      "id": "16465c8ed8c8e44cd95505216ed0435cc65764e2",
+      "slug": "indiana-mayor-calls-it-unacceptable-for-thousands-to-have-no-16465c",
+      "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
+      "excerpt": "Gary mayor says 12 days is ‘too long’ for residents to go without power after storm downed trees on to power lines The mayor of Gary, Indiana, has said it is “unacceptable” that thousands of residents in the city are…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/55eaf08b3a96ee6469d1150deeb15cf10b542708/663_458_4013_3209/master/4013.jpg?width=140&quality=85&auto=format&fit=max&s=dc2fb01b3cbac7ab44fdc3858e9f4e9f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:39:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/gary-indiana-mayor-power-outages-storm",
+      "titleHi": "इंडियाना के मेयर ने हजारों लोगों के लिए तूफान के दो सप्ताह बाद बिजली न होना ‘अस्वीकार्य’ बताया",
+      "excerptHi": "गैरी के मेयर का कहना है कि तूफान के कारण पेड़ों को गिराने के बाद निवासियों के लिए बिजली के बिना जाने के लिए 12 दिन ‘बहुत लंबे’ हैं गैरी, इंडियाना के मेयर ने कहा है कि यह \"अस्वीकार्य\" है कि शहर में हजारों निवासी हैं...",
       "archived": false
     },
     {
@@ -925,7 +1266,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo#0",
       "titleHi": "चुनाव याचिका की समय सीमा कम होने के कारण ज़ाम्बियाई अदालतों तक पहुँच को रोका गया",
       "excerptHi": "राष्ट्रपति Hakainde Hichilema के दूसरे उद्घाटन की तैयारी जारी है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f9ceaafb9406dfd5773f787f0337af8670cc0e0b",
@@ -945,7 +1286,7 @@
       "guid": "e469282c-400a-4f6a-a41a-804e973fe6ce",
       "titleHi": "वित्तीय दमन: बिटकॉइन बैल के लिए नया बज़वर्ड",
       "excerptHi": "24 अगस्त, 2026 के लिए आपका दिन - आगे का नज़ारा",
-      "archived": false
+      "archived": true
     },
     {
       "id": "86d38a2168ab7c9eb6075e90055e18a59fd83732",
@@ -967,7 +1308,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cr50n2d4rj0o#1",
       "titleHi": "एरेडिविसी में प्रशंसकों को आतिशबाजी में जलन और आंखों में चोटें आई हैं",
       "excerptHi": "डच पक्ष एससी कैम्बुर का कहना है कि रविवार के एरेडिविसी मैच के दौरान फेयनोर्ड के समर्थकों द्वारा आतिशबाजी करने के बाद प्रशंसकों को \"जलने, सुनने में क्षति और आंखों की चोटें\" लगी थीं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fd914b5f9a99cb013da7e4cb631238f04a1a00ef",
@@ -989,7 +1330,7 @@
       "guid": "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts",
       "titleHi": "'हल्किदिकी जैसी कोई जगह नहीं ': टूरिस्ट प्रोफ़ाइल शिफ्ट होने पर यात्रियों का विश्वास मत",
       "excerptHi": "स्थानीय लोगों और हर साल दस लाख से अधिक विदेशी पर्यटकों का कहना है कि \"हल्किडिकी की तरह कहीं नहीं\" है, फिर भी पिछले पांच वर्षों में भू - राजनीतिक बदलावों ने इस क्षेत्र का दौरा करने वाले लोगों को बदल दिया है – यूरोन्यूज़ की एक ऑन - द - ग्राउंड रिपोर्ट।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "660067417d2207f137ec804497ee301efc8aa7fb",
@@ -1011,7 +1352,7 @@
       "guid": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
       "titleHi": "मंत्री ने सोशल मीडिया फर्मों को मिडल्सब्रो में A66 दुर्घटना के मद्देनजर खतरनाक ड्राइविंग सामग्री को हटाने के लिए कहा – यूके की राजनीति LIVE",
       "excerptHi": "रक्षा मंत्री का कहना है कि पुलिस को ’समय की जरूरत है‘ लेकिन ‘इस बीच’ सरकार ने प्लेटफार्मों को खतरनाक ड्राइविंग का महिमामंडन करने वाली सामग्री को नीचे ले जाने के लिए कहा है ली एंडरसन, एशफील्ड के लिए सुधार ब्रिटेन के सांसद, सबसे पहले बोलने के लिए तैयार हैं। वह…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3a7e4db0591fb4b8d4f8c124d35f837213b2a3a3",
@@ -1031,7 +1372,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
       "titleHi": "केन्या में हाथियों को जहर देने के आरोप में चार गिरफ्तार",
       "excerptHi": "इस बात की जांच की जा रही है कि क्या मौतें टमाटर की फसलों पर छिड़के गए कीटनाशकों के कारण हुई थीं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e8fb108155e2130aeb164ff2831dda52eb679123",
@@ -1053,7 +1394,7 @@
       "guid": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
       "titleHi": "मध्यावधि चुनाव से पहले डेमोक्रेट्स के बीच हकीम जेफ्री की जेरेड कुशनर से मुलाकात – अमेरिकी राजनीति LIVE",
       "excerptHi": "राष्ट्रपति के दामाद के साथ हाउस डेमोक्रेटिक नेता की मुलाकात ने हकीम जेफ्रीज और जेरेड कुशनर की डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों से मुलाकात पर अविश्वसनीय रूप से अपनी पार्टी के डेमोक्रेट्स के बीच रोष पैदा कर दिया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7448524138f45e6964e71f1b2cf802de973b0eba",
@@ -1076,7 +1417,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
       "titleHi": "वोटिंग राइट्स एक्ट का समर्थन करने वाली शीर्ष अमेरिकी फर्में इसे कमजोर करने के लिए काम करने वाले समूहों को दान करती हैं",
       "excerptHi": "अभिभावक के साथ साझा किए गए वॉचडॉग डेटा रिपब्लिकन अटॉर्नी जनरल एसोसिएशन और अन्य के लिए योगदान दिखाते हैं एक दर्जन से अधिक अमेरिकी कंपनियों ने 2021 के पत्र पर हस्ताक्षर किए, जिसमें कांग्रेस से वोटिंग राइट्स एक्ट को मजबूत करने का आग्रह किया गया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c931b4380a0c8a54ae2ff494c4017bf5958ea79d",
@@ -1096,7 +1437,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories",
       "titleHi": "लिंडसे क्लेन्सी षड्यंत्र के सिद्धांतों के साथ सोशल मीडिया ओवरड्राइव में चला जाता है",
       "excerptHi": "विशेषज्ञों का कहना है कि एल्गोरिदम परीक्षण के आसपास बुखार पिच सामग्री के लिए जिम्मेदार हैं, जिसमें गलत जानकारी भी शामिल है, जैसे ही मैसाचुसेट्स की मां लिंडसे क्लेंसी के मुकदमे की सुनवाई शुरू होती है, जिस पर अपने तीन बच्चों की हत्या का आरोप है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "89e52dffbb59a7f7e2a78477f1f888eec93fa766",
@@ -1116,7 +1457,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o#0",
       "titleHi": "ग्रेजुएट नौकरी की रिक्तियों में एक वर्ष में लगभग 50% की गिरावट",
       "excerptHi": "नौकरी साइट एडज़ुना ने कहा कि स्नातक रिक्तियों की संख्या 2016 के बाद से सबसे कम थी",
-      "archived": false
+      "archived": true
     },
     {
       "id": "14c13e4385143543f14305dbf10fe329889c303a",
@@ -1136,7 +1477,7 @@
       "guid": "5cfe2f87-f3e2-4ddd-806f-685a95acf33b",
       "titleHi": "मिथुन ने भविष्यवाणी बाजारों की पहुंच बढ़ाने के लिए एपेक्स सौदे पर हमला किया",
       "excerptHi": "नियोजित टाई - अप मिथुन को एपेक्स के फ्यूचर्स कमीशन मर्चेंट के माध्यम से पेश किए गए क्रिप्टो इवेंट अनुबंधों के लिए विशेष सीएफटीसी - विनियमित स्थल बना देगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "37d6d89925ef787a7a15a2104a093c4b89ebe71f",
@@ -1158,7 +1499,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o#0",
       "titleHi": "डच ब्रॉडकास्टर Avrotros ने 2027 यूरोविज़न सॉन्ग कॉन्टेस्ट से नाम वापस लिया",
       "excerptHi": "इसमें कहा गया है कि प्रतियोगिता को अब तटस्थ नहीं माना जा सकता है जबकि एक भाग लेने वाला देश बड़े पैमाने पर सैन्य संघर्ष में शामिल रहता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e58a63ea067cdf616f3b233cb197a3ca743a0f03",
@@ -1180,7 +1521,7 @@
       "guid": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
       "titleHi": "मंत्री ने सोशल मीडिया फर्मों से कहा कि वे उन पोस्ट को हटा दें जो A66 दुर्घटना के बाद खतरनाक ड्राइविंग का ’जश्न’ मनाते हैं",
       "excerptHi": "ल्यूक पोलार्ड का कहना है कि सरकार प्लेटफ़ॉर्म को कंटेंट हटाने के लिए मजबूर करेगी, हाल ही में एक कार को गलत दिशा में चलाने से जुड़ी घातक दुर्घटना के बाद एक मंत्री ने सोशल मीडिया कंपनियों पर दबाव डाला है कि वे अपने …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e1b507f0ed76ba00571e2bc0c0c23cdb27f8ed5f",
@@ -1202,7 +1543,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
       "titleHi": "रूस ने कहा, यूक्रेन को हथियारों के ब्लूप्रिंट देकर ब्रिटेन आग में ’ईंधन जोड़ रहा है'",
       "excerptHi": "मॉस्को ने ब्रिटेन के साथ बढ़ते तनाव की चेतावनी दी है क्योंकि बर्नहम ने कीव का दौरा करके मिसाइल घटकों के सार्वजनिक विवरण की पेशकश की है यूरोप लाइव – नवीनतम अपडेट क्रेमलिन ने ब्रिटेन के बीच तनाव में वृद्धि की चेतावनी दी है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ea2f09e57d9ec74f57db54a3e5d73c73dc7346d2",
@@ -1222,7 +1563,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/efl-and-scottish-league-matches-broadcast-russia",
       "titleHi": "ईएफएल और स्कॉटिश लीग रूस में मैचों के अवैध प्रसारण को रोकने पर जोर दे रहे हैं",
       "excerptHi": "लीगों ने 2022 में रूस में अधिकार पैकेज बंद कर दिए वे फुटबॉल टीवी के खिलाफ कानूनी कार्रवाई पर विचार कर रहे हैं इंग्लिश फुटबॉल लीग और स्कॉटिश प्रोफेशनल फुटबॉल लीग ने जांच शुरू कर दी है और…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "42e6e2539c5be9404fcbd8cf0118d01572498c46",
@@ -1244,7 +1585,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/24/mercedes-toto-wolff-wary-lando-norris-lewis-hamilton-f1-title-contenders",
       "titleHi": "मर्सिडीज के वोल्फ को इस बात की चिंता है कि नॉरिस और हैमिल्टन असली F1 टाइटल दावेदार हैं",
       "excerptHi": "मर्सिडीज टीम के प्रिंसिपल: ‘यह सख्त हो सकता है’ टाइटल लीडर एंटोनेली मोंज़ा मैकलारेन के लैंडो नॉरिस में ग्रिड पेनल्टी लेंगे और फेरारी के लुईस हैमिल्टन फॉर्मूला वन वर्ल्ड के असली दावेदार हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e258fd403c0633b0509311211cc237a7ce020cc3",
@@ -2982,6 +3323,26 @@
       "archived": true
     },
     {
+      "id": "dedbf6afc2a454c9f83f513ddaedbf951eb03588",
+      "slug": "new-fed-chair-faces-critical-test-at-jackson-hole-as-inflati-dedbf6",
+      "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+      "excerpt": "Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Richard Partington Senior economics correspondent",
+      "image": "https://i.guim.co.uk/img/media/ca5f6a78807e86377007ff59840b9c88fe0ed8ed/461_0_4578_3662/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=e46f617f313fc3bf1d2261efc11a91af",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T05:00:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+      "guid": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+      "titleHi": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+      "excerptHi": "Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxiety The new US Federal Reserve chair, Kevin Warsh, faces a critical test this week amid anxiety in…",
+      "archived": true
+    },
+    {
       "id": "1eb0bd8eadb51ce5b2b3a10b82334614c65d6777",
       "slug": "latest-news-bulletin-august-24th-2026-morning-1eb0bd",
       "title": "Latest news bulletin | August 24th, 2026 – Morning",
@@ -4182,6 +4543,28 @@
       "publishedAt": "2026-08-23T20:30:00.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8gg7?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct8gg7#5",
+      "titleHi": "Business Daily",
+      "excerptHi": "European governments and businesses are taking a tougher line on trade with China",
+      "archived": true
+    },
+    {
+      "id": "7121252673f0bdf689b56ba9dc36859383c883d3",
+      "slug": "business-daily-712125",
+      "title": "Business Daily",
+      "excerpt": "European governments and businesses are taking a tougher line on trade with China",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p5nx31.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-23T20:30:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service#5",
       "titleHi": "Business Daily",
       "excerptHi": "European governments and businesses are taking a tougher line on trade with China",
       "archived": true
