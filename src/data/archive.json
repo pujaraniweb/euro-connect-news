@@ -1,8 +1,306 @@
 {
-  "generatedAt": "2026-08-24T14:40:34.989Z",
+  "generatedAt": "2026-08-24T15:38:16.940Z",
   "retentionDays": 45,
-  "total": 2350,
+  "total": 2366,
   "items": [
+    {
+      "id": "24c233390e210ced81ba320464574a6d712f871f",
+      "slug": "toddler-invades-pitch-during-minnesotas-mls-win-over-san-jos-24c233",
+      "title": "Toddler invades pitch during Minnesota’s MLS win over San Jose: ‘There’s a baby on the field’",
+      "excerpt": "Child wandered on field during MNUFC’s 5-1 win Minnesota posts win was ‘Like taking money from a baby’ A toddler interrupted a Major League Soccer match between Minnesota United and San Jose Earthquakes on Saturday by…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/b700a2f509356e7a81db7c34439dc22365746a53/202_0_3353_2683/master/3353.jpg?width=140&quality=85&auto=format&fit=max&s=43df52a9393eeada4e535118065f50e6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:29:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
+      "guid": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
+      "titleHi": "मिनेसोटा की सैन जोस पर एमएलएस जीत के दौरान बच्चा पिच पर हमला करता है: ‘मैदान पर एक बच्चा है’",
+      "excerptHi": "एमएनयूएफसी की 5 -1 से जीत मिनेसोटा पदों की जीत के दौरान मैदान पर भटकने वाला बच्चा ‘एक बच्चे से पैसे लेने की तरह’ था एक बच्चा ने शनिवार को मिनेसोटा यूनाइटेड और सैन जोस भूकंप के बीच एक मेजर लीग सॉकर मैच को बाधित कर दिया...",
+      "archived": false
+    },
+    {
+      "id": "29e0472e93bcc33a53bde7ddcaa2595a11de11fc",
+      "slug": "bitmine-extends-14-month-eth-buying-pace-as-ether-breaks-abo-29e047",
+      "title": "Bitmine extends 14-month ETH buying pace as Ether breaks above $2.5K",
+      "excerpt": "Ether’s breakout above $2,500 has put the spotlight back on corporate ETH treasuries, with Bitmine now nearing its long-stated accumulation target.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Sam Bourgi",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-buy-ethereum-with-bitmine-3.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:29:26.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout",
+      "titleHi": "बिटमाइन ने 14 महीने की ETH खरीदारी की गति बढ़ा दी है क्योंकि ईथर $ 2.5K से ऊपर है",
+      "excerptHi": "$ 2,500 से ऊपर ईथर के ब्रेकआउट ने कॉर्पोरेट ईटीएच ट्रेजरी पर फिर से रोशनी डाली है, बिटमाइन अब अपने लंबे समय से बताए गए संचय लक्ष्य के करीब है।",
+      "archived": false
+    },
+    {
+      "id": "a751088aa057dfcffdc310d783324a0372a6c5d6",
+      "slug": "worlds-oceans-hit-highest-temperature-on-record-as-el-nio-gr-a75108",
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "excerpt": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+      "category": "Science",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:17:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
+      "titleHi": "एल नीनो के बढ़ने के साथ ही दुनिया के महासागरों ने रिकॉर्ड पर सबसे अधिक तापमान मारा",
+      "excerptHi": "यूरोपीय कॉपरनिकस जलवायु परिवर्तन सेवा से डॉ सामंथा बर्गेस के अनुसार, रिकॉर्ड \"बढ़ते तनाव के तहत एक महासागर का एक और स्पष्ट संकेत है\"।",
+      "archived": false
+    },
+    {
+      "id": "2b2eabcd9602e84668208eb4142173bc4f32e002",
+      "slug": "is-uks-storm-shadow-missile-a-game-changer-for-ukraine-2b2eab",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "excerpt": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:14:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cx2znjly4dno#3",
+      "titleHi": "क्या यूके की स्टॉर्म शैडो मिसाइल यूक्रेन के लिए एक गेम चेंजर है?",
+      "excerptHi": "संवाददाता जो इनवुड ने हथियारों की तकनीक को तोड़ दिया जो रूस - यूक्रेन युद्ध में बदलाव ला सकता है।",
+      "archived": false
+    },
+    {
+      "id": "b1ec3d6381e3de0d312f571bc48e64a6b13ee58c",
+      "slug": "julin-alvarez-walks-alone-at-atltico-in-transfer-saga-with-n-b1ec3d",
+      "title": "Julián Alvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
+      "excerpt": "Barcelona target left exposed after draw with Villarreal as supporters vented their fury at his ‘dream’ to leave Julián Alvarez entered a long, dark tunnel on his own. “We’re stronger together,” Giuliano Simeone said…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Sid Lowe",
+      "image": "https://i.guim.co.uk/img/media/ca5246456a9f4ee465542159abb62220bd2bd4ca/820_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=a3e3c65d2a6cfcd9093033569afb9120",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:13:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
+      "guid": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
+      "titleHi": "जूलियन अल्वारेज़ बिना किसी अंत के ट्रांसफ़र गाथा में एटलेटिको में अकेले चलते हैं – और कोई विजेता नहीं | सिड लोवे",
+      "excerptHi": "विलारियल के साथ ड्रॉ होने के बाद बार्सिलोना का लक्ष्य उजागर हो गया क्योंकि समर्थकों ने जूलियन अल्वारेज़ को अपने दम पर एक लंबी, अंधेरी सुरंग में प्रवेश करने के लिए उनके ‘सपने’ पर अपना गुस्सा व्यक्त किया। \"हम एक साथ मजबूत हैं ,\" Giuliano Simeone ने कहा...",
+      "archived": false
+    },
+    {
+      "id": "dd97f4c35f08ad2a15a09ba1e29ecdba59c39422",
+      "slug": "espn-streaming-plans-are-getting-more-expensive-dd97f4",
+      "title": "ESPN streaming plans are getting more expensive",
+      "excerpt": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:06:24.000Z",
+      "sourceUrl": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+      "guid": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+      "titleHi": "ईएसपीएन स्ट्रीमिंग प्लान और महंगे हो रहे हैं",
+      "excerptHi": "ईएसपीएन 17 सितंबर को अपने सब्सक्रिप्शन की कीमत बढ़ा रहा है, एक बदलाव जो डिज्नी प्लस के साथ इसके बंडलों को भी प्रभावित करेगा। स्पोर्ट्स मीडिया वॉच द्वारा पहले देखे गए एक समर्थन पृष्ठ में, ईएसपीएन का कहना है कि इसका विज्ञापन - समर्थित चयन...",
+      "archived": false
+    },
+    {
+      "id": "55aaa364c06748ebfa69bd953a6b8ef3f882cb9b",
+      "slug": "greta-thunberg-joins-10000-climate-marchers-in-stockholm-55aaa3",
+      "title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
+      "excerpt": "Around 10,000 people marched through Stockholm on Sunday demanding stronger climate action, a month before Sweden's general election.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:04:21.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+      "guid": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+      "titleHi": "ग्रेटा थनबर्ग स्टॉकहोम में 10,000 जलवायु मार्चर्स में शामिल",
+      "excerptHi": "स्वीडन के आम चुनाव से एक महीने पहले, रविवार को लगभग 10,000 लोगों ने मजबूत जलवायु कार्रवाई की मांग करते हुए स्टॉकहोम के माध्यम से मार्च किया।",
+      "archived": false
+    },
+    {
+      "id": "7912af99b82b9b83a390cee57e1c9df1436ef6e1",
+      "slug": "trump-threatens-to-double-tariffs-on-canadian-vehicles-to-50-7912af",
+      "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
+      "excerpt": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:04:14.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "guid": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "titleHi": "ट्रम्प ने व्यापार वार्ता के पतन के बाद कनाडाई वाहनों पर शुल्क को 50% तक दोगुना करने की धमकी दी",
+      "excerptHi": "\"कनाडा वर्षों से संयुक्त राज्य अमेरिका को तोड़ रहा है ,\" राष्ट्रपति ने अपने ट्रुथ सोशल अकाउंट पर एक पोस्ट में लिखा।",
+      "archived": false
+    },
+    {
+      "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
+      "slug": "australia-has-just-12000-sea-lions-left-and-carnage-may-awai-cfc6bd",
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "excerpt": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email, free app or daily news podcast Scientists have warned deadly H5 bird…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Lisa Cox Environment and climate correspondent",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "titleHi": "ऑस्ट्रेलिया में केवल 12,000 समुद्री शेर बचे हैं – और बर्ड फ्लू होने पर ‘नरसंहार’ उनका इंतजार कर सकता है, वैज्ञानिकों ने चेतावनी दी है",
+      "excerptHi": "वायरस ने पहले ही दक्षिण अमेरिका और उप - अंटार्कटिका में पिनिपेड्स में भयावह नुकसान पहुंचाया है, विशेष रूप से कुत्तों के बीच हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें वैज्ञानिकों ने घातक H5 पक्षी को चेतावनी दी है...",
+      "archived": false
+    },
+    {
+      "id": "58e574c6419d58fc6159e65f1502fbef2ebee4e7",
+      "slug": "big-food-is-winning-the-war-for-americas-diet-58e574",
+      "title": "Big Food Is Winning the War for America’s Diet",
+      "excerpt": "The federal government was supposed to release a definition of ultraprocessed foods. What happened?",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Lindsey Smith Taillie",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24taillie-chbk/24taillie-chbk-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:00:03.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/ultraprocessed-food-industry-maha.html",
+      "guid": "https://www.nytimes.com/2026/08/24/opinion/ultraprocessed-food-industry-maha.html",
+      "titleHi": "बिग फूड अमेरिका के आहार के लिए युद्ध जीत रहा है",
+      "excerptHi": "संघीय सरकार को अल्ट्राप्रोसेस्ड खाद्य पदार्थों की एक परिभाषा जारी करनी थी। क्या हुआ?",
+      "archived": false
+    },
+    {
+      "id": "dd3e72829d7f58c6848fe9d950901fc2c322bb2c",
+      "slug": "raspberry-pi-shares-its-official-tutorial-for-making-a-cyber-dd3e72",
+      "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+      "excerpt": "Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Tiny portable computers made out of things like purses,…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:49:44.000Z",
+      "sourceUrl": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+      "guid": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+      "titleHi": "रास्पबेरी पाई ने साइबरडेक बनाने के लिए अपना आधिकारिक ट्यूटोरियल साझा किया",
+      "excerptHi": "रास्पबेरी पाई के सोशल हेड, एशले व्हिटेकर ने आज साइबरडेक ट्रेंड को स्वीकार करते हुए कहा, \"हम इस साल साइबरडेक से दूर नहीं हो पाए हैं।\" पर्स जैसी चीजों से बने छोटे पोर्टेबल कंप्यूटर,...",
+      "archived": false
+    },
+    {
+      "id": "38ed0beab404ca5f84ddffe751b44ffb6b9b0a22",
+      "slug": "guns-axes-explosives-violent-museum-heists-are-on-the-rise-s-38ed0b",
+      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
+      "excerpt": "EU police agency says shift could point to involvement of new criminal networks focused on specific artefacts Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns,…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Jones",
+      "image": "https://i.guim.co.uk/img/media/4579528ccf5342cc3486b9ea7fb0f0230012a0d7/379_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c297771d551eb078a3af0f4ddcfbbe5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:31:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "guid": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "titleHi": "यूरोपोल का कहना है कि बंदूकें, कुल्हाड़ी, विस्फोटक: हिंसक संग्रहालय हिस्ट्स बढ़ रहे हैं",
+      "excerptHi": "यूरोपीय संघ की पुलिस एजेंसी का कहना है कि बदलाव यूरोपीय संग्रहालयों में विशिष्ट कलाकृतियों पर केंद्रित नए आपराधिक नेटवर्क की भागीदारी की ओर इशारा कर सकता है, चोरों के साथ कभी - कभी बंदूकें,...",
+      "archived": false
+    },
+    {
+      "id": "e24edbd604b3fea5dddba8c53a2dc3cba41d3d9e",
+      "slug": "brydon-carse-dropped-by-england-as-investigation-begins-into-e24edb",
+      "title": "Brydon Carse dropped by England as investigation begins into handcuffs incident",
+      "excerpt": "Bowler spoken to by police outside bar in Derby Carse replaced in squad for second Test by Sonny Baker Brydon Carse has been stood down from England’s squad for the second Test against Pakistan this week as the footage…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ali Martin",
+      "image": "https://i.guim.co.uk/img/media/2896f1dcb4e6c5f9f09de99202cacfd13b804322/547_113_4077_3261/master/4077.jpg?width=140&quality=85&auto=format&fit=max&s=57d8ae5ed7756b67341706c3c9e5a1e7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:31:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/brydon-carse-dropped-by-england-cricket-as-investigation-begins-into-handcuffs-incident",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/brydon-carse-dropped-by-england-cricket-as-investigation-begins-into-handcuffs-incident",
+      "titleHi": "हथकड़ी की घटना की जांच शुरू होते ही इंग्लैंड द्वारा ब्राइडन कार्स को हटा दिया गया",
+      "excerptHi": "सनी बेकर ब्राइडन कार्स द्वारा दूसरे टेस्ट के लिए टीम में बदले गए डर्बी कार्स में बार के बाहर पुलिस द्वारा बोले गए गेंदबाज को इस सप्ताह पाकिस्तान के खिलाफ दूसरे टेस्ट के लिए इंग्लैंड की टीम से हटा दिया गया है क्योंकि फुटेज...",
+      "archived": false
+    },
+    {
+      "id": "5bd733a857a72d7ebff52e9a7d7005ea6e10fe63",
+      "slug": "man-suspected-of-killing-five-people-in-oregon-found-dead-of-5bd733",
+      "title": "Man suspected of killing five people in Oregon found dead, officials say",
+      "excerpt": "Authorities suspect Benjamin Charles ​Parker, 36, died by suicide after he was found in vehicle in Washington state A man ⁠suspected of killing ⁠five ​people in rural Oregon was found dead in a suspected ⁠suicide, local…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/0a48b73b0e4b32747220064111c1a2e6d6f19f70/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=80231719688a28a73c17e5f7e7fa0f2c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:27:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "titleHi": "ओरेगन में पांच लोगों की हत्या के संदिग्ध व्यक्ति को मृत पाया गया, अधिकारियों का कहना है",
+      "excerptHi": "अधिकारियों को संदेह है कि 36 वर्षीय बेंजामिन चार्ल्स ​पार्कर ने वाशिंगटन राज्य में वाहन में पाए जाने के बाद आत्महत्या कर ली थी। ग्रामीण ओरेगन में पांच ​लोगों की हत्या के संदिग्ध व्यक्ति को एक संदिग्ध आत्महत्या में मृत पाया गया था, स्थानीय...",
+      "archived": false
+    },
     {
       "id": "e1d6d5b512bc461a0bb232e17f730003bda4d547",
       "slug": "does-elliott-have-a-liverpool-future-after-latest-omission-e1d6d5",
@@ -277,6 +575,50 @@
       "guid": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
       "titleHi": "GoFundMe अमेरिका की बैकअप योजना कैसे बन गई",
       "excerptHi": "आज डिकोडर पर, मैं GoFundMe के CEO टिम कैडोगन से बात कर रहा हूँ। आप GoFundMe को जानते हैं — यह एक प्रमुख धन उगाहने वाला प्लेटफ़ॉर्म है जहाँ आप चिकित्सा व्यय से लेकर छोटी लीग तक सब कुछ के साथ लोगों की मदद करने के लिए दान कर सकते हैं...",
+      "archived": false
+    },
+    {
+      "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
+      "slug": "israel-warns-of-forceful-response-to-kites-flown-from-gaza-c5704a",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:56:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
+      "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
+      "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
+      "archived": false
+    },
+    {
+      "id": "0444f4e556f611b5d4c828bab24e2ab55b402a88",
+      "slug": "football-daily-the-premier-league-soap-opera-is-back-and-spu-0444f4",
+      "title": "Football Daily | The Premier League soap opera is back – and Spurs are already hogging the narrative",
+      "excerpt": "Sign up now! Sign up now! Sign up now? Sign up now! While the opening round of Premier League fixtures hasn’t yet concluded, Football Daily can’t be alone in having jerked both knees to the point of dislocation based on…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Barry Glendenning",
+      "image": "https://i.guim.co.uk/img/media/dde44e6900c306ae496984cf4a227eb7b79eb0e6/530_0_4832_3864/master/4832.jpg?width=140&quality=85&auto=format&fit=max&s=80d91210bc341fd8993204382b4212c6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:55:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/24/premier-league-soap-opera-tottenham-hotspur-football-daily-newsletter",
+      "guid": "https://www.theguardian.com/football/2026/aug/24/premier-league-soap-opera-tottenham-hotspur-football-daily-newsletter",
+      "titleHi": "फुटबॉल डेली | प्रीमियर लीग साबुन ओपेरा वापस आ गया है – और स्पर्स पहले से ही कथा को टटोल रहे हैं",
+      "excerptHi": "अभी साइन अप करें! अभी साइन अप करें! अभी साइन अप करें? अभी साइन अप करें! जबकि प्रीमियर लीग जुड़नार के शुरुआती दौर का अभी तक समापन नहीं हुआ है, फुटबॉल डेली अकेले नहीं हो सकता है जिसने दोनों घुटनों को अव्यवस्था के बिंदु पर झटका दिया है...",
       "archived": false
     },
     {
@@ -933,7 +1275,7 @@
       "guid": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
       "titleHi": "‘केमिकल वैली‘ में कैसे पली - बढ़ी वकील ने उस उद्योग पर मुकदमा करने के लिए प्रेरित किया जिसके लिए वह काम करती थी",
       "excerptHi": "Hélène Duguy फ्रांस के क्षेत्र में Pfas प्रदूषण को रोकने में विफल रहने के आरोप में कंपनियों का सामना कर रही है, जिसे वह घर कहती है। कारखाने एक ज्ञात क्षेत्र के दिल में बड़े होने वाले Hélène Duguy के लिए परिदृश्य का हिस्सा थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -956,7 +1298,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a759ca1117c643497bf3909a109f649d54018c31",
@@ -976,7 +1318,7 @@
       "guid": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
       "titleHi": "पश्चिमी अमेरिकी शहर रेनो के पास हॉक के जंगलों में लगी आग के कारण दसियों हज़ार लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
       "excerptHi": "स्थानीय मीडिया के अनुसार, किसी की मौत की सूचना नहीं है, लेकिन कम से कम छह लोग घायल हुए हैं, जिनमें तीन पहले उत्तरदाता शामिल हैं, जिसमें कई पहाड़ी मकान नष्ट हो गए हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "40ae77a036caa335b6e405b519d6e6890ee06511",
@@ -996,7 +1338,7 @@
       "guid": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
       "titleHi": "डी - गूगल ग्राफीनओएस अगले साल मोटोरोला के फोल्डबल्स पर आ रहा है",
       "excerptHi": "Razr Ultra लाइन उन लोगों में शामिल है जिन्हें अगले साल GrapheneOS सपोर्ट मिलने वाला है। | फ़ोटो: सुरक्षा और निजता को प्राथमिकता देने वाले एंड्रॉइड के एक ओपन सोर्स संस्करण, एलिसन जॉनसन / द वर्ज ग्राफीनओएस ने अपने …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "098099d01c24a66c41c047b6079df8bf058c73da",
@@ -1016,7 +1358,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
       "titleHi": "ध्यान भटकाने वाले इतालवी पैदल यात्री जो फ़ोन पर रहते हुए सड़क पार करते हैं, उन पर नए कोड के तहत जुर्माना लगाया जा सकता है",
       "excerptHi": "अपडेट किया गया ड्राफ़्ट राजमार्ग कोड लापरवाह पैदल चलने वालों को सड़क दुर्घटनाओं के लिए दोष देने वाले कई अदालती फैसलों का पालन करता है इटली का अपडेट किया गया राजमार्ग कोड उन पैदल चलने वालों को लक्षित करेगा जो पार करते समय अपने मोबाइल फोन पर घूरते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f01f40a5494bc59d5316d7d526871c8192be0ec5",
@@ -1038,7 +1380,7 @@
       "guid": "9ea4692b-a1e2-43af-be6b-15c8c9502252",
       "titleHi": "स्टैंडर्ड चार्टर्ड हांगकांग डॉलर स्टेबलकॉइन वितरित करने वाला पहला बैंक बन गया",
       "excerptHi": "$ 850 बिलियन की संपत्ति के साथ लंदन स्थित बहुराष्ट्रीय बैंक ने घोषणा की कि वह पात्र ग्राहकों और भागीदारों को एंकरपॉइंट का एचकेडीएपी वितरित करेगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
@@ -1060,7 +1402,7 @@
       "guid": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
       "titleHi": "ईरान का रियाल रिकॉर्ड निचले स्तर पर गिर गया क्योंकि स्कॉट बेसेंट ने ‘आर्थिक डी - डे‘ के बारे में चेतावनी दी – business live",
       "excerptHi": "अमेरिकी ट्रेजरी सचिव दोपहर 1 बजे ईडीटी (लंदन के समय के अनुसार शाम 6 बजे) एक प्रेस कॉन्फ्रेंस में तेहरान के खिलाफ प्रतिबंधों की घोषणा करेंगे यूके (और नए पीएम एंडी बर्नहम और उनकी टीम) के लिए कुछ अच्छी खबरें: यूके में उत्पादकता – का एक महत्वपूर्ण उपाय...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "241c80a975fbc0989c70d32fc31a8ff45e5e0e1b",
@@ -1080,7 +1422,7 @@
       "guid": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
       "titleHi": "जापान का एसबीआई $ 1B मूल्यांकन के साथ $ 68M फ़ैसेट राउंड में सबसे आगे है",
       "excerptHi": "फेसेट ने एसबीआई समूह के नेतृत्व में श्रृंखला सी में $ 68 मिलियन जुटाए क्योंकि कंपनियां मलेशिया में एक डिजिटल बैंक की योजना बना रही हैं और स्टेबलकॉइन भुगतान का विस्तार कर रही हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "97d306bab1fa9b73de2a48acaed23c8d89ef2d18",
@@ -1100,7 +1442,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo#0",
       "titleHi": "रेनो, नेवादा के पास जंगल की आग पहुंचते ही लगभग 90,000 लोगों को बाहर निकलने के लिए कहा गया",
       "excerptHi": "अधिकारियों का कहना है कि आग ने लगभग 10,500 एकड़ जमीन को जला दिया है और यह पूरी तरह से अपरिवर्तित है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ebbd2894abf62abe24b225400da7d16162a18f3e",
@@ -1120,7 +1462,7 @@
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no#1",
       "titleHi": "बॉक्स ने फीनबर्ग - मंगोमेज़ुलु को ऑल ब्लैक के रीमैच के लिए बेंच पर गिरा दिया",
       "excerptHi": "साचा फेनबर्ग - मंगोमेज़ुलु न्यूजीलैंड के खिलाफ दक्षिण अफ्रीका की श्रृंखला के पहले मैच में उदासीन प्रदर्शन के लिए भुगतान करते हैं, क्योंकि फ्लाई - हाफ स्प्रिंगबॉक बेंच पर गिरता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "73eff9a4bf7588421805678dc711a6d2f08f20e6",
@@ -1140,7 +1482,7 @@
       "guid": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week",
       "titleHi": "2025 के बाद से पहली बीयर - मार्केट ट्रेंड लाइन रिक्लेम: इस हफ़्ते बिटकॉइन में जानने लायक पांच बातें",
       "excerptHi": "बिटकॉइन ने 2025 के अंत के बाद पहली बार अपने 50 - सप्ताह के ईएमए से ऊपर एक साप्ताहिक मोमबत्ती बंद कर दी क्योंकि बाजार जैक्सन होल संगोष्ठी के लिए तैयार थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "aea1bc1f8b34fcb6e25fb03704055e061c7c823d",
@@ -1160,7 +1502,7 @@
       "guid": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny",
       "titleHi": "ईसीबी डिजिटल यूरो गोपनीयता का बचाव करता है क्योंकि सीबीडीसी वैश्विक जांच का सामना कर रहे हैं",
       "excerptHi": "पिएरो सिपोलोन ने कहा कि यूरोसिस्टम डिजिटल यूरो उपयोगकर्ताओं की पहचान नहीं करेगा क्योंकि केंद्रीय बैंक डिजिटल मुद्राओं को दुनिया भर में गोपनीयता चिंताओं का सामना करना पड़ता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "217c0a0c9f6bd9c44d6ac7443ca58c939ae93d0b",
@@ -1182,7 +1524,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo#0",
       "titleHi": "सुधार का कहना है कि यह सामाजिक आवास के लिए ब्रिटिश मूल के श्रमिकों को प्राथमिकता देगा",
       "excerptHi": "लेबर ने इस योजना को \"बेवजह और बेकार\" बताया और सुधार पर \"नौटंकी और विभाजन\" करने का आरोप लगाया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0f683bd1ec036d0ea9b092f9e8ecf2728c82bc3b",
@@ -1202,7 +1544,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings",
       "titleHi": "एमोरिम का मिलान किशोर स्टार सिसे अपस्टेज सिग्नेचर्स के रूप में बिलिंग कर रहा है | निकी बैंडिनी",
       "excerptHi": "रोसोनेरी ने टोरिनो में आकर्षक पहली चुनौती को पार किया क्योंकि सेरी ए की टीमों ने देसी प्रतिभा को एक मौका दिया \"मुझे सिसे से प्यार है। मुझे Cissè पसंद है।” रूबेन अमोरिम ने अभी तक मिलान के रूप में अपने पहले प्रतिस्पर्धी खेल का प्रभार नहीं लिया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4805534dc84efe7a32a58fef7a0ca8b24d87d062",
@@ -1222,7 +1564,7 @@
       "guid": "ea64df42-91ed-4502-a6c3-3548bdc8119e",
       "titleHi": "पाकिस्तान ने 5 सितंबर की पंजीकरण समय सीमा के साथ क्रिप्टो लाइसेंसिंग व्यवस्था शुरू की",
       "excerptHi": "पीवीएआरए ने कहा कि कंपनियों के पास अनापत्ति प्रमाण पत्र के लिए अपना आवेदन जमा करने या अन्यथा संचालन बंद करने की समय सीमा तक का समय है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "01f965df2839aa1d9e01ceb11f69eefe87cfc119",
@@ -1244,7 +1586,7 @@
       "guid": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
       "titleHi": "बर्नहम रूस के खिलाफ यूक्रेन के युद्ध की तुलना नाजी जर्मनी के खिलाफ ब्रिटेन की लड़ाई से करता है क्योंकि वह यात्रा शुरू करता है – यूरोप लाइव",
       "excerptHi": "ब्रिटेन के प्रधानमंत्री कीव में लंबी दूरी की मिसाइलों के लिए ब्लूप्रिंट साझा करने की योजना के साथ, जैसा कि क्रेमलिन ने चेतावनी दी है कि यह कदम ब्रिटिश - रूसी संबंधों में ’आग में ईंधन जोड़ देगा' यहां एएफपी के माध्यम से क्रेमलिन के पेस्कोव का पूरा उद्धरण दिया गया है: \"ब्रिटेन है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "515cc1be6f0f6257ca1e49ca71698fe6905741fa",

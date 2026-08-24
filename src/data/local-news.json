@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:40:34.989Z",
+  "generatedAt": "2026-08-24T15:38:16.940Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -22,7 +22,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bacac0f0ac715833b03eb883d5c2076fc23c5fe9",
@@ -213,6 +213,92 @@
   ],
   "usa": [
     {
+      "id": "7912af99b82b9b83a390cee57e1c9df1436ef6e1",
+      "slug": "trump-threatens-to-double-tariffs-on-canadian-vehicles-to-50-7912af",
+      "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
+      "excerpt": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:04:14.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "guid": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "titleHi": "ट्रम्प ने व्यापार वार्ता के पतन के बाद कनाडाई वाहनों पर शुल्क को 50% तक दोगुना करने की धमकी दी",
+      "excerptHi": "\"कनाडा वर्षों से संयुक्त राज्य अमेरिका को तोड़ रहा है ,\" राष्ट्रपति ने अपने ट्रुथ सोशल अकाउंट पर एक पोस्ट में लिखा।",
+      "archived": false
+    },
+    {
+      "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
+      "slug": "australia-has-just-12000-sea-lions-left-and-carnage-may-awai-cfc6bd",
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "excerpt": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email, free app or daily news podcast Scientists have warned deadly H5 bird…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Lisa Cox Environment and climate correspondent",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "titleHi": "ऑस्ट्रेलिया में केवल 12,000 समुद्री शेर बचे हैं – और बर्ड फ्लू होने पर ‘नरसंहार’ उनका इंतजार कर सकता है, वैज्ञानिकों ने चेतावनी दी है",
+      "excerptHi": "वायरस ने पहले ही दक्षिण अमेरिका और उप - अंटार्कटिका में पिनिपेड्स में भयावह नुकसान पहुंचाया है, विशेष रूप से कुत्तों के बीच हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें वैज्ञानिकों ने घातक H5 पक्षी को चेतावनी दी है...",
+      "archived": false
+    },
+    {
+      "id": "58e574c6419d58fc6159e65f1502fbef2ebee4e7",
+      "slug": "big-food-is-winning-the-war-for-americas-diet-58e574",
+      "title": "Big Food Is Winning the War for America’s Diet",
+      "excerpt": "The federal government was supposed to release a definition of ultraprocessed foods. What happened?",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Lindsey Smith Taillie",
+      "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24taillie-chbk/24taillie-chbk-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:00:03.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/ultraprocessed-food-industry-maha.html",
+      "guid": "https://www.nytimes.com/2026/08/24/opinion/ultraprocessed-food-industry-maha.html",
+      "titleHi": "बिग फूड अमेरिका के आहार के लिए युद्ध जीत रहा है",
+      "excerptHi": "संघीय सरकार को अल्ट्राप्रोसेस्ड खाद्य पदार्थों की एक परिभाषा जारी करनी थी। क्या हुआ?",
+      "archived": false
+    },
+    {
+      "id": "5bd733a857a72d7ebff52e9a7d7005ea6e10fe63",
+      "slug": "man-suspected-of-killing-five-people-in-oregon-found-dead-of-5bd733",
+      "title": "Man suspected of killing five people in Oregon found dead, officials say",
+      "excerpt": "Authorities suspect Benjamin Charles ​Parker, 36, died by suicide after he was found in vehicle in Washington state A man ⁠suspected of killing ⁠five ​people in rural Oregon was found dead in a suspected ⁠suicide, local…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/0a48b73b0e4b32747220064111c1a2e6d6f19f70/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=80231719688a28a73c17e5f7e7fa0f2c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:27:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "titleHi": "ओरेगन में पांच लोगों की हत्या के संदिग्ध व्यक्ति को मृत पाया गया, अधिकारियों का कहना है",
+      "excerptHi": "अधिकारियों को संदेह है कि 36 वर्षीय बेंजामिन चार्ल्स ​पार्कर ने वाशिंगटन राज्य में वाहन में पाए जाने के बाद आत्महत्या कर ली थी। ग्रामीण ओरेगन में पांच ​लोगों की हत्या के संदिग्ध व्यक्ति को एक संदिग्ध आत्महत्या में मृत पाया गया था, स्थानीय...",
+      "archived": false
+    },
+    {
       "id": "38d4eac191b2ddf7fe0a4f1286a3cd82f8c2d31b",
       "slug": "how-gofundme-became-americas-backup-plan-38d4ea",
       "title": "How GoFundMe became America’s backup plan",
@@ -341,97 +427,101 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": true
+    }
+  ],
+  "europe": [
+    {
+      "id": "2b2eabcd9602e84668208eb4142173bc4f32e002",
+      "slug": "is-uks-storm-shadow-missile-a-game-changer-for-ukraine-2b2eab",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "excerpt": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a6/live/e622d720-9fc6-11f1-b3e7-331c6d9a8046.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:14:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cx2znjly4dno#3",
+      "titleHi": "क्या यूके की स्टॉर्म शैडो मिसाइल यूक्रेन के लिए एक गेम चेंजर है?",
+      "excerptHi": "संवाददाता जो इनवुड ने हथियारों की तकनीक को तोड़ दिया जो रूस - यूक्रेन युद्ध में बदलाव ला सकता है।",
       "archived": false
     },
     {
-      "id": "a759ca1117c643497bf3909a109f649d54018c31",
-      "slug": "tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-u-a759ca",
-      "title": "Tens of thousands evacuated as Hawk wildfire nears western US city of Reno",
-      "excerpt": "No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.",
+      "id": "55aaa364c06748ebfa69bd953a6b8ef3f882cb9b",
+      "slug": "greta-thunberg-joins-10000-climate-marchers-in-stockholm-55aaa3",
+      "title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
+      "excerpt": "Around 10,000 people marched through Stockholm on Sunday demanding stronger climate action, a month before Sweden's general election.",
       "category": "Europe",
-      "secondaryCategories": [],
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T15:04:21.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+      "guid": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+      "titleHi": "ग्रेटा थनबर्ग स्टॉकहोम में 10,000 जलवायु मार्चर्स में शामिल",
+      "excerptHi": "स्वीडन के आम चुनाव से एक महीने पहले, रविवार को लगभग 10,000 लोगों ने मजबूत जलवायु कार्रवाई की मांग करते हुए स्टॉकहोम के माध्यम से मार्च किया।",
+      "archived": false
+    },
+    {
+      "id": "7912af99b82b9b83a390cee57e1c9df1436ef6e1",
+      "slug": "trump-threatens-to-double-tariffs-on-canadian-vehicles-to-50-7912af",
+      "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
+      "excerpt": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
       "source": "Euronews",
       "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T11:38:42.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
-      "guid": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
-      "titleHi": "पश्चिमी अमेरिकी शहर रेनो के पास हॉक के जंगलों में लगी आग के कारण दसियों हज़ार लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
-      "excerptHi": "स्थानीय मीडिया के अनुसार, किसी की मौत की सूचना नहीं है, लेकिन कम से कम छह लोग घायल हुए हैं, जिनमें तीन पहले उत्तरदाता शामिल हैं, जिसमें कई पहाड़ी मकान नष्ट हो गए हैं।",
+      "publishedAt": "2026-08-24T15:04:14.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "guid": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "titleHi": "ट्रम्प ने व्यापार वार्ता के पतन के बाद कनाडाई वाहनों पर शुल्क को 50% तक दोगुना करने की धमकी दी",
+      "excerptHi": "\"कनाडा वर्षों से संयुक्त राज्य अमेरिका को तोड़ रहा है ,\" राष्ट्रपति ने अपने ट्रुथ सोशल अकाउंट पर एक पोस्ट में लिखा।",
       "archived": false
     },
     {
-      "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
-      "slug": "irans-rial-falls-to-record-low-as-scott-bessent-warns-of-eco-347811",
-      "title": "Iran’s rial falls to record low as Scott Bessent warns of ‘economic D-day’ – business live",
-      "excerpt": "US Treasury secretary to announce sanctions against Tehran at a press conference at 1pm EDT (6pm London time) Some good news for the UK (and new PM Andy Burnham and his team): Productivity in the UK – a vital measure of…",
-      "category": "Business",
+      "id": "38ed0beab404ca5f84ddffe751b44ffb6b9b0a22",
+      "slug": "guns-axes-explosives-violent-museum-heists-are-on-the-rise-s-38ed0b",
+      "title": "Guns, axes, explosives: violent museum heists are on the rise, says Europol",
+      "excerpt": "EU police agency says shift could point to involvement of new criminal networks focused on specific artefacts Robberies at European museums are becoming increasingly violent, with thieves sometimes brandishing guns,…",
+      "category": "Europe",
       "secondaryCategories": [
-        "Europe"
+        "Culture",
+        "Politics"
       ],
       "source": "The Guardian",
-      "author": "Julia Kollewe",
-      "image": "https://i.guim.co.uk/img/media/035e6f605d1921a0f29e513c4d8b426c1fe0108a/424_0_4249_3398/master/4249.jpg?width=140&quality=85&auto=format&fit=max&s=c091085fd9bae61e94abe1aa89d68c78",
+      "author": "Sam Jones",
+      "image": "https://i.guim.co.uk/img/media/4579528ccf5342cc3486b9ea7fb0f0230012a0d7/379_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c297771d551eb078a3af0f4ddcfbbe5",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T11:29:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
-      "guid": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
-      "titleHi": "ईरान का रियाल रिकॉर्ड निचले स्तर पर गिर गया क्योंकि स्कॉट बेसेंट ने ‘आर्थिक डी - डे‘ के बारे में चेतावनी दी – business live",
-      "excerptHi": "अमेरिकी ट्रेजरी सचिव दोपहर 1 बजे ईडीटी (लंदन के समय के अनुसार शाम 6 बजे) एक प्रेस कॉन्फ्रेंस में तेहरान के खिलाफ प्रतिबंधों की घोषणा करेंगे यूके (और नए पीएम एंडी बर्नहम और उनकी टीम) के लिए कुछ अच्छी खबरें: यूके में उत्पादकता – का एक महत्वपूर्ण उपाय...",
+      "publishedAt": "2026-08-24T14:31:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "guid": "https://www.theguardian.com/culture/2026/aug/24/violent-museum-robberies-europol-report",
+      "titleHi": "यूरोपोल का कहना है कि बंदूकें, कुल्हाड़ी, विस्फोटक: हिंसक संग्रहालय हिस्ट्स बढ़ रहे हैं",
+      "excerptHi": "यूरोपीय संघ की पुलिस एजेंसी का कहना है कि बदलाव यूरोपीय संग्रहालयों में विशिष्ट कलाकृतियों पर केंद्रित नए आपराधिक नेटवर्क की भागीदारी की ओर इशारा कर सकता है, चोरों के साथ कभी - कभी बंदूकें,...",
       "archived": false
     },
-    {
-      "id": "e8fb108155e2130aeb164ff2831dda52eb679123",
-      "slug": "hakeem-jeffries-meeting-with-jared-kushner-sparks-backlash-a-e8fb10",
-      "title": "Hakeem Jeffries meeting with Jared Kushner sparks backlash amongst Democrats ahead of midterm elections – US politics live",
-      "excerpt": "House Democratic leader meets with president’s son-in-law has ignited fury amongst own party Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting Democrats and other Donald Trump critics reacted…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Tom Ambrose",
-      "image": "https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cebe99a2ebb823c2145ce8f376d8c177",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:07:37.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "guid": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "titleHi": "मध्यावधि चुनाव से पहले डेमोक्रेट्स के बीच हकीम जेफ्री की जेरेड कुशनर से मुलाकात – अमेरिकी राजनीति LIVE",
-      "excerptHi": "राष्ट्रपति के दामाद के साथ हाउस डेमोक्रेटिक नेता की मुलाकात ने हकीम जेफ्रीज और जेरेड कुशनर की डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों से मुलाकात पर अविश्वसनीय रूप से अपनी पार्टी के डेमोक्रेट्स के बीच रोष पैदा कर दिया है...",
-      "archived": true
-    },
-    {
-      "id": "7448524138f45e6964e71f1b2cf802de973b0eba",
-      "slug": "top-us-firms-that-backed-voting-rights-act-donate-to-groups-744852",
-      "title": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
-      "excerpt": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and others Over a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Lauren Aratani",
-      "image": "https://i.guim.co.uk/img/media/3b329349ad146e6a0aa9cbb6ee69cecde7fef254/488_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=206535afe9a37e4db5ff2eb7c8293776",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:00:31.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
-      "titleHi": "वोटिंग राइट्स एक्ट का समर्थन करने वाली शीर्ष अमेरिकी फर्में इसे कमजोर करने के लिए काम करने वाले समूहों को दान करती हैं",
-      "excerptHi": "अभिभावक के साथ साझा किए गए वॉचडॉग डेटा रिपब्लिकन अटॉर्नी जनरल एसोसिएशन और अन्य के लिए योगदान दिखाते हैं एक दर्जन से अधिक अमेरिकी कंपनियों ने 2021 के पत्र पर हस्ताक्षर किए, जिसमें कांग्रेस से वोटिंग राइट्स एक्ट को मजबूत करने का आग्रह किया गया था...",
-      "archived": true
-    }
-  ],
-  "europe": [
     {
       "id": "64faad014f8773a391bebd4fa95ab93fca3513bc",
       "slug": "survivors-of-violent-crime-criticise-moj-for-not-explaining-64faad",
@@ -560,93 +650,29 @@
       "titleHi": "£ 464m तक 'ब्रिटेन की 3,000 से ज़्यादा हाई स्ट्रीट शेल कंपनियों से होकर गुज़रा’",
       "excerptHi": "अनुसंधान से पता चलता है कि फर्मों को सौंदर्य और सुविधा के रूप में ब्रांडेड किया जाता है, लेकिन जाहिरा तौर पर मनी - लॉन्ड्रिंग और आतंकवादी वित्तपोषण क्षेत्रों में काम करते हैं £ 464m तक सौंदर्य के रूप में ब्रांडेड 3,000 से अधिक यूके शेल कंपनियों को \"स्थानांतरित\" किया गया है...",
       "archived": false
-    },
-    {
-      "id": "a759ca1117c643497bf3909a109f649d54018c31",
-      "slug": "tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-u-a759ca",
-      "title": "Tens of thousands evacuated as Hawk wildfire nears western US city of Reno",
-      "excerpt": "No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:38:42.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
-      "guid": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
-      "titleHi": "पश्चिमी अमेरिकी शहर रेनो के पास हॉक के जंगलों में लगी आग के कारण दसियों हज़ार लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
-      "excerptHi": "स्थानीय मीडिया के अनुसार, किसी की मौत की सूचना नहीं है, लेकिन कम से कम छह लोग घायल हुए हैं, जिनमें तीन पहले उत्तरदाता शामिल हैं, जिसमें कई पहाड़ी मकान नष्ट हो गए हैं।",
-      "archived": false
-    },
-    {
-      "id": "098099d01c24a66c41c047b6079df8bf058c73da",
-      "slug": "distracted-italian-pedestrians-who-cross-road-while-on-phone-098099",
-      "title": "Distracted Italian pedestrians who cross road while on phone could be fined under new code",
-      "excerpt": "Updated draft highway code follows several court rulings assigning blame for road accidents to careless pedestrians Italy’s updated highway code will target pedestrians who stare at their mobile phones while crossing…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Angela Giuffrida in Rome",
-      "image": "https://i.guim.co.uk/img/media/f7181ab704b060f006e06bedaf83b669b987fb3b/478_0_4172_3337/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=a78f13bf1291cbbec9b16467a4d188ae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:36:58.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
-      "titleHi": "ध्यान भटकाने वाले इतालवी पैदल यात्री जो फ़ोन पर रहते हुए सड़क पार करते हैं, उन पर नए कोड के तहत जुर्माना लगाया जा सकता है",
-      "excerptHi": "अपडेट किया गया ड्राफ़्ट राजमार्ग कोड लापरवाह पैदल चलने वालों को सड़क दुर्घटनाओं के लिए दोष देने वाले कई अदालती फैसलों का पालन करता है इटली का अपडेट किया गया राजमार्ग कोड उन पैदल चलने वालों को लक्षित करेगा जो पार करते समय अपने मोबाइल फोन पर घूरते हैं...",
-      "archived": false
-    },
-    {
-      "id": "01f965df2839aa1d9e01ceb11f69eefe87cfc119",
-      "slug": "burnham-compares-ukraines-war-against-russia-to-britains-fig-01f965",
-      "title": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
-      "excerpt": "UK PM in Kyiv with plans to share blueprints for long-range missiles, as Kremlin warns move would ‘add fuel to fire’ in British-Russian relations Here’s the full quote from Kremlin’s Peskov, via AFP: “Britain is…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Jakub Krupa (now) and Vivian Ho (earlier)",
-      "image": "https://i.guim.co.uk/img/media/35c2189af297157e67da3ec7f51f9d853dd8649b/481_0_3784_3028/master/3784.jpg?width=140&quality=85&auto=format&fit=max&s=f64f009c8f8db037a1c92e0321c7112b",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:17:30.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "guid": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "titleHi": "बर्नहम रूस के खिलाफ यूक्रेन के युद्ध की तुलना नाजी जर्मनी के खिलाफ ब्रिटेन की लड़ाई से करता है क्योंकि वह यात्रा शुरू करता है – यूरोप लाइव",
-      "excerptHi": "ब्रिटेन के प्रधानमंत्री कीव में लंबी दूरी की मिसाइलों के लिए ब्लूप्रिंट साझा करने की योजना के साथ, जैसा कि क्रेमलिन ने चेतावनी दी है कि यह कदम ब्रिटिश - रूसी संबंधों में ’आग में ईंधन जोड़ देगा' यहां एएफपी के माध्यम से क्रेमलिन के पेस्कोव का पूरा उद्धरण दिया गया है: \"ब्रिटेन है...",
-      "archived": false
-    },
-    {
-      "id": "fd914b5f9a99cb013da7e4cb631238f04a1a00ef",
-      "slug": "no-place-like-halkidiki-travellers-vote-of-confidence-as-tou-fd914b",
-      "title": "'No place like Halkidiki': Travellers' vote of confidence as tourist profile shifts",
-      "excerpt": "There is \"nowhere like Halkidiki\" say locals and more than a million foreign tourists each year, yet geopolitical shifts in the past five years have changed who visits the area – an on-the-ground report by Euronews.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:13:16.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts",
-      "guid": "http://www.euronews.com/2026/08/24/no-place-like-halkidiki-travellers-vote-of-confidence-as-tourist-profile-shifts",
-      "titleHi": "'हल्किदिकी जैसी कोई जगह नहीं ': टूरिस्ट प्रोफ़ाइल शिफ्ट होने पर यात्रियों का विश्वास मत",
-      "excerptHi": "स्थानीय लोगों और हर साल दस लाख से अधिक विदेशी पर्यटकों का कहना है कि \"हल्किडिकी की तरह कहीं नहीं\" है, फिर भी पिछले पांच वर्षों में भू - राजनीतिक बदलावों ने इस क्षेत्र का दौरा करने वाले लोगों को बदल दिया है – यूरोन्यूज़ की एक ऑन - द - ग्राउंड रिपोर्ट।",
-      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "e24edbd604b3fea5dddba8c53a2dc3cba41d3d9e",
+      "slug": "brydon-carse-dropped-by-england-as-investigation-begins-into-e24edb",
+      "title": "Brydon Carse dropped by England as investigation begins into handcuffs incident",
+      "excerpt": "Bowler spoken to by police outside bar in Derby Carse replaced in squad for second Test by Sonny Baker Brydon Carse has been stood down from England’s squad for the second Test against Pakistan this week as the footage…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ali Martin",
+      "image": "https://i.guim.co.uk/img/media/2896f1dcb4e6c5f9f09de99202cacfd13b804322/547_113_4077_3261/master/4077.jpg?width=140&quality=85&auto=format&fit=max&s=57d8ae5ed7756b67341706c3c9e5a1e7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:31:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/brydon-carse-dropped-by-england-cricket-as-investigation-begins-into-handcuffs-incident",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/brydon-carse-dropped-by-england-cricket-as-investigation-begins-into-handcuffs-incident",
+      "titleHi": "हथकड़ी की घटना की जांच शुरू होते ही इंग्लैंड द्वारा ब्राइडन कार्स को हटा दिया गया",
+      "excerptHi": "सनी बेकर ब्राइडन कार्स द्वारा दूसरे टेस्ट के लिए टीम में बदले गए डर्बी कार्स में बार के बाहर पुलिस द्वारा बोले गए गेंदबाज को इस सप्ताह पाकिस्तान के खिलाफ दूसरे टेस्ट के लिए इंग्लैंड की टीम से हटा दिया गया है क्योंकि फुटेज...",
+      "archived": false
+    },
     {
       "id": "aa18bfea81ea7ccff57ea1fc0dd61d4148ea4606",
       "slug": "england-drop-carse-after-nightclub-incident-aa18bf",
@@ -688,7 +714,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f01f40a5494bc59d5316d7d526871c8192be0ec5",
@@ -710,7 +736,7 @@
       "guid": "9ea4692b-a1e2-43af-be6b-15c8c9502252",
       "titleHi": "स्टैंडर्ड चार्टर्ड हांगकांग डॉलर स्टेबलकॉइन वितरित करने वाला पहला बैंक बन गया",
       "excerptHi": "$ 850 बिलियन की संपत्ति के साथ लंदन स्थित बहुराष्ट्रीय बैंक ने घोषणा की कि वह पात्र ग्राहकों और भागीदारों को एंकरपॉइंट का एचकेडीएपी वितरित करेगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "241c80a975fbc0989c70d32fc31a8ff45e5e0e1b",
@@ -730,7 +756,7 @@
       "guid": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation",
       "titleHi": "जापान का एसबीआई $ 1B मूल्यांकन के साथ $ 68M फ़ैसेट राउंड में सबसे आगे है",
       "excerptHi": "फेसेट ने एसबीआई समूह के नेतृत्व में श्रृंखला सी में $ 68 मिलियन जुटाए क्योंकि कंपनियां मलेशिया में एक डिजिटल बैंक की योजना बना रही हैं और स्टेबलकॉइन भुगतान का विस्तार कर रही हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4805534dc84efe7a32a58fef7a0ca8b24d87d062",
@@ -750,7 +776,7 @@
       "guid": "ea64df42-91ed-4502-a6c3-3548bdc8119e",
       "titleHi": "पाकिस्तान ने 5 सितंबर की पंजीकरण समय सीमा के साथ क्रिप्टो लाइसेंसिंग व्यवस्था शुरू की",
       "excerptHi": "पीवीएआरए ने कहा कि कंपनियों के पास अनापत्ति प्रमाण पत्र के लिए अपना आवेदन जमा करने या अन्यथा संचालन बंद करने की समय सीमा तक का समय है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
@@ -836,26 +862,6 @@
       "titleHi": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
       "excerptHi": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
       "archived": true
-    },
-    {
-      "id": "0ee52e43a5aa42b939424652c765f24fa3cfea16",
-      "slug": "crypto-holds-big-weekly-rally-as-warshs-jackson-hole-debut-c-0ee52e",
-      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
-      "excerpt": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "author": "Shaurya Malwa",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T04:41:28.000Z",
-      "sourceUrl": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
-      "guid": "1e9b87b3-3341-40ab-9c22-d1f01aa4b7aa",
-      "titleHi": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
-      "excerptHi": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
-      "archived": true
     }
   ],
   "africa": [
@@ -897,7 +903,7 @@
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no#1",
       "titleHi": "बॉक्स ने फीनबर्ग - मंगोमेज़ुलु को ऑल ब्लैक के रीमैच के लिए बेंच पर गिरा दिया",
       "excerptHi": "साचा फेनबर्ग - मंगोमेज़ुलु न्यूजीलैंड के खिलाफ दक्षिण अफ्रीका की श्रृंखला के पहले मैच में उदासीन प्रदर्शन के लिए भुगतान करते हैं, क्योंकि फ्लाई - हाफ स्प्रिंगबॉक बेंच पर गिरता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3a7e4db0591fb4b8d4f8c124d35f837213b2a3a3",
@@ -1064,6 +1070,28 @@
   ],
   "middleeast": [
     {
+      "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
+      "slug": "israel-warns-of-forceful-response-to-kites-flown-from-gaza-c5704a",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:56:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
+      "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
+      "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
+      "archived": false
+    },
+    {
       "id": "2a1dac4f9dd9adc73f756d53197fb75256e03624",
       "slug": "gaza-documentary-produced-by-the-guardian-to-receive-world-p-2a1dac",
       "title": "Gaza documentary produced by the Guardian to receive world premiere at Venice film festival",
@@ -1104,7 +1132,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
@@ -1126,7 +1154,7 @@
       "guid": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
       "titleHi": "ईरान का रियाल रिकॉर्ड निचले स्तर पर गिर गया क्योंकि स्कॉट बेसेंट ने ‘आर्थिक डी - डे‘ के बारे में चेतावनी दी – business live",
       "excerptHi": "अमेरिकी ट्रेजरी सचिव दोपहर 1 बजे ईडीटी (लंदन के समय के अनुसार शाम 6 बजे) एक प्रेस कॉन्फ्रेंस में तेहरान के खिलाफ प्रतिबंधों की घोषणा करेंगे यूके (और नए पीएम एंडी बर्नहम और उनकी टीम) के लिए कुछ अच्छी खबरें: यूके में उत्पादकता – का एक महत्वपूर्ण उपाय...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6655729cdf1212abd5ed2574698f54947f7f063b",
@@ -1257,26 +1285,6 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/marine-le-pen-presidential-election-france",
       "titleHi": "मरीन ले पेन का करियर पुनर्जीवित हो गया है – और वह पहले से भी बड़ा खतरा है | मुजतबा रहमान",
       "excerptHi": "अब अगले साल के राष्ट्रपति चुनाव से प्रतिबंधित नहीं है, ले पेन अपनी समझ से कहीं अधिक दुर्जेय शक्ति है, जॉर्डन बार्डेला फ्रांस एक युद्ध - ग्रस्त उत्तरजीवी से प्यार करता है। चार्ल्स डी गॉल, फ्रैंकोइस मिटर्रैंड और...",
-      "archived": true
-    },
-    {
-      "id": "1684eb66b6619f8ea05d9204d8687d16a55cb447",
-      "slug": "mark-ruffalo-fires-back-at-paramount-skydance-after-it-accus-1684eb",
-      "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
-      "excerpt": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
-      "category": "Culture",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Sian Cain",
-      "image": "https://i.guim.co.uk/img/media/cfe77c22cbc601e4f9a09c044f9e1182d2b29fb4/1306_148_2353_1883/master/2353.jpg?width=140&quality=85&auto=format&fit=max&s=ab7a45d6240fb2804161bb9e59745a23",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T02:49:23.000Z",
-      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
-      "guid": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
-      "titleHi": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
-      "excerptHi": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
       "archived": true
     }
   ],
@@ -1494,6 +1502,29 @@
   ],
   "oceania": [
     {
+      "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
+      "slug": "australia-has-just-12000-sea-lions-left-and-carnage-may-awai-cfc6bd",
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "excerpt": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email, free app or daily news podcast Scientists have warned deadly H5 bird…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Lisa Cox Environment and climate correspondent",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "titleHi": "ऑस्ट्रेलिया में केवल 12,000 समुद्री शेर बचे हैं – और बर्ड फ्लू होने पर ‘नरसंहार’ उनका इंतजार कर सकता है, वैज्ञानिकों ने चेतावनी दी है",
+      "excerptHi": "वायरस ने पहले ही दक्षिण अमेरिका और उप - अंटार्कटिका में पिनिपेड्स में भयावह नुकसान पहुंचाया है, विशेष रूप से कुत्तों के बीच हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें वैज्ञानिकों ने घातक H5 पक्षी को चेतावनी दी है...",
+      "archived": false
+    },
+    {
       "id": "f631750f09188cef292f0a493292da50afff5071",
       "slug": "new-zealand-to-introduce-bill-for-under-16s-social-media-ban-f63175",
       "title": "New Zealand to introduce bill for under-16s social media ban",
@@ -1531,7 +1562,7 @@
       "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cg7k90y8j9no#1",
       "titleHi": "बॉक्स ने फीनबर्ग - मंगोमेज़ुलु को ऑल ब्लैक के रीमैच के लिए बेंच पर गिरा दिया",
       "excerptHi": "साचा फेनबर्ग - मंगोमेज़ुलु न्यूजीलैंड के खिलाफ दक्षिण अफ्रीका की श्रृंखला के पहले मैच में उदासीन प्रदर्शन के लिए भुगतान करते हैं, क्योंकि फ्लाई - हाफ स्प्रिंगबॉक बेंच पर गिरता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bcb134c9c8c8d72ef6a28869858b7e0902289e15",
@@ -1684,32 +1715,52 @@
       "titleHi": "Banned Sydney Swans players not welcome at Brownlows as AFL delays inquiry until police probe concludes",
       "excerptHi": "AFL chief executive Andrew Dillon faces media for first time since players stood down, saying ‘the way we treat women says a lot about who we are’ The AFL will not invite five Sydney Swans players suspended by their…",
       "archived": true
-    },
-    {
-      "id": "f465ed32b23d84702724ceb6384393fd6e351c33",
-      "slug": "australia-news-live-afl-chief-says-actions-of-a-few-dont-def-f465ed",
-      "title": "Australia news live: AFL chief says ‘actions of a few’ don’t define the game; five arrested as police raid CFMEU headquarters",
-      "excerpt": "Follow today’s news live Get our breaking news email, free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, with a series of witnesses expected to give…",
-      "category": "World",
-      "secondaryCategories": [
-        "Crypto",
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Nick Visser",
-      "image": "https://i.guim.co.uk/img/media/08e6aa4073ebb5cfff4008da622e6867a403adc7/167_0_3698_2958/master/3698.jpg?width=140&quality=85&auto=format&fit=max&s=56f89f7d6eedd5ee1979732a6b7e8977",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T04:11:25.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: AFL प्रमुख का कहना है कि ‘कुछ लोगों की कार्रवाइयाँ’ खेल को परिभाषित नहीं करती हैं; पुलिस ने CFMEU मुख्यालय पर छापा मारते हुए पांच लोगों को गिरफ्तार किया",
-      "excerptHi": "आज की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एलन जोन्स परीक्षण अपने चौथे सप्ताह में प्रवेश करता है एलन जोन्स परीक्षण आज अपने चौथे सप्ताह में प्रवेश करता है, जिसमें गवाहों की एक श्रृंखला देने की उम्मीद है...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
+      "slug": "australia-has-just-12000-sea-lions-left-and-carnage-may-awai-cfc6bd",
+      "title": "Australia has just 12,000 sea lions left – and ‘carnage’ may await them as bird flu takes hold, scientists warn",
+      "excerpt": "Virus has already caused catastrophic losses in pinnipeds in South America and sub-Antarctica, particularly among pups Get our breaking news email, free app or daily news podcast Scientists have warned deadly H5 bird…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Lisa Cox Environment and climate correspondent",
+      "image": "https://i.guim.co.uk/img/media/66d42e616c5193c28373eb4a559da5b04fd53efd/893_1101_1621_1297/master/1621.jpg?width=140&quality=85&auto=format&fit=max&s=7292b73c9b9506e5ff6956748fbbdfc5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T15:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
+      "titleHi": "ऑस्ट्रेलिया में केवल 12,000 समुद्री शेर बचे हैं – और बर्ड फ्लू होने पर ‘नरसंहार’ उनका इंतजार कर सकता है, वैज्ञानिकों ने चेतावनी दी है",
+      "excerptHi": "वायरस ने पहले ही दक्षिण अमेरिका और उप - अंटार्कटिका में पिनिपेड्स में भयावह नुकसान पहुंचाया है, विशेष रूप से कुत्तों के बीच हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें वैज्ञानिकों ने घातक H5 पक्षी को चेतावनी दी है...",
+      "archived": false
+    },
+    {
+      "id": "5bd733a857a72d7ebff52e9a7d7005ea6e10fe63",
+      "slug": "man-suspected-of-killing-five-people-in-oregon-found-dead-of-5bd733",
+      "title": "Man suspected of killing five people in Oregon found dead, officials say",
+      "excerpt": "Authorities suspect Benjamin Charles ​Parker, 36, died by suicide after he was found in vehicle in Washington state A man ⁠suspected of killing ⁠five ​people in rural Oregon was found dead in a suspected ⁠suicide, local…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/0a48b73b0e4b32747220064111c1a2e6d6f19f70/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=80231719688a28a73c17e5f7e7fa0f2c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T14:27:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/murder-suspect-found-dead-oregon",
+      "titleHi": "ओरेगन में पांच लोगों की हत्या के संदिग्ध व्यक्ति को मृत पाया गया, अधिकारियों का कहना है",
+      "excerptHi": "अधिकारियों को संदेह है कि 36 वर्षीय बेंजामिन चार्ल्स ​पार्कर ने वाशिंगटन राज्य में वाहन में पाए जाने के बाद आत्महत्या कर ली थी। ग्रामीण ओरेगन में पांच ​लोगों की हत्या के संदिग्ध व्यक्ति को एक संदिग्ध आत्महत्या में मृत पाया गया था, स्थानीय...",
+      "archived": false
+    },
     {
       "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
       "slug": "video-shows-hundreds-held-captive-after-nigeria-mosque-kidna-2f3e08",
@@ -1799,6 +1850,28 @@
       "archived": false
     },
     {
+      "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
+      "slug": "israel-warns-of-forceful-response-to-kites-flown-from-gaza-c5704a",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "excerpt": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f647/live/434e2dd0-9fb5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:56:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo#0",
+      "titleHi": "इज़राइल ने गाजा से उड़ाई गई पतंगों पर 'जबरदस्त' प्रतिक्रिया की चेतावनी दी",
+      "excerptHi": "हमास का कहना है कि हाल के दिनों में इजरायली सीमा समुदायों में पाए गए पतंगों को गाजा में बच्चों द्वारा लॉन्च किया गया था।",
+      "archived": false
+    },
+    {
       "id": "16465c8ed8c8e44cd95505216ed0435cc65764e2",
       "slug": "indiana-mayor-calls-it-unacceptable-for-thousands-to-have-no-16465c",
       "title": "Indiana mayor calls it ‘unacceptable’ for thousands to have no power two weeks after storm",
@@ -1856,69 +1929,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
       "titleHi": "रेनो, नेवादा में जंगल में लगी आग में कम से कम छह लोग घायल हो गए, क्योंकि 42,000 लोगों को खाली करने के लिए मजबूर होना पड़ा",
       "excerptHi": "रेनो में तेजी से बढ़ रही, ‘मानव - जनित’ आग हजारों घरों और व्यवसायों को बिजली के बिना छोड़ देती है, अधिकारियों का कहना है कि नेवादा में हजारों लोगों को तेजी से बढ़ रहे, हवा से चलने वाले जंगल की आग बोर के रूप में खाली करने का आग्रह किया गया था...",
-      "archived": false
-    },
-    {
-      "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
-      "slug": "sonya-masseys-killer-sean-grayson-dies-in-us-prison-2ef879",
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T13:14:10.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
-      "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
-      "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
-      "archived": false
-    },
-    {
-      "id": "84d1827dc17e691ed90413f3f88cf5cb6a255e26",
-      "slug": "former-illinois-sheriffs-deputy-who-killed-sonya-massey-in-h-84d182",
-      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32",
-      "excerpt": "Sean Grayson, who was diagnosed with stage three colon cancer in 2023, was serving a 20-year sentence for second-degree murder The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Edward Helmore",
-      "image": "https://i.guim.co.uk/img/media/eb6969138d79b4af066ec6ef02bad7764a90adb2/698_0_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=b37a9cc73757bd29e5a12c672e61e150",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T12:44:24.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
-      "titleHi": "सोन्या मैसी को उसके घर में मारने वाले इलिनोइस शेरिफ के पूर्व डिप्टी का 32 साल की उम्र में निधन हो गया",
-      "excerptHi": "शॉन ग्रेसन, जिन्हें 2023 में तीसरे चरण के कोलन कैंसर का पता चला था, दूसरी डिग्री की हत्या के लिए 20 साल की सजा काट रहे थे। इलिनोइस के पूर्व शेरिफ के डिप्टी ने सोन्या मैसी को उसके घर में गोली मारने के लिए दोषी ठहराया...",
-      "archived": false
-    },
-    {
-      "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
-      "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
-      "title": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
-      "excerpt": "Key speech to be delivered this week at Jackson Hole said to focus on productivity and demographics in the US. Plus, how do you vaccinate 1,000 little penguins in the wild? Good morning. The new US Federal Reserve…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Martin Belam",
-      "image": "https://i.guim.co.uk/img/media/8a52e2628172d7b6407f8757a2519cd195ecc884/704_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=53ff281a77b26454b6555d1026844abf",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T12:28:35.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
-      "titleHi": "पहली बात: बॉन्ड बाजार की चिंताओं के बीच नई फेड चेयर केविन वॉश को शुरुआती परीक्षा का सामना करना पड़ रहा है",
-      "excerptHi": "जैक्सन होल में इस सप्ताह दिया जाने वाला मुख्य भाषण अमेरिका में उत्पादकता और जनसांख्यिकी पर ध्यान केंद्रित करने के लिए कहा गया। इसके अलावा, आप जंगली में 1,000 छोटे पेंगुइन का टीकाकरण कैसे करते हैं? सुप्रभात। नया अमेरिकी फेडरल रिजर्व...",
       "archived": false
     }
   ]
