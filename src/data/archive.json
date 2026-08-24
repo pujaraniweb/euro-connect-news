@@ -1,8 +1,434 @@
 {
-  "generatedAt": "2026-08-24T12:46:58.265Z",
+  "generatedAt": "2026-08-24T13:51:28.144Z",
   "retentionDays": 45,
-  "total": 2296,
+  "total": 2332,
   "items": [
+    {
+      "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
+      "slug": "netflix-reportedly-considers-opening-its-app-to-other-stream-356f23",
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "excerpt": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:47:14.000Z",
+      "sourceUrl": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "guid": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "titleHi": "नेटफ्लिक्स कथित तौर पर अपने ऐप को अन्य स्ट्रीमर्स के लिए खोलने पर विचार कर रहा है",
+      "excerptHi": "द न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, नेटफ्लिक्स के अधिकारियों ने अपने ऐप के भीतर थर्ड - पार्टी स्ट्रीमिंग सेवाओं को उपलब्ध कराने पर विचार किया है। हाल की चर्चा कथित तौर पर मयूर लाने के आसपास केंद्रित थी और...",
+      "archived": false
+    },
+    {
+      "id": "65cca3a7c1970214d9bae2381e10f8e9678f600b",
+      "slug": "demand-soars-for-free-school-uniform-says-charity-65cca3",
+      "title": "Demand soars for free school uniform, says charity",
+      "excerpt": "Doreen's repurposes old uniforms and gives them to families in Hull and East Yorkshire for free.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f2f/live/4eaaa1c0-9fad-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:46:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o#3",
+      "titleHi": "चैरिटी का कहना है कि मुफ्त स्कूल वर्दी की मांग बढ़ी है",
+      "excerptHi": "डोरेन पुरानी वर्दी पहनती हैं और उन्हें हल और ईस्ट यॉर्कशायर के परिवारों को मुफ्त में देती हैं।",
+      "archived": false
+    },
+    {
+      "id": "53b75ea36da92af340204d0ae7db0a3cc89f68e0",
+      "slug": "former-world-snooker-champion-dott-guilty-of-child-sex-abuse-53b75e",
+      "title": "Former world snooker champion Dott guilty of child sex abuse",
+      "excerpt": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3be/live/f7252560-9fc0-11f1-8648-8d7b77845e6d.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:46:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno#0",
+      "titleHi": "पूर्व विश्व स्नूकर चैंपियन डॉट बाल यौन शोषण के दोषी हैं",
+      "excerptHi": "पूर्व विश्व चैंपियन को एक लड़की और लड़के के प्रति अश्लील और कामुक व्यवहार का दोषी पाया गया था।",
+      "archived": false
+    },
+    {
+      "id": "dd25955deb65d05a72e247ea03cae993844ef727",
+      "slug": "bitget-ceo-isnt-buying-the-bitcoin-rally-shes-waiting-for-50-dd2595",
+      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
+      "excerpt": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Ciaran Lyons",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/gracy-chen.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:30:00.000Z",
+      "sourceUrl": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k",
+      "titleHi": "Bitget के सीईओ बिटकॉइन रैली नहीं खरीद रहे हैं — उन्हें $ 50,000 का इंतज़ार है",
+      "excerptHi": "बिटगेट की सीईओ ग्रेसी चेन को नहीं लगता कि मौजूदा बिटकॉइन रैली टिकाऊ है, और उनका लक्ष्य 2026 के अंत में या अगले साल की शुरुआत में $ 50,000 के निशान के आसपास अधिक बीटीसी खरीदना है।",
+      "archived": false
+    },
+    {
+      "id": "77f5073b2148e8648180553dc2cdb800e499c66b",
+      "slug": "twelve-people-arrested-over-a66-crash-that-killed-seven-incl-77f507",
+      "title": "Twelve people arrested over A66 crash that killed seven including two police officers",
+      "excerpt": "Nine men and three women aged between 19 and 61 arrested as part of investigation of events leading to deadly collision Twelve people have been arrested on suspicion of offences including being involved with organised…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Press Association",
+      "image": "https://i.guim.co.uk/img/media/704446d06ede8a2e2acc7449968d0897595800b6/80_0_3335_2669/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=8b53f080d90a1613d1b8f05cae390290",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:25:08.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
+      "titleHi": "A66 दुर्घटना में दो पुलिस अधिकारियों सहित सात लोगों की मौत के मामले में बारह लोग गिरफ्तार",
+      "excerptHi": "घातक टक्कर की घटनाओं की जांच के हिस्से के रूप में 19 से 61 वर्ष की आयु के नौ पुरुषों और तीन महिलाओं को गिरफ्तार किया गया है संगठित रूप से शामिल होने सहित अपराधों के संदेह में बारह लोगों को गिरफ्तार किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "61d193d026919df03d73d33132ca5666981e0e67",
+      "slug": "at-least-six-injured-in-reno-nevada-wildfire-as-42000-forced-61d193",
+      "title": "At least six injured in Reno, Nevada, wildfire as 42,000 forced to evacuate",
+      "excerpt": "Fast-moving, ‘human-caused’ fire in Reno leaves thousands of homes and businesses without power, officials say Tens of thousands of people in Nevada were urged to evacuate as a fast-moving, wind-driven wildfire bore…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=6228aa1da571303e22f95d53821155e9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:17:40.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "titleHi": "रेनो, नेवादा में जंगल में लगी आग में कम से कम छह लोग घायल हो गए, क्योंकि 42,000 लोगों को खाली करने के लिए मजबूर होना पड़ा",
+      "excerptHi": "रेनो में तेजी से बढ़ रही, ‘मानव - जनित’ आग हजारों घरों और व्यवसायों को बिजली के बिना छोड़ देती है, अधिकारियों का कहना है कि नेवादा में हजारों लोगों को तेजी से बढ़ रहे, हवा से चलने वाले जंगल की आग बोर के रूप में खाली करने का आग्रह किया गया था...",
+      "archived": false
+    },
+    {
+      "id": "2a1dac4f9dd9adc73f756d53197fb75256e03624",
+      "slug": "gaza-documentary-produced-by-the-guardian-to-receive-world-p-2a1dac",
+      "title": "Gaza documentary produced by the Guardian to receive world premiere at Venice film festival",
+      "excerpt": "Film directed by Yuval Abraham and Rachel Szor, the two Israeli co-directors of No Other Land, investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Andrew Pulver",
+      "image": "https://i.guim.co.uk/img/media/6ac5d4e75237bc8ed0b9f38c702f5ab461acfbcf/122_101_2552_2042/master/2552.jpg?width=140&quality=85&auto=format&fit=max&s=5d17e85239fbe748df8a0f04b87a24f6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:16:20.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+      "titleHi": "वेनिस फिल्म समारोह में विश्व प्रीमियर प्राप्त करने के लिए गार्जियन द्वारा निर्मित गाजा वृत्तचित्र",
+      "excerptHi": "नो अदर लैंड के दो इज़राइली सह - निर्देशक युवाल अब्राहम और राहेल स्ज़ोर द्वारा निर्देशित फिल्म, युद्ध के दौरान ‘इज़राइल द्वारा फिलिस्तीनी नागरिकों की गणना की गई सामूहिक हत्या’ की जांच करती है। इज़राइल के बारे में एक नई वृत्तचित्र...",
+      "archived": false
+    },
+    {
+      "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
+      "slug": "sonya-masseys-killer-sean-grayson-dies-in-us-prison-2ef879",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:14:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
+      "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
+      "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
+      "archived": false
+    },
+    {
+      "id": "1cdaafeab45f85eb00a9b1a0b8b23e3b5c7e500b",
+      "slug": "warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-s-1cdaaf",
+      "title": "Warehouse burns near St Petersburg as Ukraine targets Ozon sites",
+      "excerpt": "Firefighters tackled a blaze at a logistics centre next to an Ozon facility on the outskirts of St Petersburg, as Ukraine said it was expanding its drone campaign against Russian e-commerce warehouses.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:14:06.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+      "guid": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+      "titleHi": "सेंट पीटर्सबर्ग के पास वेयरहाउस जल रहा है क्योंकि यूक्रेन ओज़ोन स्थलों को निशाना बना रहा है",
+      "excerptHi": "अग्निशामकों ने सेंट पीटर्सबर्ग के बाहरी इलाके में एक ओजोन सुविधा के बगल में एक रसद केंद्र में आग से निपटा, क्योंकि यूक्रेन ने कहा कि वह रूसी ई - कॉमर्स गोदामों के खिलाफ अपने ड्रोन अभियान का विस्तार कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "400d3f4f9fbf99b839f1ce584b86e1658074330b",
+      "slug": "twitch-and-amazon-face-legal-action-over-using-livestreams-t-400d3f",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "excerpt": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:09:44.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo#0",
+      "titleHi": "एआई को प्रशिक्षित करने के लिए लाइवस्ट्रीम का उपयोग करने पर ट्विच और अमेज़ॅन को कानूनी कार्रवाई का सामना करना पड़ता है",
+      "excerptHi": "मुकदमे में आरोप लगाया गया है कि ट्विच ने बिना अनुमति या उचित मुआवजे के एआई को प्रशिक्षित करने के लिए स्ट्रीमर्स के वीडियो का इस्तेमाल किया।",
+      "archived": false
+    },
+    {
+      "id": "82ce08f81c6ca3805d1d2f7e22e588a426b58157",
+      "slug": "heggebo-ban-opens-can-of-worms-for-fa---morrison-82ce08",
+      "title": "Heggebo ban opens can of worms for FA - Morrison",
+      "excerpt": "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf8d/live/7a4635a0-9fb3-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:02:05.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo#3",
+      "titleHi": "हेगबो प्रतिबंध ने एफए - मॉरिसन के लिए कीड़े के कैन को खोल दिया",
+      "excerptHi": "वेस्ट ब्रोमविच एल्बियन के मुख्य कोच जेम्स मॉरिसन का कहना है कि एफए ने धोखाधड़ी के लिए ऑने हेगेबो के दो मैचों के प्रतिबंध पर \"कीड़े का कैन खोल दिया है\"।",
+      "archived": false
+    },
+    {
+      "id": "e89f88f50510ebf20238b4450bef06b574f123cf",
+      "slug": "french-police-accused-of-rising-use-of-violence-to-stop-chan-e89f88",
+      "title": "French police accused of rising use of violence to stop Channel crossings",
+      "excerpt": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boats People trying to cross the Channel to the UK have reported an increase in French police use of violence on…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Diane Taylor",
+      "image": "https://i.guim.co.uk/img/media/47a4e4557d95ab2d52d3c29b51e916678c939e86/2662_1191_3888_3111/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=f835079be5bfa3f4e94dbfe5ddec5ea9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:00:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "titleHi": "फ्रांसीसी पुलिस पर चैनल क्रॉसिंग को रोकने के लिए हिंसा के बढ़ते उपयोग का आरोप है",
+      "excerptHi": "गैर सरकारी संगठन ने छोटी नौकाओं में फ्रांसीसी समुद्र तटों से निकलने के प्रयासों पर यूके - वित्त पोषित कार्रवाई की ‘मानव लागत’ की आलोचना की चैनल को पार करने की कोशिश कर रहे लोगों ने …",
+      "archived": false
+    },
+    {
+      "id": "631084366537d90e0ae4f851169a39d2d0780f7c",
+      "slug": "tom-lees-bitmine-buys-81-million-of-eth-in-largest-weekly-ha-631084",
+      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "excerpt": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Krisztian Sandor",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:59:55.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "guid": "2f71ddb4-0dee-4bff-8600-00c526b39e98",
+      "titleHi": "टॉम ली की बिटमाइन ने जुलाई की शुरुआत से अब तक की सबसे बड़ी साप्ताहिक दौड़ में $ 81 मिलियन ईटीएच खरीदा है",
+      "excerptHi": "ट्रेजरी फर्म ने अपनी ETH खरीदारी को बढ़ाया क्योंकि टॉम ली ने कहा कि क्रिप्टो की 30% साप्ताहिक रैली आगे एक बड़े कदम का संकेत दे सकती है।",
+      "archived": false
+    },
+    {
+      "id": "f0191f269a398cae34efe5a8066ffcb25340d226",
+      "slug": "crash-involving-coach-carrying-german-students-injures-16-f0191f",
+      "title": "Crash involving coach carrying German students injures 16",
+      "excerpt": "Eight people, including the driver of a delivery van, are seriously hurt, police say.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a8/live/d0581b70-9fb8-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T12:57:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo#0",
+      "titleHi": "जर्मन छात्रों को ले जा रहे कोच की दुर्घटना में 16 घायल",
+      "excerptHi": "पुलिस का कहना है कि डिलीवरी वैन के ड्राइवर सहित आठ लोग गंभीर रूप से घायल हो गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "b96a026d07f8aeeaeaf3bd397b915a73a82b5231",
+      "slug": "women-photograph-announces-2026-grant-recipients-in-pictures-b96a02",
+      "title": "Women Photograph announces 2026 grant recipients – in pictures",
+      "excerpt": "Women Photograph, a non-profit launched in 2017 to amplify the voices of women and non-binary visual journalists, has announced three recipients of its 2026 grants. Grants of $10,000 have been awarded to Fatma Fahmy,…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Matt Fidler",
+      "image": "https://i.guim.co.uk/img/media/bc7699481a914cc58ed0abf3655158100ce30688/91_41_1355_1084/master/1355.jpg?width=140&quality=85&auto=format&fit=max&s=2b0753dba1fc50f9c6f091c85484d9f8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:55:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/artanddesign/gallery/2026/aug/24/women-photograph-leica-grantees-for-2026-in-pictures",
+      "guid": "https://www.theguardian.com/artanddesign/gallery/2026/aug/24/women-photograph-leica-grantees-for-2026-in-pictures",
+      "titleHi": "महिला फ़ोटोग्राफ़ ने 2026 अनुदान प्राप्तकर्ताओं की घोषणा की – तस्वीरों में",
+      "excerptHi": "महिलाओं और गैर - बाइनरी दृश्य पत्रकारों की आवाज़ को बढ़ाने के लिए 2017 में शुरू की गई एक गैर - लाभकारी संस्था, महिला फ़ोटोग्राफ़ ने अपने 2026 अनुदानों के तीन प्राप्तकर्ताओं की घोषणा की है। फातमा फैहमी को $ 10,000 का अनुदान दिया गया है,...",
+      "archived": false
+    },
+    {
+      "id": "9390e67038b34c0400ad0a7f80219da7872fe6be",
+      "slug": "new-solana-vote-could-ramp-daily-sol-burns-to-800000-and-slo-9390e6",
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "excerpt": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Shaurya Malwa",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a77266875bd5ba03807c057c4d6412491668d63-3622x2717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:52:30.000Z",
+      "sourceUrl": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "guid": "a04f75dd-f5a8-493c-ab74-be97f01812a3",
+      "titleHi": "नया सोलाना वोट हर रोज़ SOL बर्न को $ 800,000 तक बढ़ा सकता है और नए टोकन बनाने की प्रक्रिया को धीमा कर सकता है",
+      "excerptHi": "तीन प्रस्तावों में से दो सोलाना की मुद्रास्फीति में गिरावट को तेज करके और दैनिक शुल्क जलने को लगभग 650 सोल से बढ़ाकर 9,000 सोल तक कम कर देंगे।",
+      "archived": false
+    },
+    {
+      "id": "401715c78889509310db0f7ec8a050e3c45387e2",
+      "slug": "uk-missiles-offer-may-help-ukraine---but-they-are-not-what-z-401715",
+      "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+      "excerpt": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5db/live/1c356520-9fbe-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T12:51:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o#2",
+      "titleHi": "यूके मिसाइलों की पेशकश यूक्रेन की मदद कर सकती है - लेकिन वे ऐसी नहीं हैं जिनकी ज़ेलेंस्की को सबसे ज़्यादा ज़रूरत है",
+      "excerptHi": "ब्रिटेन के प्रधान मंत्री एंडी बर्नहम ब्लूप्रिंट सौंप रहे हैं ताकि कीव अपनी लंबी दूरी की मिसाइलों का निर्माण कर सके।",
+      "archived": false
+    },
+    {
+      "id": "48f1b041084fc72c1193c50a33142453441df2bd",
+      "slug": "post-your-questions-for-alex-winter-48f1b0",
+      "title": "Post your questions for Alex Winter",
+      "excerpt": "The 80s icon and star of The Lost Boys and Bill & Ted has also had a storied career behind the camera and on stage. Now, he’ll answer your (non-bogus) questions You probably still think of Alex Winter as Kiefer…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rich Pelley",
+      "image": "https://i.guim.co.uk/img/media/5c21b7356ea1e4e34bb7649d7284cb56a917e028/63_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=0aa9467ec6cebbccb9fbeda28ab6fc56",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:50:30.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/post-your-questions-for-alex-winter-the-lost-boys-and-bill-and-ted",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/post-your-questions-for-alex-winter-the-lost-boys-and-bill-and-ted",
+      "titleHi": "एलेक्स विंटर के लिए अपने प्रश्न पोस्ट करें",
+      "excerptHi": "द लॉस्ट बॉयज़ और बिल एंड टेड के 80 के दशक के आइकन और स्टार का भी कैमरे के पीछे और मंच पर एक मंजिला करियर रहा है। अब, वह आपके (गैर - फर्जी) सवालों के जवाब देगा आप शायद अभी भी कीफर के रूप में एलेक्स विंटर के बारे में सोचते हैं...",
+      "archived": false
+    },
+    {
+      "id": "6fad4d2dca80081d00678c7d7ed6015d5f3423ac",
+      "slug": "up-to-464m-moved-through-more-than-3000-uk-high-street-shell-6fad4d",
+      "title": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
+      "excerpt": "Research shows firms are branded as beauty and convenience but apparently operate in money-laundering and terrorist financing sectors Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Simon Goodley",
+      "image": "https://i.guim.co.uk/img/media/4379b5dd50ca5a2217045a8386aef6338c06f83f/477_0_4464_3574/master/4464.jpg?width=140&quality=85&auto=format&fit=max&s=353c92a39b1deb9f86b0235c4f0ab94a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:49:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+      "guid": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+      "titleHi": "£ 464m तक 'ब्रिटेन की 3,000 से ज़्यादा हाई स्ट्रीट शेल कंपनियों से होकर गुज़रा’",
+      "excerptHi": "अनुसंधान से पता चलता है कि फर्मों को सौंदर्य और सुविधा के रूप में ब्रांडेड किया जाता है, लेकिन जाहिरा तौर पर मनी - लॉन्ड्रिंग और आतंकवादी वित्तपोषण क्षेत्रों में काम करते हैं £ 464m तक सौंदर्य के रूप में ब्रांडेड 3,000 से अधिक यूके शेल कंपनियों को \"स्थानांतरित\" किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "6f4885dfbbc36a3881af794b0f33993cf8aef031",
+      "slug": "strategy-launches-16b-cash-pool-after-2b-common-shares-raise-6f4885",
+      "title": "Strategy launches $1.6B cash pool after $2B common shares raise, maintains hold on BTC buys",
+      "excerpt": "Strategy held off on new Bitcoin buying, maintaining holdings at 840,447 BTC as it launched a $1.59 billion cash pool after raising $2 billion from MSTR stock sales.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Helen Partz",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-michael-saylors-strategy-became-the-largest-bitcoin-holder-2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:45:00.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/strategy-2-billion-raise-strc-136-million-bitcoin-pause",
+      "titleHi": "$ 2B सामान्य शेयर जुटाने के बाद रणनीति ने $ 1.6B कैश पूल लॉन्च किया, बीटीसी खरीद पर पकड़ बनाए रखी",
+      "excerptHi": "बिटकॉइन की नई खरीदारी पर रोक लगा दी गई, 840,447 बीटीसी पर होल्डिंग्स को बनाए रखा गया क्योंकि इसने MSTR स्टॉक की बिक्री से $ 2 बिलियन जुटाने के बाद $ 1.59 बिलियन का कैश पूल लॉन्च किया।",
+      "archived": false
+    },
+    {
+      "id": "84d1827dc17e691ed90413f3f88cf5cb6a255e26",
+      "slug": "former-illinois-sheriffs-deputy-who-killed-sonya-massey-in-h-84d182",
+      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32",
+      "excerpt": "Sean Grayson, who was diagnosed with stage three colon cancer in 2023, was serving a 20-year sentence for second-degree murder The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/eb6969138d79b4af066ec6ef02bad7764a90adb2/698_0_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=b37a9cc73757bd29e5a12c672e61e150",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:44:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+      "titleHi": "सोन्या मैसी को उसके घर में मारने वाले इलिनोइस शेरिफ के पूर्व डिप्टी का 32 साल की उम्र में निधन हो गया",
+      "excerptHi": "शॉन ग्रेसन, जिन्हें 2023 में तीसरे चरण के कोलन कैंसर का पता चला था, दूसरी डिग्री की हत्या के लिए 20 साल की सजा काट रहे थे। इलिनोइस के पूर्व शेरिफ के डिप्टी ने सोन्या मैसी को उसके घर में गोली मारने के लिए दोषी ठहराया...",
+      "archived": false
+    },
     {
       "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
       "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
@@ -107,6 +533,26 @@
       "archived": false
     },
     {
+      "id": "f2ae672e8279a808174914763a59518fcd6024a7",
+      "slug": "a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-f2ae67",
+      "title": "‘A cognitive cacophony’: hands-on with the Call of Duty Modern Warfare 4 beta test",
+      "excerpt": "Players will get what they expect from the new CoD title: boots-on-the-ground military action with a slight tactical edge. But what’s with all the distractions? There’s a lot riding on this year’s Call of Duty, the…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Keith Stuart",
+      "image": "https://i.guim.co.uk/img/media/0d38351cfc66d0b13a87bc467644e763b9e69435/568_103_2550_2040/master/2550.png?width=140&quality=85&auto=format&fit=max&s=b7c7910e2938f60084fa3e3c6fbca58f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:15:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/a-cognitive-cacophony-hands-on-with-the-call-of-duty-modern-warfare-4-beta-test",
+      "titleHi": "‘ए कॉग्निटिव कैकोफोनी ': कॉल ऑफ़ ड्यूटी मॉडर्न वॉरफेयर 4 बीटा टेस्ट के साथ हैंड्स - ऑन",
+      "excerptHi": "खिलाड़ियों को नए सीओडी खिताब से वही मिलेगा जो वे उम्मीद करते हैं: थोड़ी सामरिक बढ़त के साथ बूट - ऑन - द - ग्राउंड सैन्य कार्रवाई। लेकिन इन सभी विकर्षणों के साथ क्या है? इस साल की कॉल ऑफ़ ड्यूटी पर बहुत कुछ है,...",
+      "archived": false
+    },
+    {
       "id": "b760eef4833ca5b9c87ecb9fe909dfaabef4be64",
       "slug": "clark-holds-off-mcilroy-for-bmw-championship-win-b760ee",
       "title": "Clark holds off McIlroy for BMW Championship win",
@@ -124,6 +570,28 @@
       "guid": "https://www.bbc.co.uk/sport/golf/videos/cz9zw5x4zl5o#2",
       "titleHi": "क्लार्क ने बीएमडब्ल्यू चैंपियनशिप जीत के लिए मैकइलरॉय को पीछे छोड़ा",
       "excerptHi": "मिसौरी में बीएमडब्ल्यू चैंपियनशिप के अंतिम दौर की हाइलाइट्स देखें क्योंकि रोरी मैकइलरॉय के साथ एक लड़ाई के बाद विंधम क्लार्क ने तीन शॉट्स से जीत हासिल की।",
+      "archived": false
+    },
+    {
+      "id": "93a6ec9f19809da86c8c7ad6f0614f597a7fa046",
+      "slug": "how-growing-up-in-chemical-valley-inspired-lawyer-to-sue-ind-93a6ec",
+      "title": "How growing up in ‘Chemical Valley’ inspired lawyer to sue industry she used to work for",
+      "excerpt": "Hélène Duguy is taking on companies accused of failing to stop Pfas pollution in the area of France she calls home The factories were just part of the landscape for Hélène Duguy growing up in the heart of an area known…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Pippa Neill",
+      "image": "https://i.guim.co.uk/img/media/d0b422d340c09ec96f319cba14f359583a1ae56c/439_529_3178_2544/master/3178.jpg?width=140&quality=85&auto=format&fit=max&s=5ff17aa6d399fb97e8d7d69a591eb9b4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:00:32.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
+      "guid": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
+      "titleHi": "‘केमिकल वैली‘ में कैसे पली - बढ़ी वकील ने उस उद्योग पर मुकदमा करने के लिए प्रेरित किया जिसके लिए वह काम करती थी",
+      "excerptHi": "Hélène Duguy फ्रांस के क्षेत्र में Pfas प्रदूषण को रोकने में विफल रहने के आरोप में कंपनियों का सामना कर रही है, जिसे वह घर कहती है। कारखाने एक ज्ञात क्षेत्र के दिल में बड़े होने वाले Hélène Duguy के लिए परिदृश्य का हिस्सा थे...",
       "archived": false
     },
     {
@@ -796,7 +1264,7 @@
       "guid": "64b5aa26-d853-4a4d-a537-0a1590cd91a8",
       "titleHi": "बिटकॉइन $ 78,000 के करीब स्थिर है क्योंकि सोने की रैलियां, ऑल्टकॉइन 3 वर्षों में सबसे अच्छे सप्ताह के बाद समेकित होते हैं",
       "excerptHi": "ट्रेजरी बायबैक की घोषणा के बाद पिछले सप्ताह के 24% के उछाल के बाद बीटीसी सोमवार को थोड़ा बदल गया था, जो शॉर्ट्स में $ 3 बिलियन से अधिक निचोड़ा गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "00e1280cd85f1170262d537afb24977bc1b5a159",
@@ -818,7 +1286,7 @@
       "guid": "https://cointelegraph.com/news/germany-mica-lead-licensing-update-6-banks",
       "titleHi": "जर्मनी ने MiCA की बढ़त बढ़ा दी है क्योंकि नवीनतम यूरोपीय संघ रजिस्टर अपडेट में 6 बैंक जोड़े गए हैं",
       "excerptHi": "जर्मनी ने फ्रांस और नीदरलैंड से आगे, 79 क्रिप्टो परिसंपत्ति सेवा प्रदाताओं के साथ यूरोपीय संघ के MiCA प्राधिकरणों में अपनी बढ़त का विस्तार किया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "529f520e70b16d80136229230c28513b17bfd64c",
@@ -840,7 +1308,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
       "titleHi": "यूक्रेनी हमलों में लक्षित रूस का दूसरा सबसे बड़ा ऑनलाइन खुदरा विक्रेता",
       "excerptHi": "ओज़ोन का कहना है कि दक्षिणी रूस में दागेस्तान और क्रास्नोडार सहित इसके गोदामों को रात भर के हमलों में मारा गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6655729cdf1212abd5ed2574698f54947f7f063b",
@@ -862,7 +1330,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
       "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
       "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cdeb4f595e9790150201e369988a9083e16a7f9e",
@@ -882,7 +1350,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
       "titleHi": "टेम्स वाटर लेनदारों पर नए बोर्ड की योजना के साथ 'डेकचेयर में फेरबदल' करने का आरोप है",
       "excerptHi": "अभियानकर्ताओं का कहना है कि राष्ट्रीयकरण से बचने के लिए £ 10 बिलियन के बचाव सौदे का प्रस्ताव एक ‘आरामदायक सिलाई - अप’ व्यवसाय लाइव है – नवीनतम अपडेट टेम्स वाटर के लिए बचाव बोली लगाने वाले लेनदारों के समूह पर आरोप लगाया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8f65c30a6d358701ffa2ea36395309558a99904d",
@@ -902,7 +1370,7 @@
       "guid": "https://www.bbc.co.uk/sport/golf/articles/cx2z9yl1gdno#0",
       "titleHi": "LIV ने जो हासिल किया है, उस पर DeChambeau को गर्व है",
       "excerptHi": "ब्रायसन डेचैम्बेउ का कहना है कि इंडियानापोलिस में सीज़न की अंतिम घटना के बाद अपने भविष्य के बारे में सवालों का सामना करने वाली ब्रेकअवे लीग के साथ लिव गोल्फ ने जो हासिल किया है, उस पर उन्हें \"गर्व\" है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c9a4d5a6f191697508f8c41ae579ccac031ce596",
@@ -922,7 +1390,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo#0",
       "titleHi": "रेस अक्रॉस द वर्ल्ड स्टार की मौत बेटे के एक साल बाद हुई",
       "excerptHi": "पूर्व टीवी प्रतियोगी, 61 वर्षीय जो गार्डिनर, एक दुर्घटना में अपने बेटे की मृत्यु के एक साल बाद कैंसर से मर जाती है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd3abd4dcc347b90a0c865ed2db5e1e1a9e27420",
@@ -942,7 +1410,7 @@
       "guid": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
       "titleHi": "गिनी-बिसाऊ में महामारी फैलने के साथ ही एमपीओएक्स के आधे मामले बच्चों के हैं।",
       "excerptHi": "पश्चिम अफ्रीकी देश ने जुलाई में प्रकोप में 46 संदिग्ध मामलों की घोषणा की, इस आशंका के बीच कि वायरस अनियंत्रित रूप से फैल सकता है गिनी - बिसाऊ में रिपोर्ट किए गए एमपीओएक्स मामलों में से आधे से अधिक बच्चों, स्थानीय…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bc7fc57fd3e72fa72db25d2d7f2c8face8ed55ac",
@@ -962,7 +1430,7 @@
       "guid": "https://www.bbc.co.uk/sport/golf/articles/cvgyxl34ex0o#1",
       "titleHi": "322 बिलियन में से एक - क्लब गोल्फर ने बर्डी बाधाओं की अवहेलना की",
       "excerptHi": "एमेच्योर गोल्फर एलन हैरिसन - टॉमी फ्लीटवुड के पूर्व फोरसोम पार्टनर - केवल नौ छेदों में आठ बर्डियों को कार्ड करने के लिए खगोलीय बाधाओं की अवहेलना करते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
@@ -984,7 +1452,7 @@
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
       "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d6cf97b993c5c36dd7b770fe4f1ea89c9270ddb9",
@@ -1006,7 +1474,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo#3",
       "titleHi": "'मौत से डर ': जंगल की आग फैलने पर नेवादा के घरों से हज़ारों लोगों को निकाला गया",
       "excerptHi": "रेनो के बाहरी इलाके में जंगल की आग फैलने पर अमेरिकी राज्य में हजारों लोगों को खाली करने की चेतावनी दी गई है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
@@ -1028,7 +1496,7 @@
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
       "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "af3ee1e00357c977baa17ce5735c8555a15b22fc",
@@ -1048,7 +1516,27 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/ice-officers-electric-shock-gloves",
       "titleHi": "ICE अधिकारियों को इलेक्ट्रिक - शॉक ग्लव्स की आपूर्ति करने के लिए $ 20 मिलियन से अधिक की योजना का अलार्म",
       "excerptHi": "नागरिक स्वतंत्रता समूह केंटकी के व्यक्ति की मौत से जुड़े दस्ताने का उपयोग करने की योजना को कथित रूप से काउंटी जेल में 27 बार चौंका दिया गया आव्रजन और सीमा शुल्क प्रवर्तन (आईसीई) अधिकारियों को विशेष दस्ताने की आपूर्ति करने की योजना है जो कर सकते हैं...",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "32c90a16ecc2eae24d47cc828bb92ede96ca137e",
+      "slug": "standard-velvet-hangers-theres-nothing-standard-about-some-o-32c90a",
+      "title": "‘Standard’ velvet hangers? There’s nothing standard about some of the items on John Lewis’s uni essentials list| Emma Beddington",
+      "excerpt": "It used to be that dorm rooms were chaotically messy. Does this new generation really need an £80 spice rack and velvet clothes hangers? Of all the questions this year’s freshers may be nervously asking themselves as…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Emma Beddington",
+      "image": "https://i.guim.co.uk/img/media/1b8964ec7cf6ed6dec9ad09797a2c8a762466847/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=2ba6c7961a7953531919427c20af3af0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T10:00:31.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/24/why-is-the-john-lewis-uni-essentials-list-so-strange",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/why-is-the-john-lewis-uni-essentials-list-so-strange",
+      "titleHi": "‘Standard’ velvet hangers? There’s nothing standard about some of the items on John Lewis’s uni essentials list| Emma Beddington",
+      "excerptHi": "It used to be that dorm rooms were chaotically messy. Does this new generation really need an £80 spice rack and velvet clothes hangers? Of all the questions this year’s freshers may be nervously asking themselves as…",
+      "archived": true
     },
     {
       "id": "94730a153c82e78ebe31086bc2f4ec282fd4643f",
@@ -1070,7 +1558,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
       "titleHi": "ट्रेजरी बॉन्ड गड़बड़: क्या यह एक सुरक्षित आश्रय के रूप में अमेरिका का निधन है?",
       "excerptHi": "अमेरिका अपनी कीमत बढ़ाने और प्रतिफल को कम करने के प्रयास में ट्रेजरी बॉन्ड को बढ़ा रहा है – लेकिन यह काम नहीं कर रहा है बॉन्ड बाजार ट्रम्प प्रशासन को पागल कर रहा है। पिछले हफ्ते, ट्रेजरी सेक्रेटरी, स्कॉट...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "33c57bf1d74f4c07a9db16e7ded6b1fa47987240",
@@ -1090,7 +1578,7 @@
       "guid": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
       "titleHi": "नवीनतम समाचार बुलेटिन | 24 अगस्त, 2026 – दोपहर",
       "excerptHi": "24 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9e40233c17c4f7f3d61542a8e83b5a75c958be37",
@@ -1110,7 +1598,7 @@
       "guid": "5d8a9e9f-1f8c-41b9-a31f-bfee556fc73b",
       "titleHi": "फेड प्रयोग दिखाता है कि कैसे बिटकॉइन रैलियां नए क्रिप्टो खरीदारों को आकर्षित करती हैं",
       "excerptHi": "बिटकॉइन के पूर्व - वर्ष के रिटर्न को दिखाए गए परिवारों को फॉलो - अप सर्वेक्षण में क्रिप्टो के मालिक होने की रिपोर्ट करने की संभावना 23% अधिक थी।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c15f24fceb271222e5b21dc2c95798259423ade1",
@@ -1133,7 +1621,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#2",
       "titleHi": "'मेरा आधा व्यवसाय खत्म हो जाएगा' - कनाडा और अमेरिका में फर्मों को व्यापार युद्ध का डर है",
       "excerptHi": "दोनों देशों के व्यापार मालिक अनिश्चितता और चिंता का सामना कर रहे हैं क्योंकि आयात करों में वृद्धि हुई है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c420e3fc3885f07a84e37b5a050ea59fdb88d15f",
@@ -1153,7 +1641,7 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html",
       "titleHi": "आज का खरपतवार किशोरों के लिए बहुत खतरनाक है",
       "excerptHi": "क्या हम भांग की सुरक्षा को विनियमित और लागू करने के लिए तैयार हैं, विशेष रूप से हमारे बीच सबसे कमजोर लोगों की रक्षा के लिए?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bcb134c9c8c8d72ef6a28869858b7e0902289e15",
@@ -1175,7 +1663,7 @@
       "guid": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
       "titleHi": "न्यूजीलैंड की सरकार ने अंडर -16 के लिए सोशल मीडिया पर प्रतिबंध लगाने के लिए कानून पेश किया",
       "excerptHi": "प्रस्तावित कानून के तहत, यदि मेटा जैसी फर्में अनुपालन करने में विफल रहती हैं, तो उन पर उनके वैश्विक राजस्व का 10% तक जुर्माना लगाया जा सकता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ddb58195fe2e005036a5cd56d1cd33bd81a58bd6",
@@ -1195,7 +1683,7 @@
       "guid": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
       "titleHi": "ह्यूमनॉइड रोबोट्स ने उसैन बोल्ट के 100 मीटर के रिकॉर्ड को तोड़ा",
       "excerptHi": "तियांगोंग अल्ट्रा (बाएं) ने इस साल के वर्ल्ड ह्यूमनॉइड रोबोट गेम्स के दौरान 400 मीटर का विश्व रिकॉर्ड भी तोड़ दिया। | छवि: लिंटाओ झांग/गेटी इमेजेज 2009 में उसैन बोल्ट द्वारा स्थापित 9.58 - सेकंड 100 - मीटर डैश रिकॉर्ड…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "201d8e4331fb0dfa2d73f6bed2b33c0cfa816aea",
@@ -1215,7 +1703,7 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html",
       "titleHi": "क्या हैरी और मेगन ने अपना सबक सीखा है?",
       "excerptHi": "उनके अतीत को देखते हुए, इंग्लैंड में उनके लिए भविष्य क्या है?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d63ed50d9fbdaf4a6670643420bf71ff7e7704c1",
@@ -1235,7 +1723,7 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/college-ai.html",
       "titleHi": "कॉलेज के छात्रों को ए.आई. के बारे में चिंतित होकर मानविकी का अध्ययन करना चाहिए",
       "excerptHi": "भविष्य एक पहेली है। शेक्सपियर नहीं है.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "24cd7098aa50c471034767751c1aa3a70a3ae6b2",
@@ -1255,7 +1743,7 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html",
       "titleHi": "हम वर्ग युद्ध के एक नए युग में हैं। इतिहास एक तरह से बाहर की ओर इशारा करता है।",
       "excerptHi": "अतीत की वर्ग - आधारित हिंसा एक व्यापक संघर्ष का हिस्सा थी। आज, हिंसा अपने आप में अंत है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8997f27a99a4ebd5214c0fd0574a8a7986315ed7",
@@ -1362,6 +1850,26 @@
       "archived": true
     },
     {
+      "id": "49463f927fc476624288eae65a3d869433291bcf",
+      "slug": "a-bit-like-meditation-why-saw-is-my-feelgood-movie-49463f",
+      "title": "‘A bit like meditation’: why Saw is my feelgood movie",
+      "excerpt": "The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise I was petsitting recently for a white suburban family,…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Emma Madden",
+      "image": "https://i.guim.co.uk/img/media/30082a1a890b2fd83f8eaa6404d13b882d3b5845/296_0_1474_1179/master/1474.jpg?width=140&quality=85&auto=format&fit=max&s=ab3525cc9ff583c60b17322ea2889cb3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T09:00:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/my-feelgood-movie-saw",
+      "titleHi": "‘A bit like meditation’: why Saw is my feelgood movie",
+      "excerptHi": "The latest in our series of writers picking their go-to comfort films is a grimy and gory trip back to the start of a surprisingly uplifting torture porn franchise I was petsitting recently for a white suburban family,…",
+      "archived": true
+    },
+    {
       "id": "2e46ffaad96cc359a4bc12510587119018739566",
       "slug": "us-threatens-iran-with-economic-d-day-as-markets-await-sanct-2e46ff",
       "title": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
@@ -1382,6 +1890,28 @@
       "guid": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
       "titleHi": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
       "excerptHi": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with…",
+      "archived": true
+    },
+    {
+      "id": "9fd2edd7e83bdf549bf1ed2fc9f8849fa3256f90",
+      "slug": "the-global-story-9fd2ed",
+      "title": "The Global Story",
+      "excerpt": "The Ukrainian president’s challenger is his former close adviser.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p60k2q.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8mcg?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct8mcg#6",
+      "titleHi": "The Global Story",
+      "excerptHi": "The Ukrainian president’s challenger is his former close adviser.",
       "archived": true
     },
     {
@@ -1562,6 +2092,26 @@
       "guid": "565f57f7-5d31-48d1-a275-fe70d40dc7a0",
       "titleHi": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
       "excerptHi": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+      "archived": true
+    },
+    {
+      "id": "30036c926f3a2b925178288547e8f369bbea7d4f",
+      "slug": "my-arms-are-longer-now-comedy-stealth-game-sends-lawlessness-30036c",
+      "title": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
+      "excerpt": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Bex April May",
+      "image": "https://i.guim.co.uk/img/media/dd30d5c7d09dd88e7467d20e88884b291ec67ea1/447_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=ab1449a51560c059d87fa3febc7d13d5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T08:00:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
+      "titleHi": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
+      "excerptHi": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
       "archived": true
     },
     {
@@ -2060,6 +2610,46 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/the-hill-i-will-die-on-music-festival-children-families",
       "titleHi": "The hill I will die on: A music festival isn’t a music festival without children | Iman Amrani",
       "excerptHi": "Ignore the party poopers who say toddlers spoil the fun. I’ve braved the raves with my twins – and I’ve seen how families add to the magic of events The woman I used to be died the day I gave birth to twins. That life –…",
+      "archived": true
+    },
+    {
+      "id": "3891a0becd3d8e6f6e9c8f220d100df1ebecca50",
+      "slug": "the-disappearers-by-marlon-james-review-a-scorching-expos-of-3891a0",
+      "title": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
+      "excerpt": "This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer “A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Yagnishsing Dawoor",
+      "image": "https://i.guim.co.uk/img/media/0e3a200b55d47c954325a20ada3cc282e0d56634/27_43_4648_3718/master/4648.jpg?width=140&quality=85&auto=format&fit=max&s=61a3768a7653e9e4fefba057dc05cc6d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T06:00:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica",
+      "guid": "https://www.theguardian.com/books/2026/aug/24/the-disappearers-by-marlon-james-review-a-scorching-expose-of-homophobia-in-jamaica",
+      "titleHi": "The Disappearers by Marlon James review – a scorching exposé of homophobia in Jamaica",
+      "excerptHi": "This Booker-listed epic set in Aids-era Kingston is a triumph – bitter, bawdy and ravishingly queer “A sense of sweep,” replied Marlon James, when asked what moves him most in literature. “Sweep isn’t just about…",
+      "archived": true
+    },
+    {
+      "id": "1853121df9410ee804bce0202e699c597ec97d44",
+      "slug": "david-olusogas-extraordinary-new-show-best-podcasts-of-the-w-185312",
+      "title": "David Olusoga’s extraordinary new show: best podcasts of the week",
+      "excerpt": "The historian shares the astonishing story of a Peterloo massacre survivor. Plus, a delightfully wholesome new pod that is ‘Desert Island Discs … for words’ From the People’s History Museum, this series is about the…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Nell Frizzell and Hollie Richardson",
+      "image": "https://i.guim.co.uk/img/media/fad2eb43083024270410759aeb508e0676db1f9c/1818_556_3195_2556/master/3195.jpg?width=140&quality=85&auto=format&fit=max&s=c56597433c9250a8d97409b39d92a5eb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T06:00:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/aug/24/david-olusogas-extraordinary-new-show-best-podcasts-of-the-week",
+      "guid": "https://www.theguardian.com/tv-and-radio/2026/aug/24/david-olusogas-extraordinary-new-show-best-podcasts-of-the-week",
+      "titleHi": "David Olusoga’s extraordinary new show: best podcasts of the week",
+      "excerptHi": "The historian shares the astonishing story of a Peterloo massacre survivor. Plus, a delightfully wholesome new pod that is ‘Desert Island Discs … for words’ From the People’s History Museum, this series is about the…",
       "archived": true
     },
     {
@@ -2916,6 +3506,26 @@
       "guid": "http://www.euronews.com/2026/08/24/landslide-at-landfill-in-guinea-kills-30-people-government-says",
       "titleHi": "गिनी में लैंडफिल में भूस्खलन से 30 लोगों की मौत, सरकार का दावा",
       "excerptHi": "भारी ट्रेन ने कचरे के टीले पर भूस्खलन को ट्रिगर किया। सरकार ने गिरने के डर से घटना से पहले के दिनों में लैंडफिल के पास रहने वाले स्थानीय निवासियों को बेदखली के आदेश जारी किए थे।",
+      "archived": true
+    },
+    {
+      "id": "1684eb66b6619f8ea05d9204d8687d16a55cb447",
+      "slug": "mark-ruffalo-fires-back-at-paramount-skydance-after-it-accus-1684eb",
+      "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
+      "excerpt": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Sian Cain",
+      "image": "https://i.guim.co.uk/img/media/cfe77c22cbc601e4f9a09c044f9e1182d2b29fb4/1306_148_2353_1883/master/2353.jpg?width=140&quality=85&auto=format&fit=max&s=ab7a45d6240fb2804161bb9e59745a23",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T02:49:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
+      "titleHi": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
+      "excerptHi": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
       "archived": true
     },
     {
@@ -6362,6 +6972,28 @@
       "archived": true
     },
     {
+      "id": "1db2186cf8a71f83a7d83ce6cde284731611202e",
+      "slug": "so-many-people-say-things-about-my-appearance-its-not-normal-1db218",
+      "title": "‘So many people say things about my appearance – it’s not normal’: Jorja Smith on burnout, body-shaming and finding freedom",
+      "excerpt": "Being recognised by the Brits, Grammys and Drake made the singer one of British music’s most famous names – and also left her exhausted. Now, after decompressing in her home town she returns with a record made for…",
+      "category": "Culture",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Emma Loffhagen",
+      "image": "https://i.guim.co.uk/img/media/a9c0e18c58371a206763a3c25dc9cfcd94d82ebd/41_0_4384_3508/master/4384.jpg?width=140&quality=85&auto=format&fit=max&s=64c62c286dd044ad76c00d0e968cf392",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-23T09:00:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview",
+      "guid": "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview",
+      "titleHi": "‘So many people say things about my appearance – it’s not normal’: Jorja Smith on burnout, body-shaming and finding freedom",
+      "excerptHi": "Being recognised by the Brits, Grammys and Drake made the singer one of British music’s most famous names – and also left her exhausted. Now, after decompressing in her home town she returns with a record made for…",
+      "archived": true
+    },
+    {
       "id": "2a6247ac6b61ba10fca0038020398ef85086e247",
       "slug": "tefimo-lpez-outpoints-rolly-romero-to-win-title-in-third-wei-2a6247",
       "title": "Teófimo López outpoints Rolly Romero to win title in third weight class",
@@ -7505,6 +8137,26 @@
       "guid": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o#2",
       "titleHi": "क्लार्क की बढ़त बरकरार रहने के साथ ही McIlroy संयुक्त - दूसरे स्थान पर जाने में सुधार करता है",
       "excerptHi": "रोरी मैकइलरॉय ने बीएमडब्ल्यू चैंपियनशिप में तीसरे दिन संयुक्त - दूसरे स्थान पर जाने के लिए पांच - अंडर 65 का स्कोर बनाया।",
+      "archived": true
+    },
+    {
+      "id": "e24120cf2e518ad1ae8667c946878e5eaae24794",
+      "slug": "shabana-azeez-the-most-disgusting-thing-ive-seen-on-the-pitt-e24120",
+      "title": "Shabana Azeez: ‘The most disgusting thing I’ve seen on The Pitt? American coffee’",
+      "excerpt": "The Australian actor on posing as a patient for medical schools, having multiple birthdays on The Airport Chaplain and the song ‘nobody likes’ by the Strokes What is the most disgusting thing you saw on the set of The…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rafqa Touma",
+      "image": "https://i.guim.co.uk/img/media/fc48dcf75ad2358366791d25db72d256debd2da8/45_0_2823_2259/master/2823.jpg?width=140&quality=85&auto=format&fit=max&s=28d728aa3ff1d67fc76cfc02049c9b7e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T22:00:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/jul/23/shabana-azeez-actor-interview-the-pitt",
+      "guid": "https://www.theguardian.com/tv-and-radio/2026/jul/23/shabana-azeez-actor-interview-the-pitt",
+      "titleHi": "Shabana Azeez: ‘The most disgusting thing I’ve seen on The Pitt? American coffee’",
+      "excerptHi": "The Australian actor on posing as a patient for medical schools, having multiple birthdays on The Airport Chaplain and the song ‘nobody likes’ by the Strokes What is the most disgusting thing you saw on the set of The…",
       "archived": true
     },
     {
@@ -10065,6 +10717,28 @@
       "archived": true
     },
     {
+      "id": "cc0e0c4d882cc80940d2692cf3d4e523d5ed2fe7",
+      "slug": "the-faces-behind-the-feeds-gen-zs-private-lives-and-public-p-cc0e0c",
+      "title": "The faces behind the feeds: Gen Z’s private lives and public posts – in pictures",
+      "excerpt": "For the first digital natives, there are two places to express yourself: in the comfort of your own room and online. Photographer Niccolò Rastrelli set out to find out how the identities compare Social media arrived…",
+      "category": "Culture",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Gabrielle Schwarz",
+      "image": "https://i.guim.co.uk/img/media/312d72b764c82cf98ef7626ff18c0dafcc66156b/1219_249_6957_5568/master/6957.jpg?width=140&quality=85&auto=format&fit=max&s=2de3e97b36853a3d4bef74a4c43132b9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T11:00:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures",
+      "guid": "https://www.theguardian.com/artanddesign/2026/aug/22/the-faces-behind-the-feeds-gen-zs-private-lives-and-public-posts-in-pictures",
+      "titleHi": "The faces behind the feeds: Gen Z’s private lives and public posts – in pictures",
+      "excerptHi": "For the first digital natives, there are two places to express yourself: in the comfort of your own room and online. Photographer Niccolò Rastrelli set out to find out how the identities compare Social media arrived…",
+      "archived": true
+    },
+    {
       "id": "be6731ce5dc89474e2bd616a98480213cae5ddf3",
       "slug": "from-our-own-correspondent-be6731",
       "title": "From Our Own Correspondent",
@@ -10483,6 +11157,28 @@
       "archived": true
     },
     {
+      "id": "f7069cf15b6837c2f727e63353e1c9f1a6256b0d",
+      "slug": "four-blokes-and-a-zebra-crossing-the-banality-and-beauty-of-f7069c",
+      "title": "Four blokes and a zebra crossing: the banality and beauty of the Beatles’ Abbey Road cover",
+      "excerpt": "Much-copied and parodied picture captures dynamic between the individuals and the band with eerie perfection It’s not really the four blokes on the zebra crossing who make the cover of the Beatles’ Abbey Road memorable,…",
+      "category": "Culture",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Jones",
+      "image": "https://i.guim.co.uk/img/media/f433bd695d16f7dad5c94aa4939e197bcca3c901/1335_846_2773_2218/master/2773.jpg?width=140&quality=85&auto=format&fit=max&s=ee647bf120cab38da19927650465c771",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T09:00:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/aug/22/the-beatles-abbey-road-album-cover-zebra-crossing",
+      "guid": "https://www.theguardian.com/music/2026/aug/22/the-beatles-abbey-road-album-cover-zebra-crossing",
+      "titleHi": "Four blokes and a zebra crossing: the banality and beauty of the Beatles’ Abbey Road cover",
+      "excerptHi": "Much-copied and parodied picture captures dynamic between the individuals and the band with eerie perfection It’s not really the four blokes on the zebra crossing who make the cover of the Beatles’ Abbey Road memorable,…",
+      "archived": true
+    },
+    {
       "id": "ee0a6d38a0ca7f3984b4136a5e73bd38bf3a87ce",
       "slug": "plug-in-solar-could-a-low-cost-panel-cut-your-bills-ee0a6d",
       "title": "Plug-in solar: could a low-cost panel cut your bills?",
@@ -10544,6 +11240,26 @@
       "guid": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it",
       "titleHi": "US soccer wants excitement after the World Cup – the Open Cup provides it",
       "excerptHi": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start The new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and…",
+      "archived": true
+    },
+    {
+      "id": "e4e4038f9b751d9120dc47ad835c99121271af25",
+      "slug": "stand-by-me-at-40-rob-reiners-seminal-coming-of-age-saga-rem-e4e403",
+      "title": "Stand By Me at 40: Rob Reiner’s seminal coming-of-age saga remains a bittersweet triumph",
+      "excerpt": "The late director’s sensitive and detailed adaptation of Stephen King’s novella has an authenticity that so many imitators could never replicate Coming-of-age metaphors don’t get any blunter than a group of preteen boys…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Scott Tobias",
+      "image": "https://i.guim.co.uk/img/media/53ad4c0173141ac80a7e465a06eff197e3027d59/85_0_2508_2008/master/2508.jpg?width=140&quality=85&auto=format&fit=max&s=fe77bff5142d6d95bf2793552e113e37",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T09:00:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary",
+      "guid": "https://www.theguardian.com/film/2026/aug/22/stand-by-me-40th-anniversary",
+      "titleHi": "Stand By Me at 40: Rob Reiner’s seminal coming-of-age saga remains a bittersweet triumph",
+      "excerptHi": "The late director’s sensitive and detailed adaptation of Stephen King’s novella has an authenticity that so many imitators could never replicate Coming-of-age metaphors don’t get any blunter than a group of preteen boys…",
       "archived": true
     },
     {
@@ -10707,6 +11423,26 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
       "titleHi": "Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial",
       "excerptHi": "In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacy Meta’s business can be boiled down to four words that…",
+      "archived": true
+    },
+    {
+      "id": "9cc8e10568754f8aecdd85ef6868c813d583c1c8",
+      "slug": "from-booker-listed-marlon-james-to-a-memoir-by-michael-dougl-9cc8e1",
+      "title": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
+      "excerpt": "Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights The Disappearers by Marlon James…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/9ce5f0d65c9e2abd755b5f3d5ba46647e71cfc23/0_969_3154_2522/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=315551f0299851e9d135a463a5b56fe5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-22T08:00:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li",
+      "guid": "https://www.theguardian.com/books/ng-interactive/2026/aug/22/new-autumn-fiction-nonfiction-marlon-james-emma-cline-michael-douglas-dustin-hoffman-judi-dench-yiyun-li",
+      "titleHi": "From Booker-listed Marlon James to a memoir by Michael Douglas – the biggest books this autumn",
+      "excerptHi": "Midlife meditations from Barbara Kingsolver; musical portraits by Jonathan Coe and Yiyun Li; plus memoirs from Dustin Hoffman and Judi Dench – all among the coming season’s highlights The Disappearers by Marlon James…",
       "archived": true
     },
     {

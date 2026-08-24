@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:46:58.265Z",
+  "generatedAt": "2026-08-24T13:51:28.144Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,46 @@
   ],
   "usa": [
     {
+      "id": "356f23a7ecb307d5c0e2c26792e1d39f03921c83",
+      "slug": "netflix-reportedly-considers-opening-its-app-to-other-stream-356f23",
+      "title": "Netflix reportedly considers opening its app to other streamers",
+      "excerpt": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:47:14.000Z",
+      "sourceUrl": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "guid": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "titleHi": "नेटफ्लिक्स कथित तौर पर अपने ऐप को अन्य स्ट्रीमर्स के लिए खोलने पर विचार कर रहा है",
+      "excerptHi": "द न्यूयॉर्क टाइम्स की एक रिपोर्ट के अनुसार, नेटफ्लिक्स के अधिकारियों ने अपने ऐप के भीतर थर्ड - पार्टी स्ट्रीमिंग सेवाओं को उपलब्ध कराने पर विचार किया है। हाल की चर्चा कथित तौर पर मयूर लाने के आसपास केंद्रित थी और...",
+      "archived": false
+    },
+    {
+      "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
+      "slug": "sonya-masseys-killer-sean-grayson-dies-in-us-prison-2ef879",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:14:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
+      "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
+      "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
+      "archived": false
+    },
+    {
       "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
       "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
       "title": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
@@ -365,7 +405,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
       "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
       "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
@@ -387,35 +427,15 @@
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
       "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
-      "archived": false
-    },
+      "archived": true
+    }
+  ],
+  "europe": [
     {
-      "id": "d6cf97b993c5c36dd7b770fe4f1ea89c9270ddb9",
-      "slug": "scared-to-death-thousands-evacuate-nevada-homes-as-wildfire-d6cf97",
-      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "excerpt": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d5/live/1ba3c7c0-9fa3-11f1-a291-b542ee92de7c.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:05:22.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo#3",
-      "titleHi": "'मौत से डर ': जंगल की आग फैलने पर नेवादा के घरों से हज़ारों लोगों को निकाला गया",
-      "excerptHi": "रेनो के बाहरी इलाके में जंगल की आग फैलने पर अमेरिकी राज्य में हजारों लोगों को खाली करने की चेतावनी दी गई है।",
-      "archived": false
-    },
-    {
-      "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
-      "slug": "south-korea-says-us-cancelled-joint-marine-drills-over-force-dba215",
-      "title": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerpt": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
+      "id": "1cdaafeab45f85eb00a9b1a0b8b23e3b5c7e500b",
+      "slug": "warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-s-1cdaaf",
+      "title": "Warehouse burns near St Petersburg as Ukraine targets Ozon sites",
+      "excerpt": "Firefighters tackled a blaze at a logistics centre next to an Ozon facility on the outskirts of St Petersburg, as Ukraine said it was expanding its drone campaign against Russian e-commerce warehouses.",
       "category": "Europe",
       "secondaryCategories": [
         "Politics"
@@ -426,15 +446,75 @@
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T10:02:04.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
-      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
+      "publishedAt": "2026-08-24T13:14:06.000Z",
+      "sourceUrl": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+      "guid": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
+      "titleHi": "सेंट पीटर्सबर्ग के पास वेयरहाउस जल रहा है क्योंकि यूक्रेन ओज़ोन स्थलों को निशाना बना रहा है",
+      "excerptHi": "अग्निशामकों ने सेंट पीटर्सबर्ग के बाहरी इलाके में एक ओजोन सुविधा के बगल में एक रसद केंद्र में आग से निपटा, क्योंकि यूक्रेन ने कहा कि वह रूसी ई - कॉमर्स गोदामों के खिलाफ अपने ड्रोन अभियान का विस्तार कर रहा है।",
       "archived": false
-    }
-  ],
-  "europe": [
+    },
+    {
+      "id": "e89f88f50510ebf20238b4450bef06b574f123cf",
+      "slug": "french-police-accused-of-rising-use-of-violence-to-stop-chan-e89f88",
+      "title": "French police accused of rising use of violence to stop Channel crossings",
+      "excerpt": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boats People trying to cross the Channel to the UK have reported an increase in French police use of violence on…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Diane Taylor",
+      "image": "https://i.guim.co.uk/img/media/47a4e4557d95ab2d52d3c29b51e916678c939e86/2662_1191_3888_3111/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=f835079be5bfa3f4e94dbfe5ddec5ea9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:00:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
+      "titleHi": "फ्रांसीसी पुलिस पर चैनल क्रॉसिंग को रोकने के लिए हिंसा के बढ़ते उपयोग का आरोप है",
+      "excerptHi": "गैर सरकारी संगठन ने छोटी नौकाओं में फ्रांसीसी समुद्र तटों से निकलने के प्रयासों पर यूके - वित्त पोषित कार्रवाई की ‘मानव लागत’ की आलोचना की चैनल को पार करने की कोशिश कर रहे लोगों ने …",
+      "archived": false
+    },
+    {
+      "id": "f0191f269a398cae34efe5a8066ffcb25340d226",
+      "slug": "crash-involving-coach-carrying-german-students-injures-16-f0191f",
+      "title": "Crash involving coach carrying German students injures 16",
+      "excerpt": "Eight people, including the driver of a delivery van, are seriously hurt, police say.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a8/live/d0581b70-9fb8-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T12:57:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn0725ej2xeo#0",
+      "titleHi": "जर्मन छात्रों को ले जा रहे कोच की दुर्घटना में 16 घायल",
+      "excerptHi": "पुलिस का कहना है कि डिलीवरी वैन के ड्राइवर सहित आठ लोग गंभीर रूप से घायल हो गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "6fad4d2dca80081d00678c7d7ed6015d5f3423ac",
+      "slug": "up-to-464m-moved-through-more-than-3000-uk-high-street-shell-6fad4d",
+      "title": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
+      "excerpt": "Research shows firms are branded as beauty and convenience but apparently operate in money-laundering and terrorist financing sectors Up to £464m has “moved through” more than 3,000 UK shell companies branded as beauty…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Simon Goodley",
+      "image": "https://i.guim.co.uk/img/media/4379b5dd50ca5a2217045a8386aef6338c06f83f/477_0_4464_3574/master/4464.jpg?width=140&quality=85&auto=format&fit=max&s=353c92a39b1deb9f86b0235c4f0ab94a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:49:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+      "guid": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
+      "titleHi": "£ 464m तक 'ब्रिटेन की 3,000 से ज़्यादा हाई स्ट्रीट शेल कंपनियों से होकर गुज़रा’",
+      "excerptHi": "अनुसंधान से पता चलता है कि फर्मों को सौंदर्य और सुविधा के रूप में ब्रांडेड किया जाता है, लेकिन जाहिरा तौर पर मनी - लॉन्ड्रिंग और आतंकवादी वित्तपोषण क्षेत्रों में काम करते हैं £ 464m तक सौंदर्य के रूप में ब्रांडेड 3,000 से अधिक यूके शेल कंपनियों को \"स्थानांतरित\" किया गया है...",
+      "archived": false
+    },
     {
       "id": "a759ca1117c643497bf3909a109f649d54018c31",
       "slug": "tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-u-a759ca",
@@ -562,92 +642,6 @@
       "titleHi": "रूस ने कहा, यूक्रेन को हथियारों के ब्लूप्रिंट देकर ब्रिटेन आग में ’ईंधन जोड़ रहा है'",
       "excerptHi": "मॉस्को ने ब्रिटेन के साथ बढ़ते तनाव की चेतावनी दी है क्योंकि बर्नहम ने कीव का दौरा करके मिसाइल घटकों के सार्वजनिक विवरण की पेशकश की है यूरोप लाइव – नवीनतम अपडेट क्रेमलिन ने ब्रिटेन के बीच तनाव में वृद्धि की चेतावनी दी है...",
       "archived": false
-    },
-    {
-      "id": "529f520e70b16d80136229230c28513b17bfd64c",
-      "slug": "russias-second-biggest-online-retailer-targeted-in-ukrainian-529f52",
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "excerpt": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T10:40:22.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cg598yvrzpro#0",
-      "titleHi": "यूक्रेनी हमलों में लक्षित रूस का दूसरा सबसे बड़ा ऑनलाइन खुदरा विक्रेता",
-      "excerptHi": "ओज़ोन का कहना है कि दक्षिणी रूस में दागेस्तान और क्रास्नोडार सहित इसके गोदामों को रात भर के हमलों में मारा गया था।",
-      "archived": false
-    },
-    {
-      "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
-      "slug": "iranian-state-tv-broadcasts-video-targeting-barron-trump-wit-b76f17",
-      "title": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerpt": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:05:31.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
-      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
-      "archived": false
-    },
-    {
-      "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
-      "slug": "south-korea-says-us-cancelled-joint-marine-drills-over-force-dba215",
-      "title": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerpt": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:02:04.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
-      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
-      "archived": false
-    },
-    {
-      "id": "33c57bf1d74f4c07a9db16e7ded6b1fa47987240",
-      "slug": "latest-news-bulletin-august-24th-2026-midday-33c57b",
-      "title": "Latest news bulletin | August 24th, 2026 – Midday",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:00:16.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
-      "guid": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
-      "titleHi": "नवीनतम समाचार बुलेटिन | 24 अगस्त, 2026 – दोपहर",
-      "excerptHi": "24 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
-      "archived": false
     }
   ],
   "asia": [
@@ -756,7 +750,7 @@
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
       "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "76c3e56f81e1d3de98e1c2ef173e11f6b5ab9850",
@@ -924,7 +918,7 @@
       "guid": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
       "titleHi": "गिनी-बिसाऊ में महामारी फैलने के साथ ही एमपीओएक्स के आधे मामले बच्चों के हैं।",
       "excerptHi": "पश्चिम अफ्रीकी देश ने जुलाई में प्रकोप में 46 संदिग्ध मामलों की घोषणा की, इस आशंका के बीच कि वायरस अनियंत्रित रूप से फैल सकता है गिनी - बिसाऊ में रिपोर्ट किए गए एमपीओएक्स मामलों में से आधे से अधिक बच्चों, स्थानीय…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "63fd18198c19ab1d1320fdba5249536c5ef1ee6c",
@@ -1071,6 +1065,26 @@
   ],
   "middleeast": [
     {
+      "id": "2a1dac4f9dd9adc73f756d53197fb75256e03624",
+      "slug": "gaza-documentary-produced-by-the-guardian-to-receive-world-p-2a1dac",
+      "title": "Gaza documentary produced by the Guardian to receive world premiere at Venice film festival",
+      "excerpt": "Film directed by Yuval Abraham and Rachel Szor, the two Israeli co-directors of No Other Land, investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Andrew Pulver",
+      "image": "https://i.guim.co.uk/img/media/6ac5d4e75237bc8ed0b9f38c702f5ab461acfbcf/122_101_2552_2042/master/2552.jpg?width=140&quality=85&auto=format&fit=max&s=5d17e85239fbe748df8a0f04b87a24f6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:16:20.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
+      "titleHi": "वेनिस फिल्म समारोह में विश्व प्रीमियर प्राप्त करने के लिए गार्जियन द्वारा निर्मित गाजा वृत्तचित्र",
+      "excerptHi": "नो अदर लैंड के दो इज़राइली सह - निर्देशक युवाल अब्राहम और राहेल स्ज़ोर द्वारा निर्देशित फिल्म, युद्ध के दौरान ‘इज़राइल द्वारा फिलिस्तीनी नागरिकों की गणना की गई सामूहिक हत्या’ की जांच करती है। इज़राइल के बारे में एक नई वृत्तचित्र...",
+      "archived": false
+    },
+    {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
       "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
       "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
@@ -1135,7 +1149,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
       "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
       "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
@@ -1157,7 +1171,7 @@
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
       "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
@@ -1179,7 +1193,7 @@
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
       "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2e46ffaad96cc359a4bc12510587119018739566",
@@ -1247,43 +1261,23 @@
       "archived": true
     },
     {
-      "id": "f9c4cd76290e0147e0b3e7097906be99acd13756",
-      "slug": "al-hilal-open-talks-to-sign-arsenal-winger-martinelli-f9c4cd",
-      "title": "Al-Hilal open talks to sign Arsenal winger Martinelli",
-      "excerpt": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
-      "category": "Sports",
+      "id": "1684eb66b6619f8ea05d9204d8687d16a55cb447",
+      "slug": "mark-ruffalo-fires-back-at-paramount-skydance-after-it-accus-1684eb",
+      "title": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
+      "excerpt": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
+      "category": "Culture",
       "secondaryCategories": [],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg",
+      "source": "The Guardian",
+      "author": "Sian Cain",
+      "image": "https://i.guim.co.uk/img/media/cfe77c22cbc601e4f9a09c044f9e1182d2b29fb4/1306_148_2353_1883/master/2353.jpg?width=140&quality=85&auto=format&fit=max&s=ab7a45d6240fb2804161bb9e59745a23",
       "imageType": "real",
       "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-23T17:37:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo#5",
-      "titleHi": "अल - हिलाल ने आर्सेनल विंगर मार्टिनेली पर हस्ताक्षर करने के लिए खुली बातचीत की",
-      "excerptHi": "सऊदी अरब के क्लब अल - हिलाल ने ब्राजील के फॉरवर्ड गेब्रियल मार्टिनेली के लिए एक कदम पर आर्सेनल के साथ बातचीत शुरू की।",
-      "archived": true
-    },
-    {
-      "id": "2d437afd40fb9f6242e0c32aef467c08558fc516",
-      "slug": "trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-u-2d437a",
-      "title": "Trump claims Hormuz on Truth Social, Rezaei says 'shut until US changes'",
-      "excerpt": "Rezaei told Iranian state TV that the Strait of Hormuz is closed, despite US claims, and will not reopen until America changes its 'behaviour'.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-23T13:46:49.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
-      "guid": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
-      "titleHi": "ट्रम्प ने ट्रूथ सोशल पर होर्मुज का दावा किया, रेज़ई ने कहा, 'जब तक अमेरिका नहीं बदलता तब तक बंद रहें'",
-      "excerptHi": "रेज़ाई ने ईरानी सरकारी टीवी को बताया कि अमेरिकी दावों के बावजूद, होर्मुज जलडमरूमध्य बंद है, और जब तक अमेरिका अपना 'व्यवहार' नहीं बदलता तब तक इसे फिर से नहीं खोला जाएगा।",
+      "publishedAt": "2026-08-24T02:49:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
+      "guid": "https://www.theguardian.com/film/2026/aug/24/mark-ruffalo-fires-back-paramount-oracle-accused-antisemitic-tropes-israel",
+      "titleHi": "Mark Ruffalo fires back at Paramount Skydance after it accuses him of using ‘antisemitic tropes’",
+      "excerptHi": "Actor says highlighting role of Oracle CEO Larry Ellison in media company’s merger with Warner Bros Discovery has been ‘dishonestly framed as being anti-Israel’ Mark Ruffalo has fired back at Paramount Skydance after…",
       "archived": true
     }
   ],
@@ -1560,7 +1554,27 @@
       "guid": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
       "titleHi": "न्यूजीलैंड की सरकार ने अंडर -16 के लिए सोशल मीडिया पर प्रतिबंध लगाने के लिए कानून पेश किया",
       "excerptHi": "प्रस्तावित कानून के तहत, यदि मेटा जैसी फर्में अनुपालन करने में विफल रहती हैं, तो उन पर उनके वैश्विक राजस्व का 10% तक जुर्माना लगाया जा सकता है।",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "30036c926f3a2b925178288547e8f369bbea7d4f",
+      "slug": "my-arms-are-longer-now-comedy-stealth-game-sends-lawlessness-30036c",
+      "title": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
+      "excerpt": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Bex April May",
+      "image": "https://i.guim.co.uk/img/media/dd30d5c7d09dd88e7467d20e88884b291ec67ea1/447_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=ab1449a51560c059d87fa3febc7d13d5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T08:00:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
+      "guid": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
+      "titleHi": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
+      "excerptHi": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
+      "archived": true
     },
     {
       "id": "39d02081c703cf84e765e44db67b30f316be5b97",
@@ -1694,31 +1708,89 @@
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: AFL प्रमुख का कहना है कि ‘कुछ लोगों की कार्रवाइयाँ’ खेल को परिभाषित नहीं करती हैं; पुलिस ने CFMEU मुख्यालय पर छापा मारते हुए पांच लोगों को गिरफ्तार किया",
       "excerptHi": "आज की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एलन जोन्स परीक्षण अपने चौथे सप्ताह में प्रवेश करता है एलन जोन्स परीक्षण आज अपने चौथे सप्ताह में प्रवेश करता है, जिसमें गवाहों की एक श्रृंखला देने की उम्मीद है...",
       "archived": true
-    },
-    {
-      "id": "c31e3c4947e8c1273c6d31b8b7c49f3462da592f",
-      "slug": "australian-shark-attack-victim-grateful-for-second-chance-at-c31e3c",
-      "title": "Australian shark attack victim grateful for 'second chance at life'",
-      "excerpt": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T00:34:59.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c87n792dnlno#0",
-      "titleHi": "ऑस्ट्रेलियाई शार्क अटैक पीड़ित 'जीवन में दूसरा मौका' पाने के लिए आभारी है",
-      "excerptHi": "जून में एक शार्क ने लिआ स्टीवर्ट को घायल कर दिया था, जिसके हाथों और पैरों में कई काटने थे।",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "77f5073b2148e8648180553dc2cdb800e499c66b",
+      "slug": "twelve-people-arrested-over-a66-crash-that-killed-seven-incl-77f507",
+      "title": "Twelve people arrested over A66 crash that killed seven including two police officers",
+      "excerpt": "Nine men and three women aged between 19 and 61 arrested as part of investigation of events leading to deadly collision Twelve people have been arrested on suspicion of offences including being involved with organised…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Press Association",
+      "image": "https://i.guim.co.uk/img/media/704446d06ede8a2e2acc7449968d0897595800b6/80_0_3335_2669/master/3335.jpg?width=140&quality=85&auto=format&fit=max&s=8b53f080d90a1613d1b8f05cae390290",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:25:08.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/people-arrested-over-a66-crash-that-killed-seven-including-two-police-officers",
+      "titleHi": "A66 दुर्घटना में दो पुलिस अधिकारियों सहित सात लोगों की मौत के मामले में बारह लोग गिरफ्तार",
+      "excerptHi": "घातक टक्कर की घटनाओं की जांच के हिस्से के रूप में 19 से 61 वर्ष की आयु के नौ पुरुषों और तीन महिलाओं को गिरफ्तार किया गया है संगठित रूप से शामिल होने सहित अपराधों के संदेह में बारह लोगों को गिरफ्तार किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "61d193d026919df03d73d33132ca5666981e0e67",
+      "slug": "at-least-six-injured-in-reno-nevada-wildfire-as-42000-forced-61d193",
+      "title": "At least six injured in Reno, Nevada, wildfire as 42,000 forced to evacuate",
+      "excerpt": "Fast-moving, ‘human-caused’ fire in Reno leaves thousands of homes and businesses without power, officials say Tens of thousands of people in Nevada were urged to evacuate as a fast-moving, wind-driven wildfire bore…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/1eac02ef76fd62ba21d03ef83537c4d25956ca61/639_0_4592_3674/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=6228aa1da571303e22f95d53821155e9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T13:17:40.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/hawk-fire-reno-nevada-injuries-evacuations",
+      "titleHi": "रेनो, नेवादा में जंगल में लगी आग में कम से कम छह लोग घायल हो गए, क्योंकि 42,000 लोगों को खाली करने के लिए मजबूर होना पड़ा",
+      "excerptHi": "रेनो में तेजी से बढ़ रही, ‘मानव - जनित’ आग हजारों घरों और व्यवसायों को बिजली के बिना छोड़ देती है, अधिकारियों का कहना है कि नेवादा में हजारों लोगों को तेजी से बढ़ रहे, हवा से चलने वाले जंगल की आग बोर के रूप में खाली करने का आग्रह किया गया था...",
+      "archived": false
+    },
+    {
+      "id": "2ef879858d129b997e6a1b6d6b60271eb6b8b798",
+      "slug": "sonya-masseys-killer-sean-grayson-dies-in-us-prison-2ef879",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "excerpt": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/783f/live/1a9bfa10-9fb6-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T13:14:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo#1",
+      "titleHi": "सोन्या मैसी के हत्यारे सीन ग्रेसन की अमेरिकी जेल में मौत",
+      "excerptHi": "पूर्व पुलिस अधिकारी, जिनके अपराध ने अमेरिकी पुलिस की क्रूरता के बारे में बहस को फिर से शुरू किया, कैंसर के इलाज से गुजर रहे थे।",
+      "archived": false
+    },
+    {
+      "id": "84d1827dc17e691ed90413f3f88cf5cb6a255e26",
+      "slug": "former-illinois-sheriffs-deputy-who-killed-sonya-massey-in-h-84d182",
+      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32",
+      "excerpt": "Sean Grayson, who was diagnosed with stage three colon cancer in 2023, was serving a 20-year sentence for second-degree murder The former Illinois sheriff’s deputy convicted of fatally shooting Sonya Massey in her home…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/eb6969138d79b4af066ec6ef02bad7764a90adb2/698_0_2646_2118/master/2646.jpg?width=140&quality=85&auto=format&fit=max&s=b37a9cc73757bd29e5a12c672e61e150",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:44:24.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/sonya-massey-illinois-sean-grayson-dies",
+      "titleHi": "सोन्या मैसी को उसके घर में मारने वाले इलिनोइस शेरिफ के पूर्व डिप्टी का 32 साल की उम्र में निधन हो गया",
+      "excerptHi": "शॉन ग्रेसन, जिन्हें 2023 में तीसरे चरण के कोलन कैंसर का पता चला था, दूसरी डिग्री की हत्या के लिए 20 साल की सजा काट रहे थे। इलिनोइस के पूर्व शेरिफ के डिप्टी ने सोन्या मैसी को उसके घर में गोली मारने के लिए दोषी ठहराया...",
+      "archived": false
+    },
     {
       "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
       "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
@@ -1845,93 +1917,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/c790w8wxv0do#1",
       "titleHi": "केन्या में हाथियों को जहर देने के आरोप में चार गिरफ्तार",
       "excerptHi": "इस बात की जांच की जा रही है कि क्या मौतें टमाटर की फसलों पर छिड़के गए कीटनाशकों के कारण हुई थीं।",
-      "archived": false
-    },
-    {
-      "id": "e8fb108155e2130aeb164ff2831dda52eb679123",
-      "slug": "hakeem-jeffries-meeting-with-jared-kushner-sparks-backlash-a-e8fb10",
-      "title": "Hakeem Jeffries meeting with Jared Kushner sparks backlash amongst Democrats ahead of midterm elections – US politics live",
-      "excerpt": "House Democratic leader meets with president’s son-in-law has ignited fury amongst own party Democrats incredulous over Hakeem Jeffries and Jared Kushner meeting Democrats and other Donald Trump critics reacted…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Tom Ambrose",
-      "image": "https://i.guim.co.uk/img/media/9c27978883c3099f3b215f8e74787e2ead13ad64/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cebe99a2ebb823c2145ce8f376d8c177",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:07:37.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "guid": "https://www.theguardian.com/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates",
-      "titleHi": "मध्यावधि चुनाव से पहले डेमोक्रेट्स के बीच हकीम जेफ्री की जेरेड कुशनर से मुलाकात – अमेरिकी राजनीति LIVE",
-      "excerptHi": "राष्ट्रपति के दामाद के साथ हाउस डेमोक्रेटिक नेता की मुलाकात ने हकीम जेफ्रीज और जेरेड कुशनर की डेमोक्रेट्स और अन्य डोनाल्ड ट्रम्प आलोचकों से मुलाकात पर अविश्वसनीय रूप से अपनी पार्टी के डेमोक्रेट्स के बीच रोष पैदा कर दिया है...",
-      "archived": false
-    },
-    {
-      "id": "7448524138f45e6964e71f1b2cf802de973b0eba",
-      "slug": "top-us-firms-that-backed-voting-rights-act-donate-to-groups-744852",
-      "title": "Top US firms that backed Voting Rights Act donate to groups working to undermine it",
-      "excerpt": "Watchdog data shared with Guardian shows contributions to Republican Attorneys General Association and others Over a dozen US companies that signed a 2021 letter urging Congress to strengthen the Voting Rights Act…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Lauren Aratani",
-      "image": "https://i.guim.co.uk/img/media/3b329349ad146e6a0aa9cbb6ee69cecde7fef254/488_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=206535afe9a37e4db5ff2eb7c8293776",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:00:31.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/us-companies-voting-rights-raga",
-      "titleHi": "वोटिंग राइट्स एक्ट का समर्थन करने वाली शीर्ष अमेरिकी फर्में इसे कमजोर करने के लिए काम करने वाले समूहों को दान करती हैं",
-      "excerptHi": "अभिभावक के साथ साझा किए गए वॉचडॉग डेटा रिपब्लिकन अटॉर्नी जनरल एसोसिएशन और अन्य के लिए योगदान दिखाते हैं एक दर्जन से अधिक अमेरिकी कंपनियों ने 2021 के पत्र पर हस्ताक्षर किए, जिसमें कांग्रेस से वोटिंग राइट्स एक्ट को मजबूत करने का आग्रह किया गया था...",
-      "archived": false
-    },
-    {
-      "id": "c931b4380a0c8a54ae2ff494c4017bf5958ea79d",
-      "slug": "social-media-goes-into-overdrive-with-lindsay-clancy-conspir-c931b4",
-      "title": "Social media goes into overdrive with Lindsay Clancy conspiracy theories",
-      "excerpt": "Algorithms are responsible for fever pitch content surrounding trial, including misinformation, experts say As the trial of Lindsay Clancy, the Massachusetts mother accused of killing her three children, starts to wind…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Sara Braun",
-      "image": "https://i.guim.co.uk/img/media/19931279668174efc0a2cfa9ff7e13101346a37a/851_0_6882_5504/master/6882.jpg?width=140&quality=85&auto=format&fit=max&s=546ea45da76499891bb1d2ba514f9801",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:00:31.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-social-media-conspiracy-theories",
-      "titleHi": "लिंडसे क्लेन्सी षड्यंत्र के सिद्धांतों के साथ सोशल मीडिया ओवरड्राइव में चला जाता है",
-      "excerptHi": "विशेषज्ञों का कहना है कि एल्गोरिदम परीक्षण के आसपास बुखार पिच सामग्री के लिए जिम्मेदार हैं, जिसमें गलत जानकारी भी शामिल है, जैसे ही मैसाचुसेट्स की मां लिंडसे क्लेंसी के मुकदमे की सुनवाई शुरू होती है, जिस पर अपने तीन बच्चों की हत्या का आरोप है...",
-      "archived": false
-    },
-    {
-      "id": "e58a63ea067cdf616f3b233cb197a3ca743a0f03",
-      "slug": "minister-tells-social-media-firms-to-remove-posts-that-celeb-e58a63",
-      "title": "Minister tells social media firms to remove posts that ‘celebrate’ dangerous driving after A66 crash",
-      "excerpt": "Luke Pollard says government will force platforms to remove content, after latest deadly crash involving a car driving in wrong direction A minister has pressed social media companies to remove content from their…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Raphael Boyd",
-      "image": "https://i.guim.co.uk/img/media/d21feb36436c09780bd6f3dc9d4cf9f65c61b33b/894_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=21d176e7f78ad94f03a99c37b401cbe1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:50:36.000Z",
-      "sourceUrl": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
-      "guid": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
-      "titleHi": "मंत्री ने सोशल मीडिया फर्मों से कहा कि वे उन पोस्ट को हटा दें जो A66 दुर्घटना के बाद खतरनाक ड्राइविंग का ’जश्न’ मनाते हैं",
-      "excerptHi": "ल्यूक पोलार्ड का कहना है कि सरकार प्लेटफ़ॉर्म को कंटेंट हटाने के लिए मजबूर करेगी, हाल ही में एक कार को गलत दिशा में चलाने से जुड़ी घातक दुर्घटना के बाद एक मंत्री ने सोशल मीडिया कंपनियों पर दबाव डाला है कि वे अपने …",
       "archived": false
     }
   ]
