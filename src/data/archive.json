@@ -1,8 +1,259 @@
 {
-  "generatedAt": "2026-08-24T18:38:32.306Z",
+  "generatedAt": "2026-08-24T19:28:42.690Z",
   "retentionDays": 45,
-  "total": 2418,
+  "total": 2432,
   "items": [
+    {
+      "id": "79c9fe680941edd5c78d91e01201003974414d64",
+      "slug": "forest-working-on-deal-for-chelsea-striker-delap-79c9fe",
+      "title": "Forest working on deal for Chelsea striker Delap",
+      "excerpt": "Nottingham Forest are working on a deal to sign Chelsea striker Liam Delap.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e4c/live/1ec5a190-9fed-11f1-8f6f-6b425335bd44.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T19:12:07.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo#0",
+      "titleHi": "चेल्सी के स्ट्राइकर डेलाप के लिए सौदे पर काम कर रहे वन",
+      "excerptHi": "नॉटिंघम फ़ॉरेस्ट चेल्सी के स्ट्राइकर लियाम डेलाप को साइन करने के लिए एक डील पर काम कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "2701b4db22291635d13eaeef6313d20ee93960dc",
+      "slug": "coinbase-tokenized-stocks-go-live-on-base-with-chainlink-pri-2701b4",
+      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+      "excerpt": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T19:11:48.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
+      "titleHi": "Chainlink मूल्य फ़ीड के साथ Coinbase टोकनकृत स्टॉक बेस पर लाइव होते हैं",
+      "excerptHi": "Coinbase की B20 इक्विटीज Apple और Nvidia सहित स्टॉक को ऑनचेन पर लाती हैं, जिससे योग्य गैर - अमेरिकी उपयोगकर्ता उन्हें 24/7 ट्रेड कर सकते हैं और पूरे DeFi में उनका उपयोग कर सकते हैं।",
+      "archived": false
+    },
+    {
+      "id": "c84a883debbbc2ba1db64d66898acc7ab46e6966",
+      "slug": "us-treasury-secretary-launches-operation-economic-outcast-ai-c84a88",
+      "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
+      "excerpt": "\"Any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system,\" US Treasury Secretary Scott Bessent said on Monday.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T19:11:00.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
+      "guid": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
+      "titleHi": "अमेरिकी वित्त मंत्री ने ईरान को अलग - थलग करने के उद्देश्य से 'ऑपरेशन इकोनॉमिक आउटकास्ट' लॉन्च किया",
+      "excerptHi": "\"कोई भी इकाई जो ईरान की ओर से मनी लॉन्ड्रिंग की सुविधा देती है, उसे अमेरिकी डॉलर प्रणाली से हटा दिया जाएगा ,\" अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट ने सोमवार को कहा।",
+      "archived": false
+    },
+    {
+      "id": "b98fef23b528a144c9cfacbdecd8555a8aa1e857",
+      "slug": "man-arrested-on-suspicion-of-arson-after-fire-at-car-park-us-b98fef",
+      "title": "Man arrested on suspicion of arson after fire at car park used by Gatwick passengers",
+      "excerpt": "Blaze near Crawley destroyed 140 vehicles, damaged nearby businesses and led to power cuts on Saturday night A man has been arrested on suspicion of arson after a fire tore through a car park used by people flying from…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Harry Cockburn",
+      "image": "https://i.guim.co.uk/img/media/3a70da8db0b25e0cabecb4e290accbd6569e0189/86_0_3576_2863/master/3576.jpg?width=140&quality=85&auto=format&fit=max&s=78ef16ee026018ed1e5438e6fe359cf4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T19:04:06.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
+      "titleHi": "गैटविक यात्रियों द्वारा इस्तेमाल किए गए कार पार्क में आग लगने के बाद आग लगने के संदेह में व्यक्ति गिरफ्तार",
+      "excerptHi": "क्रॉली के पास लगी आग ने 140 वाहनों को नष्ट कर दिया, आस - पास के व्यवसायों को क्षतिग्रस्त कर दिया और शनिवार की रात को बिजली की कटौती हो गई। आग लगने के संदेह में एक व्यक्ति को गिरफ्तार किया गया है, जिसके बाद…",
+      "archived": false
+    },
+    {
+      "id": "1fda7066b1201b93d7de6eef81b4e6fc1b7c809d",
+      "slug": "victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-de-1fda70",
+      "title": "Victorian premier Ben Carroll pushes ahead with SRL spend despite hinting at pause",
+      "excerpt": "A day after suggesting other projects were more important to Victorians, Carroll has committed to pushing ahead on train line Get our breaking news email, free app or daily news podcast The Victorian premier, Ben…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "image": "https://i.guim.co.uk/img/media/543d4c01786031041efbd96eeb7fba5e68cffe23/259_0_2248_1800/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=6200a1ebe901b14afcdf935300a3881c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T19:00:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
+      "titleHi": "विक्टोरिया के प्रीमियर बेन कैरोल विराम पर संकेत देने के बावजूद एसआरएल खर्च के साथ आगे बढ़ते हैं",
+      "excerptHi": "विक्टोरियन लोगों के लिए अन्य परियोजनाओं को अधिक महत्वपूर्ण बताने के एक दिन बाद, कैरोल ने ट्रेन लाइन पर आगे बढ़ने के लिए प्रतिबद्ध किया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरियन प्रीमियर, बेन...",
+      "archived": false
+    },
+    {
+      "id": "f163688d37eaadbef806087e41576a05d44e41ff",
+      "slug": "project-magic-rfl-in-talks-with-nrl-over-radical-changes-to-f16368",
+      "title": "‘Project Magic’: RFL in talks with NRL over radical changes to investment deal",
+      "excerpt": "Super League clubs rejected £35m deal last week The 14 owners due to discuss plans at meeting The Rugby Football League (RFL) is exploring radically different terms to the funding deal initially offered by Australia’s…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Exclusive by Matt Hughes",
+      "image": "https://i.guim.co.uk/img/media/c4f75ea4b212927270e77fbbf8024f8a4f2b1b86/228_0_3943_3155/master/3943.jpg?width=140&quality=85&auto=format&fit=max&s=b8f88f87037b902f27d2fa086d542142",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:59:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/rfl-in-talks-with-australias-nrl-over-radical-changes-to-investment-deal",
+      "guid": "https://www.theguardian.com/sport/2026/aug/24/rfl-in-talks-with-australias-nrl-over-radical-changes-to-investment-deal",
+      "titleHi": "‘प्रोजेक्ट मैजिक ': निवेश सौदे में आमूलचूल बदलाव को लेकर एनआरएल के साथ बातचीत में आरएफएल",
+      "excerptHi": "सुपर लीग क्लबों ने पिछले सप्ताह £ 35 मिलियन के सौदे को अस्वीकार कर दिया रग्बी फुटबॉल लीग (RFL) की बैठक में योजनाओं पर चर्चा करने के कारण 14 मालिक ऑस्ट्रेलिया के द्वारा शुरू में पेश किए गए फंडिंग सौदे के लिए मौलिक रूप से अलग - अलग शर्तों की तलाश कर रहे हैं...",
+      "archived": false
+    },
+    {
+      "id": "1cd8e1599383faa1a50956c584fa5c2cf7c5c3b6",
+      "slug": "alfalfa-sprouts-linked-to-food-poisoning-outbreak-in-15-stat-1cd8e1",
+      "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
+      "excerpt": "Everything Sprouts recalls products after CDC says agency is aware of dozens of food-poisoning cases nationally US healthcare officials recently said a food-poisoning outbreak tied to alfalfa sprouts and involving…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian staff and agency",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:58:12.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
+      "titleHi": "अमेरिकी अधिकारियों का कहना है कि अल्फाल्फा स्प्राउट्स 15 राज्यों में खाद्य - विषाक्तता के प्रकोप से जुड़े हुए हैं",
+      "excerptHi": "सीडीसी का कहना है कि एजेंसी को राष्ट्रीय स्तर पर खाद्य - विषाक्तता के दर्जनों मामलों के बारे में पता है, इसके बाद सब कुछ स्प्राउट्स उत्पादों को याद करता है अमेरिकी स्वास्थ्य अधिकारियों ने हाल ही में कहा कि अल्फाल्फा स्प्राउट्स से जुड़ा एक खाद्य - विषाक्तता का प्रकोप और इसमें शामिल है...",
+      "archived": false
+    },
+    {
+      "id": "68453b629606f679e5fac540f9293cf0d096a9ab",
+      "slug": "us-threatens-severe-sanctions-against-countries-with-economi-68453b",
+      "title": "US threatens severe sanctions against countries with economic ties to Iran",
+      "excerpt": "Washington launches campaign to isolate Tehran but it is unclear whether it would apply sanctions to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Julian Borger",
+      "image": "https://i.guim.co.uk/img/media/0c25779d85551b1f9c981d3adfc0cf7693c858ac/125_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=33797d0562ad8346415a81e0634e4f0f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:57:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
+      "titleHi": "अमेरिका ने ईरान के साथ आर्थिक संबंध रखने वाले देशों के खिलाफ गंभीर प्रतिबंधों की धमकी दी",
+      "excerptHi": "वाशिंगटन ने तेहरान को अलग - थलग करने के लिए अभियान शुरू किया लेकिन यह स्पष्ट नहीं है कि वह चीन पर प्रतिबंध लगाएगा या नहीं। अमेरिका ने किसी भी देश या संस्था के साथ आर्थिक संबंध बनाए रखने के लिए गंभीर प्रतिबंध लगाने की धमकी दी है...",
+      "archived": false
+    },
+    {
+      "id": "d2d161f43a56f812bd6cef24076a0a1c831592af",
+      "slug": "trump-announces-new-50-tariff-on-canadian-cars-trucks-and-st-d2d161",
+      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
+      "excerpt": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Gaya Gupta",
+      "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:55:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
+      "titleHi": "ट्रम्प ने कनाडाई कारों, ट्रकों और स्टील पर नए 50% टैरिफ की घोषणा की",
+      "excerptHi": "ऐतिहासिक रूप से मजबूत आर्थिक संबंधों वाले पड़ोसियों के बीच व्यापार संबंधों में यह नवीनतम गिरावट है डोनाल्ड ट्रम्प ने कनाडा से ऑटोमोबाइल और महत्वपूर्ण कच्चे माल पर एक नए 50% टैरिफ की घोषणा की, नवीनतम…",
+      "archived": false
+    },
+    {
+      "id": "e65c85e7e4c8b07132806e68481288cfd57d215b",
+      "slug": "french-tourist-dies-in-californias-death-valley-after-being-e65c85",
+      "title": "French tourist dies in California’s Death Valley after being stranded in heat",
+      "excerpt": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park road A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Maya Yang",
+      "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=140&quality=85&auto=format&fit=max&s=92f87ca748f2015b9f8186838d6870b8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:55:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
+      "titleHi": "कैलिफ़ोर्निया की डेथ वैली में गर्मी में फंसे फ्रांसीसी पर्यटक की मौत",
+      "excerptHi": "68 वर्षीय व्यक्ति को 116F मौसम में मदद की तलाश में छोड़ दिया गया था क्योंकि उसकी कार रिमोट पार्क रोड के साथ कीचड़ में फंस गई थी। डेथ वैली नेशनल पार्क में हाल ही में एक फ्रांसीसी पर्यटक की मौत हो गई थी, जब एक कार दुर्घटना ने उसे 116F में फंस दिया था...",
+      "archived": false
+    },
+    {
+      "id": "36814d84a82fa97c57c01334b7d3a73939bc4298",
+      "slug": "hodgkinson-withdraws-from-zurich-diamond-league-36814d",
+      "title": "Hodgkinson withdraws from Zurich Diamond League",
+      "excerpt": "Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her \"body is not quite ready\".",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:49:51.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo#0",
+      "titleHi": "हॉडकिन्सन ने ज्यूरिख डायमंड लीग से नाम वापस लिया",
+      "excerptHi": "ज्यूरिख में गुरुवार की डायमंड लीग की बैठक में कीली हॉजकिंसन ने महिलाओं की 800 मीटर की दौड़ से नाम वापस ले लिया क्योंकि उनका \"शरीर पूरी तरह से तैयार नहीं है\"।",
+      "archived": false
+    },
+    {
+      "id": "38da45ac6c332f592f71bf9972b38cf039f3423f",
+      "slug": "villa-in-talks-with-club-brugge-for-defender-ordonez-38da45",
+      "title": "Villa in talks with Club Brugge for defender Ordonez",
+      "excerpt": "Aston Villa are working on a move for Club Brugge central defender Joel Ordonez after failing to agree a deal with Southampton for Taylor Harwood-Bellis.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3b6/live/215b1db0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:41:46.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c0469r217q5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c0469r217q5o#1",
+      "titleHi": "डिफेंडर ऑर्डोनेज़ के लिए क्लब ब्रुग के साथ बातचीत में विला",
+      "excerptHi": "एस्टन विला टेलर हारवुड - बेलिस के लिए साउथेम्प्टन के साथ एक सौदे पर सहमत होने में विफल रहने के बाद क्लब ब्रुग के केंद्रीय डिफेंडर जोएल ऑर्डोनेज़ के लिए एक कदम पर काम कर रहे हैं।",
+      "archived": false
+    },
     {
       "id": "a153130904a035842c095c641a14b8d4f0b04b32",
       "slug": "healy-right-to-call-out-vile-abuse---mcgivern-a15313",
@@ -21,6 +272,29 @@
       "guid": "https://www.bbc.co.uk/sport/articles/clyl862j39xo#11",
       "titleHi": "'नीच' दुर्व्यवहार को दूर करने का हीली अधिकार - मैकगिवर्न",
       "excerptHi": "लिनफील्ड के चेयरमैन रॉय मैकगिवर्न का कहना है कि मैनेजर डेविड हीली ने हाल के हफ्तों में उनके प्रति किए गए \"व्यक्तिगत\" और \"नीच\" दुर्व्यवहार को \"बिल्कुल सही\" बताया।",
+      "archived": false
+    },
+    {
+      "id": "a1f3dc30f7bf7191f777b328a1667fd972d75f44",
+      "slug": "mark-carney-says-canada-cant-accept-us-trade-deal-that-would-a1f3dc",
+      "title": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "excerpt": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from dispute Are you a Canadian boycotting US products? We’d like to hear from you Mark Carney said on Monday that…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Leyland Cecco in Toronto",
+      "image": "https://i.guim.co.uk/img/media/e6071ba36e600ce983b80af2024aafc2f19d0b66/1210_0_5776_4620/master/5776.jpg?width=140&quality=85&auto=format&fit=max&s=68f0306f18835dc848a1aa943c97038d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T18:22:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "titleHi": "मार्क कार्नी का कहना है कि कनाडा अमेरिकी व्यापार समझौते को स्वीकार नहीं कर सकता है जो फ्रांसीसी भाषा को कमजोर करेगा",
+      "excerptHi": "प्रधान मंत्री ने अमेरिकी व्यापार प्रस्ताव को अस्वीकार करने के लिए प्रशंसा की क्योंकि ट्रम्प विवाद से पीछे हटने में बहुत कम रुचि दिखाते हैं क्या आप एक कनाडाई हैं जो अमेरिकी उत्पादों का बहिष्कार कर रहे हैं? हम आपसे यह सुनना चाहेंगे कि मार्क कार्नी ने सोमवार को कहा था कि...",
       "archived": false
     },
     {
@@ -992,7 +1266,7 @@
       "guid": "https://www.theguardian.com/education/commentisfree/2026/aug/24/stop-destroying-generation-compulsory-gcse-resits-michael-gove",
       "titleHi": "हम एक पीढ़ी की संभावनाओं को नष्ट करना कैसे बंद कर सकते हैं? अनिवार्य GCSE resits को खत्म करना एक शुरुआत होगी | पोली टॉयन्बी",
       "excerptHi": "माइकल गोव अपनी टोरी रणनीति की धुरी को ‘बेवकूफ वापस लाना’ कहते हैं। उसे इस बात की परवाह नहीं है कि इससे अच्छे जीसीएसई परिणामों के दिन की तुलना में अधिक नुकसान हुआ, बीमिंग की तस्वीरों से भरे सामान्य सामने वाले पृष्ठों के साथ चिह्नित किया गया था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "24c233390e210ced81ba320464574a6d712f871f",
@@ -1012,7 +1286,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
       "titleHi": "मिनेसोटा की सैन जोस पर एमएलएस जीत के दौरान बच्चा पिच पर हमला करता है: ‘मैदान पर एक बच्चा है’",
       "excerptHi": "एमएनयूएफसी की 5 -1 से जीत मिनेसोटा पदों की जीत के दौरान मैदान पर भटकने वाला बच्चा ‘एक बच्चे से पैसे लेने की तरह’ था एक बच्चा ने शनिवार को मिनेसोटा यूनाइटेड और सैन जोस भूकंप के बीच एक मेजर लीग सॉकर मैच को बाधित कर दिया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "29e0472e93bcc33a53bde7ddcaa2595a11de11fc",
@@ -1032,7 +1306,7 @@
       "guid": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout",
       "titleHi": "बिटमाइन ने 14 महीने की ETH खरीदारी की गति बढ़ा दी है क्योंकि ईथर $ 2.5K से ऊपर है",
       "excerptHi": "$ 2,500 से ऊपर ईथर के ब्रेकआउट ने कॉर्पोरेट ईटीएच ट्रेजरी पर फिर से रोशनी डाली है, बिटमाइन अब अपने लंबे समय से बताए गए संचय लक्ष्य के करीब है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a751088aa057dfcffdc310d783324a0372a6c5d6",
@@ -1054,7 +1328,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
       "titleHi": "एल नीनो के बढ़ने के साथ ही दुनिया के महासागरों ने रिकॉर्ड पर सबसे अधिक तापमान मारा",
       "excerptHi": "यूरोपीय कॉपरनिकस जलवायु परिवर्तन सेवा से डॉ सामंथा बर्गेस के अनुसार, रिकॉर्ड \"बढ़ते तनाव के तहत एक महासागर का एक और स्पष्ट संकेत है\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ef859f25e4b98c168f9ad950835fe809b2ba3e0a",
@@ -1076,7 +1350,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/parisians-out-why-french-have-had-enough-of-french-tourists",
       "titleHi": "‘पेरिस के लोग बाहर !' फ़्रांसिसी पर्यटकों के पास पर्याप्त संख्या में फ़्रांसिसी क्यों हैं",
       "excerptHi": "जैसे - जैसे छुट्टियाँ मनाने वाले इस गर्मी में ब्रिटनी पर उतरते हैं, कुछ गाँवों और कस्बों की आबादी को दोगुना करते हुए, स्थानीय लोग अप्रभावित होते हैं नाम: \"पेरिस के लोग बाहर!\" आयु: यह आधिकारिक तौर पर अगस्त की शुरुआत में शुरू हुआ। जारी रखें...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2b2eabcd9602e84668208eb4142173bc4f32e002",
@@ -1098,7 +1372,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cx2znjly4dno#3",
       "titleHi": "क्या यूके की स्टॉर्म शैडो मिसाइल यूक्रेन के लिए एक गेम चेंजर है?",
       "excerptHi": "संवाददाता जो इनवुड ने हथियारों की तकनीक को तोड़ दिया जो रूस - यूक्रेन युद्ध में बदलाव ला सकता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b1ec3d6381e3de0d312f571bc48e64a6b13ee58c",
@@ -1120,7 +1394,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
       "titleHi": "जूलियन अल्वारेज़ बिना किसी अंत के ट्रांसफ़र गाथा में एटलेटिको में अकेले चलते हैं – और कोई विजेता नहीं | सिड लोवे",
       "excerptHi": "विलारियल के साथ ड्रॉ होने के बाद बार्सिलोना का लक्ष्य उजागर हो गया क्योंकि समर्थकों ने जूलियन अल्वारेज़ को अपने दम पर एक लंबी, अंधेरी सुरंग में प्रवेश करने के लिए उनके ‘सपने’ पर अपना गुस्सा व्यक्त किया। \"हम एक साथ मजबूत हैं ,\" Giuliano Simeone ने कहा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd97f4c35f08ad2a15a09ba1e29ecdba59c39422",
@@ -1140,7 +1414,7 @@
       "guid": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
       "titleHi": "ईएसपीएन स्ट्रीमिंग प्लान और महंगे हो रहे हैं",
       "excerptHi": "ईएसपीएन 17 सितंबर को अपने सब्सक्रिप्शन की कीमत बढ़ा रहा है, एक बदलाव जो डिज्नी प्लस के साथ इसके बंडलों को भी प्रभावित करेगा। स्पोर्ट्स मीडिया वॉच द्वारा पहले देखे गए एक समर्थन पृष्ठ में, ईएसपीएन का कहना है कि इसका विज्ञापन - समर्थित चयन...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "55aaa364c06748ebfa69bd953a6b8ef3f882cb9b",
@@ -1163,7 +1437,7 @@
       "guid": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
       "titleHi": "ग्रेटा थनबर्ग स्टॉकहोम में 10,000 जलवायु मार्चर्स में शामिल",
       "excerptHi": "स्वीडन के आम चुनाव से एक महीने पहले, रविवार को लगभग 10,000 लोगों ने मजबूत जलवायु कार्रवाई की मांग करते हुए स्टॉकहोम के माध्यम से मार्च किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7912af99b82b9b83a390cee57e1c9df1436ef6e1",
@@ -1186,7 +1460,7 @@
       "guid": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
       "titleHi": "ट्रम्प ने व्यापार वार्ता के पतन के बाद कनाडाई वाहनों पर शुल्क को 50% तक दोगुना करने की धमकी दी",
       "excerptHi": "\"कनाडा वर्षों से संयुक्त राज्य अमेरिका को तोड़ रहा है ,\" राष्ट्रपति ने अपने ट्रुथ सोशल अकाउंट पर एक पोस्ट में लिखा।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
@@ -1209,7 +1483,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/25/australia-has-just-12000-sea-lions-left-and-carnage-may-await-them-as-bird-flu-takes-hold-scientists-warn",
       "titleHi": "ऑस्ट्रेलिया में केवल 12,000 समुद्री शेर बचे हैं – और बर्ड फ्लू होने पर ‘नरसंहार’ उनका इंतजार कर सकता है, वैज्ञानिकों ने चेतावनी दी है",
       "excerptHi": "वायरस ने पहले ही दक्षिण अमेरिका और उप - अंटार्कटिका में पिनिपेड्स में भयावह नुकसान पहुंचाया है, विशेष रूप से कुत्तों के बीच हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें वैज्ञानिकों ने घातक H5 पक्षी को चेतावनी दी है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "58e574c6419d58fc6159e65f1502fbef2ebee4e7",
@@ -1229,7 +1503,7 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/ultraprocessed-food-industry-maha.html",
       "titleHi": "बिग फूड अमेरिका के आहार के लिए युद्ध जीत रहा है",
       "excerptHi": "संघीय सरकार को अल्ट्राप्रोसेस्ड खाद्य पदार्थों की एक परिभाषा जारी करनी थी। क्या हुआ?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "dd3e72829d7f58c6848fe9d950901fc2c322bb2c",
@@ -1249,7 +1523,7 @@
       "guid": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
       "titleHi": "रास्पबेरी पाई ने साइबरडेक बनाने के लिए अपना आधिकारिक ट्यूटोरियल साझा किया",
       "excerptHi": "रास्पबेरी पाई के सोशल हेड, एशले व्हिटेकर ने आज साइबरडेक ट्रेंड को स्वीकार करते हुए कहा, \"हम इस साल साइबरडेक से दूर नहीं हो पाए हैं।\" पर्स जैसी चीजों से बने छोटे पोर्टेबल कंप्यूटर,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "38ed0beab404ca5f84ddffe751b44ffb6b9b0a22",
@@ -20985,6 +21259,26 @@
       "guid": "https://www.nytimes.com/2026/08/20/opinion/letters/debating-ai-in-writing.html",
       "titleHi": "लेखन में ए.आई. के उपयोग पर बहस करना",
       "excerptHi": "पाठकों ने एक कॉलम का जवाब देते हुए पाठकों से अनुरोध किया कि वे लिखने के लिए ए.आई. का उपयोग न करें। इसके अलावा, व्हाइट हाउस बॉलरूम बनाने के लिए भीड़; एक ट्रम्प मतदाता की पत्नी को बर्फ से हिरासत में लिया गया है; और ट्रम्प डेरेंजमेंट सिंड्रोम।",
+      "archived": true
+    },
+    {
+      "id": "1b4c3259f3f71a432505034415de8d490aac2ce7",
+      "slug": "bbc-inside-science-1b4c32",
+      "title": "BBC Inside Science",
+      "excerpt": "Has a personalised cancer vaccine become reality?",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm#4",
+      "titleHi": "BBC Inside Science",
+      "excerptHi": "Has a personalised cancer vaccine become reality?",
       "archived": true
     },
     {
