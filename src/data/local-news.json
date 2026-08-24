@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-24T11:38:02.688Z",
+  "generatedAt": "2026-08-24T12:46:58.265Z",
   "india": [
+    {
+      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
+      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
+      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": false
+    },
     {
       "id": "bacac0f0ac715833b03eb883d5c2076fc23c5fe9",
       "slug": "indian-police-used-excessive-force-during-protests-amnesty-i-bacac0",
@@ -186,29 +209,75 @@
       "titleHi": "नई दिल्ली में तिब्बती प्रदर्शनकारियों ने मुंडा सिर और प्रार्थनाओं के साथ चीन की निंदा की",
       "excerptHi": "चीन के नए जातीय एकता और प्रगति कानून के विरोध में गुरुवार, 20 अगस्त को सैकड़ों तिब्बती निर्वासित नई दिल्ली में एकत्र हुए।",
       "archived": true
-    },
-    {
-      "id": "5a1b755dbf5046ac2150acbb917a66db06ab74ae",
-      "slug": "indias-gen-z-are-driving-up-a-mega-boom-in-its-beauty-market-5a1b75",
-      "title": "India's Gen Z are driving up a mega boom in its beauty market",
-      "excerpt": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd6/live/e0b60a90-9194-11f1-9e9c-c71e84be4584.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-19T23:31:24.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cgr71kv9k95o#0",
-      "titleHi": "India's Gen Z are driving up a mega boom in its beauty market",
-      "excerptHi": "E-commerce, rising income levels and the world's largest youth population are fuelling India's beauty boom.",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
+      "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
+      "title": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
+      "excerpt": "Key speech to be delivered this week at Jackson Hole said to focus on productivity and demographics in the US. Plus, how do you vaccinate 1,000 little penguins in the wild? Good morning. The new US Federal Reserve…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Martin Belam",
+      "image": "https://i.guim.co.uk/img/media/8a52e2628172d7b6407f8757a2519cd195ecc884/704_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=53ff281a77b26454b6555d1026844abf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:28:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
+      "titleHi": "पहली बात: बॉन्ड बाजार की चिंताओं के बीच नई फेड चेयर केविन वॉश को शुरुआती परीक्षा का सामना करना पड़ रहा है",
+      "excerptHi": "जैक्सन होल में इस सप्ताह दिया जाने वाला मुख्य भाषण अमेरिका में उत्पादकता और जनसांख्यिकी पर ध्यान केंद्रित करने के लिए कहा गया। इसके अलावा, आप जंगली में 1,000 छोटे पेंगुइन का टीकाकरण कैसे करते हैं? सुप्रभात। नया अमेरिकी फेडरल रिजर्व...",
+      "archived": false
+    },
+    {
+      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
+      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
+      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": false
+    },
+    {
+      "id": "a759ca1117c643497bf3909a109f649d54018c31",
+      "slug": "tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-u-a759ca",
+      "title": "Tens of thousands evacuated as Hawk wildfire nears western US city of Reno",
+      "excerpt": "No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:38:42.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
+      "guid": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
+      "titleHi": "पश्चिमी अमेरिकी शहर रेनो के पास हॉक के जंगलों में लगी आग के कारण दसियों हज़ार लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
+      "excerptHi": "स्थानीय मीडिया के अनुसार, किसी की मौत की सूचना नहीं है, लेकिन कम से कम छह लोग घायल हुए हैं, जिनमें तीन पहले उत्तरदाता शामिल हैं, जिसमें कई पहाड़ी मकान नष्ट हो गए हैं।",
+      "archived": false
+    },
     {
       "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
       "slug": "irans-rial-falls-to-record-low-as-scott-bessent-warns-of-eco-347811",
@@ -316,8 +385,8 @@
       "publishedAt": "2026-08-24T10:05:31.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerptHi": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
+      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
+      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
       "archived": false
     },
     {
@@ -338,8 +407,8 @@
       "publishedAt": "2026-08-24T10:05:22.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo#3",
-      "titleHi": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "excerptHi": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "titleHi": "'मौत से डर ': जंगल की आग फैलने पर नेवादा के घरों से हज़ारों लोगों को निकाला गया",
+      "excerptHi": "रेनो के बाहरी इलाके में जंगल की आग फैलने पर अमेरिकी राज्य में हजारों लोगों को खाली करने की चेतावनी दी गई है।",
       "archived": false
     },
     {
@@ -360,77 +429,52 @@
       "publishedAt": "2026-08-24T10:02:04.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerptHi": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
-      "archived": false
-    },
-    {
-      "id": "94730a153c82e78ebe31086bc2f4ec282fd4643f",
-      "slug": "the-treasury-bond-mess-is-this-the-demise-of-the-us-as-a-saf-94730a",
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "excerpt": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Eduardo Porter",
-      "image": "https://i.guim.co.uk/img/media/5dcd0d4b92c7dc7799acaf1a9cc764439ae19b69/501_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=c8ead2cae106efae2fc4ddd00903db46",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:00:30.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-      "guid": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-      "titleHi": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "excerptHi": "The US is scooping up treasury bonds in an effort to raise their price and push yields down – but it’s not working The bond market is driving the Trump administration crazy. Last week, the treasury secretary, Scott…",
-      "archived": false
-    },
-    {
-      "id": "c15f24fceb271222e5b21dc2c95798259423ade1",
-      "slug": "half-my-business-will-be-gone---firms-in-canada-and-us-fear-c15f24",
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "excerpt": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T09:47:22.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o#2",
-      "titleHi": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "excerptHi": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "archived": false
-    },
-    {
-      "id": "c420e3fc3885f07a84e37b5a050ea59fdb88d15f",
-      "slug": "todays-weed-is-way-too-dangerous-for-teens-c420e3",
-      "title": "Today’s Weed Is Way Too Dangerous for Teens",
-      "excerpt": "Are we willing to regulate and enforce cannabis safety, especially to protect the most vulnerable among us?",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "Sivabalaji Kaliamurthy",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T09:29:43.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html",
-      "guid": "https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html",
-      "titleHi": "Today’s Weed Is Way Too Dangerous for Teens",
-      "excerptHi": "Are we willing to regulate and enforce cannabis safety, especially to protect the most vulnerable among us?",
+      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
+      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
       "archived": false
     }
   ],
   "europe": [
+    {
+      "id": "a759ca1117c643497bf3909a109f649d54018c31",
+      "slug": "tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-u-a759ca",
+      "title": "Tens of thousands evacuated as Hawk wildfire nears western US city of Reno",
+      "excerpt": "No deaths have been reported, but at least six people have been injured, including three first responders, with several mountaintop houses destroyed, according to local media.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:38:42.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
+      "guid": "http://www.euronews.com/2026/08/24/tens-of-thousands-evacuated-as-hawk-wildfire-nears-western-us-city-of-reno",
+      "titleHi": "पश्चिमी अमेरिकी शहर रेनो के पास हॉक के जंगलों में लगी आग के कारण दसियों हज़ार लोगों को सुरक्षित स्थानों पर पहुंचाया गया",
+      "excerptHi": "स्थानीय मीडिया के अनुसार, किसी की मौत की सूचना नहीं है, लेकिन कम से कम छह लोग घायल हुए हैं, जिनमें तीन पहले उत्तरदाता शामिल हैं, जिसमें कई पहाड़ी मकान नष्ट हो गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "098099d01c24a66c41c047b6079df8bf058c73da",
+      "slug": "distracted-italian-pedestrians-who-cross-road-while-on-phone-098099",
+      "title": "Distracted Italian pedestrians who cross road while on phone could be fined under new code",
+      "excerpt": "Updated draft highway code follows several court rulings assigning blame for road accidents to careless pedestrians Italy’s updated highway code will target pedestrians who stare at their mobile phones while crossing…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Angela Giuffrida in Rome",
+      "image": "https://i.guim.co.uk/img/media/f7181ab704b060f006e06bedaf83b669b987fb3b/478_0_4172_3337/master/4172.jpg?width=140&quality=85&auto=format&fit=max&s=a78f13bf1291cbbec9b16467a4d188ae",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:36:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/distracted-italian-pedestrians-who-cross-road-while-on-phone-could-be-fined-under-new-code",
+      "titleHi": "ध्यान भटकाने वाले इतालवी पैदल यात्री जो फ़ोन पर रहते हुए सड़क पार करते हैं, उन पर नए कोड के तहत जुर्माना लगाया जा सकता है",
+      "excerptHi": "अपडेट किया गया ड्राफ़्ट राजमार्ग कोड लापरवाह पैदल चलने वालों को सड़क दुर्घटनाओं के लिए दोष देने वाले कई अदालती फैसलों का पालन करता है इटली का अपडेट किया गया राजमार्ग कोड उन पैदल चलने वालों को लक्षित करेगा जो पार करते समय अपने मोबाइल फोन पर घूरते हैं...",
+      "archived": false
+    },
     {
       "id": "01f965df2839aa1d9e01ceb11f69eefe87cfc119",
       "slug": "burnham-compares-ukraines-war-against-russia-to-britains-fig-01f965",
@@ -559,8 +603,8 @@
       "publishedAt": "2026-08-24T10:05:31.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerptHi": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
+      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
+      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
       "archived": false
     },
     {
@@ -581,8 +625,8 @@
       "publishedAt": "2026-08-24T10:02:04.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerptHi": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
+      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
+      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
       "archived": false
     },
     {
@@ -601,57 +645,57 @@
       "publishedAt": "2026-08-24T10:00:16.000Z",
       "sourceUrl": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
       "guid": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-midday",
-      "titleHi": "Latest news bulletin | August 24th, 2026 – Midday",
-      "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": false
-    },
-    {
-      "id": "bcb134c9c8c8d72ef6a28869858b7e0902289e15",
-      "slug": "new-zealands-government-introduces-legislation-to-ban-social-bcb134",
-      "title": "New Zealand's government introduces legislation to ban social media for under-16s",
-      "excerpt": "Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T09:27:51.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-      "guid": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-      "titleHi": "New Zealand's government introduces legislation to ban social media for under-16s",
-      "excerptHi": "Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.",
-      "archived": false
-    },
-    {
-      "id": "2e46ffaad96cc359a4bc12510587119018739566",
-      "slug": "us-threatens-iran-with-economic-d-day-as-markets-await-sanct-2e46ff",
-      "title": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
-      "excerpt": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T09:00:03.000Z",
-      "sourceUrl": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
-      "guid": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
-      "titleHi": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
-      "excerptHi": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with…",
+      "titleHi": "नवीनतम समाचार बुलेटिन | 24 अगस्त, 2026 – दोपहर",
+      "excerptHi": "24 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
       "archived": false
     }
   ],
   "asia": [
+    {
+      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
+      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
+      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": false
+    },
+    {
+      "id": "f01f40a5494bc59d5316d7d526871c8192be0ec5",
+      "slug": "standard-chartered-becomes-first-bank-to-distribute-hong-kon-f01f40",
+      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+      "excerpt": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+      "category": "Crypto",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "CoinDesk",
+      "author": "Olivier Acuna",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:36:55.000Z",
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+      "guid": "9ea4692b-a1e2-43af-be6b-15c8c9502252",
+      "titleHi": "स्टैंडर्ड चार्टर्ड हांगकांग डॉलर स्टेबलकॉइन वितरित करने वाला पहला बैंक बन गया",
+      "excerptHi": "$ 850 बिलियन की संपत्ति के साथ लंदन स्थित बहुराष्ट्रीय बैंक ने घोषणा की कि वह पात्र ग्राहकों और भागीदारों को एंकरपॉइंट का एचकेडीएपी वितरित करेगा।",
+      "archived": false
+    },
     {
       "id": "241c80a975fbc0989c70d32fc31a8ff45e5e0e1b",
       "slug": "japans-sbi-leads-68m-fasset-round-at-1b-valuation-241c80",
@@ -710,8 +754,8 @@
       "publishedAt": "2026-08-24T10:02:04.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerptHi": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
+      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
+      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
       "archived": false
     },
     {
@@ -819,51 +863,6 @@
       "titleHi": "SHEIN का लक्ष्य शेयर बाजार की शुरुआत में लगभग $ 27 बिलियन का मूल्यांकन करना है",
       "excerptHi": "फास्ट - फैशन दिग्गज के शेयर 1 सितंबर को हांगकांग में व्यापार शुरू करने वाले हैं।",
       "archived": true
-    },
-    {
-      "id": "2c91a82a84c22dcf40e232b31af44696aa983e14",
-      "slug": "fast-fashion-giant-shein-aims-for-27bn-valuation-in-hong-kon-2c91a8",
-      "title": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-      "excerpt": "Known for selling cheap clothing, the online retailer has seen its value drop sharply from earlier estimates amid scrutiny over its environmental footprint Shein will debut on the Hong Kong stock exchange on 1…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Culture"
-      ],
-      "source": "The Guardian",
-      "author": "Guardian staff with agencies",
-      "image": "https://i.guim.co.uk/img/media/a5f2728ff52788c315c073da43cf496d9cf46c65/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=75297e9c85a7d2c725f4b243af50bedb",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T04:02:59.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "guid": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "titleHi": "फ़ास्ट - फ़ैशन की दिग्गज कंपनी शीन का लक्ष्य हांगकांग के बाज़ार में $ 27 बिलियन का मूल्यांकन करना है",
-      "excerptHi": "सस्ते कपड़े बेचने के लिए जाना जाता है, ऑनलाइन खुदरा विक्रेता ने अपने पर्यावरण पदचिह्न पर जांच के बीच पहले के अनुमानों से अपने मूल्य में तेजी से गिरावट देखी है। शीन 1…",
-      "archived": true
-    },
-    {
-      "id": "cff087719cbd2db84e5070e78be00043f863fb51",
-      "slug": "ex-cricket-captains-urge-proper-medical-care-for-imran-khan-cff087",
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "excerpt": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "category": "World",
-      "secondaryCategories": [
-        "Sports"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T03:55:35.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo#1",
-      "titleHi": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "excerptHi": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
-      "archived": true
     }
   ],
   "africa": [
@@ -945,7 +944,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o#1",
       "titleHi": "Four arrested over boxing champion's murder in South Africa",
       "excerptHi": "One of the suspects is due in court on Monday to be charged with murder and attempted murder.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e5c482f8a0e1da63ca068689eb7bfb7adf774869",
@@ -1072,6 +1071,29 @@
   ],
   "middleeast": [
     {
+      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
+      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
+      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": false
+    },
+    {
       "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
       "slug": "irans-rial-falls-to-record-low-as-scott-bessent-warns-of-eco-347811",
       "title": "Iran’s rial falls to record low as Scott Bessent warns of ‘economic D-day’ – business live",
@@ -1133,8 +1155,8 @@
       "publishedAt": "2026-08-24T10:05:31.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
       "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerptHi": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
+      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
+      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
       "archived": false
     },
     {
@@ -1155,8 +1177,8 @@
       "publishedAt": "2026-08-24T10:02:04.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
       "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerptHi": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
+      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
+      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
       "archived": false
     },
     {
@@ -1180,7 +1202,7 @@
       "guid": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
       "titleHi": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
       "excerptHi": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5400628a8e7ef84c81efd94a822ec35be3dfcdef",
@@ -1262,28 +1284,6 @@
       "guid": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
       "titleHi": "ट्रम्प ने ट्रूथ सोशल पर होर्मुज का दावा किया, रेज़ई ने कहा, 'जब तक अमेरिका नहीं बदलता तब तक बंद रहें'",
       "excerptHi": "रेज़ाई ने ईरानी सरकारी टीवी को बताया कि अमेरिकी दावों के बावजूद, होर्मुज जलडमरूमध्य बंद है, और जब तक अमेरिका अपना 'व्यवहार' नहीं बदलता तब तक इसे फिर से नहीं खोला जाएगा।",
-      "archived": true
-    },
-    {
-      "id": "0f7415ce5b12a30f40334c112c439b07f01ee2d0",
-      "slug": "burnham-to-face-pressure-at-labour-conference-to-recognise-i-0f7415",
-      "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-      "excerpt": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on Israel Grassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the party’s members seek…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Aletha Adu Political correspondent",
-      "image": "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=99bebcae427ae922d5520e53df6bd442",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T11:26:40.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "guid": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "titleHi": "बर्नहम को गाजा में इजरायल के कार्यों को नरसंहार के रूप में मान्यता देने के लिए श्रम सम्मेलन में दबाव का सामना करना पड़ेगा",
-      "excerptHi": "जमीनी स्तर के समूह प्रधानमंत्री से स्टारर नीति को तोड़ने और इजरायल जमीनी स्तर के श्रम समूहों पर पूर्ण हथियार प्रतिबंध लगाने का आग्रह करने के लिए गाजा पर एंडी बर्नहम के साथ एक सम्मेलन शोडाउन की तैयारी कर रहे हैं, क्योंकि पार्टी के सदस्य चाहते हैं...",
       "archived": true
     }
   ],
@@ -1501,6 +1501,26 @@
   ],
   "oceania": [
     {
+      "id": "f631750f09188cef292f0a493292da50afff5071",
+      "slug": "new-zealand-to-introduce-bill-for-under-16s-social-media-ban-f63175",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "excerpt": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T12:17:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
+      "titleHi": "न्यूजीलैंड अंडर -16 सोशल मीडिया प्रतिबंध के लिए विधेयक पेश करेगा",
+      "excerptHi": "सरकार को सांसदों के अपने प्रस्तावों के विरोध का सामना करना पड़ता है जो मानते हैं कि प्रतिबंध काम नहीं करेगा।",
+      "archived": false
+    },
+    {
       "id": "ebbd2894abf62abe24b225400da7d16162a18f3e",
       "slug": "boks-drop-feinberg-mngomezulu-to-bench-for-all-blacks-rematc-ebbd28",
       "title": "Boks drop Feinberg-Mngomezulu to bench for All Blacks rematch",
@@ -1538,8 +1558,8 @@
       "publishedAt": "2026-08-24T09:27:51.000Z",
       "sourceUrl": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
       "guid": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-      "titleHi": "New Zealand's government introduces legislation to ban social media for under-16s",
-      "excerptHi": "Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.",
+      "titleHi": "न्यूजीलैंड की सरकार ने अंडर -16 के लिए सोशल मीडिया पर प्रतिबंध लगाने के लिए कानून पेश किया",
+      "excerptHi": "प्रस्तावित कानून के तहत, यदि मेटा जैसी फर्में अनुपालन करने में विफल रहती हैं, तो उन पर उनके वैश्विक राजस्व का 10% तक जुर्माना लगाया जा सकता है।",
       "archived": false
     },
     {
@@ -1696,31 +1716,75 @@
       "titleHi": "ऑस्ट्रेलियाई शार्क अटैक पीड़ित 'जीवन में दूसरा मौका' पाने के लिए आभारी है",
       "excerptHi": "जून में एक शार्क ने लिआ स्टीवर्ट को घायल कर दिया था, जिसके हाथों और पैरों में कई काटने थे।",
       "archived": true
-    },
-    {
-      "id": "50487404df51256af814730166f3c0f95ab9f84e",
-      "slug": "ireland-seal-highest-world-cup-finish-despite-loss-504874",
-      "title": "Ireland seal highest World Cup finish despite loss",
-      "excerpt": "Ireland will face either New Zealand or Pakistan ninth place at the World Cup despite Sunday's 2-1 defeat by France.",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa1/live/eacfa0f0-9f03-11f1-8ab2-7700e58d1417.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-23T15:27:11.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/olympics/articles/c1m1mynrp22o#11",
-      "titleHi": "आयरलैंड ने हार के बावजूद विश्व कप का सबसे बड़ा खिताब अपने नाम किया",
-      "excerptHi": "रविवार को फ्रांस से 2 -1 से हार के बावजूद आयरलैंड का सामना विश्व कप में न्यूजीलैंड या पाकिस्तान से नौवें स्थान पर होगा।",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "eaafae8a7e11b0410d8f5a379985c52bb5e408a9",
+      "slug": "first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-eaafae",
+      "title": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
+      "excerpt": "Key speech to be delivered this week at Jackson Hole said to focus on productivity and demographics in the US. Plus, how do you vaccinate 1,000 little penguins in the wild? Good morning. The new US Federal Reserve…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Martin Belam",
+      "image": "https://i.guim.co.uk/img/media/8a52e2628172d7b6407f8757a2519cd195ecc884/704_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=53ff281a77b26454b6555d1026844abf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T12:28:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/first-thing-new-fed-chair-kevin-warsh-faces-early-test-amid-bond-market-worries",
+      "titleHi": "पहली बात: बॉन्ड बाजार की चिंताओं के बीच नई फेड चेयर केविन वॉश को शुरुआती परीक्षा का सामना करना पड़ रहा है",
+      "excerptHi": "जैक्सन होल में इस सप्ताह दिया जाने वाला मुख्य भाषण अमेरिका में उत्पादकता और जनसांख्यिकी पर ध्यान केंद्रित करने के लिए कहा गया। इसके अलावा, आप जंगली में 1,000 छोटे पेंगुइन का टीकाकरण कैसे करते हैं? सुप्रभात। नया अमेरिकी फेडरल रिजर्व...",
+      "archived": false
+    },
+    {
+      "id": "f631750f09188cef292f0a493292da50afff5071",
+      "slug": "new-zealand-to-introduce-bill-for-under-16s-social-media-ban-f63175",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "excerpt": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded3/live/dc9e0600-9fa5-11f1-bff6-57f1422ebb0b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T12:17:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cj068q7qj19o#1",
+      "titleHi": "न्यूजीलैंड अंडर -16 सोशल मीडिया प्रतिबंध के लिए विधेयक पेश करेगा",
+      "excerptHi": "सरकार को सांसदों के अपने प्रस्तावों के विरोध का सामना करना पड़ता है जो मानते हैं कि प्रतिबंध काम नहीं करेगा।",
+      "archived": false
+    },
+    {
+      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
+      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
+      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T11:53:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
+      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
+      "archived": false
+    },
     {
       "id": "97d306bab1fa9b73de2a48acaed23c8d89ef2d18",
       "slug": "nearly-90000-told-to-evacuate-as-wildfire-approaches-reno-ne-97d306",
@@ -1868,68 +1932,6 @@
       "guid": "https://www.theguardian.com/media/2026/aug/24/minister-tells-social-media-firms-to-remove-posts-that-celebrate-dangerous-driving-after-a66-crash",
       "titleHi": "मंत्री ने सोशल मीडिया फर्मों से कहा कि वे उन पोस्ट को हटा दें जो A66 दुर्घटना के बाद खतरनाक ड्राइविंग का ’जश्न’ मनाते हैं",
       "excerptHi": "ल्यूक पोलार्ड का कहना है कि सरकार प्लेटफ़ॉर्म को कंटेंट हटाने के लिए मजबूर करेगी, हाल ही में एक कार को गलत दिशा में चलाने से जुड़ी घातक दुर्घटना के बाद एक मंत्री ने सोशल मीडिया कंपनियों पर दबाव डाला है कि वे अपने …",
-      "archived": false
-    },
-    {
-      "id": "6655729cdf1212abd5ed2574698f54947f7f063b",
-      "slug": "iran-faces-greatest-financial-offensive-ever-says-us-treasur-665572",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "excerpt": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:39:23.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
-      "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": false
-    },
-    {
-      "id": "cdeb4f595e9790150201e369988a9083e16a7f9e",
-      "slug": "thames-water-creditors-accused-of-shuffling-deckchairs-with-cdeb4f",
-      "title": "Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board",
-      "excerpt": "Campaigners say proposal for £10bn rescue deal in bid to avoid nationalisation is a ‘cosy stitch-up’ Business live – latest updates The group of creditors pursuing a rescue bid for Thames Water have been accused of…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Alex Daniel",
-      "image": "https://i.guim.co.uk/img/media/9910423652da5401c9097985111b82459db949cd/641_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0228071c7edd2bcb94bf8e02be728881",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:38:07.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
-      "guid": "https://www.theguardian.com/business/2026/aug/24/thames-water-investors-board-nationalisation-rescue-deal",
-      "titleHi": "टेम्स वाटर लेनदारों पर नए बोर्ड की योजना के साथ 'डेकचेयर में फेरबदल' करने का आरोप है",
-      "excerptHi": "अभियानकर्ताओं का कहना है कि राष्ट्रीयकरण से बचने के लिए £ 10 बिलियन के बचाव सौदे का प्रस्ताव एक ‘आरामदायक सिलाई - अप’ व्यवसाय लाइव है – नवीनतम अपडेट टेम्स वाटर के लिए बचाव बोली लगाने वाले लेनदारों के समूह पर आरोप लगाया गया है...",
-      "archived": false
-    },
-    {
-      "id": "dd3abd4dcc347b90a0c865ed2db5e1e1a9e27420",
-      "slug": "children-make-up-half-of-mpox-cases-in-guinea-bissau-as-epid-dd3abd",
-      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
-      "excerpt": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetected More than half of the mpox cases reported in Guinea-Bissau have been among children, local…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Eromo Egbejule in Cotonou",
-      "image": "https://i.guim.co.uk/img/media/d2a4be74e38b869df6f4dd0020e652ff3c0cfa37/1005_0_1339_1072/master/1339.jpg?width=140&quality=85&auto=format&fit=max&s=d796a93349fdb0d90ada0d6b0b5f5fd3",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:11:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "guid": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-      "titleHi": "गिनी-बिसाऊ में महामारी फैलने के साथ ही एमपीओएक्स के आधे मामले बच्चों के हैं।",
-      "excerptHi": "पश्चिम अफ्रीकी देश ने जुलाई में प्रकोप में 46 संदिग्ध मामलों की घोषणा की, इस आशंका के बीच कि वायरस अनियंत्रित रूप से फैल सकता है गिनी - बिसाऊ में रिपोर्ट किए गए एमपीओएक्स मामलों में से आधे से अधिक बच्चों, स्थानीय…",
       "archived": false
     }
   ]
