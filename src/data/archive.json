@@ -1,8 +1,192 @@
 {
-  "generatedAt": "2026-08-24T21:27:36.660Z",
+  "generatedAt": "2026-08-24T22:24:43.945Z",
   "retentionDays": 45,
-  "total": 2453,
+  "total": 2463,
   "items": [
+    {
+      "id": "7411478fd6a3ce8a39d3e3c4ccced86aff2565ae",
+      "slug": "to-have-a-good-team-we-need-a-great-cole---alonso-on-palmer-741147",
+      "title": "'To have a good team, we need a great Cole' - Alonso on Palmer",
+      "excerpt": "Chelsea manager Xabi Alonso praises Cole Palmer's \"responsibility, maturity and freedom\" after a goal and an assist from the playmaker seals a 3-2 victory over Fulham at Craven Cottage. In Alonso's first Premier League…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1275/live/e570b4a0-a007-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T22:06:18.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o#2",
+      "titleHi": "'एक अच्छी टीम के लिए, हमें एक महान कोल की आवश्यकता है' - पामर पर अलोंसो",
+      "excerptHi": "चेल्सी के प्रबंधक ज़ाबी अलोंसो ने एक गोल के बाद कोल पामर की \"जिम्मेदारी, परिपक्वता और स्वतंत्रता\" की प्रशंसा की और प्लेमेकर की सहायता से क्रेवेन कॉटेज में फुलहम पर 3 -2 की जीत दर्ज की। अलोंसो की पहली प्रीमियर लीग में...",
+      "archived": false
+    },
+    {
+      "id": "c4ac7b475696e48b065d9e722e165805a41579ca",
+      "slug": "kit-harington-joins-hbos-harry-potter-series-as-gilderoy-loc-c4ac7b",
+      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "excerpt": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10a5/live/bee5d940-9ffe-11f1-8a82-5d6af15250d2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:58:49.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c783lnz12vlo#0",
+      "titleHi": "किट हेरिंगटन HBO की हैरी पॉटर सीरीज़ में गिल्डरॉय लॉकहार्ट के रूप में शामिल हुए",
+      "excerptHi": "टेंटपोल गेम ऑफ थ्रोन्स और वित्तीय नाटक द इंडस्ट्री में अभिनय करने के बाद, यह भूमिका HBO के साथ हैरिंगटन के तीसरे सहयोग को चिह्नित करती है।",
+      "archived": false
+    },
+    {
+      "id": "4f0532ffd883f250a5b4cd25df937f9f6e9ad859",
+      "slug": "70000-social-and-affordable-homes-to-be-built-across-england-4f0532",
+      "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+      "excerpt": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T21:58:41.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo#0",
+      "titleHi": "इंग्लैंड में £ 39 बिलियन की योजना के तहत 70,000 सामाजिक और किफ़ायती घर बनाए जाएंगे",
+      "excerptHi": "ग्रेटर मैनचेस्टर, वेस्ट मिडलैंड्स और वेस्ट यॉर्कशायर के साथ - साथ लंदन के लिए £ 6 बिलियन का फ़ंड दिया गया है।",
+      "archived": false
+    },
+    {
+      "id": "4ac8e51aa07fa49ebf7b43281a48da5481a0e5a8",
+      "slug": "palmer-impresses-as-chelsea-edge-past-fulham-to-give-alonso-4ac8e5",
+      "title": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
+      "excerpt": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8592/live/96f26f60-a004-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:53:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo#0",
+      "titleHi": "पामर ने एलोन्सो को पहली जीत दिलाने के लिए फुलहम को पछाड़ते हुए चेल्सी की बढ़त को प्रभावित किया",
+      "excerptHi": "कोल पामर ने जोआओ पेड्रो को चेल्सी के रूप में स्कोर किया और प्रीमियर लीग में क्रेवेन कॉटेज में अल्वारो अरबेलोआ के फुलहम के खिलाफ जीत की शुरुआत की।",
+      "archived": false
+    },
+    {
+      "id": "03b3463a7e0b43ec52c48e88e0cb8410e362ba98",
+      "slug": "cftc-us-soldier-accused-of-illegal-polymarket-bet-spar-over-03b346",
+      "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+      "excerpt": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Turner Wright",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:33:13.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
+      "titleHi": "सीएफटीसी, अमेरिकी सैनिक पर पूर्वानुमान बाजारों की व्याख्या को लेकर अवैध पॉलीमार्केट बेट स्पार का आरोप लगाया गया",
+      "excerptHi": "एक न्यायाधीश ने एक सैनिक के खिलाफ सीएफटीसी के दीवानी मामले पर रोक लगा दी, जिसने कथित तौर पर पॉलीमार्केट बेट के लिए गैर - सार्वजनिक जानकारी का उपयोग किया था, लेकिन नियामक आपराधिक मामले पर तौलने की कोशिश कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "931b0e1dc2eec0a35f3fe3aa59f2c68928c54fd2",
+      "slug": "nottingham-forest-close-in-on-signing-liam-delap-from-chelse-931b0e",
+      "title": "Nottingham Forest close in on signing Liam Delap from Chelsea",
+      "excerpt": "Oliver Glasner wants two more buys in transfer window Aston Villa target Club Brugge defender Joel Ordóñez Nottingham Forest are in advanced talks with Chelsea over a deal for Liam Delap. Oliver Glasner wants two more…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ben Fisher",
+      "image": "https://i.guim.co.uk/img/media/51d8b2537ba6fed81b1826ada84f4f7a247bc961/993_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d79a8d79748a688c3d5e1a6a2f87af62",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:31:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/24/nottingham-forest-liam-delap-chelsea-tranfer-window",
+      "guid": "https://www.theguardian.com/football/2026/aug/24/nottingham-forest-liam-delap-chelsea-tranfer-window",
+      "titleHi": "नॉटिंघम फ़ॉरेस्ट चेल्सी से लियाम डेलाप को साइन करने के करीब है",
+      "excerptHi": "ओलिवर ग्लासनर चाहते हैं कि ट्रांसफ़र विंडो में दो और खरीदें एस्टन विला टारगेट क्लब ब्रुग डिफ़ेंडर जोएल ऑर्डोनेज़ नॉटिंघम फ़ॉरेस्ट लियाम डेलाप के लिए एक सौदे को लेकर चेल्सी के साथ उन्नत बातचीत कर रहे हैं। ओलिवर ग्लासनर दो और चाहते हैं...",
+      "archived": false
+    },
+    {
+      "id": "6bf4cf9e199ca5b6385f5ad9519cd5ee0c149583",
+      "slug": "burnham-backtracks-on-spending-housing-fund-only-on-building-6bf4cf",
+      "title": "Burnham backtracks on spending housing fund only on building social homes",
+      "excerpt": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownership Andy Burnham has backtracked on his proposal to rip up the government’s housing plans and boost…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Kiran Stacey Policy editor",
+      "image": "https://i.guim.co.uk/img/media/09f660e804607aaa7ea9082a76c4d21be4031afe/1460_0_2631_2105/master/2631.jpg?width=140&quality=85&auto=format&fit=max&s=06924db54ae79834474caa9acbbbb0f5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:30:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+      "guid": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+      "titleHi": "बर्नहम केवल सामाजिक घरों के निर्माण पर हाउसिंग फंड खर्च करने से पीछे हट जाता है",
+      "excerptHi": "अफोर्डेबल होम्स प्रोग्राम से £ 10 बिलियन का लगभग 40% अब आश्रय और साझा स्वामित्व जैसे आवासों पर जाएगा एंडी बर्नहम सरकार की आवास योजनाओं को चीरने और बढ़ावा देने के अपने प्रस्ताव पर पीछे हट गए हैं...",
+      "archived": false
+    },
+    {
+      "id": "10e7ec8180d4ccb4cc8d64960f4cef996beb3ba6",
+      "slug": "target-apologizes-for-offensive-halloween-costume-after-back-10e7ec",
+      "title": "Target apologizes for ‘offensive’ Halloween costume after backlash",
+      "excerpt": "Retailer removes kid’s clown costume after people said it resembled a racist caricature used in minstrel shows Target, the US retail corporation, said it pulled a controversial Halloween costume off its shelves after…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Adria R Walker",
+      "image": "https://i.guim.co.uk/img/media/4922c86d9ab15f39cb1bb15faabd1b4fedf8ae4e/365_0_3294_2636/master/3294.jpg?width=140&quality=85&auto=format&fit=max&s=8018c557f2d0b3cdf86f230948155f53",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:29:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "titleHi": "टारगेट ने बैकलैश के बाद हैलोवीन की ‘आक्रामक’ पोशाक के लिए माफ़ी मांगी",
+      "excerptHi": "खुदरा विक्रेता ने बच्चे की जोकर पोशाक को हटा दिया जब लोगों ने कहा कि यह मिनस्ट्रेल शो टारगेट में इस्तेमाल किए गए नस्लवादी कार्टिकचर जैसा दिखता है, अमेरिकी खुदरा निगम ने कहा कि उसने अपनी अलमारियों से एक विवादास्पद हेलोवीन पोशाक खींची...",
+      "archived": false
+    },
+    {
+      "id": "d6ef1bbc956cdb4a7b8f7256baa94573d6782ddb",
+      "slug": "us-canada-trade-war-escalates-as-trump-threatens-tariff-hike-d6ef1b",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "excerpt": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59dc/live/1a42fea0-9ff8-11f1-be19-71b839ccdc73.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:20:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c93vpd60654o#0",
+      "titleHi": "अमेरिका - कनाडा व्यापार युद्ध बढ़ गया क्योंकि कार्नी के प्रतिशोध की कसम खाने के बाद ट्रम्प ने ऑटो पर टैरिफ वृद्धि की धमकी दी",
+      "excerptHi": "मार्क कार्नी ने ट्रम्प पर कनाडा के ऑटो उद्योग को \"नष्ट\" करने का आरोप लगाया, और कहा कि वह केवल तभी व्यापार वार्ता फिर से शुरू करेंगे जब अमेरिका \"सही रवैया\" के साथ आएगा।",
+      "archived": false
+    },
     {
       "id": "127cdcf889e8ed6f5fb494b9d5e61352ed6d870c",
       "slug": "us-supreme-court-rules-trump-can-proceed-with-crackdown-on-m-127cdc",
@@ -1076,7 +1260,7 @@
       "guid": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
       "titleHi": "Zillow और Redfin ने अपनी रेंटल लिस्टिंग पार्टनरशिप को लेकर FTC एंटीट्रस्ट केस सुलझा लिया है",
       "excerptHi": "FTC और Zillow ने एक समझौते की घोषणा की है जो इस मामले को समाप्त करता है जिसमें आरोप लगाया गया है कि Zillow और Redfin के बीच 2025 की \"साझेदारी\" ने अविश्वास कानूनों का उल्लंघन किया है। FTC ने आरोप लगाया था कि Zillow अपने सिंडिकेट के लिए Redfin को भुगतान करने के लिए सहमत हुआ...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0fcdee3fa1bab15d796652dfae9a90050066b5fe",
@@ -1098,7 +1282,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
       "titleHi": "‘उस छोटी सी जगह को ठीक करें ': डेनिश पीएम को युद्ध क्षेत्र में रहते हुए भी ब्यूटी टिप्स मिलते हैं",
       "excerptHi": "कीव में बैठक में भाग ले रहे मेट फ्रेडरिक्सन, हाई - प्रोफाइल महिलाओं को सलाह देते हैं कि वे सोशल मीडिया पर अवांछित ब्यूटी टिप्स प्राप्त करने के लिए आत्म - स्वीकृति को गले लगाएं, भले ही वह एक युद्ध क्षेत्र में हों, डेनमार्क के प्रधान मंत्री...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4eca8e428881c92a4063b7700b4386ec9761e5d9",
@@ -1118,7 +1302,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cx2ze3dz4jro#3",
       "titleHi": "रॉयल एंटवर्प से सुंदरलैंड ने अहोका पर हस्ताक्षर किए",
       "excerptHi": "सुंदरलैंड ने 10 मिलियन यूरो (£ 8.6 मिलियन) शुल्क के लिए मिडफ़ील्डर जूल्स अहोका के हस्ताक्षर की पुष्टि की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9d308cd10d263da2d4d3212609630ecae83e29a4",
@@ -1138,7 +1322,7 @@
       "guid": "https://cointelegraph.com/news/strive-buys-1110-bitcoin-for-815m-holdings-top-21k-btc",
       "titleHi": "स्ट्राइव ने $ 81.5M में 1,110 बिटकॉइन खरीदे, होल्डिंग्स टॉप 21K BTC; ASST के शेयरों में 11% का उछाल",
       "excerptHi": "स्ट्राइव के नैस्डैक - ट्रेडेड शेयरों में 11% से अधिक की वृद्धि हुई क्योंकि बिटकॉइन ट्रेजरी कंपनी ने कहा कि उसने प्रति बीटीसी औसतन $ 73,409 का भुगतान किया, जिससे इसकी होल्डिंग 21,356 बिटकॉइन हो गई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9605b2b62d248a306774d3e1159565eb343e71f6",
@@ -1158,7 +1342,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo#0",
       "titleHi": "वाटकिंस का प्रस्थान सबसे गहरा कट जाएगा - और विला ने इसे आते नहीं देखा",
       "excerptHi": "ओली वाटकिंस एस्टन विला के दिग्गज रहे हैं, लेकिन ऐसा लगता है कि सऊदी अरब की दिलचस्पी के बीच क्लब में उनका समय एक दर्दनाक अंत के करीब है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ee4f63f58188d61bab59913eb8dedb59dc413423",
@@ -1178,7 +1362,7 @@
       "guid": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
       "titleHi": "रोबोटैक्सिस अब वास्तविक हैं — इसलिए पुशबैक भी है",
       "excerptHi": "रोबोटैक्सिस का विस्तार हो रहा है। इसलिए उन्हें नियंत्रित करने वाले नियमों पर लड़ाई भी है। न्यूयॉर्क में, गवर्नर कैथी होचुल ने इस साल की शुरुआत में एक प्रस्ताव वापस ले लिया था, जिसने न्यूयॉर्क शहर के बाहर ड्राइवर रहित रोबोटिक्स के लिए दरवाज़ा खोल दिया होता...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c9aebfa9bbc57b4e6701d06af2bfe9545e7975dc",
@@ -1198,7 +1382,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
       "titleHi": "रूपर्ट लोवे को एलोन मस्क के एक्स पर विभाजनकारी पदों के लिए उतना ही भुगतान किया जाएगा जितना कि सांसद होने के लिए",
       "excerptHi": "Restore Britain के लीडर को प्लैटफ़ॉर्म के ज़रिए प्रति घंटे £ 1,476 तक का भुगतान किया जाता है, जिसे आलोचकों का कहना है कि वह भड़काऊ कॉन्टेंट को आर्थिक रूप से प्रोत्साहित कर रहा है। Restore Britain के लीडर Rupert Lowe सोशल मीडिया से उतनी ही कमाई करने वाले हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "71af33c3c729553adca274032d9bc883ce4dee42",
@@ -1218,7 +1402,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
       "titleHi": "प्रिंस हैरी ने मानवाधिकारों के हनन के बाद वन्यजीव चैरिटी के बोर्ड से इस्तीफा दिया",
       "excerptHi": "ससेक्स के ड्यूक के प्रवक्ता का कहना है कि वह अफ्रीकी पार्क के मिशन के ‘सक्रिय और उत्साही समर्थक’ बने हुए हैं ससेक्स के ड्यूक ने एक प्रमुख अफ्रीकी वन्यजीव चैरिटी के बोर्ड से इस्तीफा दे दिया है जो केंद्र में था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "275e7e9098ffa6938ac3c56fd931b147f2af6fa8",
@@ -1238,7 +1422,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/c4gdq21de29o#0",
       "titleHi": "अधिक बारिश और आंधी - तूफान ब्रिटेन के रास्ते की ओर बढ़ रहे हैं",
       "excerptHi": "अधिक बारिश और आंधी - तूफान ब्रिटेन के रास्ते की ओर बढ़ रहे हैं",
-      "archived": false
+      "archived": true
     },
     {
       "id": "eae5ac2e5acec72d8d5aa3611ef0be0b4b82250f",
@@ -2119,6 +2303,26 @@
       "guid": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo#5",
       "titleHi": "1971 में छिपा सिक्का खोजक मुक्त बियर कमाता है",
       "excerptHi": "बिसेस्टर में ऐली मीड द्वारा खोजे गए कार्ड ने \"पैसा लौटाने पर एक पिंट बेस्ट बियर\" का वादा किया।",
+      "archived": true
+    },
+    {
+      "id": "ff47147c0d686084d6cf00241b5afe4bb4132865",
+      "slug": "scottish-national-investment-bank-makes-painful-138m-net-los-ff4714",
+      "title": "Scottish National Investment Bank makes 'painful' £138m net loss",
+      "excerpt": "The publicly-owned body, which operates independently, has invested in several firms that collapsed last year.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cc6/live/e63e1960-9f9c-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T14:06:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8kd9jn8o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyl8kd9jn8o#0",
+      "titleHi": "Scottish National Investment Bank makes 'painful' £138m net loss",
+      "excerptHi": "The publicly-owned body, which operates independently, has invested in several firms that collapsed last year.",
       "archived": true
     },
     {

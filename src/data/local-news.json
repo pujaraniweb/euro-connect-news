@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:27:36.660Z",
+  "generatedAt": "2026-08-24T22:24:43.945Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,66 @@
   ],
   "usa": [
     {
+      "id": "03b3463a7e0b43ec52c48e88e0cb8410e362ba98",
+      "slug": "cftc-us-soldier-accused-of-illegal-polymarket-bet-spar-over-03b346",
+      "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+      "excerpt": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Turner Wright",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-prediction-market-cftc-rule-1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:33:13.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations",
+      "titleHi": "सीएफटीसी, अमेरिकी सैनिक पर पूर्वानुमान बाजारों की व्याख्या को लेकर अवैध पॉलीमार्केट बेट स्पार का आरोप लगाया गया",
+      "excerptHi": "एक न्यायाधीश ने एक सैनिक के खिलाफ सीएफटीसी के दीवानी मामले पर रोक लगा दी, जिसने कथित तौर पर पॉलीमार्केट बेट के लिए गैर - सार्वजनिक जानकारी का उपयोग किया था, लेकिन नियामक आपराधिक मामले पर तौलने की कोशिश कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "10e7ec8180d4ccb4cc8d64960f4cef996beb3ba6",
+      "slug": "target-apologizes-for-offensive-halloween-costume-after-back-10e7ec",
+      "title": "Target apologizes for ‘offensive’ Halloween costume after backlash",
+      "excerpt": "Retailer removes kid’s clown costume after people said it resembled a racist caricature used in minstrel shows Target, the US retail corporation, said it pulled a controversial Halloween costume off its shelves after…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Adria R Walker",
+      "image": "https://i.guim.co.uk/img/media/4922c86d9ab15f39cb1bb15faabd1b4fedf8ae4e/365_0_3294_2636/master/3294.jpg?width=140&quality=85&auto=format&fit=max&s=8018c557f2d0b3cdf86f230948155f53",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:29:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "titleHi": "टारगेट ने बैकलैश के बाद हैलोवीन की ‘आक्रामक’ पोशाक के लिए माफ़ी मांगी",
+      "excerptHi": "खुदरा विक्रेता ने बच्चे की जोकर पोशाक को हटा दिया जब लोगों ने कहा कि यह मिनस्ट्रेल शो टारगेट में इस्तेमाल किए गए नस्लवादी कार्टिकचर जैसा दिखता है, अमेरिकी खुदरा निगम ने कहा कि उसने अपनी अलमारियों से एक विवादास्पद हेलोवीन पोशाक खींची...",
+      "archived": false
+    },
+    {
+      "id": "d6ef1bbc956cdb4a7b8f7256baa94573d6782ddb",
+      "slug": "us-canada-trade-war-escalates-as-trump-threatens-tariff-hike-d6ef1b",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "excerpt": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59dc/live/1a42fea0-9ff8-11f1-be19-71b839ccdc73.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:20:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c93vpd60654o#0",
+      "titleHi": "अमेरिका - कनाडा व्यापार युद्ध बढ़ गया क्योंकि कार्नी के प्रतिशोध की कसम खाने के बाद ट्रम्प ने ऑटो पर टैरिफ वृद्धि की धमकी दी",
+      "excerptHi": "मार्क कार्नी ने ट्रम्प पर कनाडा के ऑटो उद्योग को \"नष्ट\" करने का आरोप लगाया, और कहा कि वह केवल तभी व्यापार वार्ता फिर से शुरू करेंगे जब अमेरिका \"सही रवैया\" के साथ आएगा।",
+      "archived": false
+    },
+    {
       "id": "127cdcf889e8ed6f5fb494b9d5e61352ed6d870c",
       "slug": "us-supreme-court-rules-trump-can-proceed-with-crackdown-on-m-127cdc",
       "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
@@ -356,71 +416,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
       "titleHi": "अमेरिकी अधिकारियों का कहना है कि अल्फाल्फा स्प्राउट्स 15 राज्यों में खाद्य - विषाक्तता के प्रकोप से जुड़े हुए हैं",
       "excerptHi": "सीडीसी का कहना है कि एजेंसी को राष्ट्रीय स्तर पर खाद्य - विषाक्तता के दर्जनों मामलों के बारे में पता है, इसके बाद सब कुछ स्प्राउट्स उत्पादों को याद करता है अमेरिकी स्वास्थ्य अधिकारियों ने हाल ही में कहा कि अल्फाल्फा स्प्राउट्स से जुड़ा एक खाद्य - विषाक्तता का प्रकोप और इसमें शामिल है...",
-      "archived": false
-    },
-    {
-      "id": "68453b629606f679e5fac540f9293cf0d096a9ab",
-      "slug": "us-threatens-severe-sanctions-against-countries-with-economi-68453b",
-      "title": "US threatens severe sanctions against countries with economic ties to Iran",
-      "excerpt": "Washington launches campaign to isolate Tehran but it is unclear whether it would apply sanctions to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Julian Borger",
-      "image": "https://i.guim.co.uk/img/media/0c25779d85551b1f9c981d3adfc0cf7693c858ac/125_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=33797d0562ad8346415a81e0634e4f0f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:57:57.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-      "titleHi": "अमेरिका ने ईरान के साथ आर्थिक संबंध रखने वाले देशों के खिलाफ गंभीर प्रतिबंधों की धमकी दी",
-      "excerptHi": "वाशिंगटन ने तेहरान को अलग - थलग करने के लिए अभियान शुरू किया लेकिन यह स्पष्ट नहीं है कि वह चीन पर प्रतिबंध लगाएगा या नहीं। अमेरिका ने किसी भी देश या संस्था के साथ आर्थिक संबंध बनाए रखने के लिए गंभीर प्रतिबंध लगाने की धमकी दी है...",
-      "archived": false
-    },
-    {
-      "id": "d2d161f43a56f812bd6cef24076a0a1c831592af",
-      "slug": "trump-announces-new-50-tariff-on-canadian-cars-trucks-and-st-d2d161",
-      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-      "excerpt": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Gaya Gupta",
-      "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:55:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "titleHi": "ट्रम्प ने कनाडाई कारों, ट्रकों और स्टील पर नए 50% टैरिफ की घोषणा की",
-      "excerptHi": "ऐतिहासिक रूप से मजबूत आर्थिक संबंधों वाले पड़ोसियों के बीच व्यापार संबंधों में यह नवीनतम गिरावट है डोनाल्ड ट्रम्प ने कनाडा से ऑटोमोबाइल और महत्वपूर्ण कच्चे माल पर एक नए 50% टैरिफ की घोषणा की, नवीनतम…",
-      "archived": false
-    },
-    {
-      "id": "e65c85e7e4c8b07132806e68481288cfd57d215b",
-      "slug": "french-tourist-dies-in-californias-death-valley-after-being-e65c85",
-      "title": "French tourist dies in California’s Death Valley after being stranded in heat",
-      "excerpt": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park road A French tourist recently died in Death Valley national park after a car mishap left him stranded in 116F…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Maya Yang",
-      "image": "https://i.guim.co.uk/img/media/b76e2cbaab6441e93c769a75e6987cf347ad859f/407_0_4051_3243/master/4051.jpg?width=140&quality=85&auto=format&fit=max&s=92f87ca748f2015b9f8186838d6870b8",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:55:22.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
-      "titleHi": "कैलिफ़ोर्निया की डेथ वैली में गर्मी में फंसे फ्रांसीसी पर्यटक की मौत",
-      "excerptHi": "68 वर्षीय व्यक्ति को 116F मौसम में मदद की तलाश में छोड़ दिया गया था क्योंकि उसकी कार रिमोट पार्क रोड के साथ कीचड़ में फंस गई थी। डेथ वैली नेशनल पार्क में हाल ही में एक फ्रांसीसी पर्यटक की मौत हो गई थी, जब एक कार दुर्घटना ने उसे 116F में फंस दिया था...",
       "archived": false
     }
   ],
@@ -572,7 +567,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
       "titleHi": "‘उस छोटी सी जगह को ठीक करें ': डेनिश पीएम को युद्ध क्षेत्र में रहते हुए भी ब्यूटी टिप्स मिलते हैं",
       "excerptHi": "कीव में बैठक में भाग ले रहे मेट फ्रेडरिक्सन, हाई - प्रोफाइल महिलाओं को सलाह देते हैं कि वे सोशल मीडिया पर अवांछित ब्यूटी टिप्स प्राप्त करने के लिए आत्म - स्वीकृति को गले लगाएं, भले ही वह एक युद्ध क्षेत्र में हों, डेनमार्क के प्रधान मंत्री...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c9aebfa9bbc57b4e6701d06af2bfe9545e7975dc",
@@ -592,7 +587,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
       "titleHi": "रूपर्ट लोवे को एलोन मस्क के एक्स पर विभाजनकारी पदों के लिए उतना ही भुगतान किया जाएगा जितना कि सांसद होने के लिए",
       "excerptHi": "Restore Britain के लीडर को प्लैटफ़ॉर्म के ज़रिए प्रति घंटे £ 1,476 तक का भुगतान किया जाता है, जिसे आलोचकों का कहना है कि वह भड़काऊ कॉन्टेंट को आर्थिक रूप से प्रोत्साहित कर रहा है। Restore Britain के लीडर Rupert Lowe सोशल मीडिया से उतनी ही कमाई करने वाले हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "eae5ac2e5acec72d8d5aa3611ef0be0b4b82250f",
@@ -890,7 +885,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
       "titleHi": "प्रिंस हैरी ने मानवाधिकारों के हनन के बाद वन्यजीव चैरिटी के बोर्ड से इस्तीफा दिया",
       "excerptHi": "ससेक्स के ड्यूक के प्रवक्ता का कहना है कि वह अफ्रीकी पार्क के मिशन के ‘सक्रिय और उत्साही समर्थक’ बने हुए हैं ससेक्स के ड्यूक ने एक प्रमुख अफ्रीकी वन्यजीव चैरिटी के बोर्ड से इस्तीफा दे दिया है जो केंद्र में था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2f3e082a5d9e28ba1984225fa69728d9f66f717e",
@@ -1159,7 +1154,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo#0",
       "titleHi": "वाटकिंस का प्रस्थान सबसे गहरा कट जाएगा - और विला ने इसे आते नहीं देखा",
       "excerptHi": "ओली वाटकिंस एस्टन विला के दिग्गज रहे हैं, लेकिन ऐसा लगता है कि सऊदी अरब की दिलचस्पी के बीच क्लब में उनका समय एक दर्दनाक अंत के करीब है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d4e6ef210e98c128cc93fd1e2ea16e789a9b9963",
@@ -1700,6 +1695,48 @@
   ],
   "world": [
     {
+      "id": "6bf4cf9e199ca5b6385f5ad9519cd5ee0c149583",
+      "slug": "burnham-backtracks-on-spending-housing-fund-only-on-building-6bf4cf",
+      "title": "Burnham backtracks on spending housing fund only on building social homes",
+      "excerpt": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownership Andy Burnham has backtracked on his proposal to rip up the government’s housing plans and boost…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Kiran Stacey Policy editor",
+      "image": "https://i.guim.co.uk/img/media/09f660e804607aaa7ea9082a76c4d21be4031afe/1460_0_2631_2105/master/2631.jpg?width=140&quality=85&auto=format&fit=max&s=06924db54ae79834474caa9acbbbb0f5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:30:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+      "guid": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+      "titleHi": "बर्नहम केवल सामाजिक घरों के निर्माण पर हाउसिंग फंड खर्च करने से पीछे हट जाता है",
+      "excerptHi": "अफोर्डेबल होम्स प्रोग्राम से £ 10 बिलियन का लगभग 40% अब आश्रय और साझा स्वामित्व जैसे आवासों पर जाएगा एंडी बर्नहम सरकार की आवास योजनाओं को चीरने और बढ़ावा देने के अपने प्रस्ताव पर पीछे हट गए हैं...",
+      "archived": false
+    },
+    {
+      "id": "10e7ec8180d4ccb4cc8d64960f4cef996beb3ba6",
+      "slug": "target-apologizes-for-offensive-halloween-costume-after-back-10e7ec",
+      "title": "Target apologizes for ‘offensive’ Halloween costume after backlash",
+      "excerpt": "Retailer removes kid’s clown costume after people said it resembled a racist caricature used in minstrel shows Target, the US retail corporation, said it pulled a controversial Halloween costume off its shelves after…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Adria R Walker",
+      "image": "https://i.guim.co.uk/img/media/4922c86d9ab15f39cb1bb15faabd1b4fedf8ae4e/365_0_3294_2636/master/3294.jpg?width=140&quality=85&auto=format&fit=max&s=8018c557f2d0b3cdf86f230948155f53",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T21:29:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
+      "titleHi": "टारगेट ने बैकलैश के बाद हैलोवीन की ‘आक्रामक’ पोशाक के लिए माफ़ी मांगी",
+      "excerptHi": "खुदरा विक्रेता ने बच्चे की जोकर पोशाक को हटा दिया जब लोगों ने कहा कि यह मिनस्ट्रेल शो टारगेट में इस्तेमाल किए गए नस्लवादी कार्टिकचर जैसा दिखता है, अमेरिकी खुदरा निगम ने कहा कि उसने अपनी अलमारियों से एक विवादास्पद हेलोवीन पोशाक खींची...",
+      "archived": false
+    },
+    {
       "id": "127cdcf889e8ed6f5fb494b9d5e61352ed6d870c",
       "slug": "us-supreme-court-rules-trump-can-proceed-with-crackdown-on-m-127cdc",
       "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
@@ -1869,50 +1906,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
       "titleHi": "अमेरिका ने ईरान के साथ आर्थिक संबंध रखने वाले देशों के खिलाफ गंभीर प्रतिबंधों की धमकी दी",
       "excerptHi": "वाशिंगटन ने तेहरान को अलग - थलग करने के लिए अभियान शुरू किया लेकिन यह स्पष्ट नहीं है कि वह चीन पर प्रतिबंध लगाएगा या नहीं। अमेरिका ने किसी भी देश या संस्था के साथ आर्थिक संबंध बनाए रखने के लिए गंभीर प्रतिबंध लगाने की धमकी दी है...",
-      "archived": false
-    },
-    {
-      "id": "d2d161f43a56f812bd6cef24076a0a1c831592af",
-      "slug": "trump-announces-new-50-tariff-on-canadian-cars-trucks-and-st-d2d161",
-      "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-      "excerpt": "Move is latest deterioration in trade relations between neighbors with historically strong economic ties Donald Trump announced a new 50% tariff on automobiles and crucial raw materials from Canada, the latest…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Gaya Gupta",
-      "image": "https://i.guim.co.uk/img/media/f7ea250d483dd414a2a05713c7763b803c19366f/671_0_6298_5039/master/6298.jpg?width=140&quality=85&auto=format&fit=max&s=eced38cf58618edce61042f3491407f2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:55:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-      "titleHi": "ट्रम्प ने कनाडाई कारों, ट्रकों और स्टील पर नए 50% टैरिफ की घोषणा की",
-      "excerptHi": "ऐतिहासिक रूप से मजबूत आर्थिक संबंधों वाले पड़ोसियों के बीच व्यापार संबंधों में यह नवीनतम गिरावट है डोनाल्ड ट्रम्प ने कनाडा से ऑटोमोबाइल और महत्वपूर्ण कच्चे माल पर एक नए 50% टैरिफ की घोषणा की, नवीनतम…",
-      "archived": false
-    },
-    {
-      "id": "1b4f0543a71f39efdd32d3df6c5c30d3214cb641",
-      "slug": "us-immigration-officers-reassigned-to-screen-south-african-r-1b4f05",
-      "title": "US immigration officers reassigned to screen South African refugees and find ‘unlawful’ voters",
-      "excerpt": "Exclusive: internal correspondence reveals USCIS anti-fraud officers shifted on to two ‘high-priority’ initiatives All US immigration officers working for a key anti-fraud unit have been reassigned by Donald Trump’s…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Joseph Gedeon in Washington",
-      "image": "https://i.guim.co.uk/img/media/5774c8ecb4253f999d056a82edc824b708c1af8d/377_0_4396_3516/master/4396.jpg?width=140&quality=85&auto=format&fit=max&s=e51069b78bceb1fc26cdad829d46485b",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:16:42.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
-      "titleHi": "अमेरिकी आव्रजन अधिकारियों को दक्षिण अफ़्रीकी शरणार्थियों की जाँच करने और ‘गैरकानूनी‘ मतदाताओं को खोजने के लिए फिर से नियुक्त किया गया",
-      "excerptHi": "एक्सक्लूसिव: आंतरिक पत्राचार से पता चलता है कि यूएससीआईएस एंटी - फ्रॉड अधिकारियों को दो ‘उच्च - प्राथमिकता‘ पहलों में स्थानांतरित कर दिया गया है एक प्रमुख एंटी - फ्रॉड यूनिट के लिए काम करने वाले सभी अमेरिकी आव्रजन अधिकारियों को डोनाल्ड ट्रम्प द्वारा फिर से नियुक्त किया गया है...",
       "archived": false
     }
   ]
