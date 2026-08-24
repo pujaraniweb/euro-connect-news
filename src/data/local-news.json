@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:24:43.945Z",
+  "generatedAt": "2026-08-24T23:21:10.312Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,68 @@
   ],
   "usa": [
     {
+      "id": "16ae203008154857abcaaa18a9ad102adf51b0b4",
+      "slug": "watson-among-britons-through-in-us-open-qualifying-16ae20",
+      "title": "Watson among Britons through in US Open qualifying",
+      "excerpt": "Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c8c/live/8c2a9a50-a00c-11f1-ad8f-297f0a59e510.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:11:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o#0",
+      "titleHi": "वाटसन यूएस ओपन क्वालीफाइंग में ब्रिटेन के बीच",
+      "excerptHi": "हीथर वाटसन यूएस ओपन क्वालीफाइंग के पहले दौर में ब्रिटिश विजेताओं में से एक हैं क्योंकि उन्होंने पांच वर्षों में पहली बार न्यूयॉर्क में मुख्य ड्रॉ उपस्थिति के लिए बोली लगाई है।",
+      "archived": false
+    },
+    {
+      "id": "4e105715f921ef7af53eb0a21231b6f8accc9f90",
+      "slug": "what-you-see-is-what-you-pay---why-some-us-restaurants-are-b-4e1057",
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "excerpt": "Tips are central to US dining culture but some eateries think that they are unfair.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T23:04:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c4g36yze692o#0",
+      "titleHi": "'आप जो देखते हैं, वही भुगतान करते हैं' - कुछ अमेरिकी रेस्टोरेंट बख्शीश पर प्रतिबंध क्यों लगा रहे हैं",
+      "excerptHi": "युक्तियाँ अमेरिकी भोजन संस्कृति के लिए केंद्रीय हैं लेकिन कुछ भोजनालयों को लगता है कि वे अनुचित हैं।",
+      "archived": false
+    },
+    {
+      "id": "b827a540d6e6b9638cf2d4afddb208245abf1c03",
+      "slug": "who-has-made-troys-premier-league-team-of-the-week-b827a5",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca2/live/7e0d0430-a00c-11f1-ad8f-297f0a59e510.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:00:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cg59814gvj9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cg59814gvj9o#1",
+      "titleHi": "ट्रॉय की सप्ताह की प्रीमियर लीग टीम किसने बनाई है?",
+      "excerptHi": "इस सीज़न में प्रीमियर लीग के हर दौर के मैचों के बाद, ट्रॉय डेनी हमें सप्ताह की अपनी टीम देते हैं। क्या आप उसकी पसंद से सहमत हैं?",
+      "archived": false
+    },
+    {
       "id": "03b3463a7e0b43ec52c48e88e0cb8410e362ba98",
       "slug": "cftc-us-soldier-accused-of-illegal-polymarket-bet-spar-over-03b346",
       "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
@@ -353,70 +415,6 @@
       "titleHi": "कॉइनबेस से संबद्ध वकालत समूह यूएस मिडटर्म के उम्मीदवारों का समर्थन करता है",
       "excerptHi": "अमेरिकी आम चुनाव तक सिर्फ दो महीने के साथ, स्टैंड विद क्रिप्टो ने \"इतिहास में सबसे अधिक क्रिप्टो कांग्रेस का चुनाव करने\" के अपने प्रयासों में राजनेताओं के लिए अपनी पसंद की घोषणा की।",
       "archived": false
-    },
-    {
-      "id": "2701b4db22291635d13eaeef6313d20ee93960dc",
-      "slug": "coinbase-tokenized-stocks-go-live-on-base-with-chainlink-pri-2701b4",
-      "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-      "excerpt": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "Cointelegraph",
-      "author": "Cointelegraph by Nate Kostar",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-1.png",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T19:11:48.000Z",
-      "sourceUrl": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "guid": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base",
-      "titleHi": "Chainlink मूल्य फ़ीड के साथ Coinbase टोकनकृत स्टॉक बेस पर लाइव होते हैं",
-      "excerptHi": "Coinbase की B20 इक्विटीज Apple और Nvidia सहित स्टॉक को ऑनचेन पर लाती हैं, जिससे योग्य गैर - अमेरिकी उपयोगकर्ता उन्हें 24/7 ट्रेड कर सकते हैं और पूरे DeFi में उनका उपयोग कर सकते हैं।",
-      "archived": false
-    },
-    {
-      "id": "c84a883debbbc2ba1db64d66898acc7ab46e6966",
-      "slug": "us-treasury-secretary-launches-operation-economic-outcast-ai-c84a88",
-      "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
-      "excerpt": "\"Any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system,\" US Treasury Secretary Scott Bessent said on Monday.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T19:11:00.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
-      "guid": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
-      "titleHi": "अमेरिकी वित्त मंत्री ने ईरान को अलग - थलग करने के उद्देश्य से 'ऑपरेशन इकोनॉमिक आउटकास्ट' लॉन्च किया",
-      "excerptHi": "\"कोई भी इकाई जो ईरान की ओर से मनी लॉन्ड्रिंग की सुविधा देती है, उसे अमेरिकी डॉलर प्रणाली से हटा दिया जाएगा ,\" अमेरिकी ट्रेजरी सचिव स्कॉट बेसेंट ने सोमवार को कहा।",
-      "archived": false
-    },
-    {
-      "id": "1cd8e1599383faa1a50956c584fa5c2cf7c5c3b6",
-      "slug": "alfalfa-sprouts-linked-to-food-poisoning-outbreak-in-15-stat-1cd8e1",
-      "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
-      "excerpt": "Everything Sprouts recalls products after CDC says agency is aware of dozens of food-poisoning cases nationally US healthcare officials recently said a food-poisoning outbreak tied to alfalfa sprouts and involving…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Guardian staff and agency",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:58:12.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
-      "titleHi": "अमेरिकी अधिकारियों का कहना है कि अल्फाल्फा स्प्राउट्स 15 राज्यों में खाद्य - विषाक्तता के प्रकोप से जुड़े हुए हैं",
-      "excerptHi": "सीडीसी का कहना है कि एजेंसी को राष्ट्रीय स्तर पर खाद्य - विषाक्तता के दर्जनों मामलों के बारे में पता है, इसके बाद सब कुछ स्प्राउट्स उत्पादों को याद करता है अमेरिकी स्वास्थ्य अधिकारियों ने हाल ही में कहा कि अल्फाल्फा स्प्राउट्स से जुड़ा एक खाद्य - विषाक्तता का प्रकोप और इसमें शामिल है...",
-      "archived": false
     }
   ],
   "europe": [
@@ -545,7 +543,7 @@
       "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/24/camra-campaign-for-real-ale-beer-breweries-pubs",
       "titleHi": "कैमरा की सदस्यता गिरने पर उचित पिंट के लिए पकने वाली समस्याएं",
       "excerptHi": "रहने की लागत ने अभियान समूह को प्रभावित किया है जबकि बहुराष्ट्रीय कंपनियां स्वतंत्र ब्रुअरीज को निचोड़ने की धमकी दे रही हैं सदियों से, लकड़ी का असली एले पंप एक अच्छे ब्रिटिश बूज़र की पहचान रहा है। लेकिन अब समस्याएं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0fcdee3fa1bab15d796652dfae9a90050066b5fe",
@@ -694,7 +692,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cvgy58ql288o#1",
       "titleHi": "नेपाल में 3 साल की बच्ची के साथ बलात्कार और हत्या पर आक्रोश",
       "excerptHi": "लड़की के लापता होने के तीन दिन बाद, पिछले सप्ताह मृत पाए जाने के बाद से विरोध प्रदर्शन हो रहे हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e24edbd604b3fea5dddba8c53a2dc3cba41d3d9e",
@@ -1478,6 +1476,26 @@
   ],
   "oceania": [
     {
+      "id": "cd6f596dd0bee4d914bd0e341a220ba5590d1968",
+      "slug": "new-essendon-coach-mark-mcveigh-tipped-to-approach-james-hir-cd6f59",
+      "title": "New Essendon coach Mark McVeigh tipped to approach James Hird for Bombers AFL role",
+      "excerpt": "McVeigh leaves Sydney Swans to take on role at crisis club Hird was McVeigh’s assistant when interim GWS coach in 2022 Essendon great Matthew Lloyd is certain that new AFL coach Mark McVeigh would love to have James…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/f78d9b110a944d738e3026a14bdcfad54b95c5c0/258_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=72d9eaaab12ca7cc65aa734501715c47",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:11:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/25/essendon-afl-coach-mark-mcveigh-tipped-to-approach-james-hird",
+      "guid": "https://www.theguardian.com/sport/2026/aug/25/essendon-afl-coach-mark-mcveigh-tipped-to-approach-james-hird",
+      "titleHi": "नए एसेन्डन कोच मार्क मैकवे ने बॉम्बर्स एएफएल भूमिका के लिए जेम्स हिर्ड से संपर्क करने की सलाह दी",
+      "excerptHi": "McVeigh संकट क्लब में भूमिका निभाने के लिए सिडनी स्वंस को छोड़ देता है जब 2022 में अंतरिम जीडब्ल्यूएस कोच एसेन्डन महान मैथ्यू लॉयड को यकीन है कि एएफएल के नए कोच मार्क मैकवे जेम्स...",
+      "archived": false
+    },
+    {
       "id": "3f39141bda020b5b05f1681cff802ea11d5ad4aa",
       "slug": "australia-news-live-sydney-trains-plagued-by-morning-cancell-3f3914",
       "title": "Australia news live: Sydney trains plagued by morning cancellations due to ‘urgent’ repairs to overhead wires",
@@ -1669,31 +1687,49 @@
       "titleHi": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
       "excerptHi": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kind Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
       "archived": true
-    },
-    {
-      "id": "01ee725b014d07159be5d051c79d3d78a0de13d8",
-      "slug": "guests-joked-alan-jones-and-alleged-victim-looked-like-a-gre-01ee72",
-      "title": "Guests joked Alan Jones and alleged victim looked ‘like a great couple’ at luncheon, court hears",
-      "excerpt": "Radio host’s indecent assault and sexual touching trial enters fourth week, with shock jock Jason Morrison telling court complainant C appeared ‘stuck’ beside Jones Follow our Australia news live blog for latest updates…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Amanda Meade Media correspondent",
-      "image": "https://i.guim.co.uk/img/media/d41c45e2a459b2a04c57cdc95dd4ef10ca14cf91/1188_529_2934_2347/master/2934.jpg?width=140&quality=85&auto=format&fit=max&s=a2bc74b5124c65b7ee2f44849f006b07",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T05:28:50.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/alan-jones-trial-jason-morrison-2gb-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/alan-jones-trial-jason-morrison-2gb-ntwnfb",
-      "titleHi": "Guests joked Alan Jones and alleged victim looked ‘like a great couple’ at luncheon, court hears",
-      "excerptHi": "Radio host’s indecent assault and sexual touching trial enters fourth week, with shock jock Jason Morrison telling court complainant C appeared ‘stuck’ beside Jones Follow our Australia news live blog for latest updates…",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "da4fe4d9416d4349f1a3f92b56f33a48a3884a9b",
+      "slug": "immense-drop-off-in-support-contributing-to-care-leaver-deat-da4fe4",
+      "title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
+      "excerpt": "Death rate three to four times higher than among general population blamed on isolation of those leaving care ‘He was left on his own’: the care-leaver lives lost to a system that abandons them at 18 Profound isolation…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jessica Murray Social affairs correspondent",
+      "image": "https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1357_0_2899_2319/master/2899.jpg?width=140&quality=85&auto=format&fit=max&s=55b4e029f1d225126df81214cd21878c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:01:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
+      "guid": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
+      "titleHi": "समीक्षा में कहा गया है कि इंग्लैंड में देखभाल करने वाले लीवर की मौतों में योगदान देने वाले समर्थन में ‘अपार ड्रॉप - ऑफ़’",
+      "excerptHi": "सामान्य आबादी की तुलना में मृत्यु दर तीन से चार गुना अधिक है जिसे देखभाल छोड़ने वालों के अलगाव पर दोषी ठहराया गया था ‘वह अपने दम पर छोड़ दिया गया था ': देखभाल - लीवर एक ऐसी प्रणाली से हार जाता है जो उन्हें 18 गहन अलगाव पर छोड़ देती है...",
+      "archived": false
+    },
+    {
+      "id": "e2e5cf4ffd7d2e7651a6ae7fdb93e670e1159855",
+      "slug": "lindsay-clancy-trial-psychologist-says-he-doubts-claim-she-w-e2e5cf",
+      "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
+      "excerpt": "Dr Kirk Heilbrun says he believes Clancy took children’s lives so they wouldn’t ‘suffer’ after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Gabrielle Canonand agencies",
+      "image": "https://i.guim.co.uk/img/media/fa607f938744a7441819afba5272d55134f0903c/296_0_2407_1926/master/2407.jpg?width=140&quality=85&auto=format&fit=max&s=42305b8ac05170f43f13c3adc7136dc6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:00:53.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
+      "titleHi": "लिंडसे क्लेन्सी परीक्षण: मनोवैज्ञानिक का कहना है कि उसे संदेह है कि वह मतिभ्रम कर रही थी",
+      "excerptHi": "डॉ. किर्क हेइलब्रुन का कहना है कि उनका मानना है कि क्लेन्सी ने बच्चों की जान ले ली ताकि वे खुद को मारने के बाद ‘पीड़ित’ न हों। लिंडसे क्लेन्सी के लिए हत्या के मुकदमे के समापन से कुछ ही दिन पहले, एक फोरेंसिक मनोवैज्ञानिक ने कहा...",
+      "archived": false
+    },
     {
       "id": "6bf4cf9e199ca5b6385f5ad9519cd5ee0c149583",
       "slug": "burnham-backtracks-on-spending-housing-fund-only-on-building-6bf4cf",
@@ -1861,51 +1897,6 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
       "titleHi": "विक्टोरिया के प्रीमियर बेन कैरोल विराम पर संकेत देने के बावजूद एसआरएल खर्च के साथ आगे बढ़ते हैं",
       "excerptHi": "विक्टोरियन लोगों के लिए अन्य परियोजनाओं को अधिक महत्वपूर्ण बताने के एक दिन बाद, कैरोल ने ट्रेन लाइन पर आगे बढ़ने के लिए प्रतिबद्ध किया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरियन प्रीमियर, बेन...",
-      "archived": false
-    },
-    {
-      "id": "1cd8e1599383faa1a50956c584fa5c2cf7c5c3b6",
-      "slug": "alfalfa-sprouts-linked-to-food-poisoning-outbreak-in-15-stat-1cd8e1",
-      "title": "Alfalfa sprouts linked to food-poisoning outbreak in 15 states, US officials say",
-      "excerpt": "Everything Sprouts recalls products after CDC says agency is aware of dozens of food-poisoning cases nationally US healthcare officials recently said a food-poisoning outbreak tied to alfalfa sprouts and involving…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Guardian staff and agency",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:58:12.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/food-poisoning-alfalfa-sprouts",
-      "titleHi": "अमेरिकी अधिकारियों का कहना है कि अल्फाल्फा स्प्राउट्स 15 राज्यों में खाद्य - विषाक्तता के प्रकोप से जुड़े हुए हैं",
-      "excerptHi": "सीडीसी का कहना है कि एजेंसी को राष्ट्रीय स्तर पर खाद्य - विषाक्तता के दर्जनों मामलों के बारे में पता है, इसके बाद सब कुछ स्प्राउट्स उत्पादों को याद करता है अमेरिकी स्वास्थ्य अधिकारियों ने हाल ही में कहा कि अल्फाल्फा स्प्राउट्स से जुड़ा एक खाद्य - विषाक्तता का प्रकोप और इसमें शामिल है...",
-      "archived": false
-    },
-    {
-      "id": "68453b629606f679e5fac540f9293cf0d096a9ab",
-      "slug": "us-threatens-severe-sanctions-against-countries-with-economi-68453b",
-      "title": "US threatens severe sanctions against countries with economic ties to Iran",
-      "excerpt": "Washington launches campaign to isolate Tehran but it is unclear whether it would apply sanctions to China The US has threatened to impose severe sanctions against any country or entity maintaining economic ties with…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Julian Borger",
-      "image": "https://i.guim.co.uk/img/media/0c25779d85551b1f9c981d3adfc0cf7693c858ac/125_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=33797d0562ad8346415a81e0634e4f0f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T18:57:57.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/us-severe-sanctions-economic-ties-iran",
-      "titleHi": "अमेरिका ने ईरान के साथ आर्थिक संबंध रखने वाले देशों के खिलाफ गंभीर प्रतिबंधों की धमकी दी",
-      "excerptHi": "वाशिंगटन ने तेहरान को अलग - थलग करने के लिए अभियान शुरू किया लेकिन यह स्पष्ट नहीं है कि वह चीन पर प्रतिबंध लगाएगा या नहीं। अमेरिका ने किसी भी देश या संस्था के साथ आर्थिक संबंध बनाए रखने के लिए गंभीर प्रतिबंध लगाने की धमकी दी है...",
       "archived": false
     }
   ]
