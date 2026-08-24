@@ -28,9 +28,11 @@ export function ArticleCard({ article }: { article: Article }) {
           </span>
         )}
         {article.aiImage && (
-          <span className="absolute right-3 top-3 rounded-sm bg-black/70 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white backdrop-blur">
-            AI Generated
-          </span>
+          <span
+            title="AI-generated image"
+            aria-label="AI-generated image"
+            className="absolute right-3 top-3 h-2.5 w-2.5 rounded-full bg-white/90 ring-2 ring-black/40 backdrop-blur"
+          />
         )}
       </div>
 

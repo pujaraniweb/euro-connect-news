@@ -123,14 +123,15 @@ export default async function ArticlePage({
             className="object-cover"
           />
           {article.aiImage && (
-            <span className="absolute right-3 top-3 rounded-sm bg-black/70 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white backdrop-blur">
-              AI Generated
-            </span>
+            <span
+              title="AI-generated image"
+              aria-label="AI-generated image"
+              className="absolute right-3 top-3 h-3 w-3 rounded-full bg-white/90 ring-2 ring-black/40 backdrop-blur"
+            />
           )}
         </div>
         <figcaption className="mt-2 text-xs text-muted-foreground">
-          {article.aiImage ? t("aiGeneratedImage") : t("representativeImage")} ·{" "}
-          {article.source}
+          {t("representativeImage")} · {article.source}
         </figcaption>
       </figure>
 

@@ -89,9 +89,11 @@ export function Hero({
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent" />
             {lead.aiImage && (
-              <span className="absolute right-3 top-3 rounded-sm bg-black/70 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white backdrop-blur">
-                AI Generated
-              </span>
+              <span
+                title="AI-generated image"
+                aria-label="AI-generated image"
+                className="absolute right-3 top-3 h-2.5 w-2.5 rounded-full bg-white/90 ring-2 ring-black/40 backdrop-blur"
+              />
             )}
           </div>
           <div className="absolute inset-x-0 bottom-0 p-5 text-white sm:p-8">
