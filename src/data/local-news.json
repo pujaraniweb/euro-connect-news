@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:28:42.690Z",
+  "generatedAt": "2026-08-24T20:28:50.048Z",
   "india": [
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
@@ -213,6 +213,26 @@
   ],
   "usa": [
     {
+      "id": "e86f4f00037f97593faad6cd572de21601181510",
+      "slug": "coinbase-affiliated-advocacy-group-endorses-candidates-for-u-e86f4f",
+      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+      "excerpt": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Turner Wright",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T19:18:06.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates",
+      "titleHi": "कॉइनबेस से संबद्ध वकालत समूह यूएस मिडटर्म के उम्मीदवारों का समर्थन करता है",
+      "excerptHi": "अमेरिकी आम चुनाव तक सिर्फ दो महीने के साथ, स्टैंड विद क्रिप्टो ने \"इतिहास में सबसे अधिक क्रिप्टो कांग्रेस का चुनाव करने\" के अपने प्रयासों में राजनेताओं के लिए अपनी पसंद की घोषणा की।",
+      "archived": false
+    },
+    {
       "id": "2701b4db22291635d13eaeef6313d20ee93960dc",
       "slug": "coinbase-tokenized-stocks-go-live-on-base-with-chainlink-pri-2701b4",
       "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
@@ -405,29 +425,29 @@
       "titleHi": "मैनहोल से निकलने वाले लोगों के एक और वीडियो की जांच करने के लिए NYPD",
       "excerptHi": "सोशल मीडिया पर पोस्ट किए गए वीडियो में दिखाया गया है कि तीन लोग सुबह 4 बजे सीवर सिस्टम से बाहर निकल रहे हैं, इसी तरह की रिपोर्ट के महीनों बाद न्यूयॉर्क शहर के पुलिस विभाग (NYPD) का कहना है कि वह तीन लोगों के उभरते हुए वीडियो की जांच कर रहा है...",
       "archived": false
-    },
-    {
-      "id": "04c7dfdc1005ab1527492655dd6dd40ded26f8e0",
-      "slug": "what-comes-in-the-wake-of-woke-10-letters-04c7df",
-      "title": "What comes in the wake of Woke 1.0? | Letters",
-      "excerpt": "Readers respond to Nesrine Malik’s article about the shift away from US society’s progressive and inclusive zeitgeist Regarding Nesrine Malik’s article (Here is the news from the US: Woke 1.0 is over. But what did…",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Guardian Staff",
-      "image": "https://i.guim.co.uk/img/media/5d075d52575eb5da856e4471a7cb849eb7c8c064/291_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=d8f988b9b85222e5c3cd7fef6afae916",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T17:33:03.000Z",
-      "sourceUrl": "https://www.theguardian.com/inequality/2026/aug/24/what-comes-in-the-wake-of-woke-10",
-      "guid": "https://www.theguardian.com/inequality/2026/aug/24/what-comes-in-the-wake-of-woke-10",
-      "titleHi": "Woke 1.0 के मद्देनजर क्या आता है? | पत्र",
-      "excerptHi": "नेसरिन मलिक के लेख के बारे में अमेरिकी समाज के प्रगतिशील और समावेशी ज़ेइटगिस्ट से दूर जाने के बारे में नेसरिन मलिक के लेख पर पाठकों का जवाब है (यहां अमेरिका से खबर है: Woke 1.0 खत्म हो गया है। लेकिन क्या किया...",
-      "archived": false
     }
   ],
   "europe": [
+    {
+      "id": "9a64f4251f4a821fab1fc046d89e76aff77cc6bc",
+      "slug": "manga-inspired-theme-park-to-be-built-near-paris-9a64f4",
+      "title": "Manga-inspired theme park to be built near Paris",
+      "excerpt": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T19:57:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo#0",
+      "titleHi": "पेरिस के पास बनाया जाएगा मांगा से प्रेरित थीम पार्क",
+      "excerptHi": "सऊदी अरब से € 6 बिलियन के निवेश के बाद तीन नए पार्कों के निर्माण को हरी झंडी दी गई।",
+      "archived": false
+    },
     {
       "id": "c84a883debbbc2ba1db64d66898acc7ab46e6966",
       "slug": "us-treasury-secretary-launches-operation-economic-outcast-ai-c84a88",
@@ -617,26 +637,6 @@
       "guid": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
       "titleHi": "नवीनतम समाचार बुलेटिन | 24 अगस्त, 2026 – शाम",
       "excerptHi": "24 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
-      "archived": false
-    },
-    {
-      "id": "548a9d13d5f55fd06d994d17fbfe8994c95df5b6",
-      "slug": "vuelta-a-espaa-giant-hail-forces-stage-three-abandonment-in-548a9d",
-      "title": "Vuelta a España: giant hail forces stage three abandonment in Pyrenees",
-      "excerpt": "Huge hailstones prompt organisers to act 15km from end Riders seen heading into hotel on route to take cover The third stage of the Vuelta a España ended without a winner after being halted because of hail on Monday.…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Associated Press",
-      "image": "https://i.guim.co.uk/img/media/d11a8ec43ab84bbab816b01c2d35730dd73e6ba9/466_0_4788_3831/master/4788.jpg?width=140&quality=85&auto=format&fit=max&s=4a1c4bbaff5b311796bee95ca9be6cae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T15:56:19.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/24/vuelta-a-espana-giant-hail-forces-stage-three-abandonment-in-pyrenees",
-      "guid": "https://www.theguardian.com/sport/2026/aug/24/vuelta-a-espana-giant-hail-forces-stage-three-abandonment-in-pyrenees",
-      "titleHi": "Vuelta a España: विशाल ओलावृष्टि बल पाइरेनीज़ में तीसरे परित्याग का चरण",
-      "excerptHi": "ओलावृष्टि के कारण आयोजकों को 15 किलोमीटर की दूरी तय करनी पड़ी। राइडर कवर लेने के लिए रास्ते में होटल में जा रहे थे। सोमवार को ओलावृष्टि के कारण रुकने के बाद वुल्टा एस्पाना का तीसरा चरण बिना किसी विजेता के समाप्त हो गया।…",
       "archived": false
     }
   ],
@@ -1060,6 +1060,46 @@
   ],
   "middleeast": [
     {
+      "id": "893748b63b2ae5098d8f34b239c53560254e2b4f",
+      "slug": "irans-winning-strategy-avoid-losing-893748",
+      "title": "Iran’s Winning Strategy: Avoid Losing",
+      "excerpt": "Readers respond to a column by Thomas L. Friedman about Iran’s strategy to avoid losing the war. Also: the legacy of Tommy John.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/18friedman-fbzg/18friedman-fbzg-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T20:13:02.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/iran-us-war-stratgey.html",
+      "guid": "https://www.nytimes.com/2026/08/24/opinion/iran-us-war-stratgey.html",
+      "titleHi": "ईरान की जीतने की रणनीति: हारने से बचें",
+      "excerptHi": "पाठक युद्ध हारने से बचने के लिए ईरान की रणनीति के बारे में थॉमस एल. फ्रीडमैन के एक कॉलम का जवाब देते हैं। इसके अलावा: टॉमी जॉन की विरासत.",
+      "archived": false
+    },
+    {
+      "id": "9a64f4251f4a821fab1fc046d89e76aff77cc6bc",
+      "slug": "manga-inspired-theme-park-to-be-built-near-paris-9a64f4",
+      "title": "Manga-inspired theme park to be built near Paris",
+      "excerpt": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T19:57:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo#0",
+      "titleHi": "पेरिस के पास बनाया जाएगा मांगा से प्रेरित थीम पार्क",
+      "excerptHi": "सऊदी अरब से € 6 बिलियन के निवेश के बाद तीन नए पार्कों के निर्माण को हरी झंडी दी गई।",
+      "archived": false
+    },
+    {
       "id": "c84a883debbbc2ba1db64d66898acc7ab46e6966",
       "slug": "us-treasury-secretary-launches-operation-economic-outcast-ai-c84a88",
       "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
@@ -1142,7 +1182,7 @@
       "guid": "http://www.euronews.com/2026/08/24/houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escalation",
       "titleHi": "हौथियों ने लाल सागर की ताजा घटना में सऊदी टैंकर पर हमले का दावा किया",
       "excerptHi": "मिसाइल ने यानबू के पश्चिम में 63 समुद्री मील की दूरी पर एक टैंकर को मारा, जिससे इसे आग लगा दी गई, सऊदी अरब के हौथिस की घोषित नाकाबंदी के तहत नवीनतम हमले में, लाखों बैरल कच्चे तेल के निर्यात की क्षमता को खतरे में डाल दिया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c5704ab79e7089f67e389c12252cf8b0dbf4140b",
@@ -1229,50 +1269,6 @@
       "guid": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
       "titleHi": "ईरान का रियाल रिकॉर्ड निचले स्तर पर गिर गया क्योंकि स्कॉट बेसेंट ने ‘आर्थिक डी - डे‘ के बारे में चेतावनी दी – business live",
       "excerptHi": "अमेरिकी ट्रेजरी सचिव दोपहर 1 बजे ईडीटी (लंदन के समय के अनुसार शाम 6 बजे) एक प्रेस कॉन्फ्रेंस में तेहरान के खिलाफ प्रतिबंधों की घोषणा करेंगे यूके (और नए पीएम एंडी बर्नहम और उनकी टीम) के लिए कुछ अच्छी खबरें: यूके में उत्पादकता – का एक महत्वपूर्ण उपाय...",
-      "archived": true
-    },
-    {
-      "id": "6655729cdf1212abd5ed2574698f54947f7f063b",
-      "slug": "iran-faces-greatest-financial-offensive-ever-says-us-treasur-665572",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "excerpt": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:39:23.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c0qxew81y83o#0",
-      "titleHi": "अमेरिकी ट्रेजरी सचिव ने कहा, ईरान 'अब तक के सबसे बड़े वित्तीय हमले' का सामना कर रहा है",
-      "excerptHi": "स्कॉट बेसेंट का कहना है कि अमेरिका देश के साथ सभी आर्थिक संबंधों को तोड़ देगा और ईरान के साथ आर्थिक रूप से साझेदारी करने वाला कोई भी देश भी अलग - थलग हो जाएगा।",
-      "archived": true
-    },
-    {
-      "id": "b76f17dce75737a75a1da7d6e4b2967089e2e42d",
-      "slug": "iranian-state-tv-broadcasts-video-targeting-barron-trump-wit-b76f17",
-      "title": "Iranian state TV broadcasts video targeting Barron Trump with $10m bounty",
-      "excerpt": "Tehran state-run media has broadcast footage purportedly tracking US President Donald Trump's youngest son, showing the location of his university, escort vehicles and Secret Service posts, and alleging his movements…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:05:31.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "guid": "http://www.euronews.com/2026/08/24/iranian-state-tv-broadcasts-video-targeting-barron-trump-with-10m-bounty",
-      "titleHi": "ईरान के सरकारी टीवी ने $ 10 मिलियन के इनाम के साथ बैरन ट्रम्प को निशाना बनाते हुए वीडियो प्रसारित किया",
-      "excerptHi": "तेहरान राज्य संचालित मीडिया ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के सबसे छोटे बेटे को कथित रूप से ट्रैक करने वाले फुटेज का प्रसारण किया है, जिसमें उनके विश्वविद्यालय का स्थान, वाहनों और सीक्रेट सर्विस पोस्टों को एस्कॉर्ट किया गया है, और उनकी गतिविधियों का आरोप लगाया गया है...",
       "archived": true
     }
   ],
