@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:38:14.790Z",
+  "generatedAt": "2026-08-25T11:26:14.883Z",
   "india": [
     {
       "id": "673d552f4d4cc71ff991545c241acb52cba2ac72",
@@ -213,6 +213,50 @@
   ],
   "usa": [
     {
+      "id": "d1c0ba7a2878bf2f07fb38008bb5cdc7b214b47f",
+      "slug": "trump-epa-aims-to-exempt-datacenters-from-disclosing-air-pol-d1c0ba",
+      "title": "Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
+      "excerpt": "Trump administration proposes new rule to dismantle requirement for datacenters to publicly report air pollution A new rule proposed by the Trump administration aims to kill public notification for datacenter air…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tom Perkins",
+      "image": "https://i.guim.co.uk/img/media/6dc6477a6aef9030110753e8936419ff3ea2ab58/159_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=4432d110883e78e23c7e139915c4404e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+      "titleHi": "ट्रम्प ईपीए का उद्देश्य डेटा केंद्रों को वायु प्रदूषण का खुलासा करने से छूट देना है, अधिवक्ताओं ने चेतावनी दी है",
+      "excerptHi": "ट्रम्प प्रशासन ने सार्वजनिक रूप से वायु प्रदूषण की रिपोर्ट करने के लिए डेटासेंटरों की आवश्यकता को समाप्त करने के लिए नए नियम का प्रस्ताव किया ट्रम्प प्रशासन द्वारा प्रस्तावित एक नए नियम का उद्देश्य डेटासेंटर एयर के लिए सार्वजनिक अधिसूचना को मारना है...",
+      "archived": false
+    },
+    {
+      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
+      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T10:56:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
+      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
+      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
+      "archived": false
+    },
+    {
       "id": "e3f8ced46784c4a652f1e37d7ef0cc4675074d52",
       "slug": "canada-to-respond-to-trumps-new-tariffs-us-politics-live-e3f8ce",
       "title": "Canada to respond to Trump’s new tariffs – US politics live",
@@ -368,67 +412,51 @@
       "archived": false
     },
     {
-      "id": "0ab5d3ed976e72b69ac78af37bce6ddc5b434a63",
-      "slug": "environmental-violence-inside-the-fight-to-save-indigenous-l-0ab5d3",
-      "title": "‘Environmental violence’: inside the fight to save indigenous land from becoming a nuclear dumping ground",
-      "excerpt": "New documentary To Use a Mountain spotlights the pain and triumph of resisting government efforts to turn parts of rural US into disposal sites Nuclear energy was supposed to be our salvation, humanity’s chance to…",
-      "category": "Culture",
-      "secondaryCategories": [],
+      "id": "bda938ff87f1c93fc88984e055f4d18509ba534e",
+      "slug": "i-once-saw-enes-kanter-speak-truth-to-power-now-he-only-punc-bda938",
+      "title": "I once saw Enes Kanter speak truth to power. Now he only punches down | Bryan Armen Graham",
+      "excerpt": "Nearly a decade after I watched him defy Erdoğan at great personal cost, the ex-NBA player is using his hard-won freedom to turn transgender people into a punchline Nine years ago, I watched Enes Kanter ask America to…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
       "source": "The Guardian",
-      "author": "Andrew Lawrence",
-      "image": "https://i.guim.co.uk/img/media/42f59ccc0fad7b232d1ca4fbc23f45af6f4cf526/248_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=9a19400379aa1d6b7e659b6eb7b7c588",
+      "author": "Bryan Armen Graham",
+      "image": "https://i.guim.co.uk/img/media/9002aade10b9217aa7e759277efac697e847f6f4/133_0_2510_2009/master/2510.jpg?width=140&quality=85&auto=format&fit=max&s=c038b187b142be338af5e337de9b2c6a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-25T09:00:53.000Z",
-      "sourceUrl": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-      "guid": "https://www.theguardian.com/film/2026/aug/25/to-use-a-mountain-documentary-interview",
-      "titleHi": "‘पर्यावरणीय हिंसा ': स्वदेशी भूमि को परमाणु डंपिंग ग्राउंड बनने से बचाने के लिए लड़ाई के अंदर",
-      "excerptHi": "नई डॉक्यूमेंट्री टू यूज़ ए माउंटेन ग्रामीण अमेरिका के कुछ हिस्सों को निपटान स्थलों में बदलने के सरकारी प्रयासों का विरोध करने के दर्द और जीत को उजागर करती है परमाणु ऊर्जा को हमारा उद्धार माना जाता था, मानवता का …",
-      "archived": false
-    },
-    {
-      "id": "bcca3ab81a7984f545ea6d775a8f3b0f5571d68e",
-      "slug": "what-lafayettes-1824-tour-can-teach-americans-bcca3a",
-      "title": "What Lafayette’s 1824 Tour Can Teach Americans",
-      "excerpt": "The Marquis de Lafayette returned to the United States in 1824. His tour carries key lessons for a country still fighting over how to remember its past.",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "Ryan Cole",
-      "image": "https://static01.nyt.com/images/2026/08/25/multimedia/25cole-ftcj/25cole-ftcj-mediumSquareAt3X.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:00:29.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/25/opinion/marquis-de-lafayette-1824-tour.html",
-      "guid": "https://www.nytimes.com/2026/08/25/opinion/marquis-de-lafayette-1824-tour.html",
-      "titleHi": "लाफायेट की 1824 की यात्रा अमेरिकियों को क्या सिखा सकती है",
-      "excerptHi": "मार्किस डी लाफायेट 1824 में संयुक्त राज्य अमेरिका लौट आए। उनके दौरे में एक ऐसे देश के लिए महत्वपूर्ण सबक हैं जो अभी भी अपने अतीत को याद रखने के लिए लड़ रहा है।",
-      "archived": false
-    },
-    {
-      "id": "f93ba2cd0d0c8c5914085c1688179ca83532c337",
-      "slug": "us-widens-iran-crackdown-to-encompass-crypto-gold-shipping-a-f93ba2",
-      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "excerpt": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "author": "Francisco Rodrigues",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-25T08:47:18.000Z",
-      "sourceUrl": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-      "guid": "91785806-d6bf-454b-b469-290dbab9b91b",
-      "titleHi": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "excerptHi": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
+      "publishedAt": "2026-08-25T09:00:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
+      "guid": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
+      "titleHi": "मैंने एक बार एनेस कैंटर को सत्ता के सामने सच बोलते हुए देखा था। अब वह केवल घूंसे मारता है | ब्रायन आर्मेन ग्राहम",
+      "excerptHi": "लगभग एक दशक बाद जब मैंने एर्दोआन को बहुत व्यक्तिगत कीमत पर उनकी अवहेलना करते हुए देखा, तो एनबीए के पूर्व खिलाड़ी अपनी कड़ी मेहनत से जीती गई स्वतंत्रता का उपयोग कर रहे हैं ताकि ट्रांसजेंडर लोगों को एक पंचलाइन में बदल दिया जा सके नौ साल पहले, मैंने देखा कि एनेस कैंटर ने अमेरिका से कहा...",
       "archived": false
     }
   ],
   "europe": [
+    {
+      "id": "198b3cd8a860beebf575bd7aaf6e3ea818093f38",
+      "slug": "two-planned-datacentres-will-have-higher-uk-carbon-emissions-198b3c",
+      "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
+      "excerpt": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully running The carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Pippa Neill Environment reporter",
+      "image": "https://i.guim.co.uk/img/media/9a0ea516f7acfd452be975e7cadb5484b02f20c2/921_0_3155_2525/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=e8ad92a0f2986bf5e4251cc0adfe1924",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:04:56.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+      "titleHi": "दो नियोजित डेटासेंटरों में एक्सॉनमोबिल की तुलना में यूके कार्बन उत्सर्जन अधिक होगा, विश्लेषण से पता चलता है",
+      "excerptHi": "एक्सक्लूसिव: बकिंघमशायर और बेडफोर्डशायर साइटों ने पूरी तरह से चलने पर एक वर्ष में 4.5 मिलियन टन उत्सर्जन करने की भविष्यवाणी की है इंग्लैंड में सिर्फ दो नियोजित डेटासेंटर से कार्बन उत्सर्जन सभी जीवाश्म ईंधन कंपनी से अधिक होगा...",
+      "archived": false
+    },
     {
       "id": "e3f8ced46784c4a652f1e37d7ef0cc4675074d52",
       "slug": "canada-to-respond-to-trumps-new-tariffs-us-politics-live-e3f8ce",
@@ -600,8 +628,8 @@
       "publishedAt": "2026-08-25T08:52:08.000Z",
       "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
       "guid": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
-      "titleHi": "Heatwave health risks threaten insurer earnings, rating agency S&P warns",
-      "excerptHi": "Rise in claims linked to heat-related deaths and illness, especially among older people, could drive up premiums Europe’s intense heatwaves could hit insurers’ earnings as companies face a rise in claims linked to…",
+      "titleHi": "रेटिंग एजेंसी S&P ने चेतावनी दी है कि हीटवेव स्वास्थ्य जोखिम से बीमाकर्ता की कमाई को खतरा है",
+      "excerptHi": "गर्मी से संबंधित मौतों और बीमारी से जुड़े दावों में वृद्धि, विशेष रूप से बुजुर्ग लोगों के बीच, प्रीमियम बढ़ा सकती है यूरोप की तीव्र हीटवेव बीमा कंपनियों की कमाई को प्रभावित कर सकती है क्योंकि कंपनियों को... से जुड़े दावों में वृद्धि का सामना करना पड़ता है",
       "archived": false
     },
     {
@@ -623,35 +651,34 @@
       "publishedAt": "2026-08-25T08:27:08.000Z",
       "sourceUrl": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
       "guid": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-      "titleHi": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
-      "excerptHi": "UK prime minister ‘likely’ to attend UN general assembly, after meeting Zelenskyy and saying supply problem is fixable Europe live – latest updates Andy Burnham has said he is likely to attend the UN general assembly in…",
-      "archived": false
-    },
-    {
-      "id": "1088fd86ccd33d7a27363e0d2416f2f75fdac6cd",
-      "slug": "lego-sales-rise-as-world-cup-and-f1-ranges-prove-to-be-winne-1088fd",
-      "title": "Lego sales rise as World Cup and F1 ranges prove to be winners",
-      "excerpt": "Danish toymaker also scores success with KPop Demon Hunters, Star Wars and botanicals products Business live – latest updates Lego sales have risen by more than a fifth as tie-ups with the football World Cup, Formula…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business",
-        "Sports"
-      ],
-      "source": "The Guardian",
-      "author": "Sarah Butler",
-      "image": "https://i.guim.co.uk/img/media/b54cca2a81fa14bb8e8748b6b674896c9f6ea69c/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6603fb26e21715213db4e45bc4d33b43",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T08:08:03.000Z",
-      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/aug/25/lego-sales-world-cup-f1-tie-kpop-demon-hunters-star-wars",
-      "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/25/lego-sales-world-cup-f1-tie-kpop-demon-hunters-star-wars",
-      "titleHi": "Lego sales rise as World Cup and F1 ranges prove to be winners",
-      "excerptHi": "Danish toymaker also scores success with KPop Demon Hunters, Star Wars and botanicals products Business live – latest updates Lego sales have risen by more than a fifth as tie-ups with the football World Cup, Formula…",
+      "titleHi": "यूक्रेन द्वारा अमेरिका निर्मित मिसाइलों की गुहार के बाद बर्नहम न्यूयॉर्क की यात्रा की योजना बना रहा है",
+      "excerptHi": "ज़ेलेंस्की से मिलने और यह कहने के बाद कि आपूर्ति की समस्या ठीक करने योग्य है, संयुक्त राष्ट्र महासभा में भाग लेने के लिए ब्रिटेन के प्रधान मंत्री की ‘संभावना’ है यूरोप लाइव – नवीनतम अपडेट एंडी बर्नहम ने कहा है कि वह संयुक्त राष्ट्र महासभा में भाग लेने की संभावना है...",
       "archived": false
     }
   ],
   "asia": [
+    {
+      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
+      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T10:56:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
+      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
+      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
+      "archived": false
+    },
     {
       "id": "7330eabda9beab755df1576124993533104572bd",
       "slug": "thailand-moves-closer-to-bitcoin-ether-etfs-with-draft-rules-7330ea",
@@ -753,7 +780,7 @@
       "guid": "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html",
       "titleHi": "The Iran War Shows China’s Energy Strategy Is Working",
       "excerptHi": "The Iran war was supposed to expose China’s weakness on oil, but it didn’t quite work out that way.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "692105a9c21d75713578170335a3c0422ffc953a",
@@ -773,7 +800,7 @@
       "guid": "821e8318-0f93-425f-be77-01ff16b33890",
       "titleHi": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
       "excerptHi": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9cae723daeff4f31076373d4828776207e21a515",
@@ -833,26 +860,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/25/trump-us-economic-sanctions-china-biggest-buyer-iran-oil",
       "titleHi": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties?",
       "excerptHi": "The US has put the world on notice to cease doing business with Iran, but experts say Washington is wary China could retaliate against any sanctions The US has unveiled an expansion of sanctions that it says will cut…",
-      "archived": true
-    },
-    {
-      "id": "32107a184a9f81abe1adc988d7562bb8d2600181",
-      "slug": "korean-bank-taps-ripple-for-payments-pakistan-opens-crypto-l-32107a",
-      "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-      "excerpt": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "Cointelegraph",
-      "author": "Cointelegraph by Andrew Fenton",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T02:03:55.000Z",
-      "sourceUrl": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "guid": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
-      "titleHi": "कोरियाई बैंक ने भुगतान के लिए लहर को टैप किया, पाकिस्तान ने क्रिप्टो लाइसेंसिंग खोली: एशिया एक्सप्रेस",
-      "excerptHi": "एशिया के सबसे बड़े क्रिप्टो हब टैक्स - कट हथियारों की दौड़ में बंद हैं, जबकि रिपल कोरिया के जीनबुक बैंक को सीमाओं को पार करने में मदद करेगा।",
       "archived": true
     }
   ],
@@ -1064,6 +1071,28 @@
   ],
   "middleeast": [
     {
+      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
+      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T10:56:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
+      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
+      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
+      "archived": false
+    },
+    {
       "id": "ece549ca89473a0c35d7768e7008c907d2ce98a7",
       "slug": "gold-hits-highest-level-in-three-months-as-traders-worry-abo-ece549",
       "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
@@ -1099,8 +1128,8 @@
       "publishedAt": "2026-08-25T08:47:18.000Z",
       "sourceUrl": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
       "guid": "91785806-d6bf-454b-b469-290dbab9b91b",
-      "titleHi": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "excerptHi": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
+      "titleHi": "अमेरिका ने क्रिप्टो, सोना, शिपिंग और प्रौद्योगिकी को शामिल करने के लिए ईरान की कार्रवाई को व्यापक बनाया",
+      "excerptHi": "ट्रेजरी का कहना है कि इवान ओबुखोव ने 2023 से IRGC - QF तेल की बिक्री के लिए क्रिप्टो में $ 100 मिलियन से अधिक की प्रक्रिया की।",
       "archived": false
     },
     {
@@ -1124,7 +1153,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
       "titleHi": "Gold price hits three-month high amid fears over Iran war and Trump economy",
       "excerptHi": "Bitcoin rises above $80,000 for the first time since May amid uncertainty over US fiscal plans Business live – latest updates Gold prices hit their highest level in more than three months on Tuesday as continued…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "42424769dbdb5f46db22937f370f93fb1b2e3a0f",
@@ -1144,7 +1173,7 @@
       "guid": "https://www.nytimes.com/2026/08/25/opinion/iran-china-energy-power.html",
       "titleHi": "The Iran War Shows China’s Energy Strategy Is Working",
       "excerptHi": "The Iran war was supposed to expose China’s weakness on oil, but it didn’t quite work out that way.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e58fb46734ad60c54f1f580ad4070b737a4b2936",
@@ -1249,26 +1278,6 @@
       "guid": "https://www.nytimes.com/2026/08/24/opinion/iran-us-war-stratgey.html",
       "titleHi": "ईरान की जीतने की रणनीति: हारने से बचें",
       "excerptHi": "पाठक युद्ध हारने से बचने के लिए ईरान की रणनीति के बारे में थॉमस एल. फ्रीडमैन के एक कॉलम का जवाब देते हैं। इसके अलावा: टॉमी जॉन की विरासत.",
-      "archived": true
-    },
-    {
-      "id": "9a64f4251f4a821fab1fc046d89e76aff77cc6bc",
-      "slug": "manga-inspired-theme-park-to-be-built-near-paris-9a64f4",
-      "title": "Manga-inspired theme park to be built near Paris",
-      "excerpt": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e189/live/13831e40-9ff5-11f1-b150-d3e6f0a6b415.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T19:57:55.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo#0",
-      "titleHi": "पेरिस के पास बनाया जाएगा मांगा से प्रेरित थीम पार्क",
-      "excerptHi": "सऊदी अरब से € 6 बिलियन के निवेश के बाद तीन नए पार्कों के निर्माण को हरी झंडी दी गई।",
       "archived": true
     }
   ],
@@ -1528,7 +1537,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
       "titleHi": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
       "excerptHi": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email, free app or daily news podcast Alan Jones and fellow…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fbf9a6df4cccf2aee6282bbd9282ae141ed69574",
@@ -1707,6 +1716,72 @@
   ],
   "world": [
     {
+      "id": "d1c0ba7a2878bf2f07fb38008bb5cdc7b214b47f",
+      "slug": "trump-epa-aims-to-exempt-datacenters-from-disclosing-air-pol-d1c0ba",
+      "title": "Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
+      "excerpt": "Trump administration proposes new rule to dismantle requirement for datacenters to publicly report air pollution A new rule proposed by the Trump administration aims to kill public notification for datacenter air…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tom Perkins",
+      "image": "https://i.guim.co.uk/img/media/6dc6477a6aef9030110753e8936419ff3ea2ab58/159_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=4432d110883e78e23c7e139915c4404e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+      "titleHi": "ट्रम्प ईपीए का उद्देश्य डेटा केंद्रों को वायु प्रदूषण का खुलासा करने से छूट देना है, अधिवक्ताओं ने चेतावनी दी है",
+      "excerptHi": "ट्रम्प प्रशासन ने सार्वजनिक रूप से वायु प्रदूषण की रिपोर्ट करने के लिए डेटासेंटरों की आवश्यकता को समाप्त करने के लिए नए नियम का प्रस्ताव किया ट्रम्प प्रशासन द्वारा प्रस्तावित एक नए नियम का उद्देश्य डेटासेंटर एयर के लिए सार्वजनिक अधिसूचना को मारना है...",
+      "archived": false
+    },
+    {
+      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
+      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T10:56:03.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
+      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
+      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
+      "archived": false
+    },
+    {
+      "id": "0791104e1a7cb3fe4067b2b5fde076f2e14685e4",
+      "slug": "man-dies-after-car-crash-during-police-pursuit-in-warwickshi-079110",
+      "title": "Man dies after car crash during police pursuit in Warwickshire",
+      "excerpt": "Another driver in critical condition as result of collision after man failed to stop for officers in Stratford-upon-Avon A man has died and a woman is critically injured after a police pursuit in Warwickshire. Police…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Neha Gohil Midlands correspondent",
+      "image": "https://i.guim.co.uk/img/media/816b61e116e36467c94a11df4af2c5eb8ddb55e6/455_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=e9c9f990f9dc1a51022b35ecb5fd1ee4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T10:45:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/25/male-driver-dies-after-crash-during-police-pursuit-in-warwickshire",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/25/male-driver-dies-after-crash-during-police-pursuit-in-warwickshire",
+      "titleHi": "वारविकशायर में पुलिस पीछा के दौरान कार दुर्घटना में एक व्यक्ति की मौत हो गई",
+      "excerptHi": "स्ट्रैटफ़ोर्ड - अपॉन - एवन में अधिकारियों के लिए रुकने में आदमी के नाकाम रहने के बाद टक्कर के परिणामस्वरूप एक और ड्राइवर गंभीर स्थिति में है वारविकशायर में पुलिस की खोज के बाद एक आदमी की मौत हो गई है और एक महिला गंभीर रूप से घायल हो गई है। पुलिस…",
+      "archived": false
+    },
+    {
       "id": "32fc797446cb2c5316f99a5c78a45dc6804e0d71",
       "slug": "us-building-twice-as-much-gas-fired-capacity-as-china-in-ai-32fc79",
       "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
@@ -1856,74 +1931,6 @@
       "titleHi": "बेटे को ‘यादृच्छिक‘ मेलबर्न सीबीडी हमले से बचाते हुए महिला ने कथित तौर पर बार - बार कैंची से वार किया",
       "excerptHi": "विक्टोरिया पुलिस ने ‘वीर‘ दर्शकों द्वारा नियंत्रित और पिन किए जाने के बाद गिरफ्तार किए गए व्यक्ति का कहना है कि हमारा ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एक मां को कथित तौर पर…",
       "archived": false
-    },
-    {
-      "id": "460f1591b266f10b7e3038b846082b3b2d923624",
-      "slug": "gold-price-hits-three-month-high-amid-fears-over-iran-war-an-460f15",
-      "title": "Gold price hits three-month high amid fears over Iran war and Trump economy",
-      "excerpt": "Bitcoin rises above $80,000 for the first time since May amid uncertainty over US fiscal plans Business live – latest updates Gold prices hit their highest level in more than three months on Tuesday as continued…",
-      "category": "World",
-      "secondaryCategories": [
-        "Crypto",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Joanna Partridge",
-      "image": "https://i.guim.co.uk/img/media/efc9ed569b72b2e347443dd8a0ca076c3d4eed91/239_0_3022_2418/master/3022.jpg?width=140&quality=85&auto=format&fit=max&s=d76fd53a8a8c1f0fbd4e569337345469",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T08:18:52.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
-      "guid": "https://www.theguardian.com/business/2026/aug/25/gold-price-high-iran-war-donald-trump-economy-us",
-      "titleHi": "Gold price hits three-month high amid fears over Iran war and Trump economy",
-      "excerptHi": "Bitcoin rises above $80,000 for the first time since May amid uncertainty over US fiscal plans Business live – latest updates Gold prices hit their highest level in more than three months on Tuesday as continued…",
-      "archived": false
-    },
-    {
-      "id": "91975b391aaa874fae639bec810c4f51acc7ff6c",
-      "slug": "alan-jones-and-fellow-2gb-host-referred-to-smh-and-reporter-91975b",
-      "title": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
-      "excerpt": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email, free app or daily news podcast Alan Jones and fellow…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Amanda Meade Media correspondent",
-      "image": "https://i.guim.co.uk/img/media/70f00162972dde89df684815950b389268113539/533_0_5833_4669/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=073ca50c5dba104ebd3172fb2299e479",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T07:46:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
-      "titleHi": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
-      "excerptHi": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email, free app or daily news podcast Alan Jones and fellow…",
-      "archived": false
-    },
-    {
-      "id": "fbf9a6df4cccf2aee6282bbd9282ae141ed69574",
-      "slug": "songs-created-by-ai-banned-from-australias-music-charts-fbf9a6",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "excerpt": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Culture"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T04:54:01.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
-      "titleHi": "Songs created by AI banned from Australia's music charts",
-      "excerptHi": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "archived": true
     }
   ]
 }
