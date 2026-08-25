@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-25T11:26:14.883Z",
+  "generatedAt": "2026-08-25T12:44:17.382Z",
   "india": [
+    {
+      "id": "46c1a16a302b942c77a521ef528a41d448eb6f5b",
+      "slug": "india-plans-first-tokenized-bonds-using-wholesale-cbdc-repor-46c1a1",
+      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+      "excerpt": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Helen Partz",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-business-environment-for-crypto-like-in-india2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T12:09:15.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee",
+      "titleHi": "भारत थोक सीबीडीसी का उपयोग करके पहले टोकन बांड की योजना बना रहा है: रिपोर्ट",
+      "excerptHi": "भारत सितंबर के एक पायलट में टोकनयुक्त कॉर्पोरेट बॉन्ड का परीक्षण करने की योजना बना रहा है, जिसमें राज्य - नियंत्रित आरईसी ऋण जारी करेगा और थोक सीबीडीसी भुगतान का उपयोग करके निवेशकों का चयन करेगा।",
+      "archived": false
+    },
     {
       "id": "673d552f4d4cc71ff991545c241acb52cba2ac72",
       "slug": "the-whitewashing-of-the-green-india-mission-forest-expansion-673d55",
@@ -189,29 +209,55 @@
       "titleHi": "Priyanka Chopra Jonas on making a film about love and caste inequality",
       "excerptHi": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
       "archived": true
-    },
-    {
-      "id": "61126644e59416f6593a58eaccc1aa336a8f2972",
-      "slug": "broken-toilets-leaking-roofs-why-indias-cockroach-party-want-611266",
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "excerpt": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e3/live/20737740-9d3d-11f1-bc05-aff3aa1f91c7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-21T00:04:10.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o#2",
-      "titleHi": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "excerptHi": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "7c14fe4c258135dee78ad06212745c0326d912b1",
+      "slug": "us-fossil-fuel-lobbyists-also-represent-hundreds-of-cities-f-7c14fe",
+      "title": "US fossil fuel lobbyists also represent hundreds of cities fighting for climate damages",
+      "excerpt": "Local governments working with firms also linked to fossil fuel giants, analysis of federal lobbying disclosures shows Congressional lobbyists working for fossil fuel firms that are exacerbating the climate crisis are…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sara Sneath",
+      "image": "https://i.guim.co.uk/img/media/9378353e75bad5029b7512f5ef66e32b1594c137/2112_1298_2554_2045/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=4d9862c685016865192b259ac524fc1f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T12:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
+      "guid": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
+      "titleHi": "अमेरिकी जीवाश्म ईंधन लॉबीस्ट जलवायु नुकसान के लिए लड़ रहे सैकड़ों शहरों का भी प्रतिनिधित्व करते हैं",
+      "excerptHi": "जीवाश्म ईंधन दिग्गजों से जुड़ी फर्मों के साथ काम करने वाली स्थानीय सरकारें, संघीय लॉबिंग प्रकटीकरणों के विश्लेषण से पता चलता है कि जीवाश्म ईंधन फर्मों के लिए काम करने वाले कांग्रेसी लॉबिस्ट जो जलवायु संकट को बढ़ा रहे हैं...",
+      "archived": false
+    },
+    {
+      "id": "81c2613ce53ee89ef1f25c89755f8a7a0c932fa3",
+      "slug": "china-denounces-us-threat-of-sanctions-over-trade-with-iran-81c261",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "excerpt": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Julian Borger Senior international correspondent",
+      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:43:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "titleHi": "चीन ने ईरान के साथ व्यापार को लेकर प्रतिबंधों की अमेरिकी धमकी की निंदा की",
+      "excerptHi": "बीजिंग का कहना है कि वह अपने हितों की रक्षा के लिए ‘सभी आवश्यक उपाय’ करेगा क्योंकि अमेरिका तेहरान एक्सप्लेनर को अलग - थलग करने के प्रयासों को बढ़ाता है: क्या अमेरिकी प्रतिबंधों से चीन - ईरान संबंधों को खतरा हो सकता है? चीन ने अमेरिकी प्रतिबंधों की धमकी की निंदा की है...",
+      "archived": false
+    },
     {
       "id": "d1c0ba7a2878bf2f07fb38008bb5cdc7b214b47f",
       "slug": "trump-epa-aims-to-exempt-datacenters-from-disclosing-air-pol-d1c0ba",
@@ -390,48 +436,6 @@
       "titleHi": "सरकार आवास की योजना बनाती है, लेकिन बर्नहम सामाजिक किराये की प्रतिज्ञा से पीछे हट जाता है – यूके की राजनीति LIVE",
       "excerptHi": "60% सामाजिक किराए के साथ आवास के लिए £ 10 बिलियन प्रधानमंत्री के पहले के सामाजिक घरों पर पूरी तरह से खर्च किए जाने वाले कार्यक्रम के साथ विरोधाभास में है एंडी बर्नहम ने कहा है कि वह यूरोपीय नेताओं में शामिल होने के लिए अगले महीने अमेरिका की यात्रा करने की योजना बना रहे हैं...",
       "archived": false
-    },
-    {
-      "id": "ece549ca89473a0c35d7768e7008c907d2ce98a7",
-      "slug": "gold-hits-highest-level-in-three-months-as-traders-worry-abo-ece549",
-      "title": "Gold hits highest level in three months as traders worry about US inflation and bond market jitters – business live",
-      "excerpt": "Spot gold touches almost $4,700 an ounce and Bitcoin tops $80,000 while oil prices fall despite threat of heavy US sanctions on Iran and any country trading with it The US car parts company First Brands Group, which…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Julia Kollewe",
-      "image": "https://i.guim.co.uk/img/media/46bc14451df7401398eda6a20ea0f540a20381f6/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=39446fd238946f2b50906b219d9cf269",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:21:50.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-      "guid": "https://www.theguardian.com/business/live/2026/aug/25/gold-highest-level-three-months-traders-us-inflation-bond-market-latest-news-updates",
-      "titleHi": "अमेरिकी मुद्रास्फीति और बॉन्ड बाजार में उथल - पुथल के बारे में व्यापारियों की चिंता के कारण सोना तीन महीने के उच्चतम स्तर पर पहुंच गया – बिजनेस लाइव",
-      "excerptHi": "स्पॉट गोल्ड लगभग $ 4,700 प्रति औंस को छूता है और बिटकॉइन $ 80,000 से ऊपर है, जबकि ईरान और उसके साथ व्यापार करने वाले किसी भी देश पर भारी अमेरिकी प्रतिबंधों के खतरे के बावजूद तेल की कीमतें गिरती हैं। अमेरिकी कार पार्ट्स कंपनी फर्स्ट ब्रांड्स ग्रुप, जो...",
-      "archived": false
-    },
-    {
-      "id": "bda938ff87f1c93fc88984e055f4d18509ba534e",
-      "slug": "i-once-saw-enes-kanter-speak-truth-to-power-now-he-only-punc-bda938",
-      "title": "I once saw Enes Kanter speak truth to power. Now he only punches down | Bryan Armen Graham",
-      "excerpt": "Nearly a decade after I watched him defy Erdoğan at great personal cost, the ex-NBA player is using his hard-won freedom to turn transgender people into a punchline Nine years ago, I watched Enes Kanter ask America to…",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "author": "Bryan Armen Graham",
-      "image": "https://i.guim.co.uk/img/media/9002aade10b9217aa7e759277efac697e847f6f4/133_0_2510_2009/master/2510.jpg?width=140&quality=85&auto=format&fit=max&s=c038b187b142be338af5e337de9b2c6a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:00:54.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
-      "guid": "https://www.theguardian.com/sport/2026/aug/25/enes-kanter-freedom-transgender-wnba-natasha-cloud-trump",
-      "titleHi": "मैंने एक बार एनेस कैंटर को सत्ता के सामने सच बोलते हुए देखा था। अब वह केवल घूंसे मारता है | ब्रायन आर्मेन ग्राहम",
-      "excerptHi": "लगभग एक दशक बाद जब मैंने एर्दोआन को बहुत व्यक्तिगत कीमत पर उनकी अवहेलना करते हुए देखा, तो एनबीए के पूर्व खिलाड़ी अपनी कड़ी मेहनत से जीती गई स्वतंत्रता का उपयोग कर रहे हैं ताकि ट्रांसजेंडर लोगों को एक पंचलाइन में बदल दिया जा सके नौ साल पहले, मैंने देखा कि एनेस कैंटर ने अमेरिका से कहा...",
-      "archived": false
     }
   ],
   "europe": [
@@ -587,7 +591,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo#1",
       "titleHi": "हवाई अड्डे पर कथित चोरी के दो साल बाद सिंगापुर में ब्रिटिश व्यक्ति पर आरोप लगाया गया",
       "excerptHi": "2024 में हवाई अड्डे की एक दुकान से डेनिम जैकेट चोरी करने के आरोप में 26 वर्षीय को सात साल तक की जेल हो सकती है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1b7dd78f687d0c445b3b4c693919a97f699d65e9",
@@ -607,7 +611,7 @@
       "guid": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
       "titleHi": "स्कूल के बाद की देखभाल का वर्ष अब यूके के कुछ हिस्सों में एक बच्चे को £ 2,800 खर्च करता है",
       "excerptHi": "पिछले 10 वर्षों में इंग्लैंड में बिलों में 42% की उछाल आई है – और इसमें नाश्ते के क्लबों और पाठ्येतर गतिविधियों की लागत शामिल नहीं है इंग्लैंड में प्राथमिक स्कूली बच्चों के माता - पिता स्कूल के बाद के बच्चों के लिए 42% अधिक भुगतान करेंगे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f45f7d63295632e902fbf23434f0af850da2a7e7",
@@ -630,7 +634,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
       "titleHi": "रेटिंग एजेंसी S&P ने चेतावनी दी है कि हीटवेव स्वास्थ्य जोखिम से बीमाकर्ता की कमाई को खतरा है",
       "excerptHi": "गर्मी से संबंधित मौतों और बीमारी से जुड़े दावों में वृद्धि, विशेष रूप से बुजुर्ग लोगों के बीच, प्रीमियम बढ़ा सकती है यूरोप की तीव्र हीटवेव बीमा कंपनियों की कमाई को प्रभावित कर सकती है क्योंकि कंपनियों को... से जुड़े दावों में वृद्धि का सामना करना पड़ता है",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7616387b1658acbb5c59d7aadcac3930256b117c",
@@ -653,10 +657,53 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
       "titleHi": "यूक्रेन द्वारा अमेरिका निर्मित मिसाइलों की गुहार के बाद बर्नहम न्यूयॉर्क की यात्रा की योजना बना रहा है",
       "excerptHi": "ज़ेलेंस्की से मिलने और यह कहने के बाद कि आपूर्ति की समस्या ठीक करने योग्य है, संयुक्त राष्ट्र महासभा में भाग लेने के लिए ब्रिटेन के प्रधान मंत्री की ‘संभावना’ है यूरोप लाइव – नवीनतम अपडेट एंडी बर्नहम ने कहा है कि वह संयुक्त राष्ट्र महासभा में भाग लेने की संभावना है...",
-      "archived": false
+      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "abd815a5b67b11e8f58f54441d0228f58d6109d8",
+      "slug": "artist-known-for-sculptures-of-mao-zedong-jailed-for-slander-abd815",
+      "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
+      "excerpt": "Gao Zhen sentenced to three years in prison after already spending two years in detention Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Danny Vincent in Taipei",
+      "image": "https://i.guim.co.uk/img/media/b1bbc5caec0cd2ecd899cbf9294b8ca6672df039/0_215_2006_1604/master/2006.jpg?width=140&quality=85&auto=format&fit=max&s=b9bd6ba05ed250098c1316e67c0ced10",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:53:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
+      "titleHi": "माओ त्से तुंग की मूर्तियों के लिए जाने जाने वाले कलाकार को ‘नायकों और शहीदों‘ की निंदा करने के लिए जेल भेजा गया",
+      "excerptHi": "पूर्व नेता माओ ज़ेडोंग की भड़काऊ मूर्तियों के लिए जाने जाने वाले एक प्रमुख चीनी कलाकार गाओ ज़ेन को पहले से ही हिरासत में दो साल बिताने के बाद गाओ ज़ेन को तीन साल की जेल की सजा सुनाई गई है...",
+      "archived": false
+    },
+    {
+      "id": "81c2613ce53ee89ef1f25c89755f8a7a0c932fa3",
+      "slug": "china-denounces-us-threat-of-sanctions-over-trade-with-iran-81c261",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "excerpt": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Julian Borger Senior international correspondent",
+      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:43:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "titleHi": "चीन ने ईरान के साथ व्यापार को लेकर प्रतिबंधों की अमेरिकी धमकी की निंदा की",
+      "excerptHi": "बीजिंग का कहना है कि वह अपने हितों की रक्षा के लिए ‘सभी आवश्यक उपाय’ करेगा क्योंकि अमेरिका तेहरान एक्सप्लेनर को अलग - थलग करने के प्रयासों को बढ़ाता है: क्या अमेरिकी प्रतिबंधों से चीन - ईरान संबंधों को खतरा हो सकता है? चीन ने अमेरिकी प्रतिबंधों की धमकी की निंदा की है...",
+      "archived": false
+    },
     {
       "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
       "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
@@ -740,7 +787,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo#1",
       "titleHi": "हवाई अड्डे पर कथित चोरी के दो साल बाद सिंगापुर में ब्रिटिश व्यक्ति पर आरोप लगाया गया",
       "excerptHi": "2024 में हवाई अड्डे की एक दुकान से डेनिम जैकेट चोरी करने के आरोप में 26 वर्षीय को सात साल तक की जेल हो सकती है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d0074bcddc0d77887de042577c2a1407df4bfc0f",
@@ -760,7 +807,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/25/bangladesh-soccer-team-ronan-declan-sullivan",
       "titleHi": "सुलिवान भाइयों का एक और सेट बांग्लादेश में फुटबॉल की लहरें बना रहा है",
       "excerptHi": "फिलाडेल्फिया यूनियन के साथ एमएलएस में कैवन और क्विन सुलिवान स्टार हैं, जबकि भाई रोनन और डेकलन ने अपनी दक्षिण एशियाई विरासत रोनन सुलिवन के साथ अपने जीवन में दो बार एक पैनेंका की कोशिश की थी। दोनों प्रयास थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "42424769dbdb5f46db22937f370f93fb1b2e3a0f",
@@ -820,46 +867,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
       "titleHi": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
       "excerptHi": "In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert Suwadi can barely see five metres in front of him when he steps outside…",
-      "archived": true
-    },
-    {
-      "id": "e901cc2be824704e7cb946d2848e8df21f6991e0",
-      "slug": "nz-religious-sect-leader-jailed-over-death-of-chinese-follow-e901cc",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "excerpt": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/cb512020-a02d-11f1-a291-b542ee92de7c.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-25T03:07:34.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c3d79z4z953o#1",
-      "titleHi": "NZ religious sect leader jailed over death of Chinese follower",
-      "excerptHi": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "archived": true
-    },
-    {
-      "id": "8f95d9f9ba1a0fb09c60511d7afbaa5e5f39115c",
-      "slug": "china-is-the-biggest-buyer-of-irans-oil-could-us-sanctions-t-8f95d9",
-      "title": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties?",
-      "excerpt": "The US has put the world on notice to cease doing business with Iran, but experts say Washington is wary China could retaliate against any sanctions The US has unveiled an expansion of sanctions that it says will cut…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Guardian staff and agencies",
-      "image": "https://i.guim.co.uk/img/media/2c85250730ea9df91c9035afe5eaa438d00b2a9b/666_0_6050_4843/master/6050.jpg?width=140&quality=85&auto=format&fit=max&s=2b161304f86407776870c41c3ba0d281",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T02:44:59.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/trump-us-economic-sanctions-china-biggest-buyer-iran-oil",
-      "guid": "https://www.theguardian.com/world/2026/aug/25/trump-us-economic-sanctions-china-biggest-buyer-iran-oil",
-      "titleHi": "China is the biggest buyer of Iran’s oil. Could US sanctions threaten those ties?",
-      "excerptHi": "The US has put the world on notice to cease doing business with Iran, but experts say Washington is wary China could retaliate against any sanctions The US has unveiled an expansion of sanctions that it says will cut…",
       "archived": true
     }
   ],
@@ -1071,6 +1078,29 @@
   ],
   "middleeast": [
     {
+      "id": "81c2613ce53ee89ef1f25c89755f8a7a0c932fa3",
+      "slug": "china-denounces-us-threat-of-sanctions-over-trade-with-iran-81c261",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "excerpt": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Julian Borger Senior international correspondent",
+      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:43:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "titleHi": "चीन ने ईरान के साथ व्यापार को लेकर प्रतिबंधों की अमेरिकी धमकी की निंदा की",
+      "excerptHi": "बीजिंग का कहना है कि वह अपने हितों की रक्षा के लिए ‘सभी आवश्यक उपाय’ करेगा क्योंकि अमेरिका तेहरान एक्सप्लेनर को अलग - थलग करने के प्रयासों को बढ़ाता है: क्या अमेरिकी प्रतिबंधों से चीन - ईरान संबंधों को खतरा हो सकता है? चीन ने अमेरिकी प्रतिबंधों की धमकी की निंदा की है...",
+      "archived": false
+    },
+    {
       "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
       "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
       "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
@@ -1130,7 +1160,7 @@
       "guid": "91785806-d6bf-454b-b469-290dbab9b91b",
       "titleHi": "अमेरिका ने क्रिप्टो, सोना, शिपिंग और प्रौद्योगिकी को शामिल करने के लिए ईरान की कार्रवाई को व्यापक बनाया",
       "excerptHi": "ट्रेजरी का कहना है कि इवान ओबुखोव ने 2023 से IRGC - QF तेल की बिक्री के लिए क्रिप्टो में $ 100 मिलियन से अधिक की प्रक्रिया की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "460f1591b266f10b7e3038b846082b3b2d923624",
@@ -1258,26 +1288,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
       "titleHi": "अमेरिका ने सीरिया को आतंकवाद के राज्य प्रायोजकों की सूची से हटा दिया",
       "excerptHi": "ट्रम्प प्रशासन ने सीरिया के नए राष्ट्रपति, अल - कायदा से जुड़े पूर्व आतंकवादी अहमद अल - शारा को गले लगा लिया है।",
-      "archived": true
-    },
-    {
-      "id": "893748b63b2ae5098d8f34b239c53560254e2b4f",
-      "slug": "irans-winning-strategy-avoid-losing-893748",
-      "title": "Iran’s Winning Strategy: Avoid Losing",
-      "excerpt": "Readers respond to a column by Thomas L. Friedman about Iran’s strategy to avoid losing the war. Also: the legacy of Tommy John.",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "author": "The New York Times",
-      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/18friedman-fbzg/18friedman-fbzg-mediumSquareAt3X.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T20:13:02.000Z",
-      "sourceUrl": "https://www.nytimes.com/2026/08/24/opinion/iran-us-war-stratgey.html",
-      "guid": "https://www.nytimes.com/2026/08/24/opinion/iran-us-war-stratgey.html",
-      "titleHi": "ईरान की जीतने की रणनीति: हारने से बचें",
-      "excerptHi": "पाठक युद्ध हारने से बचने के लिए ईरान की रणनीति के बारे में थॉमस एल. फ्रीडमैन के एक कॉलम का जवाब देते हैं। इसके अलावा: टॉमी जॉन की विरासत.",
       "archived": true
     }
   ],
@@ -1716,6 +1726,112 @@
   ],
   "world": [
     {
+      "id": "91f807cea8e14e1805b690347b7bf950a049aa92",
+      "slug": "andrew-tate-rented-supercars-to-appear-uberwealthy-says-his-91f807",
+      "title": "Andrew Tate rented supercars to appear ‘uberwealthy’, says his lawyer",
+      "excerpt": "Self-described misogynist and his brother, Tristan are playing role to generate income from online attention, Miami court filing says Andrew Tate rented supercars and borrowed a yacht to appear “uberwealthy” and…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rajeev Syal",
+      "image": "https://i.guim.co.uk/img/media/7d16680c74e0c75f771a9977f473a8c52bc08317/38_0_6668_5336/master/6668.jpg?width=140&quality=85&auto=format&fit=max&s=4a44e35e5fca8cd337b7820e9c8b10a6",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T12:25:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/news/2026/aug/25/andrew-tate-rented-supercars-to-appear-uberwealthy-says-his-lawyer",
+      "guid": "https://www.theguardian.com/news/2026/aug/25/andrew-tate-rented-supercars-to-appear-uberwealthy-says-his-lawyer",
+      "titleHi": "एंड्रयू टेट ने 'uberwealthy‘ दिखाने के लिए सुपरकार किराए पर लीं, उनके वकील कहते हैं",
+      "excerptHi": "स्वयं - वर्णित मिसोजिनिस्ट और उनके भाई, ट्रिस्टन ऑनलाइन ध्यान से आय उत्पन्न करने के लिए भूमिका निभा रहे हैं, मियामी कोर्ट फाइलिंग में कहा गया है कि एंड्रयू टेट ने सुपरकारों को किराए पर लिया और \"uberwealthy\" और...",
+      "archived": false
+    },
+    {
+      "id": "7c14fe4c258135dee78ad06212745c0326d912b1",
+      "slug": "us-fossil-fuel-lobbyists-also-represent-hundreds-of-cities-f-7c14fe",
+      "title": "US fossil fuel lobbyists also represent hundreds of cities fighting for climate damages",
+      "excerpt": "Local governments working with firms also linked to fossil fuel giants, analysis of federal lobbying disclosures shows Congressional lobbyists working for fossil fuel firms that are exacerbating the climate crisis are…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Sara Sneath",
+      "image": "https://i.guim.co.uk/img/media/9378353e75bad5029b7512f5ef66e32b1594c137/2112_1298_2554_2045/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=4d9862c685016865192b259ac524fc1f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T12:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
+      "guid": "https://www.theguardian.com/environment/2026/aug/25/fossil-fuel-lobbyists-fight-climate-damage",
+      "titleHi": "अमेरिकी जीवाश्म ईंधन लॉबीस्ट जलवायु नुकसान के लिए लड़ रहे सैकड़ों शहरों का भी प्रतिनिधित्व करते हैं",
+      "excerptHi": "जीवाश्म ईंधन दिग्गजों से जुड़ी फर्मों के साथ काम करने वाली स्थानीय सरकारें, संघीय लॉबिंग प्रकटीकरणों के विश्लेषण से पता चलता है कि जीवाश्म ईंधन फर्मों के लिए काम करने वाले कांग्रेसी लॉबिस्ट जो जलवायु संकट को बढ़ा रहे हैं...",
+      "archived": false
+    },
+    {
+      "id": "abd815a5b67b11e8f58f54441d0228f58d6109d8",
+      "slug": "artist-known-for-sculptures-of-mao-zedong-jailed-for-slander-abd815",
+      "title": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
+      "excerpt": "Gao Zhen sentenced to three years in prison after already spending two years in detention Gao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Danny Vincent in Taipei",
+      "image": "https://i.guim.co.uk/img/media/b1bbc5caec0cd2ecd899cbf9294b8ca6672df039/0_215_2006_1604/master/2006.jpg?width=140&quality=85&auto=format&fit=max&s=b9bd6ba05ed250098c1316e67c0ced10",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:53:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
+      "titleHi": "माओ त्से तुंग की मूर्तियों के लिए जाने जाने वाले कलाकार को ‘नायकों और शहीदों‘ की निंदा करने के लिए जेल भेजा गया",
+      "excerptHi": "पूर्व नेता माओ ज़ेडोंग की भड़काऊ मूर्तियों के लिए जाने जाने वाले एक प्रमुख चीनी कलाकार गाओ ज़ेन को पहले से ही हिरासत में दो साल बिताने के बाद गाओ ज़ेन को तीन साल की जेल की सजा सुनाई गई है...",
+      "archived": false
+    },
+    {
+      "id": "81c2613ce53ee89ef1f25c89755f8a7a0c932fa3",
+      "slug": "china-denounces-us-threat-of-sanctions-over-trade-with-iran-81c261",
+      "title": "China denounces US threat of sanctions over trade with Iran",
+      "excerpt": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate Tehran Explainer: could US sanctions threaten China-Iran ties? China has denounced the threat of US sanctions…",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Julian Borger Senior international correspondent",
+      "image": "https://i.guim.co.uk/img/media/77f6b7563b4ecc87e66bf199e323ebeb482e3e43/305_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=d563f654f419a66bf4df2c93d8d4c67e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:43:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "titleHi": "चीन ने ईरान के साथ व्यापार को लेकर प्रतिबंधों की अमेरिकी धमकी की निंदा की",
+      "excerptHi": "बीजिंग का कहना है कि वह अपने हितों की रक्षा के लिए ‘सभी आवश्यक उपाय’ करेगा क्योंकि अमेरिका तेहरान एक्सप्लेनर को अलग - थलग करने के प्रयासों को बढ़ाता है: क्या अमेरिकी प्रतिबंधों से चीन - ईरान संबंधों को खतरा हो सकता है? चीन ने अमेरिकी प्रतिबंधों की धमकी की निंदा की है...",
+      "archived": false
+    },
+    {
+      "id": "2e48899e7dd5ad1511afa475b15cd95e0fc26d07",
+      "slug": "boy-injured-in-crocodile-enclosure-discharged-from-hospital-2e4889",
+      "title": "Boy injured in crocodile enclosure discharged from hospital",
+      "excerpt": "Family of three-year-old allegedly thrown into pit at Cambridgeshire zoo say he is happy to be back at home A three-year-old boy who was seriously injured in a zoo’s crocodile enclosure has been discharged from hospital…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jamie Grierson",
+      "image": "https://i.guim.co.uk/img/media/fa4fbc26ca10b8a0d80b5dd2a551ab308168eaa8/32_0_4548_3640/master/4548.jpg?width=140&quality=85&auto=format&fit=max&s=24feab98c3c8e373f1565bbd1a348077",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T11:19:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/25/boy-injured-zoo-crocodile-enclosure-discharged-hospital",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/25/boy-injured-zoo-crocodile-enclosure-discharged-hospital",
+      "titleHi": "मगरमच्छ बाड़े में घायल लड़के को अस्पताल से छुट्टी दे दी गई",
+      "excerptHi": "कैम्ब्रिजशायर चिड़ियाघर में कथित रूप से गड्ढे में फेंके गए तीन साल के बच्चे के परिवार का कहना है कि वह घर वापस आकर खुश है एक चिड़ियाघर के मगरमच्छ के घेरे में गंभीर रूप से घायल हुए तीन साल के बच्चे को अस्पताल से छुट्टी दे दी गई है...",
+      "archived": false
+    },
+    {
       "id": "d1c0ba7a2878bf2f07fb38008bb5cdc7b214b47f",
       "slug": "trump-epa-aims-to-exempt-datacenters-from-disclosing-air-pol-d1c0ba",
       "title": "Trump EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
@@ -1822,114 +1938,6 @@
       "guid": "https://www.theguardian.com/world/2026/aug/25/wisconsin-kitten-29-toes-world-record",
       "titleHi": "29 पैर की उंगलियों के साथ विस्कॉन्सिन बिल्ली का बच्चा एक बिल्ली पर सबसे अधिक पैर की उंगलियों के लिए विश्व रिकॉर्ड तोड़ता है",
       "excerptHi": "Erebus Anomaly नाम के मेन कून ने बीमारी पर काबू पाने के बाद दो दशकों से अधिक समय तक आयोजित 28 पैर की उंगलियों के पिछले रिकॉर्ड को तोड़ दिया। विस्कॉन्सिन के एक मेन कून ने 24 साल पुराने विश्व रिकॉर्ड को तोड़ने के लिए निमोनिया के एक मुकाबले को पार किया...",
-      "archived": false
-    },
-    {
-      "id": "6ac3fc213e2cc322395579c1310a060c0586e452",
-      "slug": "us-treasurys-scott-bessent-will-lose-battle-with-bond-market-6ac3fc",
-      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
-      "excerpt": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley Druckenmiller Scott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have…",
-      "category": "World",
-      "secondaryCategories": [
-        "Crypto",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Graeme Wearden",
-      "image": "https://i.guim.co.uk/img/media/be918940d30a02e65544b700c175128ac8cf0775/586_0_4175_3340/master/4175.jpg?width=140&quality=85&auto=format&fit=max&s=95962102f5d470c7a3a5c1e3cabb0934",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:59:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "guid": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "titleHi": "अमेरिकी ट्रेजरी के स्कॉट बेसेंट बॉन्ड बाजारों के साथ ’हार’ जाएंगे, पूर्व सलाहकार ने चेतावनी दी",
-      "excerptHi": "ट्रम्प के सहयोगी को बांड की पैदावार को दबाने की कोशिश करने के बजाय बजट घाटे में कटौती करनी चाहिए, अरबपति स्टेनली ड्रुकेनमिलर स्कॉट बेसेंट का कहना है कि बांड बाजारों को शांत करने और अमेरिका की उधार लेने की लागत को कम करने के प्रयास में...",
-      "archived": false
-    },
-    {
-      "id": "aef4507e9e23052f9b1dc55d9a39d89002eae91b",
-      "slug": "federal-mp-luke-gosling-charged-with-breaching-bail-after-al-aef450",
-      "title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
-      "excerpt": "Member for Solomon was charged after an alleged incident at a cultural festival in Darwin in July Get our breaking news email, free app or daily news podcast Northern Territory police has charged federal Labor MP Luke…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Culture"
-      ],
-      "source": "The Guardian",
-      "author": "Krishani Dhanji",
-      "image": "https://i.guim.co.uk/img/media/df6488547114916af5bad7c2360ddbec8d145998/1342_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fbb01f44b65ffc54a660cd01f20224d2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:54:38.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
-      "titleHi": "एनटी में कथित हमले के बाद संघीय सांसद ल्यूक गोस्लिंग पर जमानत का उल्लंघन करने का आरोप लगाया गया है",
-      "excerptHi": "जुलाई में डार्विन में एक सांस्कृतिक उत्सव में एक कथित घटना के बाद सोलोमन के सदस्य पर आरोप लगाया गया था हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें उत्तरी क्षेत्र पुलिस ने संघीय श्रम सांसद ल्यूक पर आरोप लगाया है...",
-      "archived": false
-    },
-    {
-      "id": "41f66579f418cf68db44ef3c7859515ba138c2fc",
-      "slug": "lockerbie-bombing-trial-postponed-days-before-it-was-due-to-41f665",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "excerpt": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9057/live/3d1ddb50-cf68-11ef-94cb-5f844ceb9e30.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:08:13.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o#0",
-      "titleHi": "लॉकरबी बमबारी परीक्षण शुरू होने से कुछ दिन पहले स्थगित कर दिया गया था",
-      "excerptHi": "तीन दिन पहले 37 साल पुराने मामले पर नए सबूत सामने आने के बाद लीबिया के एक व्यक्ति के मुकदमे में तीसरी बार देरी हो रही है।",
-      "archived": false
-    },
-    {
-      "id": "673d552f4d4cc71ff991545c241acb52cba2ac72",
-      "slug": "the-whitewashing-of-the-green-india-mission-forest-expansion-673d55",
-      "title": "The whitewashing of the Green India Mission forest expansion project",
-      "excerpt": "The flagship environmental initiative has achieved ‘negligible’ results. Why so little progress, and what are the risks as the planet gets hotter? Plus, fusion dance pioneer Usha Jey • Don’t get This is India delivered…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Niha Masih",
-      "image": "https://i.guim.co.uk/img/media/1c5386cc3f0c852e95ee00b3238201249549b796/475_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8b35d41c6eb255296d45e69f126c1724",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:03:12.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/the-whitewashing-of-the-green-indian-mission",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/the-whitewashing-of-the-green-indian-mission",
-      "titleHi": "ग्रीन इंडिया मिशन वन विस्तार परियोजना की सफेदी",
-      "excerptHi": "प्रमुख पर्यावरण पहल ने ‘नगण्य‘ परिणाम प्राप्त किए हैं। इतनी कम प्रगति क्यों, और ग्रह के गर्म होने पर जोखिम क्या हैं? इसके अलावा, फ्यूजन डांस की पायनियर उषा जे • Don't get This is India delivered…",
-      "archived": false
-    },
-    {
-      "id": "6c061b159d74c4b640798e780a9630c29e651898",
-      "slug": "woman-allegedly-repeatedly-stabbed-with-scissors-while-prote-6c061b",
-      "title": "Woman allegedly repeatedly stabbed with scissors while protecting son from ‘random’ Melbourne CBD attack",
-      "excerpt": "Man arrested after being restrained and pinned down by ‘heroic’ bystanders, Victoria police say Get our breaking news email, free app or daily news podcast A mother has been taken to hospital after allegedly being…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Achol Arok",
-      "image": "https://i.guim.co.uk/img/media/b423142762325e7c8d4a87649789be4b6dcb6f65/411_0_4113_3291/master/4113.jpg?width=140&quality=85&auto=format&fit=max&s=c982cf903a50d2446b814e9e546919eb",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:01:44.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woman-allegedly-repeatedly-stabbed-with-scissors-while-protecting-son-from-random-melbourne-cbd-attack-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/woman-allegedly-repeatedly-stabbed-with-scissors-while-protecting-son-from-random-melbourne-cbd-attack-ntwnfb",
-      "titleHi": "बेटे को ‘यादृच्छिक‘ मेलबर्न सीबीडी हमले से बचाते हुए महिला ने कथित तौर पर बार - बार कैंची से वार किया",
-      "excerptHi": "विक्टोरिया पुलिस ने ‘वीर‘ दर्शकों द्वारा नियंत्रित और पिन किए जाने के बाद गिरफ्तार किए गए व्यक्ति का कहना है कि हमारा ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एक मां को कथित तौर पर…",
       "archived": false
     }
   ]
