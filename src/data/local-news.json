@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:57:24.498Z",
+  "generatedAt": "2026-08-25T03:51:25.094Z",
   "india": [
     {
       "id": "cb03001b92c503966167c482a97c5bc7ac90ef74",
@@ -1053,6 +1053,29 @@
   ],
   "middleeast": [
     {
+      "id": "109351f8a50901e5c25bba6826ce72e660b70ef5",
+      "slug": "woodside-scraps-long-term-emissions-and-clean-energy-targets-109351",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "excerpt": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "titleHi": "वुडसाइड ने ईरान युद्ध के कारण होने वाले तेल मुनाफे के बावजूद दीर्घकालिक उत्सर्जन और स्वच्छ ऊर्जा लक्ष्यों को समाप्त कर दिया",
+      "excerptHi": "ऑस्ट्रेलिया की सबसे बड़ी तेल और गैस कंपनी ने छह महीने की रिपोर्टिंग अवधि में बिक्री लाभ में 27% की वृद्धि दर्ज करके $ 1.67बिलियन कर दिया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
       "slug": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd",
       "title": "US removes Syria from list of state sponsors of terrorism",
@@ -1239,29 +1262,6 @@
       "guid": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
       "titleHi": "वेनिस फिल्म समारोह में विश्व प्रीमियर प्राप्त करने के लिए गार्जियन द्वारा निर्मित गाजा वृत्तचित्र",
       "excerptHi": "नो अदर लैंड के दो इज़राइली सह - निर्देशक युवाल अब्राहम और राहेल स्ज़ोर द्वारा निर्देशित फिल्म, युद्ध के दौरान ‘इज़राइल द्वारा फिलिस्तीनी नागरिकों की गणना की गई सामूहिक हत्या’ की जांच करती है। इज़राइल के बारे में एक नई वृत्तचित्र...",
-      "archived": true
-    },
-    {
-      "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
-      "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
-      "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-      "excerpt": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Patrick Wintour Diplomatic editor",
-      "image": "https://i.guim.co.uk/img/media/1c53731d00240da07c0478d86a442c495226b762/258_0_3392_2713/master/3392.jpg?width=140&quality=85&auto=format&fit=max&s=bf38d290f52e7e8764cb76299b121852",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:53:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
-      "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
       "archived": true
     }
   ],
@@ -1482,6 +1482,74 @@
   ],
   "oceania": [
     {
+      "id": "eca371f17ba540d32fda5cdf26f14392e82671c4",
+      "slug": "woolworths-ooshies-craze-causes-coles-sales-slump-with-paren-eca371",
+      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
+      "excerpt": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=9a8691072f6834fa943d49bf72c755db",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:44:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "guid": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "titleHi": "वूलवर्थ्स का ऊशीज का क्रेज कोल्स की बिक्री में गिरावट का कारण बनता है क्योंकि माता - पिता प्रतिद्वंद्वी सुपरमार्केट में खिलौने इकट्ठा करने के लिए खरीदारी करते हैं",
+      "excerptHi": "कोल्स के पूरे साल के परिणामों से पता चलता है कि पिछले 12 महीनों में बाजार हिस्सेदारी हासिल करने के बावजूद, ‘प्रतियोगी के संग्रहणीय अभियान‘ के चार हफ्तों में बिक्री में गिरावट आई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे...",
+      "archived": false
+    },
+    {
+      "id": "109351f8a50901e5c25bba6826ce72e660b70ef5",
+      "slug": "woodside-scraps-long-term-emissions-and-clean-energy-targets-109351",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "excerpt": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "titleHi": "वुडसाइड ने ईरान युद्ध के कारण होने वाले तेल मुनाफे के बावजूद दीर्घकालिक उत्सर्जन और स्वच्छ ऊर्जा लक्ष्यों को समाप्त कर दिया",
+      "excerptHi": "ऑस्ट्रेलिया की सबसे बड़ी तेल और गैस कंपनी ने छह महीने की रिपोर्टिंग अवधि में बिक्री लाभ में 27% की वृद्धि दर्ज करके $ 1.67बिलियन कर दिया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "5b61824ad7564d963555e5b6f38bff745fe06878",
+      "slug": "scots-college-students-charged-with-sexual-assault-of-teen-g-5b6182",
+      "title": "Scots College students charged with sexual assault of teen girl appear in court",
+      "excerpt": "Three boys, two aged 14 and one aged 13, on bail and yet to enter a plea after alleged assault in Sydney’s east Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "AAP and Jordyn Beazley",
+      "image": "https://i.guim.co.uk/img/media/eaaedf851c77b922cb8b84cbc354dad518cc58b6/0_1026_2554_2041/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=2037e3a64dbb811bb07e743036b50a3c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:25:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "titleHi": "किशोर लड़की के यौन उत्पीड़न के आरोप में स्कॉट्स कॉलेज के छात्र अदालत में पेश हुए",
+      "excerptHi": "सिडनी के पूर्व में कथित हमले के बाद तीन लड़के, दो उम्र 14 और एक उम्र 13, जमानत पर हैं और अभी तक एक याचिका दर्ज नहीं की गई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "cd6f596dd0bee4d914bd0e341a220ba5590d1968",
       "slug": "new-essendon-coach-mark-mcveigh-tipped-to-approach-james-hir-cd6f59",
       "title": "New Essendon coach Mark McVeigh tipped to approach James Hird for Bombers AFL role",
@@ -1542,7 +1610,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/24/rfl-in-talks-with-australias-nrl-over-radical-changes-to-investment-deal",
       "titleHi": "‘प्रोजेक्ट मैजिक ': निवेश सौदे में आमूलचूल बदलाव को लेकर एनआरएल के साथ बातचीत में आरएफएल",
       "excerptHi": "सुपर लीग क्लबों ने पिछले सप्ताह £ 35 मिलियन के सौदे को अस्वीकार कर दिया रग्बी फुटबॉल लीग (RFL) की बैठक में योजनाओं पर चर्चा करने के कारण 14 मालिक ऑस्ट्रेलिया के द्वारा शुरू में पेश किए गए फंडिंग सौदे के लिए मौलिक रूप से अलग - अलग शर्तों की तलाश कर रहे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cfc6bd07b3d0dd04c8c3a4fe45d522f3c9f62c83",
@@ -1628,74 +1696,77 @@
       "titleHi": "न्यूजीलैंड की सरकार ने अंडर -16 के लिए सोशल मीडिया पर प्रतिबंध लगाने के लिए कानून पेश किया",
       "excerptHi": "प्रस्तावित कानून के तहत, यदि मेटा जैसी फर्में अनुपालन करने में विफल रहती हैं, तो उन पर उनके वैश्विक राजस्व का 10% तक जुर्माना लगाया जा सकता है।",
       "archived": true
-    },
+    }
+  ],
+  "world": [
     {
-      "id": "30036c926f3a2b925178288547e8f369bbea7d4f",
-      "slug": "my-arms-are-longer-now-comedy-stealth-game-sends-lawlessness-30036c",
-      "title": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
-      "excerpt": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
-      "category": "Culture",
-      "secondaryCategories": [],
+      "id": "eca371f17ba540d32fda5cdf26f14392e82671c4",
+      "slug": "woolworths-ooshies-craze-causes-coles-sales-slump-with-paren-eca371",
+      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
+      "excerpt": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
       "source": "The Guardian",
-      "author": "Bex April May",
-      "image": "https://i.guim.co.uk/img/media/dd30d5c7d09dd88e7467d20e88884b291ec67ea1/447_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=ab1449a51560c059d87fa3febc7d13d5",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=9a8691072f6834fa943d49bf72c755db",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T08:00:55.000Z",
-      "sourceUrl": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
-      "guid": "https://www.theguardian.com/games/2026/aug/24/my-arms-are-longer-now-comedy-stealth-game-preview",
-      "titleHi": "My Arms Are Longer Now – comedy stealth game sends lawlessness into new territory",
-      "excerptHi": "Developers who met through Australia’s improv scene and publishers of comedic party games have united for this slithering challenge in which you play as one extended limb Most stealth games cast you as a spy, an…",
-      "archived": true
+      "publishedAt": "2026-08-25T03:44:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "guid": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "titleHi": "वूलवर्थ्स का ऊशीज का क्रेज कोल्स की बिक्री में गिरावट का कारण बनता है क्योंकि माता - पिता प्रतिद्वंद्वी सुपरमार्केट में खिलौने इकट्ठा करने के लिए खरीदारी करते हैं",
+      "excerptHi": "कोल्स के पूरे साल के परिणामों से पता चलता है कि पिछले 12 महीनों में बाजार हिस्सेदारी हासिल करने के बावजूद, ‘प्रतियोगी के संग्रहणीय अभियान‘ के चार हफ्तों में बिक्री में गिरावट आई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे...",
+      "archived": false
     },
     {
-      "id": "39d02081c703cf84e765e44db67b30f316be5b97",
-      "slug": "dominic-perrottets-brother-allegedly-shared-dirt-including-s-39d020",
-      "title": "Dominic Perrottet’s brother allegedly shared ‘dirt’ including secret phone recording of minister, Icac hears",
-      "excerpt": "Charles Perrottet appeared to be furthering fugitive developer Jean Nassif’s interests by undermining adversaries, a former NSW MP claims Follow our Australia news live blog for latest updates Get our breaking news…",
-      "category": "Europe",
+      "id": "109351f8a50901e5c25bba6826ce72e660b70ef5",
+      "slug": "woodside-scraps-long-term-emissions-and-clean-energy-targets-109351",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "excerpt": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
+      "category": "World",
       "secondaryCategories": [
         "Technology",
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Penry Buckley",
-      "image": "https://i.guim.co.uk/img/media/565f799c7da638307efbd5ce214805e239c840f0/725_0_3743_2995/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=3cb134e4910cefbd1e29a6f0fb20a142",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T07:25:48.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/dominic-perrottet-brother-charles-secret-recording-icac-inquiry-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/dominic-perrottet-brother-charles-secret-recording-icac-inquiry-ntwnfb",
-      "titleHi": "Dominic Perrottet’s brother allegedly shared ‘dirt’ including secret phone recording of minister, Icac hears",
-      "excerptHi": "Charles Perrottet appeared to be furthering fugitive developer Jean Nassif’s interests by undermining adversaries, a former NSW MP claims Follow our Australia news live blog for latest updates Get our breaking news…",
-      "archived": true
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "titleHi": "वुडसाइड ने ईरान युद्ध के कारण होने वाले तेल मुनाफे के बावजूद दीर्घकालिक उत्सर्जन और स्वच्छ ऊर्जा लक्ष्यों को समाप्त कर दिया",
+      "excerptHi": "ऑस्ट्रेलिया की सबसे बड़ी तेल और गैस कंपनी ने छह महीने की रिपोर्टिंग अवधि में बिक्री लाभ में 27% की वृद्धि दर्ज करके $ 1.67बिलियन कर दिया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप प्राप्त करें...",
+      "archived": false
     },
     {
-      "id": "1fc68d6791cd038d63c12db0c0ccd1276d354959",
-      "slug": "how-do-you-vaccinate-1000-tiny-penguins-against-bird-flu-in-1fc68d",
-      "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
-      "excerpt": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kind Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
+      "id": "5b61824ad7564d963555e5b6f38bff745fe06878",
+      "slug": "scots-college-students-charged-with-sexual-assault-of-teen-g-5b6182",
+      "title": "Scots College students charged with sexual assault of teen girl appear in court",
+      "excerpt": "Three boys, two aged 14 and one aged 13, on bail and yet to enter a plea after alleged assault in Sydney’s east Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
       "category": "World",
       "secondaryCategories": [
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Petra Stock",
-      "image": "https://i.guim.co.uk/img/media/32bd1ae57aa50a13e6abce52733ea9220b41d583/633_74_5614_4491/master/5614.jpg?width=140&quality=85&auto=format&fit=max&s=dbd7eff9678621e5bace704654424608",
+      "author": "AAP and Jordyn Beazley",
+      "image": "https://i.guim.co.uk/img/media/eaaedf851c77b922cb8b84cbc354dad518cc58b6/0_1026_2554_2041/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=2037e3a64dbb811bb07e743036b50a3c",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-24T06:11:36.000Z",
-      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
-      "guid": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
-      "titleHi": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
-      "excerptHi": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kind Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
-      "archived": true
-    }
-  ],
-  "world": [
+      "publishedAt": "2026-08-25T03:25:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "titleHi": "किशोर लड़की के यौन उत्पीड़न के आरोप में स्कॉट्स कॉलेज के छात्र अदालत में पेश हुए",
+      "excerptHi": "सिडनी के पूर्व में कथित हमले के बाद तीन लड़के, दो उम्र 14 और एक उम्र 13, जमानत पर हैं और अभी तक एक याचिका दर्ज नहीं की गई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
     {
       "id": "780de928b8695bf62746e35713e7a90e7d82a336",
       "slug": "trump-administration-plans-to-revoke-200000-visas-of-asylum-780de9",
@@ -1843,68 +1914,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
       "titleHi": "जाति विभाजन भारत के एक सूखे कोने में चिलचिलाती गर्मियों को और कठिन बना देता है",
       "excerptHi": "कार्यकर्ताओं का कहना है कि बुंदेलखंड क्षेत्र में बढ़ती गर्मी और पानी की कमी पुरानी जाति की असमानताओं को गहरा कर रही है।",
-      "archived": false
-    },
-    {
-      "id": "da4fe4d9416d4349f1a3f92b56f33a48a3884a9b",
-      "slug": "immense-drop-off-in-support-contributing-to-care-leaver-deat-da4fe4",
-      "title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
-      "excerpt": "Death rate three to four times higher than among general population blamed on isolation of those leaving care ‘He was left on his own’: the care-leaver lives lost to a system that abandons them at 18 Profound isolation…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Jessica Murray Social affairs correspondent",
-      "image": "https://i.guim.co.uk/img/media/79fb17098ba251d6caa5157ee2cfd4b59fe2d9e9/1357_0_2899_2319/master/2899.jpg?width=140&quality=85&auto=format&fit=max&s=55b4e029f1d225126df81214cd21878c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T23:01:41.000Z",
-      "sourceUrl": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
-      "guid": "https://www.theguardian.com/society/2026/aug/25/care-leaver-deaths-isolation-drop-off-support-review",
-      "titleHi": "समीक्षा में कहा गया है कि इंग्लैंड में देखभाल करने वाले लीवर की मौतों में योगदान देने वाले समर्थन में ‘अपार ड्रॉप - ऑफ़’",
-      "excerptHi": "सामान्य आबादी की तुलना में मृत्यु दर तीन से चार गुना अधिक है जिसे देखभाल छोड़ने वालों के अलगाव पर दोषी ठहराया गया था ‘वह अपने दम पर छोड़ दिया गया था ': देखभाल - लीवर एक ऐसी प्रणाली से हार जाता है जो उन्हें 18 गहन अलगाव पर छोड़ देती है...",
-      "archived": false
-    },
-    {
-      "id": "e2e5cf4ffd7d2e7651a6ae7fdb93e670e1159855",
-      "slug": "lindsay-clancy-trial-psychologist-says-he-doubts-claim-she-w-e2e5cf",
-      "title": "Lindsay Clancy trial: psychologist says he doubts claim she was hallucinating",
-      "excerpt": "Dr Kirk Heilbrun says he believes Clancy took children’s lives so they wouldn’t ‘suffer’ after she killed herself With just days to go before the murder trial for Lindsay Clancy concludes, a forensic psychologist called…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Gabrielle Canonand agencies",
-      "image": "https://i.guim.co.uk/img/media/fa607f938744a7441819afba5272d55134f0903c/296_0_2407_1926/master/2407.jpg?width=140&quality=85&auto=format&fit=max&s=42305b8ac05170f43f13c3adc7136dc6",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T23:00:53.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
-      "titleHi": "लिंडसे क्लेन्सी परीक्षण: मनोवैज्ञानिक का कहना है कि उसे संदेह है कि वह मतिभ्रम कर रही थी",
-      "excerptHi": "डॉ. किर्क हेइलब्रुन का कहना है कि उनका मानना है कि क्लेन्सी ने बच्चों की जान ले ली ताकि वे खुद को मारने के बाद ‘पीड़ित’ न हों। लिंडसे क्लेन्सी के लिए हत्या के मुकदमे के समापन से कुछ ही दिन पहले, एक फोरेंसिक मनोवैज्ञानिक ने कहा...",
-      "archived": false
-    },
-    {
-      "id": "25882b8f9c346fffec158ac7fcb2e3eaf0d2ed5b",
-      "slug": "beyond-chinas-humanoid-robots-a-quieter-machine-revolution-i-25882b",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "excerpt": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-08-24T22:13:20.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
-      "titleHi": "चीन के humanoid रोबोटों से परे, एक शांत मशीन क्रांति सामने आ रही है",
-      "excerptHi": "चीन के कारखानों में दो मिलियन से अधिक रोबोट काम कर रहे हैं - और वे तेजी से बढ़ रहे हैं।",
       "archived": false
     }
   ]

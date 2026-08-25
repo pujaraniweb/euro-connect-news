@@ -1,8 +1,76 @@
 {
-  "generatedAt": "2026-08-25T02:57:24.498Z",
+  "generatedAt": "2026-08-25T03:51:25.094Z",
   "retentionDays": 45,
-  "total": 2488,
+  "total": 2491,
   "items": [
+    {
+      "id": "eca371f17ba540d32fda5cdf26f14392e82671c4",
+      "slug": "woolworths-ooshies-craze-causes-coles-sales-slump-with-paren-eca371",
+      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
+      "excerpt": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Luca Ittimani",
+      "image": "https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=9a8691072f6834fa943d49bf72c755db",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:44:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "guid": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
+      "titleHi": "वूलवर्थ्स का ऊशीज का क्रेज कोल्स की बिक्री में गिरावट का कारण बनता है क्योंकि माता - पिता प्रतिद्वंद्वी सुपरमार्केट में खिलौने इकट्ठा करने के लिए खरीदारी करते हैं",
+      "excerptHi": "कोल्स के पूरे साल के परिणामों से पता चलता है कि पिछले 12 महीनों में बाजार हिस्सेदारी हासिल करने के बावजूद, ‘प्रतियोगी के संग्रहणीय अभियान‘ के चार हफ्तों में बिक्री में गिरावट आई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे...",
+      "archived": false
+    },
+    {
+      "id": "109351f8a50901e5c25bba6826ce72e660b70ef5",
+      "slug": "woodside-scraps-long-term-emissions-and-clean-energy-targets-109351",
+      "title": "Woodside scraps long-term emissions and clean energy targets despite windfall oil profits caused by Iran war",
+      "excerpt": "Australia’s biggest oil and gas company recorded a 27% increase in sales profit to $1.67bn in the six-month reporting period Follow our Australia news live blog for latest updates Get our breaking news email, free app…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/4a2b0b51cdc94dad489421ee78585440f07f244b/719_187_3667_2933/master/3667.jpg?width=140&quality=85&auto=format&fit=max&s=85666342de9812cfb9bd5174ad48632d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:29:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
+      "titleHi": "वुडसाइड ने ईरान युद्ध के कारण होने वाले तेल मुनाफे के बावजूद दीर्घकालिक उत्सर्जन और स्वच्छ ऊर्जा लक्ष्यों को समाप्त कर दिया",
+      "excerptHi": "ऑस्ट्रेलिया की सबसे बड़ी तेल और गैस कंपनी ने छह महीने की रिपोर्टिंग अवधि में बिक्री लाभ में 27% की वृद्धि दर्ज करके $ 1.67बिलियन कर दिया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "5b61824ad7564d963555e5b6f38bff745fe06878",
+      "slug": "scots-college-students-charged-with-sexual-assault-of-teen-g-5b6182",
+      "title": "Scots College students charged with sexual assault of teen girl appear in court",
+      "excerpt": "Three boys, two aged 14 and one aged 13, on bail and yet to enter a plea after alleged assault in Sydney’s east Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "AAP and Jordyn Beazley",
+      "image": "https://i.guim.co.uk/img/media/eaaedf851c77b922cb8b84cbc354dad518cc58b6/0_1026_2554_2041/master/2554.jpg?width=140&quality=85&auto=format&fit=max&s=2037e3a64dbb811bb07e743036b50a3c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T03:25:58.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-scots-college-boys-charged-sexual-assault-appear-in-court-ntwnfb",
+      "titleHi": "किशोर लड़की के यौन उत्पीड़न के आरोप में स्कॉट्स कॉलेज के छात्र अदालत में पेश हुए",
+      "excerptHi": "सिडनी के पूर्व में कथित हमले के बाद तीन लड़के, दो उम्र 14 और एक उम्र 13, जमानत पर हैं और अभी तक एक याचिका दर्ज नहीं की गई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
     {
       "id": "1212227fd667d31eeb5c390645aa3a3140cdce7e",
       "slug": "french-tourist-dies-in-death-valley-after-car-gets-stuck-in-121222",
@@ -1191,7 +1259,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
       "titleHi": "गैटविक यात्रियों द्वारा इस्तेमाल किए गए कार पार्क में आग लगने के बाद आग लगने के संदेह में व्यक्ति गिरफ्तार",
       "excerptHi": "क्रॉली के पास लगी आग ने 140 वाहनों को नष्ट कर दिया, आस - पास के व्यवसायों को क्षतिग्रस्त कर दिया और शनिवार की रात को बिजली की कटौती हो गई। आग लगने के संदेह में एक व्यक्ति को गिरफ्तार किया गया है, जिसके बाद…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1fda7066b1201b93d7de6eef81b4e6fc1b7c809d",
@@ -1213,7 +1281,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
       "titleHi": "विक्टोरिया के प्रीमियर बेन कैरोल विराम पर संकेत देने के बावजूद एसआरएल खर्च के साथ आगे बढ़ते हैं",
       "excerptHi": "विक्टोरियन लोगों के लिए अन्य परियोजनाओं को अधिक महत्वपूर्ण बताने के एक दिन बाद, कैरोल ने ट्रेन लाइन पर आगे बढ़ने के लिए प्रतिबद्ध किया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरियन प्रीमियर, बेन...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f163688d37eaadbef806087e41576a05d44e41ff",
@@ -1233,7 +1301,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/24/rfl-in-talks-with-australias-nrl-over-radical-changes-to-investment-deal",
       "titleHi": "‘प्रोजेक्ट मैजिक ': निवेश सौदे में आमूलचूल बदलाव को लेकर एनआरएल के साथ बातचीत में आरएफएल",
       "excerptHi": "सुपर लीग क्लबों ने पिछले सप्ताह £ 35 मिलियन के सौदे को अस्वीकार कर दिया रग्बी फुटबॉल लीग (RFL) की बैठक में योजनाओं पर चर्चा करने के कारण 14 मालिक ऑस्ट्रेलिया के द्वारा शुरू में पेश किए गए फंडिंग सौदे के लिए मौलिक रूप से अलग - अलग शर्तों की तलाश कर रहे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1cd8e1599383faa1a50956c584fa5c2cf7c5c3b6",
