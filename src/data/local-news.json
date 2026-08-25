@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-24T23:21:10.312Z",
+  "generatedAt": "2026-08-25T01:09:46.946Z",
   "india": [
+    {
+      "id": "cb03001b92c503966167c482a97c5bc7ac90ef74",
+      "slug": "caste-divides-make-scorching-summers-harder-in-a-parched-cor-cb0300",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "excerpt": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53c/live/9d016d70-9a00-11f1-ad4f-c7824f9e4997.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T23:36:58.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
+      "titleHi": "जाति विभाजन भारत के एक सूखे कोने में चिलचिलाती गर्मियों को और कठिन बना देता है",
+      "excerptHi": "कार्यकर्ताओं का कहना है कि बुंदेलखंड क्षेत्र में बढ़ती गर्मी और पानी की कमी पुरानी जाति की असमानताओं को गहरा कर रही है।",
+      "archived": false
+    },
     {
       "id": "97b17091f0d0f89eb034e0d3f4285cb7ae8c1ad8",
       "slug": "iran-vows-to-retaliate-against-countries-that-cooperate-with-97b170",
@@ -189,29 +209,76 @@
       "titleHi": "इंग्लैंड महिला विश्व कप की उम्मीदें ग्रुप स्टेज पर खत्म",
       "excerptHi": "भारत के साथ 0 -0 के ड्रॉ के बाद ग्रुप चरण में एफआईएच हॉकी विश्व कप के अंत में इंग्लैंड की महिलाओं की सफलता की उम्मीदें।",
       "archived": true
-    },
-    {
-      "id": "32a937e0fe2bc2f2854c47ee9513f152a5841f77",
-      "slug": "tibetan-protesters-in-new-dehli-denounce-china-with-shaved-h-32a937",
-      "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
-      "excerpt": "Hundreds of Tibetan exiles gathered in New Delhi on Thursday, 20 August, to protest against China’s new Ethnic Unity and Progress Law.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-20T10:54:59.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
-      "guid": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
-      "titleHi": "नई दिल्ली में तिब्बती प्रदर्शनकारियों ने मुंडा सिर और प्रार्थनाओं के साथ चीन की निंदा की",
-      "excerptHi": "चीन के नए जातीय एकता और प्रगति कानून के विरोध में गुरुवार, 20 अगस्त को सैकड़ों तिब्बती निर्वासित नई दिल्ली में एकत्र हुए।",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "c9e6c20392530fbc9ddd2dbafb7fd7923876e3a9",
+      "slug": "how-canada-could-hit-back-to-hurt-the-us-economy---and-trump-c9e6c2",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "excerpt": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:40:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
+      "titleHi": "कनाडा अमेरिकी अर्थव्यवस्था को कैसे नुकसान पहुंचा सकता है - और ट्रम्प",
+      "excerptHi": "कनाडा, जो अपने लगभग 70% सामान अमेरिका को बेचता है, वास्तव में इस बढ़ते व्यापार विवाद में क्या लाभ उठाता है?",
+      "archived": false
+    },
+    {
+      "id": "87a8f14284051b69afacbbdc626a1a0a304ed480",
+      "slug": "colombias-new-president-abelardo-de-la-espriella-announces-i-87a8f1",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "excerpt": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tiago Rogero South America correspondent",
+      "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "titleHi": "कोलंबिया के नए राष्ट्रपति Abelardo de la Espriella ने आप्रवासन के खिलाफ कार्रवाई की घोषणा की",
+      "excerptHi": "सुदूर - दक्षिणपंथी नेता सहयोगी डोनाल्ड ट्रम्प को प्रतिध्वनित करते हैं और कहते हैं कि कोलंबिया के सुदूर - दक्षिणपंथी राष्ट्रपति अबेलार्डो डे ला एस्प्रेला के भूकंप के बाद ’अवैध प्रवासियों को ट्रैक करने' के लिए अभियान इस सप्ताह शुरू होना चाहिए, ने घोषणा की है...",
+      "archived": false
+    },
+    {
+      "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
+      "slug": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "excerpt": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "titleHi": "अमेरिका ने सीरिया को आतंकवाद के राज्य प्रायोजकों की सूची से हटा दिया",
+      "excerptHi": "ट्रम्प प्रशासन ने सीरिया के नए राष्ट्रपति, अल - कायदा से जुड़े पूर्व आतंकवादी अहमद अल - शारा को गले लगा लिया है।",
+      "archived": false
+    },
     {
       "id": "16ae203008154857abcaaa18a9ad102adf51b0b4",
       "slug": "watson-among-britons-through-in-us-open-qualifying-16ae20",
@@ -355,69 +422,29 @@
       "titleHi": "अमेरिकी सुप्रीम कोर्ट ने कहा - मेल - इन वोटिंग पर कार्रवाई कर सकते हैं ट्रंप",
       "excerptHi": "जस्टिस का फैसला तब आया है जब निचली अदालतों ने नवंबर के मध्य से पहले राष्ट्रपति के चुनाव आदेश को अवरुद्ध कर दिया था डोनाल्ड ट्रम्प का प्रशासन मेल - इन वोटिंग पर राष्ट्रव्यापी कार्रवाई के साथ आगे बढ़ सकता है, अमेरिकी सुप्रीम कोर्ट…",
       "archived": false
-    },
-    {
-      "id": "a50a2e8aa214c8458110e6f66c22023dac7b0ef7",
-      "slug": "nevada-files-lawsuit-challenging-federal-plan-for-colorado-r-a50a2e",
-      "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-      "excerpt": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Gabrielle Canon",
-      "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a1825e373dc059a7d60ace440568f406",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T20:56:51.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "titleHi": "कोलोराडो नदी के पुनरुद्धार के लिए संघीय योजना को चुनौती देते हुए नेवादा ने मुकदमा दायर किया",
-      "excerptHi": "ट्रम्प प्रशासन की योजना में, कैलिफ़ोर्निया, एरिज़ोना और नेवादा को दो वर्षों में पानी की आपूर्ति में लगभग 20% की कटौती का सामना करना पड़ा नेवादा ने सोमवार को एक संघीय मुकदमा दायर किया, जिसमें ट्रम्प प्रशासन की नई योजना को चुनौती दी गई...",
-      "archived": false
-    },
-    {
-      "id": "4bb1829e9e74c2f39ac80d0e1c2b062a32c25c7b",
-      "slug": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-4bb182",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "excerpt": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Monday that it once again carried out a…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "By Konstantin Toropin and Bill Barrow, Associated Press",
-      "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T20:23:26.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "titleHi": "अमेरिका ने पूर्वी प्रशांत महासागर में एक जहाज पर हमला किया, महीनों में पहले हमले में 2 लोगों की मौत हो गई",
-      "excerptHi": "अमेरिकी दक्षिणी कमान ने पूर्वी प्रशांत में एक और जहाज पर हमला किया है, जिसमें ड्रग्स की तस्करी के दो आरोपी मारे गए हैं। दो महीने से अधिक समय के विराम के बाद, अमेरिकी सेना ने सोमवार को घोषणा की कि उसने एक बार फिर से एक...",
-      "archived": false
-    },
-    {
-      "id": "e86f4f00037f97593faad6cd572de21601181510",
-      "slug": "coinbase-affiliated-advocacy-group-endorses-candidates-for-u-e86f4f",
-      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-      "excerpt": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "Cointelegraph",
-      "author": "Cointelegraph by Turner Wright",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-for-america-cryptocurrencies-in-campaign-finance-1.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T19:18:06.000Z",
-      "sourceUrl": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "guid": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates",
-      "titleHi": "कॉइनबेस से संबद्ध वकालत समूह यूएस मिडटर्म के उम्मीदवारों का समर्थन करता है",
-      "excerptHi": "अमेरिकी आम चुनाव तक सिर्फ दो महीने के साथ, स्टैंड विद क्रिप्टो ने \"इतिहास में सबसे अधिक क्रिप्टो कांग्रेस का चुनाव करने\" के अपने प्रयासों में राजनेताओं के लिए अपनी पसंद की घोषणा की।",
-      "archived": false
     }
   ],
   "europe": [
+    {
+      "id": "e1edf19d96549135a38f55da2736bd78caccc7dc",
+      "slug": "moment-tornado-tears-through-southern-france-e1edf1",
+      "title": "Moment tornado tears through southern France",
+      "excerpt": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:16:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
+      "titleHi": "दक्षिणी फ़्रांस में पल भर के लिए आँसू",
+      "excerptHi": "बवंडर ने 40 से अधिक लोगों को घायल कर दिया है और गांवों में घरों को नष्ट कर दिया है।",
+      "archived": false
+    },
     {
       "id": "9a64f4251f4a821fab1fc046d89e76aff77cc6bc",
       "slug": "manga-inspired-theme-park-to-be-built-near-paris-9a64f4",
@@ -501,7 +528,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
       "titleHi": "मार्क कार्नी का कहना है कि कनाडा अमेरिकी व्यापार समझौते को स्वीकार नहीं कर सकता है जो फ्रांसीसी भाषा को कमजोर करेगा",
       "excerptHi": "प्रधान मंत्री ने अमेरिकी व्यापार प्रस्ताव को अस्वीकार करने के लिए प्रशंसा की क्योंकि ट्रम्प विवाद से पीछे हटने में बहुत कम रुचि दिखाते हैं क्या आप एक कनाडाई हैं जो अमेरिकी उत्पादों का बहिष्कार कर रहे हैं? हम आपसे यह सुनना चाहेंगे कि मार्क कार्नी ने सोमवार को कहा था कि...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1402d7400159ff88c63e84f32ad98e9d10b8163a",
@@ -523,7 +550,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
       "titleHi": "संवेदनशील साइटों की सुरक्षा के लिए AI को प्रशिक्षित करने के लिए यूके यूक्रेन के युद्धक्षेत्र डेटा का उपयोग करेगा",
       "excerptHi": "यूक्रेनी युद्ध के मैदान के डेटा पर प्रशिक्षित सैन्य ठिकानों और महत्वपूर्ण बुनियादी ढांचे वाले AI मॉडलों को लक्षित करने वाले प्रदर्शनकारियों और शत्रुतापूर्ण राज्यों को रोकने में मदद करने के लिए लंदन और कीव का उपयोग प्रदर्शनकारियों और विदेशी राज्यों को रोकने के लिए किया जाएगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c753d8bf6148bede3e76b90d13a106793462150b",
@@ -608,29 +635,31 @@
       "titleHi": "बर्नहम की कीव यात्रा यूक्रेन के लिए बुरी तरह से आवश्यक समर्थन के नवीनीकरण का प्रतीक है",
       "excerptHi": "सैन्य सहायता और राजनयिक समर्थन का वचन देने के साथ - साथ, प्रधान मंत्री जुलाई में डाउनिंग स्ट्रीट में जाने के बाद से अमेरिका से निपटने में उपयोगी हो सकते हैं, एंडी बर्नहम – एक विदेश नीति नियोफाइट – ने व्यक्त किया है...",
       "archived": true
-    },
-    {
-      "id": "41ba82b1d96832fab9b0f0c1a4a80bcd4ac7412d",
-      "slug": "latest-news-bulletin-august-24th-2026-evening-41ba82",
-      "title": "Latest news bulletin | August 24th, 2026 – Evening",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this August 24th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T16:00:29.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
-      "guid": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
-      "titleHi": "नवीनतम समाचार बुलेटिन | 24 अगस्त, 2026 – शाम",
-      "excerptHi": "24 अगस्त, 2026 - ताज़ा खबरें, ताज़ा खबरें, दुनिया, बिज़नेस, मनोरंजन, राजनीति, संस्कृति, यात्रा से जुड़ी यूरोप और उसके बाद की सबसे ज़रूरी कहानियों के बारे में जानें।",
-      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "25882b8f9c346fffec158ac7fcb2e3eaf0d2ed5b",
+      "slug": "beyond-chinas-humanoid-robots-a-quieter-machine-revolution-i-25882b",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "excerpt": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T22:13:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
+      "titleHi": "चीन के humanoid रोबोटों से परे, एक शांत मशीन क्रांति सामने आ रही है",
+      "excerptHi": "चीन के कारखानों में दो मिलियन से अधिक रोबोट काम कर रहे हैं - और वे तेजी से बढ़ रहे हैं।",
+      "archived": false
+    },
     {
       "id": "68453b629606f679e5fac540f9293cf0d096a9ab",
       "slug": "us-threatens-severe-sanctions-against-countries-with-economi-68453b",
@@ -672,7 +701,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-the-tiananmen-vigil-convictions-hong-kong-too-has-been-silenced-others-should-speak-out",
       "titleHi": "तियानानमेन सतर्क विश्वासों पर अभिभावक का दृष्टिकोण: हांगकांग को भी चुप करा दिया गया है। दूसरों को बोलना चाहिए | संपादकीय",
       "excerptHi": "चीन के 1989 के लोकतंत्र समर्थक विरोध प्रदर्शनों पर खूनी कार्रवाई के स्मरणोत्सव का आयोजन करने वाले दो कार्यकर्ताओं को अब जेल का सामना करना पड़ रहा है। याद रखना अपराध नहीं है दशकों तक, जब मुख्य भूमि नहीं कर सकी तो हांगकांग ने शोक व्यक्त किया। इसकी विशाल…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ba3ce8b56ee178e1b9aa955e936f19708647a2b0",
@@ -818,28 +847,6 @@
       "titleHi": "पाकिस्तान ने 5 सितंबर की पंजीकरण समय सीमा के साथ क्रिप्टो लाइसेंसिंग व्यवस्था शुरू की",
       "excerptHi": "पीवीएआरए ने कहा कि कंपनियों के पास अनापत्ति प्रमाण पत्र के लिए अपना आवेदन जमा करने या अन्यथा संचालन बंद करने की समय सीमा तक का समय है।",
       "archived": true
-    },
-    {
-      "id": "dba215c738825d2093cc7e50a3d4cf0b2aa9d56e",
-      "slug": "south-korea-says-us-cancelled-joint-marine-drills-over-force-dba215",
-      "title": "South Korea says US cancelled joint marine drills over force constraints from Iran war",
-      "excerpt": "The cancellation follows US President Donald Trump's order last week to scale down the separate annual Ulchi Freedom Shield exercises, cutting the joint drills from 11 days to five.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T10:02:04.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "guid": "http://www.euronews.com/2026/08/24/south-korea-says-us-cancelled-joint-marine-drills-over-force-constraints-from-iran-war",
-      "titleHi": "दक्षिण कोरिया का कहना है कि ईरान युद्ध से बल की बाधाओं के कारण अमेरिका ने संयुक्त समुद्री अभ्यास रद्द कर दिया",
-      "excerptHi": "यह रद्दीकरण अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प के अलग - अलग वार्षिक उल्ची फ्रीडम शील्ड अभ्यासों को कम करने के पिछले सप्ताह के आदेश के बाद हुआ है, जिसमें संयुक्त अभ्यासों को 11 दिनों से घटाकर पांच कर दिया गया है।",
-      "archived": true
     }
   ],
   "africa": [
@@ -863,7 +870,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
       "titleHi": "अमेरिकी आव्रजन अधिकारियों को दक्षिण अफ़्रीकी शरणार्थियों की जाँच करने और ‘गैरकानूनी‘ मतदाताओं को खोजने के लिए फिर से नियुक्त किया गया",
       "excerptHi": "एक्सक्लूसिव: आंतरिक पत्राचार से पता चलता है कि यूएससीआईएस एंटी - फ्रॉड अधिकारियों को दो ‘उच्च - प्राथमिकता‘ पहलों में स्थानांतरित कर दिया गया है एक प्रमुख एंटी - फ्रॉड यूनिट के लिए काम करने वाले सभी अमेरिकी आव्रजन अधिकारियों को डोनाल्ड ट्रम्प द्वारा फिर से नियुक्त किया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "71af33c3c729553adca274032d9bc883ce4dee42",
@@ -1049,6 +1056,28 @@
     }
   ],
   "middleeast": [
+    {
+      "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
+      "slug": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "excerpt": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "titleHi": "अमेरिका ने सीरिया को आतंकवाद के राज्य प्रायोजकों की सूची से हटा दिया",
+      "excerptHi": "ट्रम्प प्रशासन ने सीरिया के नए राष्ट्रपति, अल - कायदा से जुड़े पूर्व आतंकवादी अहमद अल - शारा को गले लगा लिया है।",
+      "archived": false
+    },
     {
       "id": "893748b63b2ae5098d8f34b239c53560254e2b4f",
       "slug": "irans-winning-strategy-avoid-losing-893748",
@@ -1238,31 +1267,32 @@
       "titleHi": "ईरान ने नए अमेरिकी प्रतिबंधों के साथ सहयोग करने वाले देशों के खिलाफ जवाबी कार्रवाई करने की कसम खाई",
       "excerptHi": "अमेरिकी बयानबाजी का परीक्षण इस बात पर निर्भर करेगा कि क्या भारत, चीन और रूस जैसे राष्ट्र आर्थिक खतरों को विश्वसनीय मानते हैं, तेहरान ने नए सिरे से थोपने के अमेरिकी प्रयास में सहयोग करने वाले किसी भी देश के खिलाफ जवाबी कार्रवाई करने की कसम खाई है...",
       "archived": true
-    },
-    {
-      "id": "34781117f8a5e0b3e2ab69556b64edbe46ffd093",
-      "slug": "irans-rial-falls-to-record-low-as-scott-bessent-warns-of-eco-347811",
-      "title": "Iran’s rial falls to record low as Scott Bessent warns of ‘economic D-day’ – business live",
-      "excerpt": "US Treasury secretary to announce sanctions against Tehran at a press conference at 1pm EDT (6pm London time) Some good news for the UK (and new PM Andy Burnham and his team): Productivity in the UK – a vital measure of…",
-      "category": "Business",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "author": "Julia Kollewe",
-      "image": "https://i.guim.co.uk/img/media/035e6f605d1921a0f29e513c4d8b426c1fe0108a/424_0_4249_3398/master/4249.jpg?width=140&quality=85&auto=format&fit=max&s=c091085fd9bae61e94abe1aa89d68c78",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T11:29:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
-      "guid": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
-      "titleHi": "ईरान का रियाल रिकॉर्ड निचले स्तर पर गिर गया क्योंकि स्कॉट बेसेंट ने ‘आर्थिक डी - डे‘ के बारे में चेतावनी दी – business live",
-      "excerptHi": "अमेरिकी ट्रेजरी सचिव दोपहर 1 बजे ईडीटी (लंदन के समय के अनुसार शाम 6 बजे) एक प्रेस कॉन्फ्रेंस में तेहरान के खिलाफ प्रतिबंधों की घोषणा करेंगे यूके (और नए पीएम एंडी बर्नहम और उनकी टीम) के लिए कुछ अच्छी खबरें: यूके में उत्पादकता – का एक महत्वपूर्ण उपाय...",
-      "archived": true
     }
   ],
   "latam": [
+    {
+      "id": "87a8f14284051b69afacbbdc626a1a0a304ed480",
+      "slug": "colombias-new-president-abelardo-de-la-espriella-announces-i-87a8f1",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "excerpt": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tiago Rogero South America correspondent",
+      "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "titleHi": "कोलंबिया के नए राष्ट्रपति Abelardo de la Espriella ने आप्रवासन के खिलाफ कार्रवाई की घोषणा की",
+      "excerptHi": "सुदूर - दक्षिणपंथी नेता सहयोगी डोनाल्ड ट्रम्प को प्रतिध्वनित करते हैं और कहते हैं कि कोलंबिया के सुदूर - दक्षिणपंथी राष्ट्रपति अबेलार्डो डे ला एस्प्रेला के भूकंप के बाद ’अवैध प्रवासियों को ट्रैक करने' के लिए अभियान इस सप्ताह शुरू होना चाहिए, ने घोषणा की है...",
+      "archived": false
+    },
     {
       "id": "979bc541fe31786f5790efca605839008389a548",
       "slug": "us-strike-on-alleged-drug-smuggling-boat-in-pacific-ocean-ki-979bc5",
@@ -1451,26 +1481,6 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c98v7p1pr3eo#0",
       "titleHi": "Argentina's Paredes banned for 10 games after World Cup clashes",
       "excerptHi": "Fifa ban Argentina midfielder Leandro Paredes for 10 matches over his role in clashes with Spanish players after the World Cup final.",
-      "archived": true
-    },
-    {
-      "id": "172251e2d65643eedf94dea7cf014a7b53015b4f",
-      "slug": "brazils-vast-iron-mine-that-supplies-the-world-and-fractures-172251",
-      "title": "Brazil’s vast iron mine that supplies the world and fractures the Amazon – in pictures",
-      "excerpt": "The Grand Carajás project has made the country a mining superpower, but communities living in its shadow face pollution, displacement and silenced histories Continue reading...",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "All photographs by Ian Guerra in Carajás, Brazil",
-      "image": "https://i.guim.co.uk/img/media/15e3c3037596f0149bebede4ad562651cf7845f7/611_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=bc908fcd63deb901141159c6f58ed18f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-21T12:00:35.000Z",
-      "sourceUrl": "https://www.theguardian.com/global-development/gallery/2026/aug/21/brazils-vast-iron-mine-that-supplies-the-world-and-fractures-the-amazon-in-pictures",
-      "guid": "https://www.theguardian.com/global-development/gallery/2026/aug/21/brazils-vast-iron-mine-that-supplies-the-world-and-fractures-the-amazon-in-pictures",
-      "titleHi": "Brazil’s vast iron mine that supplies the world and fractures the Amazon – in pictures",
-      "excerptHi": "The Grand Carajás project has made the country a mining superpower, but communities living in its shadow face pollution, displacement and silenced histories Continue reading...",
       "archived": true
     }
   ],
@@ -1691,6 +1701,115 @@
   ],
   "world": [
     {
+      "id": "c9e6c20392530fbc9ddd2dbafb7fd7923876e3a9",
+      "slug": "how-canada-could-hit-back-to-hurt-the-us-economy---and-trump-c9e6c2",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "excerpt": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:40:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
+      "titleHi": "कनाडा अमेरिकी अर्थव्यवस्था को कैसे नुकसान पहुंचा सकता है - और ट्रम्प",
+      "excerptHi": "कनाडा, जो अपने लगभग 70% सामान अमेरिका को बेचता है, वास्तव में इस बढ़ते व्यापार विवाद में क्या लाभ उठाता है?",
+      "archived": false
+    },
+    {
+      "id": "87a8f14284051b69afacbbdc626a1a0a304ed480",
+      "slug": "colombias-new-president-abelardo-de-la-espriella-announces-i-87a8f1",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "excerpt": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tiago Rogero South America correspondent",
+      "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "titleHi": "कोलंबिया के नए राष्ट्रपति Abelardo de la Espriella ने आप्रवासन के खिलाफ कार्रवाई की घोषणा की",
+      "excerptHi": "सुदूर - दक्षिणपंथी नेता सहयोगी डोनाल्ड ट्रम्प को प्रतिध्वनित करते हैं और कहते हैं कि कोलंबिया के सुदूर - दक्षिणपंथी राष्ट्रपति अबेलार्डो डे ला एस्प्रेला के भूकंप के बाद ’अवैध प्रवासियों को ट्रैक करने' के लिए अभियान इस सप्ताह शुरू होना चाहिए, ने घोषणा की है...",
+      "archived": false
+    },
+    {
+      "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
+      "slug": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "excerpt": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "titleHi": "अमेरिका ने सीरिया को आतंकवाद के राज्य प्रायोजकों की सूची से हटा दिया",
+      "excerptHi": "ट्रम्प प्रशासन ने सीरिया के नए राष्ट्रपति, अल - कायदा से जुड़े पूर्व आतंकवादी अहमद अल - शारा को गले लगा लिया है।",
+      "archived": false
+    },
+    {
+      "id": "ca041acf6ab1baa118ec92a8eb59e9a68c45c7ee",
+      "slug": "massachusetts-woman-suspected-of-killing-police-officer-husb-ca041a",
+      "title": "Massachusetts woman suspected of killing police officer husband found dead",
+      "excerpt": "Karen Solomon had been missing for six days after her husband Kurt Solomon was found dead at their home A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/598f511f1f2d5d9507c7f9e3692c92a8634bb4f4/141_0_1347_1078/master/1347.jpg?width=140&quality=85&auto=format&fit=max&s=900f96c8b3ea22ce4d3a2fe81a05084d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:56:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "titleHi": "मैसाचुसेट्स में पुलिस अधिकारी पति की हत्या की संदिग्ध महिला मृत पाई गई",
+      "excerptHi": "करेन सोलोमन अपने पति कर्ट सोलोमन के घर पर मृत पाए जाने के छह दिन बाद से लापता थीं। उनके पुलिस अधिकारी पति की हत्या के संदेह में एक मानसिक स्वास्थ्य वकील सोमवार को मृत पाया गया था, इसके छह दिन बाद...",
+      "archived": false
+    },
+    {
+      "id": "cb03001b92c503966167c482a97c5bc7ac90ef74",
+      "slug": "caste-divides-make-scorching-summers-harder-in-a-parched-cor-cb0300",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "excerpt": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53c/live/9d016d70-9a00-11f1-ad4f-c7824f9e4997.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T23:36:58.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
+      "titleHi": "जाति विभाजन भारत के एक सूखे कोने में चिलचिलाती गर्मियों को और कठिन बना देता है",
+      "excerptHi": "कार्यकर्ताओं का कहना है कि बुंदेलखंड क्षेत्र में बढ़ती गर्मी और पानी की कमी पुरानी जाति की असमानताओं को गहरा कर रही है।",
+      "archived": false
+    },
+    {
       "id": "da4fe4d9416d4349f1a3f92b56f33a48a3884a9b",
       "slug": "immense-drop-off-in-support-contributing-to-care-leaver-deat-da4fe4",
       "title": "‘Immense drop-off’ in support contributing to care leaver deaths in England, review says",
@@ -1728,6 +1847,28 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/lindsay-clancy-trial-psychologist-testimony",
       "titleHi": "लिंडसे क्लेन्सी परीक्षण: मनोवैज्ञानिक का कहना है कि उसे संदेह है कि वह मतिभ्रम कर रही थी",
       "excerptHi": "डॉ. किर्क हेइलब्रुन का कहना है कि उनका मानना है कि क्लेन्सी ने बच्चों की जान ले ली ताकि वे खुद को मारने के बाद ‘पीड़ित’ न हों। लिंडसे क्लेन्सी के लिए हत्या के मुकदमे के समापन से कुछ ही दिन पहले, एक फोरेंसिक मनोवैज्ञानिक ने कहा...",
+      "archived": false
+    },
+    {
+      "id": "25882b8f9c346fffec158ac7fcb2e3eaf0d2ed5b",
+      "slug": "beyond-chinas-humanoid-robots-a-quieter-machine-revolution-i-25882b",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "excerpt": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T22:13:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
+      "titleHi": "चीन के humanoid रोबोटों से परे, एक शांत मशीन क्रांति सामने आ रही है",
+      "excerptHi": "चीन के कारखानों में दो मिलियन से अधिक रोबोट काम कर रहे हैं - और वे तेजी से बढ़ रहे हैं।",
       "archived": false
     },
     {
@@ -1770,133 +1911,6 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
       "titleHi": "टारगेट ने बैकलैश के बाद हैलोवीन की ‘आक्रामक’ पोशाक के लिए माफ़ी मांगी",
       "excerptHi": "खुदरा विक्रेता ने बच्चे की जोकर पोशाक को हटा दिया जब लोगों ने कहा कि यह मिनस्ट्रेल शो टारगेट में इस्तेमाल किए गए नस्लवादी कार्टिकचर जैसा दिखता है, अमेरिकी खुदरा निगम ने कहा कि उसने अपनी अलमारियों से एक विवादास्पद हेलोवीन पोशाक खींची...",
-      "archived": false
-    },
-    {
-      "id": "127cdcf889e8ed6f5fb494b9d5e61352ed6d870c",
-      "slug": "us-supreme-court-rules-trump-can-proceed-with-crackdown-on-m-127cdc",
-      "title": "US supreme court rules Trump can proceed with crackdown on mail-in voting",
-      "excerpt": "Justices’ ruling comes after lower courts had blocked president’s election order ahead of November midterms Donald Trump’s administration can proceed with a nationwide crackdown on mail-in voting, the US supreme court…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Guardian staff",
-      "image": "https://i.guim.co.uk/img/media/2ccc7d2bbf4c6d0f275e0390e3225b48e54e5994/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=dc4fa7744dcd81819929a1cbf6e48525",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T21:09:33.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
-      "titleHi": "अमेरिकी सुप्रीम कोर्ट ने कहा - मेल - इन वोटिंग पर कार्रवाई कर सकते हैं ट्रंप",
-      "excerptHi": "जस्टिस का फैसला तब आया है जब निचली अदालतों ने नवंबर के मध्य से पहले राष्ट्रपति के चुनाव आदेश को अवरुद्ध कर दिया था डोनाल्ड ट्रम्प का प्रशासन मेल - इन वोटिंग पर राष्ट्रव्यापी कार्रवाई के साथ आगे बढ़ सकता है, अमेरिकी सुप्रीम कोर्ट…",
-      "archived": false
-    },
-    {
-      "id": "3f39141bda020b5b05f1681cff802ea11d5ad4aa",
-      "slug": "australia-news-live-sydney-trains-plagued-by-morning-cancell-3f3914",
-      "title": "Australia news live: Sydney trains plagued by morning cancellations due to ‘urgent’ repairs to overhead wires",
-      "excerpt": "Commuters warned journey may take an extra 45 minutes as ‘limited’ buses replace north short trains. Follow today’s news live Get our breaking news email, free app or daily news podcast It the latest update, just…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Martin Farrer",
-      "image": "https://i.guim.co.uk/img/media/226a5c5e1a2a9b6196af42dace9e3d8e1b9fc7cf/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1d93f7a58aedd2f233c0045cfbc91454",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T21:03:48.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
-      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: ओवरहेड तारों की ‘तत्काल‘ मरम्मत के कारण सुबह रद्द होने से सिडनी ट्रेनें त्रस्त हैं",
-      "excerptHi": "यात्रियों ने चेतावनी दी कि यात्रा में 45 मिनट का अतिरिक्त समय लग सकता है क्योंकि ‘सीमित’ बसें उत्तर लघु ट्रेनों की जगह ले सकती हैं। आज की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें यह नवीनतम अपडेट है, बस...",
-      "archived": false
-    },
-    {
-      "id": "a50a2e8aa214c8458110e6f66c22023dac7b0ef7",
-      "slug": "nevada-files-lawsuit-challenging-federal-plan-for-colorado-r-a50a2e",
-      "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-      "excerpt": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two years Nevada filed a federal lawsuit on Monday challenging the Trump administration’s new plan for the…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Gabrielle Canon",
-      "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a1825e373dc059a7d60ace440568f406",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T20:56:51.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-      "titleHi": "कोलोराडो नदी के पुनरुद्धार के लिए संघीय योजना को चुनौती देते हुए नेवादा ने मुकदमा दायर किया",
-      "excerptHi": "ट्रम्प प्रशासन की योजना में, कैलिफ़ोर्निया, एरिज़ोना और नेवादा को दो वर्षों में पानी की आपूर्ति में लगभग 20% की कटौती का सामना करना पड़ा नेवादा ने सोमवार को एक संघीय मुकदमा दायर किया, जिसमें ट्रम्प प्रशासन की नई योजना को चुनौती दी गई...",
-      "archived": false
-    },
-    {
-      "id": "4bb1829e9e74c2f39ac80d0e1c2b062a32c25c7b",
-      "slug": "us-strikes-a-vessel-in-the-eastern-pacific-killing-2-people-4bb182",
-      "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-      "excerpt": "US Southern Command has struck another vessel in the eastern Pacific, killing two accused of trafficking drugs After a pause of more than two months, the US military announced Monday that it once again carried out a…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "By Konstantin Toropin and Bill Barrow, Associated Press",
-      "image": "https://i.guim.co.uk/img/media/5d7e18a7ae51ea5e82ec8a43bd52b4c5b06c64f8/425_0_2023_1620/master/2023.jpg?width=140&quality=85&auto=format&fit=max&s=b792c3ef80fb455aaf096b48819f02ae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T20:23:26.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "guid": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "titleHi": "अमेरिका ने पूर्वी प्रशांत महासागर में एक जहाज पर हमला किया, महीनों में पहले हमले में 2 लोगों की मौत हो गई",
-      "excerptHi": "अमेरिकी दक्षिणी कमान ने पूर्वी प्रशांत में एक और जहाज पर हमला किया है, जिसमें ड्रग्स की तस्करी के दो आरोपी मारे गए हैं। दो महीने से अधिक समय के विराम के बाद, अमेरिकी सेना ने सोमवार को घोषणा की कि उसने एक बार फिर से एक...",
-      "archived": false
-    },
-    {
-      "id": "b98fef23b528a144c9cfacbdecd8555a8aa1e857",
-      "slug": "man-arrested-on-suspicion-of-arson-after-fire-at-car-park-us-b98fef",
-      "title": "Man arrested on suspicion of arson after fire at car park used by Gatwick passengers",
-      "excerpt": "Blaze near Crawley destroyed 140 vehicles, damaged nearby businesses and led to power cuts on Saturday night A man has been arrested on suspicion of arson after a fire tore through a car park used by people flying from…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Harry Cockburn",
-      "image": "https://i.guim.co.uk/img/media/3a70da8db0b25e0cabecb4e290accbd6569e0189/86_0_3576_2863/master/3576.jpg?width=140&quality=85&auto=format&fit=max&s=78ef16ee026018ed1e5438e6fe359cf4",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T19:04:06.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/24/man-arrested-on-suspicion-of-arson-after-fire-at-car-park-used-by-gatwick-passengers",
-      "titleHi": "गैटविक यात्रियों द्वारा इस्तेमाल किए गए कार पार्क में आग लगने के बाद आग लगने के संदेह में व्यक्ति गिरफ्तार",
-      "excerptHi": "क्रॉली के पास लगी आग ने 140 वाहनों को नष्ट कर दिया, आस - पास के व्यवसायों को क्षतिग्रस्त कर दिया और शनिवार की रात को बिजली की कटौती हो गई। आग लगने के संदेह में एक व्यक्ति को गिरफ्तार किया गया है, जिसके बाद…",
-      "archived": false
-    },
-    {
-      "id": "1fda7066b1201b93d7de6eef81b4e6fc1b7c809d",
-      "slug": "victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-de-1fda70",
-      "title": "Victorian premier Ben Carroll pushes ahead with SRL spend despite hinting at pause",
-      "excerpt": "A day after suggesting other projects were more important to Victorians, Carroll has committed to pushing ahead on train line Get our breaking news email, free app or daily news podcast The Victorian premier, Ben…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "author": "Benita Kolovos Victorian state correspondent",
-      "image": "https://i.guim.co.uk/img/media/543d4c01786031041efbd96eeb7fba5e68cffe23/259_0_2248_1800/master/2248.jpg?width=140&quality=85&auto=format&fit=max&s=6200a1ebe901b14afcdf935300a3881c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-24T19:00:36.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
-      "titleHi": "विक्टोरिया के प्रीमियर बेन कैरोल विराम पर संकेत देने के बावजूद एसआरएल खर्च के साथ आगे बढ़ते हैं",
-      "excerptHi": "विक्टोरियन लोगों के लिए अन्य परियोजनाओं को अधिक महत्वपूर्ण बताने के एक दिन बाद, कैरोल ने ट्रेन लाइन पर आगे बढ़ने के लिए प्रतिबद्ध किया है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरियन प्रीमियर, बेन...",
       "archived": false
     }
   ]

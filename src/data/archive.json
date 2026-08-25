@@ -1,8 +1,157 @@
 {
-  "generatedAt": "2026-08-24T23:21:10.312Z",
+  "generatedAt": "2026-08-25T01:09:46.946Z",
   "retentionDays": 45,
-  "total": 2474,
+  "total": 2481,
   "items": [
+    {
+      "id": "c9e6c20392530fbc9ddd2dbafb7fd7923876e3a9",
+      "slug": "how-canada-could-hit-back-to-hurt-the-us-economy---and-trump-c9e6c2",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "excerpt": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:40:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c05rj80ve56o#2",
+      "titleHi": "कनाडा अमेरिकी अर्थव्यवस्था को कैसे नुकसान पहुंचा सकता है - और ट्रम्प",
+      "excerptHi": "कनाडा, जो अपने लगभग 70% सामान अमेरिका को बेचता है, वास्तव में इस बढ़ते व्यापार विवाद में क्या लाभ उठाता है?",
+      "archived": false
+    },
+    {
+      "id": "87a8f14284051b69afacbbdc626a1a0a304ed480",
+      "slug": "colombias-new-president-abelardo-de-la-espriella-announces-i-87a8f1",
+      "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "excerpt": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Tiago Rogero South America correspondent",
+      "image": "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T00:34:47.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "guid": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "titleHi": "कोलंबिया के नए राष्ट्रपति Abelardo de la Espriella ने आप्रवासन के खिलाफ कार्रवाई की घोषणा की",
+      "excerptHi": "सुदूर - दक्षिणपंथी नेता सहयोगी डोनाल्ड ट्रम्प को प्रतिध्वनित करते हैं और कहते हैं कि कोलंबिया के सुदूर - दक्षिणपंथी राष्ट्रपति अबेलार्डो डे ला एस्प्रेला के भूकंप के बाद ’अवैध प्रवासियों को ट्रैक करने' के लिए अभियान इस सप्ताह शुरू होना चाहिए, ने घोषणा की है...",
+      "archived": false
+    },
+    {
+      "id": "4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf",
+      "slug": "us-removes-syria-from-list-of-state-sponsors-of-terrorism-4ff6fd",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "excerpt": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0972/live/c3169dc0-a016-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:17:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o#0",
+      "titleHi": "अमेरिका ने सीरिया को आतंकवाद के राज्य प्रायोजकों की सूची से हटा दिया",
+      "excerptHi": "ट्रम्प प्रशासन ने सीरिया के नए राष्ट्रपति, अल - कायदा से जुड़े पूर्व आतंकवादी अहमद अल - शारा को गले लगा लिया है।",
+      "archived": false
+    },
+    {
+      "id": "e1edf19d96549135a38f55da2736bd78caccc7dc",
+      "slug": "moment-tornado-tears-through-southern-france-e1edf1",
+      "title": "Moment tornado tears through southern France",
+      "excerpt": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc6/live/c223d1f0-a019-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T00:16:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do#0",
+      "titleHi": "दक्षिणी फ़्रांस में पल भर के लिए आँसू",
+      "excerptHi": "बवंडर ने 40 से अधिक लोगों को घायल कर दिया है और गांवों में घरों को नष्ट कर दिया है।",
+      "archived": false
+    },
+    {
+      "id": "ca041acf6ab1baa118ec92a8eb59e9a68c45c7ee",
+      "slug": "massachusetts-woman-suspected-of-killing-police-officer-husb-ca041a",
+      "title": "Massachusetts woman suspected of killing police officer husband found dead",
+      "excerpt": "Karen Solomon had been missing for six days after her husband Kurt Solomon was found dead at their home A mental health advocate suspected of killing her police officer husband was found dead on Monday, six days after…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/598f511f1f2d5d9507c7f9e3692c92a8634bb4f4/141_0_1347_1078/master/1347.jpg?width=140&quality=85&auto=format&fit=max&s=900f96c8b3ea22ce4d3a2fe81a05084d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:56:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/24/massachusetts-woman-police-officer-husband-deaths",
+      "titleHi": "मैसाचुसेट्स में पुलिस अधिकारी पति की हत्या की संदिग्ध महिला मृत पाई गई",
+      "excerptHi": "करेन सोलोमन अपने पति कर्ट सोलोमन के घर पर मृत पाए जाने के छह दिन बाद से लापता थीं। उनके पुलिस अधिकारी पति की हत्या के संदेह में एक मानसिक स्वास्थ्य वकील सोमवार को मृत पाया गया था, इसके छह दिन बाद...",
+      "archived": false
+    },
+    {
+      "id": "5ffe4c3da10f4f6eb6e7e126dc3d3218ce96620f",
+      "slug": "lenovo-confirms-legion-go-issues-after-gamers-report-bricked-5ffe4c",
+      "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+      "excerpt": "Cursed BIOS. | Photo by Sean Hollister / The Verge When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-24T23:38:10.000Z",
+      "sourceUrl": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "guid": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+      "titleHi": "गेमर्स द्वारा ईंट से लैस डिवाइस की रिपोर्ट करने के बाद लेनोवो ने लीजन गो की समस्या की पुष्टि की",
+      "excerptHi": "शापित BIOS। | शॉन हॉलिस्टर / द वर्ज द्वारा फोटो जब किसी कंपनी का सॉफ़्टवेयर अपडेट आपके कंप्यूटर को बेकार ईंट में बदल देता है, तो क्या फिक्स मुफ्त होना चाहिए? फ्रेमवर्क, मॉड्यूलर कंप्यूटर स्टार्टअप, जाहिरा तौर पर ऐसा सोचता है। लेकिन यह है...",
+      "archived": false
+    },
+    {
+      "id": "cb03001b92c503966167c482a97c5bc7ac90ef74",
+      "slug": "caste-divides-make-scorching-summers-harder-in-a-parched-cor-cb0300",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "excerpt": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53c/live/9d016d70-9a00-11f1-ad4f-c7824f9e4997.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T23:36:58.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o#2",
+      "titleHi": "जाति विभाजन भारत के एक सूखे कोने में चिलचिलाती गर्मियों को और कठिन बना देता है",
+      "excerptHi": "कार्यकर्ताओं का कहना है कि बुंदेलखंड क्षेत्र में बढ़ती गर्मी और पानी की कमी पुरानी जाति की असमानताओं को गहरा कर रही है।",
+      "archived": false
+    },
     {
       "id": "cd6f596dd0bee4d914bd0e341a220ba5590d1968",
       "slug": "new-essendon-coach-mark-mcveigh-tipped-to-approach-james-hir-cd6f59",
@@ -223,6 +372,28 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham",
       "titleHi": "गोल में स्पष्ट कमजोरी बनी हुई है लेकिन शुरुआती संकेत Xabi Alonso के चेल्सी को मज़ेदार होना चाहिए | जोनाथन विल्सन",
       "excerptHi": "रॉबर्ट सांचेज़ को बदलने में विफलता एक रहस्य बनी हुई है, लेकिन नए रूप के सामने वाले तीसरे को नए प्रबंधक के सिद्धांतों को सोने के लिए समय खरीदना चाहिए एक सप्ताहांत के बाद जिस पर आर्सेनल के लिए लगभग हर संभावित चुनौती...",
+      "archived": false
+    },
+    {
+      "id": "25882b8f9c346fffec158ac7fcb2e3eaf0d2ed5b",
+      "slug": "beyond-chinas-humanoid-robots-a-quieter-machine-revolution-i-25882b",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "excerpt": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-24T22:13:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo#2",
+      "titleHi": "चीन के humanoid रोबोटों से परे, एक शांत मशीन क्रांति सामने आ रही है",
+      "excerptHi": "चीन के कारखानों में दो मिलियन से अधिक रोबोट काम कर रहे हैं - और वे तेजी से बढ़ रहे हैं।",
       "archived": false
     },
     {
@@ -1090,7 +1261,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
       "titleHi": "मार्क कार्नी का कहना है कि कनाडा अमेरिकी व्यापार समझौते को स्वीकार नहीं कर सकता है जो फ्रांसीसी भाषा को कमजोर करेगा",
       "excerptHi": "प्रधान मंत्री ने अमेरिकी व्यापार प्रस्ताव को अस्वीकार करने के लिए प्रशंसा की क्योंकि ट्रम्प विवाद से पीछे हटने में बहुत कम रुचि दिखाते हैं क्या आप एक कनाडाई हैं जो अमेरिकी उत्पादों का बहिष्कार कर रहे हैं? हम आपसे यह सुनना चाहेंगे कि मार्क कार्नी ने सोमवार को कहा था कि...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2f5af265926c3a71437cd99c3f843ef4c97497fc",
@@ -1110,7 +1281,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/24/gianni-infantino-fifa-players-resign-football-politics",
       "titleHi": "‘बहुत हो गया ': खिलाड़ियों ने जियानी इन्फैंटिनो पर इस्तीफा देने के लिए दबाव डाला",
       "excerptHi": "राष्ट्रपति पर ‘फीफा लीजेंड्स‘ द्वारा सत्ता के भूखे होने का आरोप लगाया गया है सैमुअल एटो का दावा है कि प्रमुख ने ‘कुछ भी गलत नहीं किया है’ प्रभावशाली वर्तमान और पूर्व फुटबॉल खिलाड़ियों के एक समूह ने गियानी इन्फेंटिनो पर दबाव डाला है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1b4f0543a71f39efdd32d3df6c5c30d3214cb641",
@@ -1132,7 +1303,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
       "titleHi": "अमेरिकी आव्रजन अधिकारियों को दक्षिण अफ़्रीकी शरणार्थियों की जाँच करने और ‘गैरकानूनी‘ मतदाताओं को खोजने के लिए फिर से नियुक्त किया गया",
       "excerptHi": "एक्सक्लूसिव: आंतरिक पत्राचार से पता चलता है कि यूएससीआईएस एंटी - फ्रॉड अधिकारियों को दो ‘उच्च - प्राथमिकता‘ पहलों में स्थानांतरित कर दिया गया है एक प्रमुख एंटी - फ्रॉड यूनिट के लिए काम करने वाले सभी अमेरिकी आव्रजन अधिकारियों को डोनाल्ड ट्रम्प द्वारा फिर से नियुक्त किया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "84985081b4686ccde99e4873ac143b8c3a7cb8f2",
@@ -1152,7 +1323,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/24/nypd-investigation-video-people-manhole",
       "titleHi": "मैनहोल से निकलने वाले लोगों के एक और वीडियो की जांच करने के लिए NYPD",
       "excerptHi": "सोशल मीडिया पर पोस्ट किए गए वीडियो में दिखाया गया है कि तीन लोग सुबह 4 बजे सीवर सिस्टम से बाहर निकल रहे हैं, इसी तरह की रिपोर्ट के महीनों बाद न्यूयॉर्क शहर के पुलिस विभाग (NYPD) का कहना है कि वह तीन लोगों के उभरते हुए वीडियो की जांच कर रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1402d7400159ff88c63e84f32ad98e9d10b8163a",
@@ -1174,7 +1345,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
       "titleHi": "संवेदनशील साइटों की सुरक्षा के लिए AI को प्रशिक्षित करने के लिए यूके यूक्रेन के युद्धक्षेत्र डेटा का उपयोग करेगा",
       "excerptHi": "यूक्रेनी युद्ध के मैदान के डेटा पर प्रशिक्षित सैन्य ठिकानों और महत्वपूर्ण बुनियादी ढांचे वाले AI मॉडलों को लक्षित करने वाले प्रदर्शनकारियों और शत्रुतापूर्ण राज्यों को रोकने में मदद करने के लिए लंदन और कीव का उपयोग प्रदर्शनकारियों और विदेशी राज्यों को रोकने के लिए किया जाएगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4325f565e00faa5736b728ce7867a8a3ed55da37",
@@ -1194,7 +1365,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/24/fulham-v-chelsea-premier-league-live",
       "titleHi": "फुलहम बनाम चेल्सी: प्रीमियर लीग – LIVE",
       "excerptHi": "⚽ प्रीमियर लीग 8PM BST किक - ऑफ से अपडेट फुटबॉल डेली ईमेल के लिए ⚽ साइन अप करें | TikTok Fulham Leno, Castagne, Bassey, Cuenca, Robinson, King, Berge, Bobb, Iwobi, Palacios, Garcia पर फ़ॉलो करें। सब्सक्रिप्शन: लेकोमटे,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1892daac6a9add5da2a0fceaf7f6b702fac74491",
@@ -1216,7 +1387,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-britain-helping-ukraine-build-the-weapons-independence-kyiv-needs",
       "titleHi": "ब्रिटेन द्वारा यूक्रेन की मदद करने के बारे में अभिभावक का दृष्टिकोण: हथियारों की स्वतंत्रता का निर्माण करना कीव की जरूरत है | संपादकीय",
       "excerptHi": "मॉस्को को उम्मीद है कि पश्चिमी राजनीति कीव के लिए समर्थन को कमजोर कर देगी। यूके और यूरोप का जवाब यूक्रेन को अकेले अपना बचाव करने में तेजी से सक्षम बनाने के लिए होना चाहिए यूरोप की सीमाओं पर पिछले कुछ दिनों की घटनाएं …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2214c8eac5b8c70164133a1a2d9fe454bfe839e1",
@@ -1236,7 +1407,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/24/the-guardian-view-on-the-tiananmen-vigil-convictions-hong-kong-too-has-been-silenced-others-should-speak-out",
       "titleHi": "तियानानमेन सतर्क विश्वासों पर अभिभावक का दृष्टिकोण: हांगकांग को भी चुप करा दिया गया है। दूसरों को बोलना चाहिए | संपादकीय",
       "excerptHi": "चीन के 1989 के लोकतंत्र समर्थक विरोध प्रदर्शनों पर खूनी कार्रवाई के स्मरणोत्सव का आयोजन करने वाले दो कार्यकर्ताओं को अब जेल का सामना करना पड़ रहा है। याद रखना अपराध नहीं है दशकों तक, जब मुख्य भूमि नहीं कर सकी तो हांगकांग ने शोक व्यक्त किया। इसकी विशाल…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9bd4b2f3971e8477546979c71a81e35ca982072e",
@@ -50596,27 +50767,6 @@
       "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jul/11/the-hill-i-will-die-on-radio-4-today-programme-bbc-news",
       "titleHi": "The hill I will die on: Radio 4’s Today programme has become really annoying since I left | John Humphrys",
       "excerptHi": "With its gushing interviewees and weird (y’know) ways of talking, the BBC news flagship show I used to present now has me harrumphing at the radio It’s seven years since I stopped presenting the Today programme and…",
-      "archived": true
-    },
-    {
-      "id": "1bd14f7963871c67731e32d79fab7e18c20ae10c",
-      "slug": "tech-now-1bd14f",
-      "title": "Tech Now",
-      "excerpt": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
-      "category": "Technology",
-      "secondaryCategories": [
-        "Science"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ny184j.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-07-11T01:00:00.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m002z2l5?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Tech Now",
-      "excerptHi": "Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark.",
       "archived": true
     }
   ]
