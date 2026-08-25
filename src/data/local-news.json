@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T13:49:53.483Z",
+  "generatedAt": "2026-08-25T14:43:56.003Z",
   "india": [
     {
       "id": "46c1a16a302b942c77a521ef528a41d448eb6f5b",
@@ -213,6 +213,50 @@
   ],
   "usa": [
     {
+      "id": "793bddf9e7db0c6bf1d7af699c4b93908de5c136",
+      "slug": "scotney-to-face-wbc-featherweight-champion-brown-793bdd",
+      "title": "Scotney to face WBC featherweight champion Brown",
+      "excerpt": "British fighter Ellie Scotney is confirmed to face WBC featherweight champion Tiara Brown in Arlington, Texas on 8 November.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc68/live/5c42dc60-a08b-11f1-84af-1fbec28b23b2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T14:12:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/cx2znd8jwz9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/cx2znd8jwz9o#1",
+      "titleHi": "स्कॉटनी का सामना डब्ल्यूबीसी फेदरवेट चैंपियन ब्राउन से होगा",
+      "excerptHi": "8 नवंबर को अर्लिंग्टन, टेक्सास में डब्ल्यूबीसी फेदरवेट चैंपियन तियारा ब्राउन का सामना करने के लिए ब्रिटिश लड़ाकू एली स्कॉटनी की पुष्टि की गई है।",
+      "archived": false
+    },
+    {
+      "id": "408068d75df9bd263ce92f17eb37da0b332bcc90",
+      "slug": "the-players-lining-up-to-succeed-trump-408068",
+      "title": "The Players Lining Up to Succeed Trump",
+      "excerpt": "The 2028 Republican presidential field is taking shape. Who will be the contenders — and who should wait for the next cycle? On “The Opinions,” Jamelle Bouie and David French size up the potential candidates and debate…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T13:50:48.000Z",
+      "sourceUrl": "https://www.nytimes.com/video/opinion/100000011109369/the-players-lining-up-to-succeed-trump.html",
+      "guid": "https://www.nytimes.com/video/opinion/100000011109369/the-players-lining-up-to-succeed-trump.html",
+      "titleHi": "ट्रम्प को सफल बनाने के लिए लाइन में लगे खिलाड़ी",
+      "excerptHi": "2028 का रिपब्लिकन राष्ट्रपति पद का क्षेत्र आकार ले रहा है। दावेदार कौन होंगे — और अगले चक्र के लिए किसे इंतजार करना चाहिए? \"द ओपिनियंस\" पर, जैमेल बोई और डेविड फ्रेंच संभावित उम्मीदवारों को आकार देते हैं और बहस करते हैं...",
+      "archived": false
+    },
+    {
       "id": "43a5ae454d99b4209eb3127359f9716bbcaec39a",
       "slug": "trump-slams-tehran-for-executing-protesters-at-levels-not-se-43a5ae",
       "title": "Trump slams Tehran for executing protesters at levels 'not seen before'",
@@ -386,55 +430,32 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
       "titleHi": "ट्रम्प ईपीए का उद्देश्य डेटा केंद्रों को वायु प्रदूषण का खुलासा करने से छूट देना है, अधिवक्ताओं ने चेतावनी दी है",
       "excerptHi": "ट्रम्प प्रशासन ने सार्वजनिक रूप से वायु प्रदूषण की रिपोर्ट करने के लिए डेटासेंटरों की आवश्यकता को समाप्त करने के लिए नए नियम का प्रस्ताव किया ट्रम्प प्रशासन द्वारा प्रस्तावित एक नए नियम का उद्देश्य डेटासेंटर एयर के लिए सार्वजनिक अधिसूचना को मारना है...",
-      "archived": false
-    },
-    {
-      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
-      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T10:56:03.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
-      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
-      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
-      "archived": false
-    },
-    {
-      "id": "e3f8ced46784c4a652f1e37d7ef0cc4675074d52",
-      "slug": "canada-to-respond-to-trumps-new-tariffs-us-politics-live-e3f8ce",
-      "title": "Canada to respond to Trump’s new tariffs – US politics live",
-      "excerpt": "Tariffs on an array of Canadian products took effect over the weekend with Trump threatening further measures on cars and trucks Sign up for the US Breaking News email Trump announces new 50% tariff on Canadian cars,…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Crypto",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Hayden Vernon",
-      "image": "https://i.guim.co.uk/img/media/9be24fcef0b9bbb7028dcbf6c9de65c7f7889242/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=9e2de4f6503da99d17ce3748891f0259",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T10:15:05.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "guid": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
-      "titleHi": "कनाडा ट्रम्प के नए टैरिफ का जवाब देगा – अमेरिकी राजनीति LIVE",
-      "excerptHi": "सप्ताहांत में कई कनाडाई उत्पादों पर शुल्क प्रभावी हुए, ट्रम्प ने कारों और ट्रकों पर आगे के उपायों की धमकी दी यूएस ब्रेकिंग न्यूज़ ईमेल के लिए साइन अप करें ट्रम्प ने कनाडाई कारों पर नए 50% टैरिफ की घोषणा की,...",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "1183b46d8939d1160dd2a4f9c16d1247d7f8190d",
+      "slug": "azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-1183b4",
+      "title": "Azerbaijan's biggest bank enters Uzbek market with Davr Bank acquisition",
+      "excerpt": "Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at €86…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T14:23:29.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
+      "guid": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
+      "titleHi": "अज़रबैजान का सबसे बड़ा बैंक डेवर बैंक अधिग्रहण के साथ उज़्बेक बाजार में प्रवेश करता है",
+      "excerptHi": "अज़रबैजान का सबसे बड़ा वित्तीय संस्थान, इंटरनेशनल बैंक ऑफ़ अज़रबैजान, उज़्बेकिस्तान के दावर बैंक में 51% नियंत्रित हिस्सेदारी का अधिग्रहण करके अपने कॉर्पोरेट बैंकिंग संचालन का विस्तार कर रहा है, जिसकी कीमत € 86 है...",
+      "archived": false
+    },
     {
       "id": "43a5ae454d99b4209eb3127359f9716bbcaec39a",
       "slug": "trump-slams-tehran-for-executing-protesters-at-levels-not-se-43a5ae",
@@ -609,7 +630,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
       "titleHi": "दो नियोजित डेटासेंटरों में एक्सॉनमोबिल की तुलना में यूके कार्बन उत्सर्जन अधिक होगा, विश्लेषण से पता चलता है",
       "excerptHi": "एक्सक्लूसिव: बकिंघमशायर और बेडफोर्डशायर साइटों ने पूरी तरह से चलने पर एक वर्ष में 4.5 मिलियन टन उत्सर्जन करने की भविष्यवाणी की है इंग्लैंड में सिर्फ दो नियोजित डेटासेंटर से कार्बन उत्सर्जन सभी जीवाश्म ईंधन कंपनी से अधिक होगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e3f8ced46784c4a652f1e37d7ef0cc4675074d52",
@@ -632,28 +653,6 @@
       "guid": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
       "titleHi": "कनाडा ट्रम्प के नए टैरिफ का जवाब देगा – अमेरिकी राजनीति LIVE",
       "excerptHi": "सप्ताहांत में कई कनाडाई उत्पादों पर शुल्क प्रभावी हुए, ट्रम्प ने कारों और ट्रकों पर आगे के उपायों की धमकी दी यूएस ब्रेकिंग न्यूज़ ईमेल के लिए साइन अप करें ट्रम्प ने कनाडाई कारों पर नए 50% टैरिफ की घोषणा की,...",
-      "archived": true
-    },
-    {
-      "id": "3c7c1d15c5fa66f75f5139c828a7ff87c6e80e75",
-      "slug": "burnham-to-take-zelenskyys-pleas-for-patriot-missiles-to-tru-3c7c1d",
-      "title": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "excerpt": "UK PM to join delegation of leaders lobbying US president to step up supplies Burnham plans trip to New York as Ukraine pleads for US-made missiles Kremlin spokesperson Dmitry Peskov has accused Andy Burnham of wanting…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Taz Ali",
-      "image": "https://i.guim.co.uk/img/media/36c84248610af0ec823feca23e5ca89bdcf2bea9/519_0_5885_4708/master/5885.jpg?width=140&quality=85&auto=format&fit=max&s=96d7323e01c66f1d5dcb8d735c22a5e3",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T10:08:54.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "guid": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "titleHi": "बर्नहम पैट्रियट मिसाइलों के लिए ज़ेलेंस्की की दलीलों को ट्रम्प तक ले जाएगा – यूरोप LIVE",
-      "excerptHi": "ब्रिटेन के प्रधानमंत्री उन नेताओं के प्रतिनिधिमंडल में शामिल होंगे जो आपूर्ति बढ़ाने के लिए अमेरिकी राष्ट्रपति की पैरवी कर रहे हैं बर्नहम ने न्यूयॉर्क की यात्रा की योजना बनाई है क्योंकि यूक्रेन ने अमेरिकी निर्मित मिसाइलों के लिए अनुरोध किया है क्रेमलिन के प्रवक्ता दिमित्री पेस्कोव ने एंडी बर्नहम पर...",
       "archived": true
     }
   ],
@@ -741,7 +740,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
       "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
       "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7330eabda9beab755df1576124993533104572bd",
@@ -1159,7 +1158,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
       "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
       "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bb71005da2f2c4e277c2f0f3f5d7c750cbe10c2d",
@@ -1722,6 +1721,28 @@
   ],
   "world": [
     {
+      "id": "6de2d7d979a2b95b51a788b7db5ea9500c02e5f1",
+      "slug": "not-any-old-vermin-rats-numbers-are-on-the-rise-thanks-to-gl-6de2d7",
+      "title": "‘Not any old vermin’: rats numbers are on the rise thanks to global heating – and poison may not be the answer",
+      "excerpt": "Robert Corrigan has been dealing with the ‘smart’ rodents all his life – and believes there are better solutions to deal with the growing infestation in the world’s cities “The rodents have paid for every single bill…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Isaaq Tomkins",
+      "image": "https://i.guim.co.uk/img/media/fe4ea8a042c72697b57bce1ec3114ac33ab30cbf/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=5456dd788ef3e46b16d424a7cbbd65ce",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T14:00:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
+      "guid": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
+      "titleHi": "‘कोई पुराना कीड़ा नहीं ': ग्लोबल हीटिंग की वजह से चूहों की संख्या बढ़ रही है – और ज़हर इसका जवाब नहीं हो सकता है",
+      "excerptHi": "रॉबर्ट कोरिगन अपने पूरे जीवन में ‘स्मार्ट‘ कृन्तकों से निपट रहे हैं – और उनका मानना है कि दुनिया के शहरों में बढ़ते संक्रमण से निपटने के लिए बेहतर समाधान हैं \"कृन्तकों ने हर एक बिल के लिए भुगतान किया है...",
+      "archived": false
+    },
+    {
       "id": "af0dc6cd18aa82de9f3254d98517b735c6b59565",
       "slug": "an-enchanting-oasis-venetian-island-with-napoleonic-fort-up-af0dc6",
       "title": "‘An enchanting oasis’: Venetian island with Napoleonic fort up for sale",
@@ -1909,29 +1930,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
       "titleHi": "ट्रम्प ईपीए का उद्देश्य डेटा केंद्रों को वायु प्रदूषण का खुलासा करने से छूट देना है, अधिवक्ताओं ने चेतावनी दी है",
       "excerptHi": "ट्रम्प प्रशासन ने सार्वजनिक रूप से वायु प्रदूषण की रिपोर्ट करने के लिए डेटासेंटरों की आवश्यकता को समाप्त करने के लिए नए नियम का प्रस्ताव किया ट्रम्प प्रशासन द्वारा प्रस्तावित एक नए नियम का उद्देश्य डेटासेंटर एयर के लिए सार्वजनिक अधिसूचना को मारना है...",
-      "archived": false
-    },
-    {
-      "id": "62bd4787a0226a7f0789697d9e5a1dcf8ac48d6c",
-      "slug": "china-warns-it-will-safeguard-its-interests-after-us-widens-62bd47",
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "excerpt": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc68/live/708dead0-a076-11f1-bf10-9547e884d7b7.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T10:56:03.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
-      "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
-      "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
-      "archived": false
+      "archived": true
     }
   ]
 }
