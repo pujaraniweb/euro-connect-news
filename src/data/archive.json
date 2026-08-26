@@ -1,8 +1,320 @@
 {
-  "generatedAt": "2026-08-26T05:33:25.723Z",
+  "generatedAt": "2026-08-26T06:45:54.339Z",
   "retentionDays": 45,
-  "total": 2837,
+  "total": 2861,
   "items": [
+    {
+      "id": "9dadfc5e6b1d37f4dd195fed18147002b3401166",
+      "slug": "households-in-great-britain-face-4-rise-in-energy-bills-to-a-9dadfc",
+      "title": "Households in Great Britain face 4% rise in energy bills to average of £1,723 from October – business live",
+      "excerpt": "Gas and electricity bills rise by £60 on average to highest level in three years There is no relief in sight for January, with bills forecast to rise a further 9% in the new year, according to analysts at Cornwall…",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Julia Kollewe",
+      "image": "https://i.guim.co.uk/img/media/330c2b9c9ec0a30af980e68d97edea5ba1e3ca76/0_2289_6124_4898/master/6124.jpg?width=140&quality=85&auto=format&fit=max&s=4830f6be7649cff717e87d36ac333482",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:37:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates",
+      "guid": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates",
+      "titleHi": "ग्रेट ब्रिटेन के परिवारों को अक्टूबर से ऊर्जा बिलों में 4% की वृद्धि का सामना करना पड़ रहा है, जो औसतन £ 1,723 है – business live",
+      "excerptHi": "कॉर्नवाल के विश्लेषकों के अनुसार, गैस और बिजली के बिलों में औसतन £ 60 की वृद्धि हुई है जो तीन वर्षों में उच्चतम स्तर पर है जनवरी के लिए कोई राहत नहीं है, नए साल में बिलों में और 9% की वृद्धि होने का अनुमान है...",
+      "archived": false
+    },
+    {
+      "id": "adc3ed6dc7a00cf6a4d593cad9f3acddd44606dc",
+      "slug": "what-happens-when-an-athlete-has-a-life-changing-accident-adc3ed",
+      "title": "What happens when an athlete has a life-changing accident?",
+      "excerpt": "Saffron Cresswell was a promising eventer before a fall left her paralysed. Just eight months after first sitting in a canoe, she is heading to the Worlds.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5b/live/3d88cff0-9f37-11f1-a66b-81e9f6973d13.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:35:01.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/canoeing/articles/cgjep9e7pxvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/canoeing/articles/cgjep9e7pxvo#1",
+      "titleHi": "क्या होता है जब एक एथलीट के जीवन को बदलने वाली दुर्घटना होती है?",
+      "excerptHi": "केसर क्रेसवेल गिरने से पहले एक आशाजनक घटना थी जिससे वह लकवाग्रस्त हो गई। डोंगी में पहली बार बैठने के ठीक आठ महीने बाद, वह दुनिया की ओर बढ़ रही है।",
+      "archived": false
+    },
+    {
+      "id": "75b91495f11806f78d29cf88550029ba21ed7a64",
+      "slug": "nba-recruits-boost-gb-bid-for-eurobasket-success-75b914",
+      "title": "NBA recruits boost GB bid for EuroBasket success",
+      "excerpt": "Great Britain have managed to land three current, former and future NBA players for their EuroBasket qualifying double-header this week.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80a/live/1a00a260-a090-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:32:56.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/basketball/articles/cy7z6nnm4mdo#2",
+      "titleHi": "NBA ने यूरोबास्केट की सफलता के लिए GB बोली को बढ़ावा दिया",
+      "excerptHi": "ग्रेट ब्रिटेन इस सप्ताह अपने यूरोबास्केट क्वालीफाइंग डबल - हेडर के लिए तीन वर्तमान, पूर्व और भविष्य के एनबीए खिलाड़ियों को उतारने में कामयाब रहा है।",
+      "archived": false
+    },
+    {
+      "id": "c60843e4647c0cc907387bf4fad6b2e48467816e",
+      "slug": "from-influencers-to-queens-of-womens-boxing---five-years-of-c60843",
+      "title": "From influencers to queens of women's boxing - five years of MVP",
+      "excerpt": "On Saturday, Most Valuable Promotions celebrates its fifth anniversary. One of the feistiest upstarts in modern boxing has given a new platform to the world's best female fighters.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/1841e3c0-a082-11f1-a9bc-ad5fed338eb5.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:28:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o#0",
+      "titleHi": "प्रभावशाली लोगों से लेकर महिला मुक्केबाजी की रानियों तक - एमवीपी के पांच साल",
+      "excerptHi": "शनिवार को, मोस्ट वैल्यूएबल प्रमोशन अपनी पांचवीं सालगिरह मनाते हैं। आधुनिक मुक्केबाजी की सबसे शानदार शुरुआत में से एक ने दुनिया की सर्वश्रेष्ठ महिला सेनानियों को एक नया मंच दिया है।",
+      "archived": false
+    },
+    {
+      "id": "93081ff0888fe685246b47b191f27cf022b5b810",
+      "slug": "fire-kills-14-newborns-at-major-hospital-in-pakistan-officia-93081f",
+      "title": "Fire kills 14 newborns at major hospital in Pakistan, officials say",
+      "excerpt": "Poor enforcement of building safety regulations in Pakistan has been blamed for the high death toll in fires.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T06:19:55.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/26/fire-kills-14-newborns-at-major-hospital-in-pakistan-officials-say",
+      "guid": "http://www.euronews.com/2026/08/26/fire-kills-14-newborns-at-major-hospital-in-pakistan-officials-say",
+      "titleHi": "अधिकारियों का कहना है कि पाकिस्तान के प्रमुख अस्पताल में आग लगने से 14 नवजात शिशुओं की मौत हो गई",
+      "excerptHi": "पाकिस्तान में इमारत सुरक्षा नियमों के खराब प्रवर्तन को आग में मरने वालों की संख्या के लिए जिम्मेदार ठहराया गया है।",
+      "archived": false
+    },
+    {
+      "id": "589a50c5265c24fe6315830866842ffc15617447",
+      "slug": "labours-energy-bills-crisis-is-getting-worse-political-hones-589a50",
+      "title": "Labour’s energy bills crisis is getting worse. Political honesty is essential | Nils Pratley",
+      "excerpt": "Ofgem and ministers should be transparent about why energy bills for households are expected to stay stubbornly high Britons face highest price cap in three years as energy bills rise 4% from October Another Ofgem…",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Nils Pratley",
+      "image": "https://i.guim.co.uk/img/media/28519093a295191efd826bf69c37bca07db1495e/532_0_5318_4254/master/5318.jpg?width=140&quality=85&auto=format&fit=max&s=992c11b174e41caa26f46c9460935a4b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:15:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/26/labour-energy-bills-crisis-political-honesty-essential",
+      "guid": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/26/labour-energy-bills-crisis-political-honesty-essential",
+      "titleHi": "श्रम का ऊर्जा बिल संकट बदतर होता जा रहा है। राजनीतिक ईमानदारी आवश्यक है | निल्स प्रैटली",
+      "excerptHi": "ऑफगेम और मंत्रियों को इस बारे में पारदर्शी होना चाहिए कि घरों के लिए ऊर्जा बिलों को जिद्दी उच्च रहने की उम्मीद क्यों है ब्रिटेनियों को तीन वर्षों में उच्चतम मूल्य सीमा का सामना करना पड़ता है क्योंकि ऊर्जा बिल अक्टूबर से 4% बढ़ जाता है एक और ऑफगेम...",
+      "archived": false
+    },
+    {
+      "id": "87fcd3b551d01335685a406b6053e6b688e08e8f",
+      "slug": "ex-cricketer-will-pucovski-takes-legal-action-against-former-87fcd3",
+      "title": "Ex-cricketer Will Pucovski takes legal action against former school over concussion",
+      "excerpt": "Batter claims 2014 head knock was mismanaged by Brighton Grammar Pucovski retired from cricket aged 27 after long history of concussions A private school football coach allegedly directed students to “go in hard”…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/40522ce724c6adb476c5ae82db265a3e79cbcbb2/180_0_4736_3789/master/4736.jpg?width=140&quality=85&auto=format&fit=max&s=7d588e50e146ae34e7a9bd12a7635494",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:05:03.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/26/will-pucovski-legal-action-brighton-grammar-school-concussion-cricket-ntwnfb",
+      "guid": "https://www.theguardian.com/sport/2026/aug/26/will-pucovski-legal-action-brighton-grammar-school-concussion-cricket-ntwnfb",
+      "titleHi": "पूर्व क्रिकेटर विल पुकोवस्की ने पूर्व स्कूल के खिलाफ कानूनी कार्रवाई की",
+      "excerptHi": "बैटर का दावा है कि 2014 की हेड नॉक को ब्राइटन ग्रामर पुकोवस्की ने 27 साल की उम्र में क्रिकेट से संन्यास ले लिया था। एक निजी स्कूल फुटबॉल कोच ने कथित तौर पर छात्रों को \"मुश्किल में जाने\" का निर्देश दिया...",
+      "archived": false
+    },
+    {
+      "id": "4369422078766154f8763ff3428a8ea4555b28ce",
+      "slug": "britons-face-highest-price-cap-in-three-years-as-energy-bill-436942",
+      "title": "Britons face highest price cap in three years as energy bills rise 4% from October",
+      "excerpt": "Households in Great Britain will pay equivalent of £1,723 a year, prompting calls for more support Nils Pratley: Labour’s energy bills crisis is getting worse. Political honesty is essential Business live – latest…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jillian Ambrose Energy correspondent",
+      "image": "https://i.guim.co.uk/img/media/e67f334ce2d02195caef171c26c43817bac276a4/302_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=dc6064e25df2affe2fbb0eb4aee7cc80",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:04:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/money/2026/aug/26/energy-price-cap-great-britain-to-rise-from-october",
+      "guid": "https://www.theguardian.com/money/2026/aug/26/energy-price-cap-great-britain-to-rise-from-october",
+      "titleHi": "अक्टूबर से ऊर्जा बिलों में 4% की वृद्धि के साथ ब्रिटेन के लोगों को तीन वर्षों में सबसे अधिक मूल्य सीमा का सामना करना पड़ता है",
+      "excerptHi": "ग्रेट ब्रिटेन में परिवारों को प्रति वर्ष £ 1,723 के बराबर भुगतान करना होगा, जिससे अधिक समर्थन के लिए कॉल करने के लिए प्रेरित किया जाएगा Nils Pratley: श्रम के ऊर्जा बिलों का संकट बदतर होता जा रहा है। राजनीतिक ईमानदारी जरूरी है Business live – latest…",
+      "archived": false
+    },
+    {
+      "id": "66176ddf37ba589e1ceca18aabcf4d5929ee1a27",
+      "slug": "liverpools-midfield-is-fragile---will-they-act-in-the-window-66176d",
+      "title": "Liverpool's midfield is fragile - will they act in the window?",
+      "excerpt": "Liverpool's draw at Newcastle emphasised once again their midfield fragility but will they act in the market and bring in a defensive-minded player?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd1/live/a22c1ad0-a085-11f1-bfeb-dfb02ea642ef.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:04:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zgzydd16o#0",
+      "titleHi": "लिवरपूल का मिडफील्ड नाजुक है - क्या वे खिड़की में काम करेंगे?",
+      "excerptHi": "न्यूकैसल में लिवरपूल के ड्रॉ ने एक बार फिर से उनकी मिडफील्ड नाजुकता पर जोर दिया लेकिन क्या वे बाजार में कार्य करेंगे और एक रक्षात्मक दिमाग वाले खिलाड़ी को लाएंगे?",
+      "archived": false
+    },
+    {
+      "id": "6a1da0454bbbc76209c2b4020221c7b6dab2ea83",
+      "slug": "raygun-opens-up-on-her-infamous-olympics-breakdancing-debut-6a1da0",
+      "title": "Raygun opens up on her infamous Olympics breakdancing debut: ‘not as bad as I thought!’",
+      "excerpt": "Australia’s first Olympic breakdancer became a viral sensation after her performance at Paris 2024, where she failed to receive a single point Rachael “Raygun” Gunn says her performance at the 2024 Paris Olympics was…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Sports"
+      ],
+      "source": "The Guardian",
+      "author": "Jack Larkin",
+      "image": "https://i.guim.co.uk/img/media/f80bcd4116068bd46b305ceb1a7e6ff1f7ac9e27/401_850_3002_2403/master/3002.jpg?width=140&quality=85&auto=format&fit=max&s=0fbfe5fd45d6a7921f2472b9e118c1c5",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T06:01:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/26/raygun-breakdance-routine-cnn-interview-reaction-australian-olympics",
+      "titleHi": "रेगुन ने अपने कुख्यात ओलंपिक ब्रेकडांसिंग डेब्यू पर खुलकर कहा: ‘उतना बुरा नहीं जितना मैंने सोचा था !'",
+      "excerptHi": "पेरिस 2024 में अपने प्रदर्शन के बाद ऑस्ट्रेलिया की पहली ओलंपिक ब्रेकडांसर वायरल सनसनी बन गई, जहां वह एक भी अंक प्राप्त करने में विफल रचेल \"रेगन\" गुन का कहना है कि 2024 पेरिस ओलंपिक में उनका प्रदर्शन था...",
+      "archived": false
+    },
+    {
+      "id": "66018dd52031edd13c052905cf5a0b9e3b8dd464",
+      "slug": "blackrock-cuts-bitcoin-etf-swap-minimum-to-1-million-report-66018d",
+      "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+      "excerpt": "ETF issuers are lowering the barrier for bitcoin whales to trade self-custody for ETF shares.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Omkar Godbole",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T05:52:53.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/26/E",
+      "guid": "43baf795-fe20-4a4f-a3af-2f56d0ee52c2",
+      "titleHi": "BlackRock ने बिटकॉइन ETF स्वैप को न्यूनतम घटाकर $ 1 मिलियन कर दिया: रिपोर्ट",
+      "excerptHi": "ईटीएफ जारीकर्ता ईटीएफ शेयरों के लिए स्व - हिरासत का व्यापार करने के लिए बिटकॉइन व्हेल के लिए बाधा को कम कर रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "1987bee18ed35383d37357effcabdc90401c7482",
+      "slug": "wednesday-briefing-how-canada-has-turned-a-trade-dispute-int-1987be",
+      "title": "Wednesday briefing: How Canada has turned a trade dispute into a defence of its sovereignty",
+      "excerpt": "In today’s newsletter: A collapsing trade deal has united Canadians more than ever, in an existential confrontation with the US president Good morning. When the Guardian asked Canadian readers whether they planned to…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Libby Brooks",
+      "image": "https://i.guim.co.uk/img/media/d566017a6a71b6186f521cb125afc3f2a9a400c6/165_292_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=80206c3dc2491fabad38fdb861786c75",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T05:47:32.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/wednesday-briefing-how-canada-has-turned-a-trade-dispute-into-a-defence-of-its-sovereignty",
+      "titleHi": "बुधवार की ब्रीफिंग: कनाडा ने कैसे एक व्यापार विवाद को अपनी संप्रभुता की रक्षा में बदल दिया है",
+      "excerptHi": "आज के समाचार पत्र में: एक ढहते व्यापार समझौते ने अमेरिकी राष्ट्रपति गुड मॉर्निंग के साथ एक अस्तित्वगत टकराव में, कनाडाई लोगों को पहले से कहीं अधिक एकजुट किया है। जब गार्जियन ने कनाडाई पाठकों से पूछा कि क्या उन्होंने...",
+      "archived": false
+    },
+    {
+      "id": "9c274ffc009b22a01ef447ffa5c559bba40714f3",
+      "slug": "magical-and-rare-barn-owl-has-bumper-breeding-season-9c274f",
+      "title": "'Magical' and rare barn owl has bumper breeding season",
+      "excerpt": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh.",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e84/live/86e22300-a09e-11f1-84a9-276d1a8e5a22.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T05:43:05.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crl6r66yjklo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/crl6r66yjklo#0",
+      "titleHi": "'जादुई' और दुर्लभ खलिहान उल्लू में बम्पर प्रजनन का मौसम होता है",
+      "excerptHi": "फ़रमानाघ में गुप्त स्थलों पर दो प्रजनन जोड़ियों द्वारा दस चूजों का सफलतापूर्वक पालन किया गया है।",
+      "archived": false
+    },
+    {
+      "id": "3efd7498136da00a5f8adf83bbf25b25223b361e",
+      "slug": "is-joao-pedro-ready-to-break-chelseas-so-called-number-nine-3efd74",
+      "title": "Is Joao Pedro ready to break Chelsea's so-called number nine curse?",
+      "excerpt": "Joao Pedro took just 31 seconds to score his opening goal of the season - will the new number nine reach the 20 he scored last season while wearing the number 20 shirt?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d1/live/aebf6ed0-a082-11f1-a9bc-ad5fed338eb5.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T05:41:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cgk5ydy0vk4o#0",
+      "titleHi": "क्या जोआओ पेड्रो चेल्सी के तथाकथित नंबर नौ अभिशाप को तोड़ने के लिए तैयार है?",
+      "excerptHi": "जोआओ पेड्रो ने सीज़न के अपने शुरुआती गोल को स्कोर करने में सिर्फ 31 सेकंड का समय लिया - क्या नया नंबर नौ पिछले सीज़न में 20 नंबर की शर्ट पहनते हुए बनाए गए 20 तक पहुंच जाएगा?",
+      "archived": false
+    },
+    {
+      "id": "b3922e4ed13bbac0d4d5c53971fdf75e0e23b2f0",
+      "slug": "what-has-happened-in-plaid-cymrus-first-100-days-in-power-b3922e",
+      "title": "What has happened in Plaid Cymru's first 100 days in power?",
+      "excerpt": "Plaid ministers say they are making good progress but the opposition say little has been achieved.",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc6/live/687c2cb0-a08c-11f1-84af-1fbec28b23b2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T05:33:53.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62e3y21qw9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c62e3y21qw9o#2",
+      "titleHi": "प्लेड साइमरू के सत्ता में पहले 100 दिनों में क्या हुआ है?",
+      "excerptHi": "प्लेड मंत्रियों का कहना है कि वे अच्छी प्रगति कर रहे हैं लेकिन विपक्ष का कहना है कि बहुत कम हासिल किया गया है।",
+      "archived": false
+    },
     {
       "id": "d7ebfe1bb7f31f4fe11eaaddccf7681f752e3b46",
       "slug": "flex-your-football-brain-with-our-daily-quizzes-d7ebfe",
@@ -531,6 +843,26 @@
       "archived": false
     },
     {
+      "id": "476f9427db2d7ce7f3e082b6372b19e55adad687",
+      "slug": "the-row-over-rutland-can-englands-smallest-county-survive-476f94",
+      "title": "The row over Rutland: can England’s smallest county survive?",
+      "excerpt": "Its council is due to merge with Leicestershire’s in 2028, and some locals are incensed. Can the county hold on to its ceremonial status – and biggest selling point? Mysterious disappearances have been taking place…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lucy Knight",
+      "image": "https://i.guim.co.uk/img/media/fb59a4dbed40931b38b6ffcf99d6286f10f3030e/681_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=2179aea6c4a1037f893b005b6f8d6f93",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/26/the-row-over-rutland-can-englands-smallest-county-survive",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/26/the-row-over-rutland-can-englands-smallest-county-survive",
+      "titleHi": "रुटलैंड पर विवाद: क्या इंग्लैंड की सबसे छोटी काउंटी बच सकती है?",
+      "excerptHi": "इसकी परिषद का 2028 में लीसेस्टरशायर के साथ विलय होने वाला है, और कुछ स्थानीय लोग नाराज़ हैं। क्या काउंटी अपनी औपचारिक स्थिति – और सबसे बड़ी बिक्री बिंदु को पकड़ सकता है? रहस्यमय गायबियां हो रही हैं...",
+      "archived": false
+    },
+    {
       "id": "9e5ec8aee781d45f7c64363749a5fccc07df6de1",
       "slug": "iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-ch-9e5ec8",
       "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
@@ -685,6 +1017,26 @@
       "archived": false
     },
     {
+      "id": "4e9c9225c235b725114fb0eab5eabfb09fb7227c",
+      "slug": "chinese-artist-jailed-over-satirical-mao-sculptures-say-righ-4e9c92",
+      "title": "Chinese artist jailed over satirical Mao sculptures, say rights groups",
+      "excerpt": "The case against Gao Zhen, who was prosecuted under a law banning \"slander of heroes\", has been seen as an assault on artistic freedom.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49da/live/a1f1a310-a0f7-11f1-b5e2-83a82bff70ae.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T02:50:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c07lng44ng5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c07lng44ng5o#0",
+      "titleHi": "मानवाधिकार समूहों का कहना है कि माओ की व्यंग्यात्मक मूर्तियों को लेकर चीनी कलाकार को जेल में डाल दिया गया",
+      "excerptHi": "गाओ झेन के खिलाफ मामला, जिस पर \"नायकों की बदनामी\" पर प्रतिबंध लगाने वाले कानून के तहत मुकदमा चलाया गया था, को कलात्मक स्वतंत्रता पर हमले के रूप में देखा गया है।",
+      "archived": false
+    },
+    {
       "id": "63c7afe2e3a9582ae0274f11e65c94a0916cf55e",
       "slug": "typhoon-narra-record-flood-waters-submerge-homes-and-force-m-63c7af",
       "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
@@ -793,6 +1145,26 @@
       "archived": false
     },
     {
+      "id": "d816dd5a7117adbfad4f1d828747d67f6eda179d",
+      "slug": "in-china-talking-to-ai-is-normal-now-the-government-fears-it-d816dd",
+      "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+      "excerpt": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having families When law student Zhao Wei heard that her AI boyfriend was going to be switched…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Amy Hawkins in Shanghai and Yu-chen Li",
+      "image": "https://i.guim.co.uk/img/media/79384207f817c1e2132886489f14f035b1afabd1/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e4d1e145ebc3b43707e361e18f1503af",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T00:47:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "titleHi": "चीन में, AI से बात करना सामान्य है। अब सरकार को डर है कि यह मानवीय अंतरंगता की जगह ले सकता है",
+      "excerptHi": "साथी बॉट्स को उन चिंताओं पर विनियमित किया जा रहा है जो वे ‘भावनात्मक निर्भरता’ को बढ़ावा देते हैं और युवा लोग शादी करना और परिवार बनाना बंद कर सकते हैं जब कानून के छात्र झाओ वी ने सुना कि उसका एआई प्रेमी स्विच होने वाला है...",
+      "archived": false
+    },
+    {
       "id": "09c59be0a275579479087d1277599feda3725bfa",
       "slug": "from-hasan-piker-to-jesse-watters-el-sayed-seeks-to-focus-on-09c59b",
       "title": "From Hasan Piker to Jesse Watters, El-Sayed seeks to focus on affordability amid scrutiny from both sides",
@@ -898,6 +1270,26 @@
       "archived": false
     },
     {
+      "id": "45597bd53f54b39b5f8361fa6db0f055d035523e",
+      "slug": "as-ukraine-hits-russias-refineries-russia-targets-ukraines-p-45597b",
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "excerpt": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f371/live/4cdd5030-a07b-11f1-bfeb-dfb02ea642ef.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T23:50:53.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o#0",
+      "titleHi": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "excerptHi": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "archived": true
+    },
+    {
       "id": "265a4285c7f3801e48013a641b555d8f0b30b8d9",
       "slug": "how-dolly-parton-told-her-life-story-through-six-iconic-song-265a42",
       "title": "How Dolly Parton told her life story through six iconic songs",
@@ -915,7 +1307,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo#0",
       "titleHi": "डॉली पार्टन ने छह प्रतिष्ठित गीतों के माध्यम से अपनी जीवन कहानी कैसे बताई",
       "excerptHi": "एक महान गायक - गीतकार, उनके संगीत में प्रेम, हानि, महिला सशक्तिकरण और आध्यात्मिकता के विषय शामिल थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5f62f621466910ddb1320a7d1f0f0f8a3e3fbe2a",
@@ -935,7 +1327,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cg7m5e3mylpo#0",
       "titleHi": "एक नोसी पोलर बियर और एक लकी गिलहरी: वाइल्डलाइफ़ फ़ोटोग्राफ़र ऑफ़ द ईयर 2026 शॉर्टलिस्ट",
       "excerptHi": "ऑडुन रिकार्डसन द्वारा ली गई ध्रुवीय भालू की छवि इस वर्ष की प्रतियोगिता में 'अत्यधिक प्रशंसित' प्रविष्टियों में से एक थी।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "48ca131abaac6841abb0b7dc9e09d108d4519c08",
@@ -957,7 +1349,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno#0",
       "titleHi": "ओ'नील ने सेल्टिक के लिए कहीं भी छिपने की ज़िम्मेदारी नहीं ली",
       "excerptHi": "सेल्टिक मैनेजर मार्टिन ओ'नील का कहना है कि ऑस्ट्रिया में हार के बाद उनकी टीम के पास \"दस लाख मील का सफर तय करना\" बाकी है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "73fb8d0153932a15a8b2a57e43a820cd1cd89c9d",
@@ -977,7 +1369,27 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/cn5drv06w2ro#0",
       "titleHi": "अल्कारज़ और विलियम्स संक्षेप में रोमांचित लेकिन उज्ज्वल यूएस ओपन मिश्रित युगल दिखाते हैं",
       "excerptHi": "सेरेना विलियम्स और कार्लोस अल्कारज़ न्यूयॉर्क में स्टार डबल - एक्ट्स में से एक थे क्योंकि मंगलवार को यूएस ओपन मिश्रित युगल प्रतियोगिता शुरू हुई थी।",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "85dce1ad1604664e591dec94ad7704ff6be62cb6",
+      "slug": "im-heartbroken---fans-react-to-dolly-partons-death-85dce1",
+      "title": "'I'm heartbroken' - Fans react to Dolly Parton's death",
+      "excerpt": "The BBC spoke to gatherers at her Hollywood star in Los Angeles, and fans in Washington DC about the music icon's impact.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb5/live/30f28c40-a0db-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T23:21:08.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c20ljnlpd3vo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c20ljnlpd3vo#2",
+      "titleHi": "'I'm heartbroken' - Fans react to Dolly Parton's death",
+      "excerptHi": "The BBC spoke to gatherers at her Hollywood star in Los Angeles, and fans in Washington DC about the music icon's impact.",
+      "archived": true
     },
     {
       "id": "4ccd737225590f94cc77fbe55b5139171384381a",
@@ -997,7 +1409,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/26/afl-max-gawn-all-australian-selection-record-ninth-time",
       "titleHi": "‘हमारे खेल का आइकन ': ऑल - ऑस्ट्रेलियाई चयन ने महान मैक्स गॉन को दुर्लभ हवा में उठा दिया",
       "excerptHi": "मेलबर्न के खिलाड़ी को रिकॉर्ड तोड़ नौवें ब्लेज़र AFL माइनर प्रीमियर Fremantle लीड लीग से सम्मानित किया गया, जिसमें पांच चयन हैं मेलबर्न कोलोसस मैक्स गॉन ने आधुनिक युग के सबसे महान रकमैन के रूप में अपनी स्थिति को रेखांकित किया है,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e51cb47c898807a3eed8e70f3ca125bc7cdb4a3d",
@@ -1019,7 +1431,7 @@
       "guid": "https://www.bbc.co.uk/weather/articles/c62krylw57xo#0",
       "titleHi": "यूके के कुछ हिस्सों में बारिश और आंधी - तूफान के कारण पीले रंग की चेतावनी लागू",
       "excerptHi": "मूसलाधार बारिश इंग्लैंड और वेल्स के कुछ हिस्सों को प्रभावित करेगी, जिससे कई हफ्तों में सबसे अधिक बारिश होगी",
-      "archived": false
+      "archived": true
     },
     {
       "id": "34222f5aa221af3891265184fb1740158386382a",
@@ -1039,7 +1451,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo#0",
       "titleHi": "एआई गोल्ड रश क्रिप्टो फर्मों को बिटकॉइन से दूर खींचता है",
       "excerptHi": "बिटकॉइन की कीमत अगस्त में बढ़ी है लेकिन अभी भी लगभग एक साल पहले अपने चरम से बहुत नीचे है - और कंपनियां अपनी खानों को फिर से भर रही हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c7c9f391fddb3947a8c8cbf97884bbcd902a8264",
@@ -1061,7 +1473,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cjrg10j721jo#0",
       "titleHi": "स्पेन और पुर्तगाल में बैटरी पावर के लिए कंपनियां हाथापाई कर रही हैं",
       "excerptHi": "पिछले साल बिजली की भारी विफलता के बाद स्पेनिश और पुर्तगाली फर्म बैटरी बैक अप खरीद रहे हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ba8fde43cdf3783b22564b7abcc577a45a546b9b",
@@ -1081,7 +1493,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o#0",
       "titleHi": "स्कूल वापस जाएँ: समान लागत पर बचत कैसे करें",
       "excerptHi": "बेबी बैंक से लेकर सुपरमार्केट डील तक, ऐसे कई तरीके हैं जिनसे माता - पिता बैक - टू - स्कूल बोझ को कम कर सकते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3072f2146f51556371e7a922fdfe7e129c31a2c4",
@@ -1101,7 +1513,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o#0",
       "titleHi": "शीतकालीन ऊर्जा की कीमतें तीन साल के उच्चतम स्तर पर पहुंचने की उम्मीद है",
       "excerptHi": "नियामक ऑफगेम द्वारा ऊर्जा मूल्य सीमा में वृद्धि से लाखों परिवार प्रभावित होंगे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b68e6b92e17e5229ca548753bb08507e55369d9a",
@@ -1121,7 +1533,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/26/serena-williams-carlos-alcaraz-us-open-tennis-mixed-doubles",
       "titleHi": "सेरेना विलियम्स ने अमेरिकी ओपन में वापसी पर न्यूयॉर्क की दर्शकों को रोमांचित किया",
       "excerptHi": "पूर्व महिला नंबर 1 साबित करती है कि स्टार जोड़ी मिश्रित युगल क्वार्टर फाइनल में सेरेना विलियम्स की यूएस ओपन वापसी मंगलवार को दो मैचों और एक दोपहर तक चली, क्योंकि वह और कार्लोस अल्कारज़...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5520251113b487a007a9be21dad13aadfd447b1e",
@@ -1141,7 +1553,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/26/womens-super-league-2026-27-preview-no-5-charlton-athletic",
       "titleHi": "महिला सुपर लीग 2026 -27 पूर्वावलोकन नंबर 5: चार्ल्टन एथलेटिक",
       "excerptHi": "करेन हिल्स का पक्ष ज्ञान और युवा प्रतिभा का मिश्रण है और अपने विघटन के 20 साल बाद प्रतिस्पर्धा करने के लिए तैयार हैं अभिभावक लेखकों की भविष्यवाणी की स्थिति: 14 वीं (एनबी: यह जरूरी नहीं कि सोफी डाउनी की भविष्यवाणी हो लेकिन...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "33df2f432e4c1adf257ed47ecd8bc5a4f0cf6ecb",
@@ -1161,7 +1573,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/cly46v7zepgo#2",
       "titleHi": "Hrgovic ताने मुझे हवा देने लगते हैं - Itauma",
       "excerptHi": "मूसा इटामा का कहना है कि फिलिप हर्गोविच की टिप्पणियां शनिवार को उनकी लड़ाई से पहले \"उन्हें हवा देने\" लगी हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9b7a460a22a542253a881ed81226ae302e915855",
@@ -1181,7 +1593,7 @@
       "guid": "https://www.nytimes.com/2026/08/25/opinion/trump-tariffs-illegal-canada.html",
       "titleHi": "ट्रम्प के टैरिफ के पीछे हास्यास्पद तर्क",
       "excerptHi": "श्री ट्रम्प कानून तोड़ रहे हैं। कांग्रेस और न्यायपालिका को जवाब देने की जरूरत है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "00c753a8645119a930d376278b32bd48b5ce22d5",
@@ -1201,7 +1613,7 @@
       "guid": "https://www.nytimes.com/2026/08/25/opinion/lindsay-clancy-postpartum-mom-kids-death.html",
       "titleHi": "लिंडसे क्लेन्सी दया की हकदार है, जेल में जीवन की नहीं",
       "excerptHi": "प्रसवोत्तर मानसिक बीमारी से पीड़ित महिलाओं के लिए पागलपन की रक्षा साबित करना बहुत मुश्किल है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9a470693599f23768efbf7f5c7497f878befb89a",
@@ -1221,7 +1633,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/25/carabao-cup-round-up-leeds-nottingham-forest-brentford-birmingham",
       "titleHi": "काराबाओ कप राउंडअप: लीड्स ने फॉरेस्ट को फिर से हराया, ब्रेंटफोर्ड ने बर्मिंघम को छक्का मारा",
       "excerptHi": "डेन जेम्स ने लीड्स को रवाना किया, नाथन कोलिन्स ने पीटरबरो को 5 -1 से हराया, वेस्ट हैम ने 4 -1 से जीत दर्ज की, लीड्स ने प्रीमियर लीग के प्रतिद्वंद्वी नॉटिंघम फॉरेस्ट में तीन दिनों में दूसरी जीत हासिल की और काराबाओ में जगह बनाई...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "eb974c7370ce7cae699ddd29d6e746a700579c12",
@@ -1241,7 +1653,7 @@
       "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/cgrvy0n7evvo#5",
       "titleHi": "सेंट हेलेन्स के दिग्गज लोमैक्स सीज़न के अंत में रिटायर होंगे",
       "excerptHi": "सेंट हेलेन्स के दिग्गज जॉनी लोमैक्स ने घोषणा की कि वह सुपर लीग सीज़न के अंत में संन्यास ले लेंगे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "06422588b56be0a16cb54e3b5068ed2760eea093",
@@ -1261,7 +1673,7 @@
       "guid": "https://www.bbc.co.uk/sport/tennis/articles/c1mv0m7exxko#2",
       "titleHi": "यूएस ओपन क्वालीफाइंग में जीबी का डार्ट और जोन्स आगे",
       "excerptHi": "ब्रिटेन की हैरियट डार्ट और फ्रान जोन्स दोनों ने यूएस ओपन एकल के मुख्य ड्रॉ में पहुंचने के लिए अपनी बोली में जीत की शुरुआत की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "83719e9581cd784dcf5eb2105eefa98bbc7c3d33",
@@ -1406,6 +1818,26 @@
       "archived": true
     },
     {
+      "id": "8cce078f2468bca2a67700305a82a30bd7264cba",
+      "slug": "dolly-made-everybody-feel-they-were-her-friend-8cce07",
+      "title": "'Dolly made everybody feel they were her friend'",
+      "excerpt": "US singer Darius Rucker speaks to the BBC about Dolly Parton following the news of her death.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b2/live/6c9993a0-a0cd-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T21:51:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cddv441nyn1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cddv441nyn1o#2",
+      "titleHi": "'Dolly made everybody feel they were her friend'",
+      "excerptHi": "US singer Darius Rucker speaks to the BBC about Dolly Parton following the news of her death.",
+      "archived": true
+    },
+    {
       "id": "896a7cda690aa4f3778c2fd11a4794f6268318a4",
       "slug": "bruno-fernandes-and-khadija-shaw-land-pfa-player-of-the-year-896a7c",
       "title": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
@@ -1530,6 +1962,26 @@
       "archived": true
     },
     {
+      "id": "569e6f816939feee70ec2c7c3d2b101c58b16e75",
+      "slug": "gasps-as-9-to-5-cast-announce-dollys-death-569e6f",
+      "title": "Gasps as 9 to 5 cast announce Dolly's death",
+      "excerpt": "The cast of Dolly Parton's musical, 9 to 5, was about to go on stage when her death was announced.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c88/live/c56a1350-a0c9-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T21:25:29.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c5ywjj89wndo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c5ywjj89wndo#2",
+      "titleHi": "Gasps as 9 to 5 cast announce Dolly's death",
+      "excerptHi": "The cast of Dolly Parton's musical, 9 to 5, was about to go on stage when her death was announced.",
+      "archived": true
+    },
+    {
       "id": "31cdf4ecc57716f701e932e9fb076776fd0cc720",
       "slug": "cardiffs-anyadike-15-sets-new-efl-cup-record-as-youngest-pla-31cdf4",
       "title": "Cardiff's Anyadike, 15, sets new EFL Cup record as youngest player",
@@ -1647,6 +2099,26 @@
       "guid": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
       "titleHi": "वर्ल्ड लिबर्टी फाइनेंशियल ने कैंटन नेटवर्क पर मूल रूप से USD1 लॉन्च किया",
       "excerptHi": "उद्योग के आंकड़ों के अनुसार, USD1 $ 4 बिलियन से अधिक के बाजार पूंजीकरण के साथ छठा सबसे बड़ा स्थिरकोइन है।",
+      "archived": true
+    },
+    {
+      "id": "ef70e5ab9ea78f80435d7f6c5d4e3a6f3929bb9f",
+      "slug": "we-used-flour-for-powder---dolly-reflects-on-early-life-in-1-ef70e5",
+      "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
+      "excerpt": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8a3/live/4041d880-a0c3-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-25T20:31:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o#2",
+      "titleHi": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
+      "excerptHi": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom.",
       "archived": true
     },
     {
@@ -2098,6 +2570,26 @@
       "guid": "https://www.bbc.co.uk/sport/darts/articles/c36ln69p1ldo#0",
       "titleHi": "Littler's Players Championship hopes dented",
       "excerptHi": "Luke Littler loses to Jermaine Wattimena in the quarter-finals of the 27th Players Championship contest of the year.",
+      "archived": true
+    },
+    {
+      "id": "befc98a1ebc45a12bbbe221eb5f436bf801e6a90",
+      "slug": "family-announces-death-befc98",
+      "title": "Family announces death",
+      "excerpt": "Legendary country music singer Dolly Parton has died at the age of 80.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47f5/live/c715e600-a0b2-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T18:32:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cr4vx0rp776o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cr4vx0rp776o#2",
+      "titleHi": "Family announces death",
+      "excerptHi": "Legendary country music singer Dolly Parton has died at the age of 80.",
       "archived": true
     },
     {
