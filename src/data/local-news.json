@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:41:39.677Z",
+  "generatedAt": "2026-08-26T04:38:19.675Z",
   "india": [
     {
       "id": "46c1a16a302b942c77a521ef528a41d448eb6f5b",
@@ -213,6 +213,26 @@
   ],
   "usa": [
     {
+      "id": "0deb15c019843ade6589006f302bd113ec7befbe",
+      "slug": "us-banking-groups-plan-nationwide-blockchain-network-for-202-0deb15",
+      "title": "US banking groups plan nationwide blockchain network for 2027",
+      "excerpt": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T04:17:39.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
+      "titleHi": "अमेरिकी बैंकिंग समूह 2027 के लिए राष्ट्रव्यापी ब्लॉकचेन नेटवर्क की योजना बना रहे हैं",
+      "excerptHi": "BankChain बैंक के नेतृत्व वाले नेटवर्क के बढ़ते क्षेत्र में शामिल हो गया है, जो टोकन जमा और ऑनचेन भुगतान के लिए साझा बुनियादी ढांचे का निर्माण कर रहा है।",
+      "archived": false
+    },
+    {
       "id": "e618dc958e056b555ef58237daa848a75a30d374",
       "slug": "tributes-pour-in-after-country-music-legend-dolly-parton-80-e618dc",
       "title": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
@@ -396,29 +416,31 @@
       "titleHi": "अमेरिकी राज्य बैंकिंग संघ अपने स्वयं के राष्ट्रव्यापी ब्लॉकचेन नेटवर्क को लॉन्च करने की योजना बना रहे हैं",
       "excerptHi": "\"BankChain एलायंस\" का लक्ष्य 2027 लॉन्च करना है, और यह बैंकिंग सिस्टम के नियामक क्षेत्र में स्थिर सिक्के, भुगतान और टोकन जमा को बढ़ावा देगा।",
       "archived": false
-    },
-    {
-      "id": "8e652a392d7e43ca5160ac9d8007195c3c7e87a3",
-      "slug": "trump-is-upping-the-price-of-big-techs-favorite-visa-8e652a",
-      "title": "Trump is upping the price of Big Tech’s favorite visa",
-      "excerpt": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the…",
-      "category": "Technology",
-      "secondaryCategories": [],
-      "source": "The Verge",
-      "author": "The Verge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T21:45:00.000Z",
-      "sourceUrl": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "guid": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "titleHi": "Trump is upping the price of Big Tech’s favorite visa",
-      "excerptHi": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the…",
-      "archived": false
     }
   ],
   "europe": [
+    {
+      "id": "433207866e24046364a5bba548de50532528757f",
+      "slug": "call-to-ban-marmot-hunting-in-france-as-campaigners-say-they-433207",
+      "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
+      "excerpt": "Protests and petitions planned amid growing concerns over impact of climate crisis on numbers of Alpine rodent Animal rights campaigners are gearing up for protests and petitions aimed at persuading the French…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Kim Willsher in Paris",
+      "image": "https://i.guim.co.uk/img/media/43e737003f7e942a3ccf0eb5491403d27706aae9/1256_343_3349_2679/master/3349.jpg?width=140&quality=85&auto=format&fit=max&s=544d5f69312fa42f3642a92807e68531",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "titleHi": "फ्रांस में मार्मॉट शिकार पर प्रतिबंध लगाने के लिए कॉल करें क्योंकि प्रचारकों का कहना है कि उन्हें ‘मस्ती के लिए मारा गया’ है",
+      "excerptHi": "अल्पाइन कृंतक पशु अधिकार अभियानकर्ताओं की संख्या पर जलवायु संकट के प्रभाव पर बढ़ती चिंताओं के बीच योजनाबद्ध विरोध और याचिकाएं फ्रांसीसी को मनाने के उद्देश्य से विरोध और याचिकाओं के लिए तैयार हो रही हैं...",
+      "archived": false
+    },
     {
       "id": "d5c495ff6de8b92b72518dbb38bcce8d166e4b62",
       "slug": "iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz-d5c495",
@@ -455,8 +477,8 @@
       "publishedAt": "2026-08-25T20:57:28.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
       "guid": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
-      "titleHi": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Chambers after his arrest",
-      "excerptHi": "Lawyer Baltasar Garzón, representing Chambers, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41-year-old James “Fergie” Chambers, a US…",
+      "titleHi": "एफबीआई ने जेम्स ‘फ़र्गी‘ चैंबर्स की गिरफ्तारी के बाद अमीर वामपंथी चेंबर्स के स्पेनिश अवकाश किराये पर छापा मारा",
+      "excerptHi": "चैंबर्स का प्रतिनिधित्व करने वाले वकील बाल्टासर गार्ज़ोन ने कहा कि उनके मुवक्किल के खिलाफ मामला ‘बहुत अजीब’ है क्योंकि अमेरिका ने प्रत्यर्पण का अनुरोध किया है एफबीआई एजेंटों ने 41 वर्षीय जेम्स \"फर्गि\" चैंबर्स, एक अमेरिकी के छुट्टियों के किराए पर इबीसा, स्पेन पर छापा मारा...",
       "archived": false
     },
     {
@@ -604,28 +626,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/cn5drvyg92no#1",
       "titleHi": "European rights court orders Turkey to free imprisoned businessman",
       "excerptHi": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
-      "archived": true
-    },
-    {
-      "id": "4a4ad788faa4cc1dac4a243cc4dfb72c7b15c508",
-      "slug": "vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-j-4a4ad7",
-      "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
-      "excerpt": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Kate Connolly in Berlin",
-      "image": "https://i.guim.co.uk/img/media/ad5b9fb848f9da063293105f4cd9669d2f533ca9/636_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=8b983bbcc60b02a145f4df0cecb2a361",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T15:47:56.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
-      "guid": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts",
-      "titleHi": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
-      "excerptHi": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after…",
       "archived": true
     }
   ],
@@ -1053,6 +1053,29 @@
   ],
   "middleeast": [
     {
+      "id": "9e5ec8aee781d45f7c64363749a5fccc07df6de1",
+      "slug": "iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-ch-9e5ec8",
+      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
+      "excerpt": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/cecc0b2135602c76d6ff1050b553e25a90b8d3f1/771_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=54c7af4ca8927d29156852da1301608b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "titleHi": "ईरान को होर्मुज विरोधाभास का सामना करना पड़ता है क्योंकि चोकहोल्ड क्षरण के रणनीतिक मूल्य",
+      "excerptHi": "युद्ध को समाप्त करने के लिए आंतरिक कॉल जोर पकड़ते हैं क्योंकि खाड़ी के पड़ोसी जलमार्ग पर निर्भरता में कटौती करने के लिए वैकल्पिक पाइपलाइनों की योजना बनाते हैं होर्मुज की जलडमरूमध्य है, जिसे हाल ही में ईरानी सर्वोच्च नेता के कार्यालय द्वारा \"ईरान के स्तंभ\" के रूप में उद्धृत किया गया है...",
+      "archived": false
+    },
+    {
       "id": "d5c495ff6de8b92b72518dbb38bcce8d166e4b62",
       "slug": "iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz-d5c495",
       "title": "Iran and Oman discuss temporary corridor in Strait or Hormuz",
@@ -1237,28 +1260,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/clyl8965j5go#0",
       "titleHi": "अमेरिका द्वारा ईरान के खिलाफ प्रतिबंधों को बढ़ाने के बाद चीन ने चेतावनी दी है कि वह अपने हितों की रक्षा करेगा",
       "excerptHi": "अमेरिका ने उन देशों को अलग - थलग करने की धमकी दी है जो तेहरान के साथ व्यापार करना जारी रखते हैं, जो बीजिंग को अपना अधिकांश तेल बेचता है।",
-      "archived": true
-    },
-    {
-      "id": "bb71005da2f2c4e277c2f0f3f5d7c750cbe10c2d",
-      "slug": "us-terror-list-removal-shakes-off-dark-stain-from-syria-al-s-bb7100",
-      "title": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
-      "excerpt": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "Euronews",
-      "author": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T09:48:37.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
-      "guid": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
-      "titleHi": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
-      "excerptHi": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group…",
       "archived": true
     }
   ],
@@ -1477,6 +1478,74 @@
   ],
   "oceania": [
     {
+      "id": "3a7a8299e17fe29e08c21014633a7817fb46f96c",
+      "slug": "nine-ceo-sees-world-of-growth-in-publishing-as-network-slash-3a7a82",
+      "title": "Nine CEO sees ‘world of growth in publishing’ as network slashes costs",
+      "excerpt": "Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costs Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/2dbd704ccae84819fa14f48faa477d8aa4be5a12/498_0_5308_4247/master/5308.jpg?width=140&quality=85&auto=format&fit=max&s=187e1dddcc4ed0499d74c48b8a00b777",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:18:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "guid": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "titleHi": "नौ सीईओ ‘प्रकाशन में वृद्धि की दुनिया‘ को देखते हैं क्योंकि नेटवर्क लागत में कमी करता है",
+      "excerptHi": "मैट स्टैंटन का कहना है कि कंपनी के पास AI सौदों की ‘अच्छी पाइपलाइन’ है, भले ही इसका उद्देश्य लागत में $ 160m की कटौती करना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "0928b2f3bc1ab3c8114ca1a7c3d404c5261551ee",
+      "slug": "antisemitism-royal-commission-ends-hearings-but-delays-repor-0928b2",
+      "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
+      "excerpt": "Commissioner Virginia Bell resists push to extend antisemitism inquiry noting need for timely recommendations Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Doherty",
+      "image": "https://i.guim.co.uk/img/media/ae947d5f48470cb45ffff6dc2090fa82166d8be2/398_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=ea6bcc440cc642247413a720f2e79b96",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T03:55:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "titleHi": "यहूदी विरोधी शाही आयोग ने सुनवाई समाप्त की लेकिन बोंडी की सालगिरह से ‘ध्यान भटकाने‘ से बचने के लिए रिपोर्ट में देरी की",
+      "excerptHi": "आयुक्त वर्जीनिया बेल ने समय पर सिफारिशों की आवश्यकता को ध्यान में रखते हुए एंटीसेमिटिज्म जांच को बढ़ाने के लिए दबाव डालने का विरोध किया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "d1ccfe49b27f81659c485f9dcb5c3f9cd18222f8",
+      "slug": "fears-for-gregarious-local-celebrity-sammy-the-elephant-seal-d1ccfe",
+      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
+      "excerpt": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest updates Get our breaking news email, free…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=1f6fdb6e37ad9363da3b473f159f0def",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T03:31:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "guid": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "titleHi": "विक्टोरियन बर्ड फ्लू हॉटस्पॉट में हाथी की मुहर ’ग्रीगरियस’ स्थानीय सेलिब्रिटी सैमी के लिए डर",
+      "excerptHi": "सील और समुद्री शेर अक्सर स्पर्श करके संवाद करते हैं और जंगली पक्षियों के साथ रिक्त स्थान साझा करते हैं, जिससे उन्हें H5N1 वायरस से संक्रमण का खतरा होता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "c4b813e0cde4ac850fcd8ab12a65a6b6ac8f85d2",
       "slug": "australia-news-live-hundreds-pay-tribute-to-police-killed-by-c4b813",
       "title": "Australia news live: Hundreds pay tribute to police killed by Dezi Freeman on one-year anniversary; value of Japan’s melon gifts to Albanese revealed",
@@ -1631,77 +1700,122 @@
       "titleHi": "बेटे को ‘यादृच्छिक‘ मेलबर्न सीबीडी हमले से बचाते हुए महिला ने कथित तौर पर बार - बार कैंची से वार किया",
       "excerptHi": "विक्टोरिया पुलिस ने ‘वीर‘ दर्शकों द्वारा नियंत्रित और पिन किए जाने के बाद गिरफ्तार किए गए व्यक्ति का कहना है कि हमारा ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एक मां को कथित तौर पर…",
       "archived": true
+    }
+  ],
+  "world": [
+    {
+      "id": "3a7a8299e17fe29e08c21014633a7817fb46f96c",
+      "slug": "nine-ceo-sees-world-of-growth-in-publishing-as-network-slash-3a7a82",
+      "title": "Nine CEO sees ‘world of growth in publishing’ as network slashes costs",
+      "excerpt": "Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costs Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/2dbd704ccae84819fa14f48faa477d8aa4be5a12/498_0_5308_4247/master/5308.jpg?width=140&quality=85&auto=format&fit=max&s=187e1dddcc4ed0499d74c48b8a00b777",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:18:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "guid": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "titleHi": "नौ सीईओ ‘प्रकाशन में वृद्धि की दुनिया‘ को देखते हैं क्योंकि नेटवर्क लागत में कमी करता है",
+      "excerptHi": "मैट स्टैंटन का कहना है कि कंपनी के पास AI सौदों की ‘अच्छी पाइपलाइन’ है, भले ही इसका उद्देश्य लागत में $ 160m की कटौती करना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें...",
+      "archived": false
     },
     {
-      "id": "91975b391aaa874fae639bec810c4f51acc7ff6c",
-      "slug": "alan-jones-and-fellow-2gb-host-referred-to-smh-and-reporter-91975b",
-      "title": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
-      "excerpt": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email, free app or daily news podcast Alan Jones and fellow…",
+      "id": "2b20db78d7998ee066a5a9ee7f812579b14dd9af",
+      "slug": "man-on-trial-for-daphne-caruana-galizia-murder-claims-he-was-2b20db",
+      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
+      "excerpt": "Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Malta’s then PM was instigator A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Juliette Garside, and Julian Bonnici in Valletta",
+      "image": "https://i.guim.co.uk/img/media/b49f6bacf15503bab51f575e83720254653c040e/0_434_2463_1971/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=209d05b4c6c8c114362581cbca72e3fa",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+      "titleHi": "Daphne Caruana Galizia हत्या के मुकदमे में शामिल व्यक्ति का दावा है कि उसे फंसाया गया था",
+      "excerptHi": "योर्गेन फेनेच ने जूरी को बताया कि उनका हत्या से कोई लेना - देना नहीं था और आरोप लगाया कि माल्टा के तत्कालीन प्रधानमंत्री के शीर्ष सलाहकार उकसाने वाले थे पत्रकार डेफनी कारुआना गैलिज़िया की हत्या के लिए मुकदमा चलाने वाले एक व्यवसायी ने इस बारे में बात की है...",
+      "archived": false
+    },
+    {
+      "id": "9e5ec8aee781d45f7c64363749a5fccc07df6de1",
+      "slug": "iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-ch-9e5ec8",
+      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
+      "excerpt": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/cecc0b2135602c76d6ff1050b553e25a90b8d3f1/771_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=54c7af4ca8927d29156852da1301608b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "titleHi": "ईरान को होर्मुज विरोधाभास का सामना करना पड़ता है क्योंकि चोकहोल्ड क्षरण के रणनीतिक मूल्य",
+      "excerptHi": "युद्ध को समाप्त करने के लिए आंतरिक कॉल जोर पकड़ते हैं क्योंकि खाड़ी के पड़ोसी जलमार्ग पर निर्भरता में कटौती करने के लिए वैकल्पिक पाइपलाइनों की योजना बनाते हैं होर्मुज की जलडमरूमध्य है, जिसे हाल ही में ईरानी सर्वोच्च नेता के कार्यालय द्वारा \"ईरान के स्तंभ\" के रूप में उद्धृत किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "0928b2f3bc1ab3c8114ca1a7c3d404c5261551ee",
+      "slug": "antisemitism-royal-commission-ends-hearings-but-delays-repor-0928b2",
+      "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
+      "excerpt": "Commissioner Virginia Bell resists push to extend antisemitism inquiry noting need for timely recommendations Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
       "category": "World",
       "secondaryCategories": [
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Amanda Meade Media correspondent",
-      "image": "https://i.guim.co.uk/img/media/70f00162972dde89df684815950b389268113539/533_0_5833_4669/master/5833.jpg?width=140&quality=85&auto=format&fit=max&s=073ca50c5dba104ebd3172fb2299e479",
+      "author": "Ben Doherty",
+      "image": "https://i.guim.co.uk/img/media/ae947d5f48470cb45ffff6dc2090fa82166d8be2/398_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=ea6bcc440cc642247413a720f2e79b96",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-25T07:46:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/25/alan-jones-trial-2gb-host-called-smh-pigs-ntwnfb",
-      "titleHi": "Alan Jones and fellow 2GB host referred to SMH and reporter as ‘pigs in the media’, court hears",
-      "excerptHi": "Jason Morrison, a former presenter at the Sydney radio station, denies ‘tailoring his evidence’ during trial of veteran shock jock Jones Get our breaking news email, free app or daily news podcast Alan Jones and fellow…",
-      "archived": true
+      "publishedAt": "2026-08-26T03:55:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "titleHi": "यहूदी विरोधी शाही आयोग ने सुनवाई समाप्त की लेकिन बोंडी की सालगिरह से ‘ध्यान भटकाने‘ से बचने के लिए रिपोर्ट में देरी की",
+      "excerptHi": "आयुक्त वर्जीनिया बेल ने समय पर सिफारिशों की आवश्यकता को ध्यान में रखते हुए एंटीसेमिटिज्म जांच को बढ़ाने के लिए दबाव डालने का विरोध किया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
     },
     {
-      "id": "fbf9a6df4cccf2aee6282bbd9282ae141ed69574",
-      "slug": "songs-created-by-ai-banned-from-australias-music-charts-fbf9a6",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "excerpt": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "id": "d1ccfe49b27f81659c485f9dcb5c3f9cd18222f8",
+      "slug": "fears-for-gregarious-local-celebrity-sammy-the-elephant-seal-d1ccfe",
+      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
+      "excerpt": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest updates Get our breaking news email, free…",
       "category": "World",
       "secondaryCategories": [
-        "Technology",
-        "Culture"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/652d/live/261dd340-a051-11f1-89c1-878f3735096b.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T04:54:01.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno#1",
-      "titleHi": "Songs created by AI banned from Australia's music charts",
-      "excerptHi": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "archived": true
-    },
-    {
-      "id": "eca371f17ba540d32fda5cdf26f14392e82671c4",
-      "slug": "woolworths-ooshies-craze-causes-coles-sales-slump-with-paren-eca371",
-      "title": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
-      "excerpt": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’ Follow our Australia news live blog for latest updates Get our…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
+        "Science",
+        "Technology"
       ],
       "source": "The Guardian",
-      "author": "Luca Ittimani",
-      "image": "https://i.guim.co.uk/img/media/03c2e71f86c44d16cd749d0ede948e6bafe0a93c/381_104_2219_1775/master/2219.jpg?width=140&quality=85&auto=format&fit=max&s=9a8691072f6834fa943d49bf72c755db",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=1f6fdb6e37ad9363da3b473f159f0def",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-08-25T03:44:38.000Z",
-      "sourceUrl": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
-      "guid": "https://www.theguardian.com/business/2026/aug/25/woolworths-disney-ooshies-craze-causes-coles-sales-slump",
-      "titleHi": "वूलवर्थ्स का ऊशीज का क्रेज कोल्स की बिक्री में गिरावट का कारण बनता है क्योंकि माता - पिता प्रतिद्वंद्वी सुपरमार्केट में खिलौने इकट्ठा करने के लिए खरीदारी करते हैं",
-      "excerptHi": "कोल्स के पूरे साल के परिणामों से पता चलता है कि पिछले 12 महीनों में बाजार हिस्सेदारी हासिल करने के बावजूद, ‘प्रतियोगी के संग्रहणीय अभियान‘ के चार हफ्तों में बिक्री में गिरावट आई है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे...",
-      "archived": true
-    }
-  ],
-  "world": [
+      "publishedAt": "2026-08-26T03:31:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "guid": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "titleHi": "विक्टोरियन बर्ड फ्लू हॉटस्पॉट में हाथी की मुहर ’ग्रीगरियस’ स्थानीय सेलिब्रिटी सैमी के लिए डर",
+      "excerptHi": "सील और समुद्री शेर अक्सर स्पर्श करके संवाद करते हैं और जंगली पक्षियों के साथ रिक्त स्थान साझा करते हैं, जिससे उन्हें H5N1 वायरस से संक्रमण का खतरा होता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त प्राप्त करें...",
+      "archived": false
+    },
     {
       "id": "c4b813e0cde4ac850fcd8ab12a65a6b6ac8f85d2",
       "slug": "australia-news-live-hundreds-pay-tribute-to-police-killed-by-c4b813",
@@ -1814,113 +1928,6 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/26/wa-gst-deal-productivity-commission-western-australia-premier-roger-cook",
       "titleHi": "उत्पादकता आयोग का कहना है कि जब डब्ल्यूए प्रीमियर ने जीएसटी को लेकर उन्हें ’पूर्वी तट जोकर‘ का लेबल दिया तो ’लाइन पार कर गई'",
       "excerptHi": "कमिश्नर एंजेला जैक्सन ने यह भी कहा कि यह ‘निराशाजनक’ है कि एंथोनी अल्बानिस ने पश्चिमी ऑस्ट्रेलिया की जीएसटी व्यवस्था में बदलाव से इंकार किया था नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग प्राप्त करें...",
-      "archived": false
-    },
-    {
-      "id": "6a33c9f839af93c2c70a7564d15e30eacb04013a",
-      "slug": "us-halts-all-immigrant-visa-applications-amid-tightening-res-6a33c9",
-      "title": "US halts all immigrant visa applications amid tightening restrictions",
-      "excerpt": "Move by state department to limit access is part of Trump’s crackdown on both lawful and undocumented immigration All US immigrant visa applications have been paused by the Trump administration as the state department…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Gabrielle Canon",
-      "image": "https://i.guim.co.uk/img/media/2d303f1c00bd3175b4c5f7faebac7877b8e08984/339_0_4858_3889/master/4858.jpg?width=140&quality=85&auto=format&fit=max&s=acf4e4bd8eef3e8f755ffa5eef686bd9",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-26T01:16:18.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/25/us-immigrant-visa-application-trump-crackdwon",
-      "titleHi": "अमेरिका ने सख्त पाबंदियों के बीच आप्रवासी वीज़ा के सभी आवेदनों पर रोक लगा दी है",
-      "excerptHi": "प्रवेश को सीमित करने के लिए राज्य विभाग द्वारा कदम वैध और अनिर्दिष्ट आव्रजन दोनों पर ट्रम्प की कार्रवाई का हिस्सा है ट्रम्प प्रशासन द्वारा सभी अमेरिकी आप्रवासी वीजा आवेदनों को रोक दिया गया है क्योंकि राज्य विभाग…",
-      "archived": false
-    },
-    {
-      "id": "09c59be0a275579479087d1277599feda3725bfa",
-      "slug": "from-hasan-piker-to-jesse-watters-el-sayed-seeks-to-focus-on-09c59b",
-      "title": "From Hasan Piker to Jesse Watters, El-Sayed seeks to focus on affordability amid scrutiny from both sides",
-      "excerpt": "Democratic Senate candidate for Michigan distances himself from Twitch streamer and debates Fox News host The Democratic candidate for Senate in the swing state of Michigan has spent the week trying to keep his…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Rachel Leingang",
-      "image": "https://i.guim.co.uk/img/media/1b7dfd5ffc5f751dfd85cb5204c68faffb11c75e/539_0_5388_4313/master/5388.jpg?width=140&quality=85&auto=format&fit=max&s=6816400cc392e995f49aa4773c606e91",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-26T00:42:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message",
-      "titleHi": "हसन पिकर से लेकर जेसी वाटर्स तक, अल - सैयद दोनों पक्षों की जांच के बीच सामर्थ्य पर ध्यान केंद्रित करना चाहता है",
-      "excerptHi": "मिशिगन के लिए डेमोक्रेटिक सीनेट के उम्मीदवार ने खुद को ट्विच स्ट्रीमर और बहस फॉक्स न्यूज के मेजबान से दूर कर लिया है। स्विंग राज्य मिशिगन में सीनेट के लिए डेमोक्रेटिक उम्मीदवार ने अपना सप्ताह रखने की कोशिश में बिताया है...",
-      "archived": false
-    },
-    {
-      "id": "25f8f9bf135235ecd8543ee4897ecba080e41bb1",
-      "slug": "billionaire-investor-says-he-used-ai-to-write-critique-of-fo-25f8f9",
-      "title": "Billionaire investor says he used AI to write critique of former mentee Scott Bessent",
-      "excerpt": "Stanley Druckenmiller said he was ‘proud of using it’ as wider media grapples with parameters around AI use Stanley Druckenmiller, a billionaire investor, said he used artificial intelligence to pen his viral Wall…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "author": "Uwa Ede-Osifo",
-      "image": "https://i.guim.co.uk/img/media/6b01fb3eb37cae07f49af38f9fecf97dd8606915/0_0_5270_4219/master/5270.jpg?width=140&quality=85&auto=format&fit=max&s=70d66ebd2b7e029a35d479b39a61fd3c",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-26T00:38:49.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/25/scott-bessent-stanley-druckenmiller-ai",
-      "titleHi": "अरबपति निवेशक का कहना है कि उन्होंने पूर्व मेंटी स्कॉट बेसेंट की आलोचना लिखने के लिए AI का इस्तेमाल किया था",
-      "excerptHi": "स्टेनली ड्रुकेंमिलर ने कहा कि उन्हें इसका उपयोग करने पर ‘गर्व’ है क्योंकि एआई उपयोग के आसपास के मापदंडों के साथ व्यापक मीडिया जूझ रहा है, एक अरबपति निवेशक स्टेनली ड्रुकेंमिलर ने कहा कि उन्होंने अपनी वायरल वॉल को कलमबद्ध करने के लिए कृत्रिम बुद्धिमत्ता का उपयोग किया...",
-      "archived": false
-    },
-    {
-      "id": "22bb8b9f844a2f6681f95e0275bc894553bcfc8a",
-      "slug": "wife-of-us-soldier-deported-after-trump-rollback-on-military-22bb8b",
-      "title": "Wife of US soldier deported after Trump rollback on military family protections",
-      "excerpt": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Associated Press",
-      "image": "https://i.guim.co.uk/img/media/f434cb116b88c3dbf993df521abab27cfc2ba39a/544_0_5443_4355/master/5443.jpg?width=140&quality=85&auto=format&fit=max&s=ce23b18e7b6e91a8dfe1df9649d8ea4a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T20:23:55.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "guid": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "titleHi": "Wife of US soldier deported after Trump rollback on military family protections",
-      "excerptHi": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her…",
-      "archived": false
-    },
-    {
-      "id": "4c591678a83308874b48f9d2118e645baeae1cb7",
-      "slug": "labour-mps-will-push-burnham-to-back-voting-reform-in-first-4c5916",
-      "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
-      "excerpt": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster election Why do some Labour MPs want electoral reform and will it happen? Andy Burnham will face an immediate test of his…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Jessica Elgot Deputy political editor",
-      "image": "https://i.guim.co.uk/img/media/80e056355060c3531b6c6cae545fea6893e9bc0d/619_0_6192_4953/master/6192.jpg?width=140&quality=85&auto=format&fit=max&s=a8e663caa6d3728f00bf2e2264d81841",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-25T20:00:23.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
-      "guid": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
-      "titleHi": "Labour MPs will push Burnham to back voting reform in first 100 days",
-      "excerptHi": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster election Why do some Labour MPs want electoral reform and will it happen? Andy Burnham will face an immediate test of his…",
       "archived": false
     }
   ]

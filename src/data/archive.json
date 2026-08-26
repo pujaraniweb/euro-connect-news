@@ -1,8 +1,182 @@
 {
-  "generatedAt": "2026-08-26T03:41:39.677Z",
+  "generatedAt": "2026-08-26T04:38:19.675Z",
   "retentionDays": 45,
-  "total": 2805,
+  "total": 2815,
   "items": [
+    {
+      "id": "3a7a8299e17fe29e08c21014633a7817fb46f96c",
+      "slug": "nine-ceo-sees-world-of-growth-in-publishing-as-network-slash-3a7a82",
+      "title": "Nine CEO sees ‘world of growth in publishing’ as network slashes costs",
+      "excerpt": "Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costs Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Jonathan Barrett Business editor",
+      "image": "https://i.guim.co.uk/img/media/2dbd704ccae84819fa14f48faa477d8aa4be5a12/498_0_5308_4247/master/5308.jpg?width=140&quality=85&auto=format&fit=max&s=187e1dddcc4ed0499d74c48b8a00b777",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:18:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "guid": "https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs",
+      "titleHi": "नौ सीईओ ‘प्रकाशन में वृद्धि की दुनिया‘ को देखते हैं क्योंकि नेटवर्क लागत में कमी करता है",
+      "excerptHi": "मैट स्टैंटन का कहना है कि कंपनी के पास AI सौदों की ‘अच्छी पाइपलाइन’ है, भले ही इसका उद्देश्य लागत में $ 160m की कटौती करना है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "0deb15c019843ade6589006f302bd113ec7befbe",
+      "slug": "us-banking-groups-plan-nationwide-blockchain-network-for-202-0deb15",
+      "title": "US banking groups plan nationwide blockchain network for 2027",
+      "excerpt": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-26T04:17:39.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
+      "titleHi": "अमेरिकी बैंकिंग समूह 2027 के लिए राष्ट्रव्यापी ब्लॉकचेन नेटवर्क की योजना बना रहे हैं",
+      "excerptHi": "BankChain बैंक के नेतृत्व वाले नेटवर्क के बढ़ते क्षेत्र में शामिल हो गया है, जो टोकन जमा और ऑनचेन भुगतान के लिए साझा बुनियादी ढांचे का निर्माण कर रहा है।",
+      "archived": false
+    },
+    {
+      "id": "73a3271aa3d35d6ad627b15e5d5788da519ca49f",
+      "slug": "bitcoin-holds-79000-ether-solana-slip-as-traders-bank-a-week-73a327",
+      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "excerpt": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Shaurya Malwa",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/36ba29ecad53db4ffa1e0c5b2dfe5b2bf0de96a2-1508x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:13:10.000Z",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "guid": "b88a0e77-f09f-4c08-bc0d-484e9b54f902",
+      "titleHi": "बिटकॉइन $ 79,000, ईथर, सोलाना स्लिप रखता है क्योंकि व्यापारी एक सप्ताह में लाभ कमाते हैं",
+      "excerptHi": "प्रचार को छोड़कर हर प्रमुख टोकन 24 घंटे से अधिक गिर गया, हालांकि बिटकॉइन में 23% साप्ताहिक लाभ और XRP लगभग 45% है।",
+      "archived": false
+    },
+    {
+      "id": "433207866e24046364a5bba548de50532528757f",
+      "slug": "call-to-ban-marmot-hunting-in-france-as-campaigners-say-they-433207",
+      "title": "Call to ban marmot hunting in France as campaigners say they are ‘killed for fun’",
+      "excerpt": "Protests and petitions planned amid growing concerns over impact of climate crisis on numbers of Alpine rodent Animal rights campaigners are gearing up for protests and petitions aimed at persuading the French…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "The Guardian",
+      "author": "Kim Willsher in Paris",
+      "image": "https://i.guim.co.uk/img/media/43e737003f7e942a3ccf0eb5491403d27706aae9/1256_343_3349_2679/master/3349.jpg?width=140&quality=85&auto=format&fit=max&s=544d5f69312fa42f3642a92807e68531",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/call-ban-marmot-hunting-france-climate-crisis",
+      "titleHi": "फ्रांस में मार्मॉट शिकार पर प्रतिबंध लगाने के लिए कॉल करें क्योंकि प्रचारकों का कहना है कि उन्हें ‘मस्ती के लिए मारा गया’ है",
+      "excerptHi": "अल्पाइन कृंतक पशु अधिकार अभियानकर्ताओं की संख्या पर जलवायु संकट के प्रभाव पर बढ़ती चिंताओं के बीच योजनाबद्ध विरोध और याचिकाएं फ्रांसीसी को मनाने के उद्देश्य से विरोध और याचिकाओं के लिए तैयार हो रही हैं...",
+      "archived": false
+    },
+    {
+      "id": "d8162b6de9f0a51be8a9bba8a3e3130573dfb276",
+      "slug": "in-poland-compassion-for-ukrainians-has-turned-to-contempt-t-d8162b",
+      "title": "In Poland, compassion for Ukrainians has turned to contempt. The consequences could be dramatic | Mateusz Mazzini",
+      "excerpt": "Warsaw failed to anticipate that refugees would build new lives and Kyiv would demand an equal place at the European table One of the unintended consequences of Russia’s full-scale war against Ukraine was that it gave…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Mateusz Mazzini",
+      "image": "https://i.guim.co.uk/img/media/1a64c2d62862ce9f403637a963db6c15add8d759/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c79773bbe17c5e7aeaeb1a66118b2a85",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/26/poland-ukrainians-compassion-contempt-warsaw-refugees-kyiv",
+      "guid": "https://www.theguardian.com/commentisfree/2026/aug/26/poland-ukrainians-compassion-contempt-warsaw-refugees-kyiv",
+      "titleHi": "पोलैंड में, यूक्रेनियों के लिए करुणा अवमानना में बदल गई है। परिणाम नाटकीय हो सकते हैं | Mateusz Mazzini",
+      "excerptHi": "वारसॉ यह अनुमान लगाने में विफल रहा कि शरणार्थी नए जीवन का निर्माण करेंगे और कीव यूरोपीय तालिका में समान स्थान की मांग करेगा। यूक्रेन के खिलाफ रूस के पूर्ण पैमाने पर युद्ध के अनपेक्षित परिणामों में से एक यह था कि इसने...",
+      "archived": false
+    },
+    {
+      "id": "2b20db78d7998ee066a5a9ee7f812579b14dd9af",
+      "slug": "man-on-trial-for-daphne-caruana-galizia-murder-claims-he-was-2b20db",
+      "title": "Man on trial for Daphne Caruana Galizia murder claims he was framed",
+      "excerpt": "Yorgen Fenech tells jury he had nothing to do with killing and alleges top adviser to Malta’s then PM was instigator A businessman on trial for the murder of the journalist Daphne Caruana Galizia has spoken about the…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Juliette Garside, and Julian Bonnici in Valletta",
+      "image": "https://i.guim.co.uk/img/media/b49f6bacf15503bab51f575e83720254653c040e/0_434_2463_1971/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=209d05b4c6c8c114362581cbca72e3fa",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/yorgen-fenech-trial-daphne-caruana-galizia-claims-framed",
+      "titleHi": "Daphne Caruana Galizia हत्या के मुकदमे में शामिल व्यक्ति का दावा है कि उसे फंसाया गया था",
+      "excerptHi": "योर्गेन फेनेच ने जूरी को बताया कि उनका हत्या से कोई लेना - देना नहीं था और आरोप लगाया कि माल्टा के तत्कालीन प्रधानमंत्री के शीर्ष सलाहकार उकसाने वाले थे पत्रकार डेफनी कारुआना गैलिज़िया की हत्या के लिए मुकदमा चलाने वाले एक व्यवसायी ने इस बारे में बात की है...",
+      "archived": false
+    },
+    {
+      "id": "9e5ec8aee781d45f7c64363749a5fccc07df6de1",
+      "slug": "iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-ch-9e5ec8",
+      "title": "Iran faces strait of Hormuz paradox as strategic value of chokehold erodes",
+      "excerpt": "Internal calls to end war get louder as Gulf neighbours plan alternative pipelines to cut reliance on waterway Is the strait of Hormuz, recently cited by the office of the Iranian supreme leader as “the pillar of Iran’s…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Patrick Wintour Diplomatic editor",
+      "image": "https://i.guim.co.uk/img/media/cecc0b2135602c76d6ff1050b553e25a90b8d3f1/771_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=54c7af4ca8927d29156852da1301608b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T04:00:33.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "guid": "https://www.theguardian.com/world/2026/aug/26/iran-faces-strait-of-hormuz-paradox-as-strategic-value-of-chokehold-erodes",
+      "titleHi": "ईरान को होर्मुज विरोधाभास का सामना करना पड़ता है क्योंकि चोकहोल्ड क्षरण के रणनीतिक मूल्य",
+      "excerptHi": "युद्ध को समाप्त करने के लिए आंतरिक कॉल जोर पकड़ते हैं क्योंकि खाड़ी के पड़ोसी जलमार्ग पर निर्भरता में कटौती करने के लिए वैकल्पिक पाइपलाइनों की योजना बनाते हैं होर्मुज की जलडमरूमध्य है, जिसे हाल ही में ईरानी सर्वोच्च नेता के कार्यालय द्वारा \"ईरान के स्तंभ\" के रूप में उद्धृत किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "0928b2f3bc1ab3c8114ca1a7c3d404c5261551ee",
+      "slug": "antisemitism-royal-commission-ends-hearings-but-delays-repor-0928b2",
+      "title": "Antisemitism royal commission ends hearings but delays report to avoid ‘distraction’ from Bondi anniversary",
+      "excerpt": "Commissioner Virginia Bell resists push to extend antisemitism inquiry noting need for timely recommendations Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Doherty",
+      "image": "https://i.guim.co.uk/img/media/ae947d5f48470cb45ffff6dc2090fa82166d8be2/398_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=ea6bcc440cc642247413a720f2e79b96",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T03:55:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/26/antisemitism-royal-commission-ends-hearings-but-delays-report-to-avoid-distraction-from-bondi-anniversary-ntwnfb",
+      "titleHi": "यहूदी विरोधी शाही आयोग ने सुनवाई समाप्त की लेकिन बोंडी की सालगिरह से ‘ध्यान भटकाने‘ से बचने के लिए रिपोर्ट में देरी की",
+      "excerptHi": "आयुक्त वर्जीनिया बेल ने समय पर सिफारिशों की आवश्यकता को ध्यान में रखते हुए एंटीसेमिटिज्म जांच को बढ़ाने के लिए दबाव डालने का विरोध किया नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार प्राप्त करें...",
+      "archived": false
+    },
     {
       "id": "240a40666be5e0a91598e02cfc2508a017b3a5ff",
       "slug": "why-tesla-has-been-caught-up-in-a-massive-car-recall-in-chin-240a40",
@@ -21,6 +195,29 @@
       "guid": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro#0",
       "titleHi": "टेस्ला को चीन में बड़े पैमाने पर कार रिकॉल में क्यों पकड़ा गया है",
       "excerptHi": "देश की अब तक की सबसे बड़ी कार रिकॉल टेस्ला, एक्सपेंग, श्याओमी और अन्य फर्मों द्वारा बनाई गई 40 लाख से अधिक गाड़ियों को प्रभावित करती है।",
+      "archived": false
+    },
+    {
+      "id": "d1ccfe49b27f81659c485f9dcb5c3f9cd18222f8",
+      "slug": "fears-for-gregarious-local-celebrity-sammy-the-elephant-seal-d1ccfe",
+      "title": "Fears for ‘gregarious’ local celebrity Sammy the elephant seal in Victorian bird flu hotspot",
+      "excerpt": "Seals and sea lions often communicate by touch and share spaces with wild birds, placing them at risk of infection from H5N1 virus Follow our Australia news live blog for latest updates Get our breaking news email, free…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/05ebf585f519f35661c068c72c735cdcf688c0e4/136_0_1333_1066/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=1f6fdb6e37ad9363da3b473f159f0def",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-26T03:31:54.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "guid": "https://www.theguardian.com/environment/2026/aug/26/sammy-elephant-seal-victoria-h5n1-bird-flu-hotspot",
+      "titleHi": "विक्टोरियन बर्ड फ्लू हॉटस्पॉट में हाथी की मुहर ’ग्रीगरियस’ स्थानीय सेलिब्रिटी सैमी के लिए डर",
+      "excerptHi": "सील और समुद्री शेर अक्सर स्पर्श करके संवाद करते हैं और जंगली पक्षियों के साथ रिक्त स्थान साझा करते हैं, जिससे उन्हें H5N1 वायरस से संक्रमण का खतरा होता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त प्राप्त करें...",
       "archived": false
     },
     {
@@ -746,8 +943,8 @@
       "publishedAt": "2026-08-25T21:53:24.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko#0",
-      "titleHi": "Toxic waste sites exposed in Michael Sheen documentary 'tip of the iceberg'",
-      "excerptHi": "One scientist says there are thousands of sites across the UK that need investigating.",
+      "titleHi": "माइकल शीन की डॉक्यूमेंट्री 'टिप ऑफ़ द आइसबर्ग' में ज़हरीले कचरे की जगहों का खुलासा किया गया है",
+      "excerptHi": "एक वैज्ञानिक का कहना है कि पूरे यूके में हजारों साइटें हैं जिनकी जांच करने की आवश्यकता है।",
       "archived": false
     },
     {
@@ -766,8 +963,8 @@
       "publishedAt": "2026-08-25T21:51:57.000Z",
       "sourceUrl": "https://www.nytimes.com/video/opinion/100000011107033/how-welfare-became-a-tool-of-humiliation.html",
       "guid": "https://www.nytimes.com/video/opinion/100000011107033/how-welfare-became-a-tool-of-humiliation.html",
-      "titleHi": "How Welfare Became a ‘Tool of Humiliation’",
-      "excerptHi": "Accessing public benefits often requires navigating a burdensome amount of paperwork and bureaucracy — what the journalist Annie Lowrey calls “the time tax.” On “The Ezra Klein Show,” she explains why administrative…",
+      "titleHi": "कल्याण कैसे ‘अपमान का उपकरण‘ बन गया",
+      "excerptHi": "सार्वजनिक लाभों तक पहुंचने के लिए अक्सर कागजी कार्रवाई और नौकरशाही की भारी मात्रा में नेविगेट करने की आवश्यकता होती है — जिसे पत्रकार एनी लोरे \"समय कर\" कहते हैं। \"द एज्रा क्लेन शो\" पर, वह बताती हैं कि प्रशासनिक...",
       "archived": false
     },
     {
@@ -786,8 +983,8 @@
       "publishedAt": "2026-08-25T21:50:00.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year",
       "guid": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year",
-      "titleHi": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
-      "excerptHi": "Fellow players pick Manchester United and Manchester City stars Nico O’Reilly and Olivia Smith collect young players’ honours Manchester United’s captain Bruno Fernandes has been crowned Professional Footballers’…",
+      "titleHi": "ब्रूनो फर्नांडिस और खदीजा शॉ ने पीएफए प्लेयर ऑफ द ईयर पुरस्कार जीते",
+      "excerptHi": "साथी खिलाड़ियों ने मैनचेस्टर यूनाइटेड और मैनचेस्टर सिटी सितारों को चुना निको ओ'रेली और ओलिविया स्मिथ ने युवा खिलाड़ियों के सम्मान को इकट्ठा किया मैनचेस्टर यूनाइटेड के कप्तान ब्रूनो फर्नांडिस को पेशेवर फुटबॉलर्स का ताज पहनाया गया है...",
       "archived": false
     },
     {
@@ -806,8 +1003,8 @@
       "publishedAt": "2026-08-25T21:45:00.000Z",
       "sourceUrl": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
       "guid": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
-      "titleHi": "Trump is upping the price of Big Tech’s favorite visa",
-      "excerptHi": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the…",
+      "titleHi": "ट्रम्प बिग टेक के पसंदीदा वीज़ा की कीमत बढ़ा रहे हैं",
+      "excerptHi": "सोमवार को कुछ घंटों के अंतराल में, डिपार्टमेंट ऑफ़ होमलैंड सिक्योरिटी ने घोषणा की कि वह H -1B वीज़ा पर $ 103,000 से अधिक का शुल्क लागू करेगा, और यह खबर टूट गई कि राज्य विभाग...",
       "archived": false
     },
     {
@@ -828,8 +1025,8 @@
       "publishedAt": "2026-08-25T21:40:06.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/aug/25/champions-league-celtic",
       "guid": "https://www.theguardian.com/football/2026/aug/25/champions-league-celtic",
-      "titleHi": "Celtic throw away four-goal aggregate lead to crash out of Champions League against Lask",
-      "excerptHi": "Celtic threw away a four-goal lead in Austria as they missed out on the Champions League for the second year running. The Scottish champions looked to be cruising into the league stage when Callum McGregor put them 4-0…",
+      "titleHi": "केल्टिक ने चार गोल की कुल बढ़त को फेंक दिया जिससे वह लास्क के खिलाफ चैंपियंस लीग से बाहर हो गया",
+      "excerptHi": "केल्टिक ने ऑस्ट्रिया में चार गोल की बढ़त हासिल कर ली क्योंकि वे लगातार दूसरे साल चैंपियंस लीग से बाहर रहे। स्कॉटिश चैंपियन लीग चरण में प्रवेश कर रहे थे जब कैलम मैकग्रेगर ने उन्हें 4 -0 से हराया...",
       "archived": false
     },
     {
@@ -848,8 +1045,8 @@
       "publishedAt": "2026-08-25T21:38:28.000Z",
       "sourceUrl": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
       "guid": "bca68cfc-632b-4af2-9a10-f9aa1059d333",
-      "titleHi": "Zerohash back for second effort at OCC trust bank charter",
-      "excerptHi": "The crypto infrastructure firm failed to get approval when it first sought a U.S. charter, and the company is quickly back with what it said would be a narrower effort.",
+      "titleHi": "OCC ट्रस्ट बैंक चार्टर में दूसरे प्रयास के लिए Zerohash वापस",
+      "excerptHi": "क्रिप्टो इन्फ्रास्ट्रक्चर फर्म अनुमोदन प्राप्त करने में विफल रही जब उसने पहली बार अमेरिकी चार्टर की मांग की, और कंपनी जल्दी से वापस आ गई है जो उसने कहा था कि यह एक संकीर्ण प्रयास होगा।",
       "archived": false
     },
     {
@@ -870,8 +1067,8 @@
       "publishedAt": "2026-08-25T21:30:25.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand",
       "guid": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand",
-      "titleHi": "De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand",
-      "excerptHi": "After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this season What’s in a name? Quite a bit, judging by the discussion at Roberto De Zerbi’s Tottenham press…",
+      "titleHi": "De Zerbi को उम्मीद है कि Sávio की नई शुरुआत से स्पर्स को फिर से ब्रांड बनाने में मदद मिलेगी",
+      "excerptHi": "ब्रेंटफोर्ड के खिलाफ अस्वीकार्य प्रदर्शन के बाद, मुख्य कोच अभी भी मानते हैं कि वे इस सीज़न में डूबने से बच सकते हैं नाम में क्या है? रॉबर्टो डी ज़र्बी के टोटेनहम प्रेस में हुई चर्चा को देखते हुए...",
       "archived": false
     },
     {
@@ -890,8 +1087,8 @@
       "publishedAt": "2026-08-25T21:29:08.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cjdv55g4871o?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/sport/football/videos/cjdv55g4871o#3",
-      "titleHi": "'I'm very proud of this' - Fernandes wins PFA player of the year",
-      "excerptHi": "Manchester United captain Bruno Fernandes reacts to winning the men's 2026 PFA player of the year award.",
+      "titleHi": "'मुझे इस पर बहुत गर्व है' - फर्नांडिस ने पीएफए प्लेयर ऑफ द ईयर जीता",
+      "excerptHi": "मैनचेस्टर यूनाइटेड के कप्तान ब्रूनो फर्नांडीस ने पुरुषों के 2026 पीएफए प्लेयर ऑफ द ईयर पुरस्कार जीतने पर प्रतिक्रिया व्यक्त की।",
       "archived": false
     },
     {
@@ -910,8 +1107,8 @@
       "publishedAt": "2026-08-25T21:17:12.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/czrzgzn1z5ro?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/sport/football/articles/czrzgzn1z5ro#1",
-      "titleHi": "Cardiff's Anyadike, 15, sets new EFL Cup record as youngest player",
-      "excerptHi": "Cardiff City's Noah Anyadike, 15, becomes the youngest player in EFL Cup history after starting their second-round defeat against Norwich City.",
+      "titleHi": "15 साल के कार्डिफ़ एनीडाइक ने सबसे कम उम्र के खिलाड़ी के रूप में ईएफ़एल कप का नया रिकॉर्ड बनाया",
+      "excerptHi": "कार्डिफ़ सिटी के 15 वर्षीय नूह एनाडाइक, नॉर्विच सिटी के खिलाफ दूसरे दौर की हार शुरू करने के बाद ईएफएल कप के इतिहास में सबसे कम उम्र के खिलाड़ी बन गए हैं।",
       "archived": false
     },
     {
@@ -930,8 +1127,8 @@
       "publishedAt": "2026-08-25T21:02:32.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo?at_medium=RSS&at_campaign=rss",
       "guid": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo#3",
-      "titleHi": "'A huge award' - O'Reilly named PFA young player of the year",
-      "excerptHi": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
+      "titleHi": "'एक बड़ा पुरस्कार' - ओ'रेली को पीएफए युवा खिलाड़ी ऑफ द ईयर चुना गया",
+      "excerptHi": "मैनचेस्टर सिटी और इंग्लैंड के फुल - बैक निको ओ'रेली का कहना है कि 2026 पीएफए युवा खिलाड़ी ऑफ द ईयर पुरस्कार प्राप्त करने के बाद \"यह अद्भुत लगता है\"।",
       "archived": false
     },
     {
@@ -950,8 +1147,8 @@
       "publishedAt": "2026-08-25T20:59:03.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report",
       "guid": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report",
-      "titleHi": "Victor Torp seals Coventry’s Carabao Cup win at Plymouth in six-goal thriller",
-      "excerptHi": "A midweek jaunt to Devon always had the makings of a tricky trip for a Coventry team focused on Premier League survival. Such feelings quickly evaporated when Frank Lampard’s side raced into a two-goal lead with just…",
+      "titleHi": "विक्टर टॉर्प ने प्लायमाउथ में छह - गोल थ्रिलर में कोवेंट्री के कैराबाओ कप जीत हासिल की",
+      "excerptHi": "डेवन के लिए एक मिडवीक जंट हमेशा प्रीमियर लीग के अस्तित्व पर ध्यान केंद्रित करने वाली कोवेंट्री टीम के लिए एक मुश्किल यात्रा का निर्माण करता था। इस तरह की भावनाएं जल्दी से वाष्पित हो गईं जब फ्रैंक लैम्पार्ड का पक्ष सिर्फ दो गोल की बढ़त में चला गया...",
       "archived": false
     },
     {
@@ -970,8 +1167,8 @@
       "publishedAt": "2026-08-25T20:57:28.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
       "guid": "https://www.theguardian.com/us-news/2026/aug/25/fbi-raid-james-fergie-cox-vacation-rental",
-      "titleHi": "FBI raided Spanish vacation rental of wealthy leftwing funder James ‘Fergie’ Chambers after his arrest",
-      "excerptHi": "Lawyer Baltasar Garzón, representing Chambers, said case against his client is ‘very strange’ as US requests extradition FBI agents raided the Ibiza, Spain, vacation rental of 41-year-old James “Fergie” Chambers, a US…",
+      "titleHi": "एफबीआई ने जेम्स ‘फ़र्गी‘ चैंबर्स की गिरफ्तारी के बाद अमीर वामपंथी चेंबर्स के स्पेनिश अवकाश किराये पर छापा मारा",
+      "excerptHi": "चैंबर्स का प्रतिनिधित्व करने वाले वकील बाल्टासर गार्ज़ोन ने कहा कि उनके मुवक्किल के खिलाफ मामला ‘बहुत अजीब’ है क्योंकि अमेरिका ने प्रत्यर्पण का अनुरोध किया है एफबीआई एजेंटों ने 41 वर्षीय जेम्स \"फर्गि\" चैंबर्स, एक अमेरिकी के छुट्टियों के किराए पर इबीसा, स्पेन पर छापा मारा...",
       "archived": false
     },
     {
@@ -990,8 +1187,8 @@
       "publishedAt": "2026-08-25T20:38:37.000Z",
       "sourceUrl": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
       "guid": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "titleHi": "At just $8, you owe it to yourself to grab Inscryption",
-      "excerptHi": "What starts as a roguelite deckbuilder builds into something far more ambitious. | Image: Daniel Mullins Games/Devolver Digital If you watched the Gamescom 2026 announcements, you might have caught a trailer for the…",
+      "titleHi": "सिर्फ़ $ 8 पर, आपको Inscryption लेने के लिए खुद का कर्ज़ चुकाना होगा",
+      "excerptHi": "एक रोगुलाइट डेकबिल्डर के रूप में जो शुरू होता है, वह कहीं अधिक महत्वाकांक्षी बन जाता है। | छवि: डैनियल मुलिंस गेम्स/डेवॉल्वर डिजिटल यदि आपने Gamescom 2026 घोषणाएं देखी हैं, तो हो सकता है कि आपने …",
       "archived": false
     },
     {
@@ -1010,8 +1207,8 @@
       "publishedAt": "2026-08-25T20:35:10.000Z",
       "sourceUrl": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "guid": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
-      "titleHi": "World Liberty Financial launches USD1 natively on Canton Network",
-      "excerptHi": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
+      "titleHi": "वर्ल्ड लिबर्टी फाइनेंशियल ने कैंटन नेटवर्क पर मूल रूप से USD1 लॉन्च किया",
+      "excerptHi": "उद्योग के आंकड़ों के अनुसार, USD1 $ 4 बिलियन से अधिक के बाजार पूंजीकरण के साथ छठा सबसे बड़ा स्थिरकोइन है।",
       "archived": false
     },
     {
@@ -1030,8 +1227,8 @@
       "publishedAt": "2026-08-25T20:24:24.000Z",
       "sourceUrl": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
       "guid": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "titleHi": "The Witcher 3 is getting a remaster",
-      "excerptHi": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring…",
+      "titleHi": "विचर 3 को एक रीमास्टर मिल रहा है",
+      "excerptHi": "सीडी प्रोजेक्ट रेड द विचर 3: वाइल्ड हंट का रीमास्टर कर रहा है, जो हिट आरपीजी है जिसे पहली बार 2015 में लॉन्च किया गया था, और अपडेट किया गया गेम 29 सितंबर से उपलब्ध होगा। द विचर 3: वाइल्ड हंट - रीमास्टर्ड लाएगा...",
       "archived": false
     },
     {
@@ -1050,8 +1247,8 @@
       "publishedAt": "2026-08-25T20:23:55.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
       "guid": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "titleHi": "Wife of US soldier deported after Trump rollback on military family protections",
-      "excerptHi": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0 The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her…",
+      "titleHi": "ट्रम्प द्वारा सैन्य परिवार की सुरक्षा पर रोलबैक के बाद अमेरिकी सैनिक की पत्नी को निर्वासित कर दिया गया",
+      "excerptHi": "क्रिस्टी मैरी विलाफ्रांका - ट्रेजो, जिन्हें होंडुरास में निर्वासित किया गया है, ट्रम्प 2.0 के बीच हटाने का सामना करने वाली नवीनतम सैन्य पति/पत्नी हैं। उनके अनुसार, एक सक्रिय कर्तव्य वाले अमेरिकी सैनिक की पत्नी को सोमवार को उसके मूल होंडुरास में निर्वासित कर दिया गया था...",
       "archived": false
     },
     {
@@ -1072,7 +1269,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/ce8e0l7prg6o#2",
       "titleHi": "Villa make offer for Mateta - Wednesday's gossip",
       "excerptHi": "Aston Villa make a move for Jean-Philippe Mateta and Nicolas Jackson, Manchester United eye a promising defender, and Manchester City aren't ready to give up on signing Enzo Fernandez.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4c591678a83308874b48f9d2118e645baeae1cb7",
@@ -1094,7 +1291,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
       "titleHi": "Labour MPs will push Burnham to back voting reform in first 100 days",
       "excerptHi": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster election Why do some Labour MPs want electoral reform and will it happen? Andy Burnham will face an immediate test of his…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8df436e90602f0be9f242de9ee42b5e0c4d15ab1",
@@ -1114,7 +1311,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
       "titleHi": "Why do some Labour MPs want electoral reform and will it happen?",
       "excerptHi": "Despite the policy not being included in the party’s 2024 manifesto, Andy Burnham is under pressure to act Andy Burnham is facing new pressure to act over electoral reform, with nearly 100 of his MPs backing a…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d259378a97c4266e6f94fe003dab88cbe40406fc",
@@ -1134,7 +1331,7 @@
       "guid": "https://www.nytimes.com/2026/08/25/opinion/has-world-war-iii-already-started.html",
       "titleHi": "Has World War III Already Started?",
       "excerptHi": "Spheres of conflict have multiplied and are merging. Meanwhile, the West is a mess.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3acc2725e59fac165991bc2ecd33abd05a7dcfa3",
@@ -1154,7 +1351,27 @@
       "guid": "https://www.bbc.co.uk/sounds/play/w3ct8jyb#2",
       "titleHi": "Tech Life",
       "excerptHi": "The government agency that's encouraging high-risk and high-reward research.",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "257bafaba4b6186b682aeecdc3a384ed4ba61895",
+      "slug": "tech-life-257baf",
+      "title": "Tech Life",
+      "excerpt": "The government agency that's encouraging high-risk and high-reward research.",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p686m4.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-25T20:00:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia#2",
+      "titleHi": "Tech Life",
+      "excerptHi": "The government agency that's encouraging high-risk and high-reward research.",
+      "archived": true
     },
     {
       "id": "b8e7da35429ce674ce0f271345a2f878cbc82515",
@@ -1176,7 +1393,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
       "titleHi": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
       "excerptHi": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "94a6ef56b551fe645a10e9f9a6be7b833649ff67",
@@ -1199,7 +1416,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o#0",
       "titleHi": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "excerptHi": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "89c4e17188b20cfc905f24ba44952438c4173af5",
@@ -1219,7 +1436,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do#0",
       "titleHi": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "excerptHi": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "27b2468662ac3486c5e328f071e2a6090757c60b",
@@ -1239,7 +1456,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/ckgwj62e5yno#1",
       "titleHi": "Fernandes and Shaw win PFA player of the year awards",
       "excerptHi": "Manchester United captain Bruno Fernandes and Manchester City forward Khadija Shaw win the Professional Footballers' Associations men's and women's player of the year awards.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8fd22505abbfe62e5bb242b796dec5f2dc3c34ef",
