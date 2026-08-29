@@ -1,8 +1,556 @@
 {
-  "generatedAt": "2026-08-29T16:49:45.613Z",
+  "generatedAt": "2026-08-29T19:13:12.755Z",
   "retentionDays": 45,
-  "total": 3904,
+  "total": 3932,
   "items": [
+    {
+      "id": "1092d88aa0652c76f12d3892c7168ac477f09813",
+      "slug": "watch-sportscene-highlights-of-saturdays-premiership-action-1092d8",
+      "title": "Watch Sportscene highlights of Saturday's Premiership action",
+      "excerpt": "Steven Thompson looks back at the afternoon's fixtures in the Scottish Premiership.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p70fvw.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T19:15:08.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/iplayer/live/bbcscotland#11",
+      "titleHi": "शनिवार की प्रीमियरशिप एक्शन की स्पोर्ट्ससीन हाइलाइट्स देखें",
+      "excerptHi": "स्टीवन थॉम्पसन स्कॉटिश प्रीमियरशिप में दोपहर के जुड़नार पर वापस देखता है।",
+      "archived": false
+    },
+    {
+      "id": "2cfea3c26610729e0a5020956c44d3fe376308ee",
+      "slug": "norways-new-king-remembers-my-dear-father-in-first-speech-2cfea3",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "excerpt": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecd7/live/b200b740-a3dc-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T19:06:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo#0",
+      "titleHi": "नॉर्वे के नए राजा ने पहले भाषण में 'मेरे प्यारे पिता' को याद किया",
+      "excerptHi": "हाकोन VIII अपने दिवंगत पिता, हेराल्ड V को भावनात्मक श्रद्धांजलि देता है, यह बताने से पहले कि वह कैसे शासन करना चाहता है।",
+      "archived": false
+    },
+    {
+      "id": "f1be588999c7e9f21db4248d8b2c96c9f24f5dc8",
+      "slug": "argentina-v-australia-mens-rugby-union-international-live-f1be58",
+      "title": "Argentina v Australia: men’s rugby union international – live",
+      "excerpt": "Updates from the game at Estadio 23 de Agosto Kick-off time in Jujuy is 4pm local/5am AEST Any thoughts? Get in touch with an email There are soccer markings on the field that looks a little ragged. I did say this feels…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Daniel Gallan",
+      "image": "https://i.guim.co.uk/img/media/b0d036abb3011e4254390edf570a49904b9136ff/553_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=fdf1a589e430d481bd8c9ac9fbff3855",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T19:02:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/29/arg-vs-aus-mens-rugby-union-international-live",
+      "guid": "https://www.theguardian.com/sport/live/2026/aug/29/arg-vs-aus-mens-rugby-union-international-live",
+      "titleHi": "अर्जेंटीना बनाम ऑस्ट्रेलिया: पुरुषों की रग्बी यूनियन अंतर्राष्ट्रीय – LIVE",
+      "excerptHi": "Jujuy में Estadio 23 de Agosto Kick - off समय में खेल से अपडेट 4pm स्थानीय/5am AEST कोई विचार? ईमेल के ज़रिए संपर्क करें फ़ील्ड पर फ़ुटबॉल के निशान लगे हुए हैं, जो थोड़ा ऊबड़ - खाबड़ दिखते हैं। मैंने कहा था कि ऐसा लगता है...",
+      "archived": false
+    },
+    {
+      "id": "2fc0071489dd97af4747773bf1293bc22fccbb64",
+      "slug": "elanga-and-wissa-strike-as-newcastle-extend-spurs-miserable-2fc007",
+      "title": "Elanga and Wissa strike as Newcastle extend Spurs’ miserable start to season",
+      "excerpt": "If ever you wanted to understand the distinction between “winning the transfer market” and winning an actual football match, then this was the game for you. Tottenham’s first home fixture of the Premier League season…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Paul MacInnes at Tottenham Hotspur Stadium",
+      "image": "https://i.guim.co.uk/img/media/bb1e6afbf904d03d9f678558a21addf5ea67e542/411_0_2444_1956/master/2444.jpg?width=140&quality=85&auto=format&fit=max&s=9592755df714f13fced7ce6e71e0b7bf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:32:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/tottenham-newcastle-premier-league-match-report",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/tottenham-newcastle-premier-league-match-report",
+      "titleHi": "Elanga और Wissa हड़ताल के रूप में न्यूकैसल स्पर्स की दयनीय शुरुआत को सीज़न तक बढ़ाते हैं",
+      "excerptHi": "यदि आप कभी भी \"ट्रांसफर मार्केट जीतने\" और वास्तविक फुटबॉल मैच जीतने के बीच के अंतर को समझना चाहते थे, तो यह आपके लिए खेल था। प्रीमियर लीग सीज़न का टोटेनहम का पहला होम फिक्स्चर...",
+      "archived": false
+    },
+    {
+      "id": "f380d6c27e8def69f46f38043b0d084f352d496b",
+      "slug": "australia-usually-hosts-the-worlds-biggest-cuttlefish-mating-f380d6",
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "excerpt": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cdf/live/256e85b0-a1ec-11f1-bf30-b9c45f18ad85.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T18:30:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno#2",
+      "titleHi": "ऑस्ट्रेलिया आमतौर पर दुनिया की सबसे बड़ी कटलफ़िश मैटिंग इवेंट की मेज़बानी करता है - इस साल नहीं",
+      "excerptHi": "आधिकारिक आंकड़ों के अनुसार इस साल केवल 1,811 कटलफिश साथी बन गई, जो पिछले साल की तुलना में 97% कम है।",
+      "archived": false
+    },
+    {
+      "id": "bb5478d46cebd133b4f6dd1b51cfc6ff09122b2d",
+      "slug": "tonali-struggles-but-gonzalez-impresses---player-ratings-for-bb5478",
+      "title": "Tonali struggles but Gonzalez impresses - player ratings for Tottenham v Newcastle",
+      "excerpt": "How Tottenham Hotspur and Newcastle United's players rated following Saturday's 2-0 win for the visitors in their Premier League match.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb70/live/04e8e750-a3d5-11f1-9323-c53d27c293d7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:26:50.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c93e8qv2qq0o#0",
+      "titleHi": "टोनाली संघर्ष करता है लेकिन गोंजालेज प्रभावित करता है - टोटेनहम बनाम न्यूकैसल के लिए खिलाड़ी रेटिंग",
+      "excerptHi": "टोटेनहम हॉटस्पर और न्यूकैसल यूनाइटेड के खिलाड़ियों ने शनिवार को अपने प्रीमियर लीग मैच में मेहमानों के लिए 2 -0 की जीत के बाद कैसे रेटिंग दी।",
+      "archived": false
+    },
+    {
+      "id": "058a5c44910f8e6682486efc9ac92c82c3551a8b",
+      "slug": "vaughan-backs-lawrence-for-extended-run-in-england-team-058a5c",
+      "title": "Vaughan backs Lawrence for extended run in England team",
+      "excerpt": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/82d14b10-a3d2-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:21:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo#0",
+      "titleHi": "वॉन ने इंग्लैंड टीम में विस्तारित रन के लिए लॉरेंस का समर्थन किया",
+      "excerptHi": "पूर्व कप्तान माइकल वॉन ने इंग्लैंड के टेस्ट टीम में एक रन के लिए डैन लॉरेंस का समर्थन किया। आप आसन्न चयन सिरदर्द को कैसे हल करेंगे?",
+      "archived": false
+    },
+    {
+      "id": "202512972a826b19fc3b782f9159ffb5b25efdbe",
+      "slug": "sony-music-and-warner-chappell-are-suing-anthropic-202512",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "excerpt": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:19:53.000Z",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "guid": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "titleHi": "सोनी म्यूजिक और वार्नर चैपल एंथ्रोपिक पर मुकदमा कर रहे हैं",
+      "excerptHi": "सोनी म्यूजिक और वार्नर चैपल ने कैलिफ़ोर्निया के उत्तरी जिले के लिए अमेरिकी जिला न्यायालय में एंथ्रोपिक के खिलाफ मुकदमा दायर किया है, जिसमें \"हजारों\" कॉपीराइट कार्यों के लिए हर्जाने की मांग की गई है। कंपनियां मांग रही हैं...",
+      "archived": false
+    },
+    {
+      "id": "67cbe318e37b2c0011740ab1a4ab27ed952623a9",
+      "slug": "fundraiser-launched-to-secure-crafting-shop-future-67cbe3",
+      "title": "Fundraiser launched to secure crafting shop future",
+      "excerpt": "\"We don't want to give up, we want to keep making this work,\" say the owners.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f09/live/1bcdf500-a3d5-11f1-a291-b542ee92de7c.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T18:15:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cz0zr3577glo#3",
+      "titleHi": "क्राफ्टिंग शॉप के भविष्य को सुरक्षित करने के लिए फंडरेज़र लॉन्च किया गया",
+      "excerptHi": "\"हम हार नहीं मानना चाहते, हम इस काम को जारी रखना चाहते हैं ,\" मालिक कहते हैं।",
+      "archived": false
+    },
+    {
+      "id": "a26edd4499081c42c957ec00375dea8ca162e34f",
+      "slug": "maguire-fires-superb-63-as-alexander-lead-cut-at-irish-open-a26edd",
+      "title": "Maguire fires superb 63 as Alexander lead cut at Irish Open",
+      "excerpt": "Ireland's Leona Maguire fires a superb nine-under-par 63 at the Women's Irish Open at the K Club in County Kildare as Casandra Alexander leads by three going into Sunday's final round.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d21/live/15c8d920-a3d2-11f1-b098-d55c64dec0e1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:15:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cq63297y624o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/cq63297y624o#3",
+      "titleHi": "मैगुइरे ने आयरिश ओपन में अलेक्जेंडर को 63 रन से हराया",
+      "excerptHi": "आयरलैंड की लियोना मैगुइरे ने काउंटी किल्डारे में के क्लब में महिला आयरिश ओपन में नौ - अंडर - पार 63 का शानदार प्रदर्शन किया, जबकि कैसेंड्रा अलेक्जेंडर रविवार के अंतिम दौर में तीन से आगे चल रही हैं।",
+      "archived": false
+    },
+    {
+      "id": "06ba63cff1a0f2e4e4c7ed86bf37aae5eb0428dd",
+      "slug": "moyes-says-everton-must-keep-best-players-after-forest-bid-f-06ba63",
+      "title": "Moyes says Everton must keep best players after Forest bid for Harrison Armstrong",
+      "excerpt": "‘I don’t think we can afford to lose any players’ Nottingham Forest reportedly make £40m offer The sale of the 19-year-old Harrison Armstrong to Nottingham Forest would be a “club decision” for Everton, according to…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "John Brewin at the Vitality Stadium",
+      "image": "https://i.guim.co.uk/img/media/a116b67e68e11bb870cedf1d6a7183583cd17c3d/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=65b777c9cc0dc5ed10150526ecd129ed",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:14:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/moyes-says-everton-must-keep-best-players-after-forest-bid-for-harrison-armstrong",
+      "titleHi": "मोयस का कहना है कि एवर्टन को हैरिसन आर्मस्ट्रांग के लिए वन बोली के बाद सर्वश्रेष्ठ खिलाड़ियों को रखना चाहिए",
+      "excerptHi": "‘मुझे नहीं लगता कि हम किसी भी खिलाड़ी को खोने का जोखिम उठा सकते हैं’ नॉटिंघम फॉरेस्ट ने कथित तौर पर £ 40 मिलियन की पेशकश की 19 वर्षीय हैरिसन आर्मस्ट्रांग की नॉटिंघम फॉरेस्ट को बिक्री एवर्टन के लिए एक \"क्लब निर्णय\" होगा, के अनुसार...",
+      "archived": false
+    },
+    {
+      "id": "3b069fa240564f226364a651b8aa3a89b39168f9",
+      "slug": "lawrence-helps-england-build-big-lead-on-rain-affected-day-a-3b069f",
+      "title": "Lawrence helps England build big lead on rain-affected day at Lord's",
+      "excerpt": "Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading by 357 and seemingly closing in on a series victory, with a…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f2/live/bced6ee0-a3d3-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:11:05.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo#1",
+      "titleHi": "लॉरेंस इंग्लैंड को लॉर्ड्स में बारिश से प्रभावित दिन पर बड़ी बढ़त बनाने में मदद करता है",
+      "excerptHi": "डैन लॉरेंस के नाबाद अर्धशतक की बदौलत इंग्लैंड लॉर्ड्स में दूसरे टेस्ट के तीसरे दिन अपनी दूसरी पारी में 177 -7 के करीब पहुंच गया, जिसमें मेजबान टीम 357 से आगे चल रही है और श्रृंखला जीत के साथ बंद हो रही है, जिसमें एक...",
+      "archived": false
+    },
+    {
+      "id": "c71b5f25d645063fa99a5bb7265328c407182f1a",
+      "slug": "south-africa-hold-off-all-blacks-fightback-to-level-series-c71b5f",
+      "title": "South Africa hold off All Blacks fightback to level series",
+      "excerpt": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:08:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do#0",
+      "titleHi": "दक्षिण अफ्रीका ने समतल श्रृंखला के लिए ऑल ब्लैक की लड़ाई को रोका",
+      "excerptHi": "विश्व चैंपियन दक्षिण अफ्रीका ने पहले हाफ में जबरदस्त प्रदर्शन करते हुए न्यूजीलैंड को पीछे छोड़ दिया और 'रग्बी की सबसे बड़ी प्रतिद्वंद्विता' श्रृंखला को 1 -1 से बराबर कर दिया।",
+      "archived": false
+    },
+    {
+      "id": "660544867509f3f4e3da78fc8128b426e00d1967",
+      "slug": "european-football-elversberg-stun-leverkusen-in-dream-bundes-660544",
+      "title": "European football: Elversberg stun Leverkusen in dream Bundesliga debut",
+      "excerpt": "Team from town of 13,000 shock 2024 champions Nkunku returns as RB Leipzig beat Mönchengladbach Bundesliga newcomers Elversberg began their first top-flight campaign in style, stunning Bayer Leverkusen with an…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/74d2a0311b8e65c75d9d3bbdf69852c9405c37c1/251_0_3132_2507/master/3132.jpg?width=140&quality=85&auto=format&fit=max&s=9697abf8eda5e191f1a4262efa23c96c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:07:04.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/european-football-elversberg-dortmund-juventus-sevilla-atletico",
+      "titleHi": "यूरोपीय फुटबॉल: एल्वरबर्ग ने बुंडेसलिगा में पदार्पण करते हुए लीवरकुसेन को हराया",
+      "excerptHi": "13,000 सदमे 2024 चैंपियन के शहर से टीम Nkunku वापसी के रूप में आरबी लीपज़िग ने Mönchengladbach Bundesliga नवागंतुक एल्वर्सबर्ग को शैली में अपना पहला टॉप - फ्लाइट अभियान शुरू किया, एक के साथ आश्चर्यजनक बायर लेवरकुसेन...",
+      "archived": false
+    },
+    {
+      "id": "eb6c94972eafd07872e79d8030a54f62e8b775b6",
+      "slug": "not-bad-for-the-worst-team-in-premier-league-history---hulls-eb6c94",
+      "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+      "excerpt": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf7/live/bfc7b900-a3c8-11f1-be9a-77d4a3f49115.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T18:03:52.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo#2",
+      "titleHi": "'प्रीमियर लीग के इतिहास की सबसे खराब टीम के लिए बुरा नहीं' - हल की सही शुरुआत",
+      "excerptHi": "हल स्ट्राइकर ओली मैकबर्नी ने अपने शुरुआती दो प्रीमियर लीग गेम जीतने के लिए कोवेंट्री को हराने के बाद अपनी टीम के आलोचकों पर एक चंचल खुदाई की है।",
+      "archived": false
+    },
+    {
+      "id": "dc1b2336693b0405dfc18f46218fc461ed729ea2",
+      "slug": "durham-taken-to-final-day-despite-needing-only-four-runs-to-dc1b23",
+      "title": "Durham taken to final day despite needing only four runs to win",
+      "excerpt": "Division Two leaders Durham will need four runs on the final day to beat Gloucestershire.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0b6/live/f2037ad0-a3d2-11f1-b098-d55c64dec0e1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T18:01:38.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2l8dnpx9zqo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c2l8dnpx9zqo#3",
+      "titleHi": "डरहम को जीत के लिए केवल चार रनों की आवश्यकता के बावजूद अंतिम दिन ले जाया गया",
+      "excerptHi": "डिवीजन दो के नेताओं डरहम को ग्लूस्टरशायर को हराने के लिए अंतिम दिन चार रनों की आवश्यकता होगी।",
+      "archived": false
+    },
+    {
+      "id": "eb14aefaeaaf0d228ca7f42b14df747c46704f13",
+      "slug": "henshaw-wins-world-gold-11-days-after-being-in-hospital-eb14ae",
+      "title": "Henshaw wins world gold 11 days after being in hospital",
+      "excerpt": "Britain's Charlotte Henshaw has won her 12th Para-canoe World Championship title - less than two weeks after being in hospital with cellulitis.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eccc/live/b7774a60-a3c1-11f1-b13c-0d78069132fa.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:59:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/canoeing/articles/cgrvw27ll12o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/canoeing/articles/cgrvw27ll12o#3",
+      "titleHi": "अस्पताल में होने के 11 दिन बाद हेंशॉ ने जीता वर्ल्ड गोल्ड",
+      "excerptHi": "ब्रिटेन की शार्लोट हेनशॉ ने 12वीं पैरा - कैनो वर्ल्ड चैंपियनशिप का खिताब जीता है - सेल्युलाईटिस के साथ अस्पताल में होने के दो सप्ताह से भी कम समय बाद।",
+      "archived": false
+    },
+    {
+      "id": "fa43094dd3bab2b8f3a7a0c3ae1db8264f07265f",
+      "slug": "barry-murphy-optimistic-over-more-cardiff-signings-fa4309",
+      "title": "Barry-Murphy optimistic over more Cardiff signings",
+      "excerpt": "Brian Barry-Murphy is optimistic Cardiff City will make further additions to their squad before Tuesday's transfer deadline.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/3df57840-a3c8-11f1-be9a-77d4a3f49115.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T17:55:13.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq5xl2vy20eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cq5xl2vy20eo#11",
+      "titleHi": "अधिक कार्डिफ हस्ताक्षरों पर बैरी - मर्फी आशावादी",
+      "excerptHi": "ब्रायन बैरी - मर्फी को उम्मीद है कि कार्डिफ़ सिटी मंगलवार की स्थानांतरण की समय सीमा से पहले अपनी टीम में और जोड़ देगा।",
+      "archived": false
+    },
+    {
+      "id": "627c6dfa54ca00382c933b0308015069263a3f18",
+      "slug": "right-wing-commentator-milo-yiannopoulos-deported-from-us-to-627c6d",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "excerpt": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T17:52:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo#0",
+      "titleHi": "दक्षिणपंथी कमेंटेटर मिलो यियानोपोलोस को अमेरिका से ब्रिटेन भेज दिया गया",
+      "excerptHi": "स्वयंभू उत्तेजक को आप्रवासन और सीमा शुल्क प्रवर्तन (ICE) द्वारा हिरासत में लिया गया था।",
+      "archived": false
+    },
+    {
+      "id": "0e96327db15530bf6f35edc6ecaeaedd1060007d",
+      "slug": "lawrence-impresses-as-weather-delays-england-0e9632",
+      "title": "Lawrence impresses as weather delays England",
+      "excerpt": "Dan Lawrence impresses in devilishly difficult batting conditions to advance England’s push for a series win over Pakistan on a weather-hit third day of the second Test.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e361/live/fcb3d040-a3ca-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:43:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o#3",
+      "titleHi": "इंग्लैंड के मौसम में देरी के कारण लॉरेंस प्रभावित हुए",
+      "excerptHi": "डैन लॉरेंस ने बेहद मुश्किल बल्लेबाजी परिस्थितियों में प्रभावित किया और दूसरे टेस्ट के मौसम से प्रभावित तीसरे दिन पाकिस्तान पर श्रृंखला जीतने के लिए इंग्लैंड के धक्का को आगे बढ़ाया।",
+      "archived": false
+    },
+    {
+      "id": "e04dbeb88f9401c2aabc738b3ee3a88696ed3dae",
+      "slug": "north-carolina-face-texas-christian-as-college-football-kick-e04dbe",
+      "title": "North Carolina face Texas Christian as college football kicks off season in Dublin – in pictures",
+      "excerpt": "The UNC Tar Heels and TCU Horned Frogs meet at Dublin’s Aviva Stadium on Saturday in the first major college football game of the 2026 season College football is booming, chaotic and more confusing than ever Continue…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian sport and agencies",
+      "image": "https://i.guim.co.uk/img/media/26b5e9615b4537778995d42543d68c379cd666d4/442_0_4402_3522/master/4402.jpg?width=140&quality=85&auto=format&fit=max&s=5e6b65b870b2db82620f212090d0b0e7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:34:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/gallery/2026/aug/29/unc-tcu-dublin-game-college-football-photos",
+      "guid": "https://www.theguardian.com/sport/gallery/2026/aug/29/unc-tcu-dublin-game-college-football-photos",
+      "titleHi": "नॉर्थ कैरोलिना का सामना टेक्सास क्रिश्चियन से होगा क्योंकि डबलिन में कॉलेज फुटबॉल का सीज़न शुरू हो रहा है – तस्वीरों में",
+      "excerptHi": "यूएनसी टार हील्स और टीसीयू सींग वाले मेंढक 2026 सीज़न के पहले प्रमुख कॉलेज फुटबॉल गेम में शनिवार को डबलिन के अवीवा स्टेडियम में मिलते हैं कॉलेज फुटबॉल तेजी से, अराजक और पहले से कहीं अधिक भ्रमित है जारी रखें...",
+      "archived": false
+    },
+    {
+      "id": "91f8cefb4f1b2dc5244627365060d2ff877220ea",
+      "slug": "a-gritty-innings---lawrence-digs-in-to-help-england-build-bi-91f8ce",
+      "title": "'A gritty innings' - Lawrence digs in to help England build big lead",
+      "excerpt": "Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the second Test against Pakistan, giving them a lead of 357.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca4/live/2995d590-a3cb-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:08:45.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/cx2zy71qvnjo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/cx2zy71qvnjo#1",
+      "titleHi": "'एक किरकिरी पारी' - लॉरेंस ने इंग्लैंड को बड़ी बढ़त बनाने में मदद की",
+      "excerptHi": "मौसम के कारण एक पारी में भारी व्यवधान के बावजूद, डैन लॉरेंस 66 गेंदों पर 50 रन बनाकर नाबाद रहे, क्योंकि इंग्लैंड पाकिस्तान के खिलाफ दूसरे टेस्ट के तीसरे दिन 177 -7 पर बंद हुआ, जिससे उन्हें 357 की बढ़त मिली।",
+      "archived": false
+    },
+    {
+      "id": "f678f59278a9472d0f6a20c0bd7ead239bb8c87b",
+      "slug": "far-right-media-provocateur-milo-yiannopoulos-deported-by-ic-f678f5",
+      "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
+      "excerpt": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/d7eebc5aae6f8af39e6c04d3215ff89df5fb24c5/23_111_3820_3058/master/3820.jpg?width=140&quality=85&auto=format&fit=max&s=9b0ffc7f7fa088734489bfcac921403e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:08:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+      "titleHi": "सुदूर - दक्षिणपंथी मीडिया उकसाने वाले मिलो यियानोपोलोस को ICE द्वारा अमेरिका से यूके निर्वासित किया गया",
+      "excerptHi": "पूर्व - ब्रेटबार्ट संपादक ने उन सभी के लिए तत्काल निर्वासन का समर्थन किया है जो अमेरिकी निवास साबित नहीं कर सकते हैं - सुदूर - दक्षिणपंथी ब्रिटिश मीडिया उत्तेजक मिलो यियानोपोलोस को हिरासत में लेने के बाद अमेरिका से निर्वासित कर दिया गया है...",
+      "archived": false
+    },
+    {
+      "id": "646ae4ad6914b979314b1455d759f5d820df8198",
+      "slug": "daughter-traces-mother-and-aunts-last-known-location-in-nepa-646ae4",
+      "title": "Daughter traces mother and aunt’s last known location in Nepal through TikTok video",
+      "excerpt": "Tulshi Patel says mother Hemangini Jitendra Patel and aunt Hema Sunil Amin were last seen at Friendship Bridge on Nepal-China border • Nepal-Tibet flash flood – latest updates The daughter of a woman missing in Nepal…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Sammy Gecsoyler",
+      "image": "https://i.guim.co.uk/img/media/dde790af8d7195ea001629f5a97bda950a6c0fb2/62_0_1875_1500/master/1875.jpg?width=140&quality=85&auto=format&fit=max&s=9a44ec1c19d59eb53a854f631977e592",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T17:01:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video",
+      "guid": "https://www.theguardian.com/world/2026/aug/29/daughter-traces-mother-and-aunts-last-known-location-in-nepal-through-tiktok-video",
+      "titleHi": "बेटी TikTok वीडियो के माध्यम से नेपाल में माँ और चाची के अंतिम ज्ञात स्थान का पता लगाती है",
+      "excerptHi": "तुलसी पटेल का कहना है कि मां हेमांगिनी जितेंद्र पटेल और चाची हेमा सुनील अमीन को आखिरी बार नेपाल - चीन सीमा पर फ्रेंडशिप ब्रिज पर देखा गया था • नेपाल – तिब्बत फ्लैश फ्लड – लेटेस्ट अपडेट नेपाल में लापता एक महिला की बेटी …",
+      "archived": false
+    },
+    {
+      "id": "3a89d8681b7e8d4b713f8a51bbaaee6601bc66ca",
+      "slug": "weve-got-to-do-more---lampard-frustrated-by-loss-to-hull-3a89d8",
+      "title": "'We've got to do more' - Lampard frustrated by loss to Hull",
+      "excerpt": "Coventry manager Frank Lampard believes his side controlled possession but were \"too slow\" with the ball as their first top-flight home game in 25 years ends in a 1-0 defeat by Hull City.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b094/live/d1e16680-a3c9-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T16:59:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o#1",
+      "titleHi": "'हमें बहुत कुछ करना है' - हल से हार से लैम्पार्ड निराश",
+      "excerptHi": "कोवेंट्री के प्रबंधक फ्रैंक लैम्पार्ड का मानना है कि उनकी टीम ने अपने कब्जे को नियंत्रित किया लेकिन 25 वर्षों में अपने पहले टॉप - फ्लाइट होम गेम के रूप में गेंद के साथ \"बहुत धीमे\" थे, जो हल सिटी द्वारा 1 -0 से हार में समाप्त होता है।",
+      "archived": false
+    },
+    {
+      "id": "2cc05e8900b9b08b3c23d7e60aefd68e1b819c76",
+      "slug": "championship-roundup-grant-puts-charlton-top-as-saints-hamme-2cc05e",
+      "title": "Championship roundup: Grant puts Charlton top as Saints hammer Millwall",
+      "excerpt": "Charlton beat Preston to maintain 100% record Millwall take lead at St Mary’s but Southampton win 5-1 Charlton moved to the top of the table with a 1-0 victory against struggling Preston. Karlan Grant’s first goal for…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Press Association",
+      "image": "https://i.guim.co.uk/img/media/c4a1284a15b0979dd03a663577d4f3686504ff46/41_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=30d1c9c31fed1e0c6c9d0f51c060882a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T16:54:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/championship-roundup-wolves-stoke-swansea-derby-middlesbrough-west-brom",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/championship-roundup-wolves-stoke-swansea-derby-middlesbrough-west-brom",
+      "titleHi": "चैंपियनशिप राउंडअप: ग्रांट ने संतों के हैमर मिलवॉल के रूप में चार्ल्टन को शीर्ष पर रखा",
+      "excerptHi": "चार्ल्टन ने प्रेस्टन को हराकर 100% रिकॉर्ड बनाए रखा मिलवॉल ने सेंट मैरीज़ में बढ़त हासिल की लेकिन साउथेम्प्टन ने 5 -1 से जीत हासिल की चार्ल्टन संघर्ष कर रहे प्रेस्टन के खिलाफ 1 -0 की जीत के साथ तालिका में शीर्ष पर चले गए। कार्लन ग्रांट का पहला गोल…",
+      "archived": false
+    },
+    {
+      "id": "fa2a69b85152f7ce3be94f3731bd49d003e99144",
+      "slug": "moyes-disappointed-with-everton-performance-fa2a69",
+      "title": "Moyes 'disappointed' with Everton performance",
+      "excerpt": "Everton manager David Moyes praises his side's second-half resilience after James Tarkowski's injury-time equaliser rescues a point for The Toffees away to Bournemouth. Moyes admitted that it looked like his team \"were…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a41/live/7122d190-a3c8-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T16:51:56.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cy0znyel8d2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cy0znyel8d2o#1",
+      "titleHi": "एवर्टन के प्रदर्शन से मोयेस 'निराश' हैं",
+      "excerptHi": "एवरटन के प्रबंधक डेविड मोयस ने जेम्स टार्कोव्स्की के चोट के समय के बराबरी के बाद अपनी टीम के दूसरे - आधे लचीलेपन की प्रशंसा की, जो द टॉफिस के लिए बोर्नमाउथ से दूर एक बिंदु बचाता है। मोयस ने स्वीकार किया कि ऐसा लग रहा था कि उनकी टीम \"थे...",
+      "archived": false
+    },
     {
       "id": "2d586475660ce407f6a18212485c3f11d1cd8f16",
       "slug": "forest-agree-22m-deal-with-palace-for-munoz-2d5864",
@@ -21,6 +569,26 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo#5",
       "titleHi": "फ़ॉरेस्ट ने मुनोज़ के लिए पैलेस के साथ £ 22 मिलियन के सौदे पर सहमति जताई",
       "excerptHi": "नॉटिंघम फ़ॉरेस्ट ने क्रिस्टल पैलेस से डेनियल मुनोज़ को साइन करने के लिए कम - से - कम £ 22 मिलियन के सौदे पर सहमति जताई है।",
+      "archived": false
+    },
+    {
+      "id": "5ef9496940195098fbb81c18e2ac004a6ae550ef",
+      "slug": "scottish-premiership-on-song-durn-lifts-celtic-spirits-in-wi-5ef949",
+      "title": "Scottish Premiership: on-song Durán lifts Celtic spirits in win over Falkirk",
+      "excerpt": "Celtic fans’ banner mocks club’s ‘world class’ claims Hearts edge St Johnstone, Dundee United rout Killie Camilo Durán, in his preferred position of centre-forward, scored both goals for Celtic in their 2-1 win over…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Press Association",
+      "image": "https://i.guim.co.uk/img/media/4f543a15794f2000e8a773e9b04e72e03a06f18d/342_0_2549_2039/master/2549.jpg?width=140&quality=85&auto=format&fit=max&s=c9dc3f7c295127f790a4e18986cb08b8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T16:42:20.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/scottish-premiership-celtic-hearts-rangers-aberdeen",
+      "titleHi": "स्कॉटिश प्रीमियरशिप: ऑन - सॉन्ग डुरान ने सेल्टिक स्पिरिट्स को फ़ाल्किर्क पर जीत दिलायी",
+      "excerptHi": "सेल्टिक प्रशंसकों के बैनर ने क्लब के ‘वर्ल्ड क्लास‘ का मजाक उड़ाते हुए दावा किया है कि हार्ट्स एज सेंट जॉनस्टोन, डंडी यूनाइटेड ने किल्ली कैमिलो डुरान को हराया, सेंटर - फॉरवर्ड की अपनी पसंदीदा स्थिति में, सेल्टिक के लिए 2 -1 से जीत में दोनों गोल किए...",
       "archived": false
     },
     {
@@ -682,7 +1250,7 @@
       "guid": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session",
       "titleHi": "नवनिर्वाचित कुरुल्ताई के पहले सत्र का आयोजन करते हुए कजाकिस्तान की सरकार ने इस्तीफा दे दिया",
       "excerptHi": "कजाकिस्तान की नवनिर्वाचित एकसदनीय संसद ने एक नए संविधान के तहत अपना पहला सत्र आयोजित किया है जिसने देश की राजनीतिक व्यवस्था को नया रूप दिया है। सरकार ने आवश्यकतानुसार पद छोड़ दिया है, जिसमें एक नया कैबिनेट तैयार है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7dcd4b6ab15e154a1170e95ba86a32d708d052b2",
@@ -702,7 +1270,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/29/sarah-ferguson-relocation-uk-jeffrey-epstein",
       "titleHi": "एपस्टीन के खुलासे के बीच स्थानांतरण के बाद सारा फर्ग्यूसन ब्रिटेन लौटेंगी",
       "excerptHi": "यॉर्क की पूर्व डचेस दोषी बाल यौन अपराधी सारा फर्ग्यूसन के साथ अपनी दोस्ती को लेकर झड़प के दौरान स्विस शैलेट में चली गईं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a78d249952a366452f7428adda7ee537995f6430",
@@ -724,7 +1292,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/29/jose-mourinho-real-madrid-kylian-mbappe-ballon-dor",
       "titleHi": "जोस मोरिन्हो का दावा है कि Kylian Mbappé को PSG और स्पेन के सितारों से पहले Ballon d'Or जीतना चाहिए",
       "excerptHi": "रियल मैड्रिड मैनेजर ने अपने स्ट्राइकर का समर्थन करते हुए कहा है कि ‘दुनिया का सबसे अच्छा खिलाड़ी पीएसजी या स्पेन में नहीं है’ जोस मोरिन्हो ने कहा है कि काइलियन एमबाप्पे इस साल का बैलोन डी'ओर जीतने के हकदार हैं, यह तर्क देते हुए कि पुरस्कार...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "44a656893df03d4847f4fa5dd921a2351719b162",
@@ -744,7 +1312,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o#3",
       "titleHi": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
       "excerptHi": "Liverpool head coach Andoni Iraola says his side need to \"learn lessons\" after they twice come from behind to draw 2-2 with Nottingham Forest at Anfield.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ab375d3c990fdc88f9a60d77479f23e592a13f7a",
@@ -764,7 +1332,7 @@
       "guid": "https://www.nytimes.com/2026/08/29/opinion/democrats-primaries-identity-politics.html",
       "titleHi": "Democrats Have an Identity Politics Problem. Just Not the One You Think.",
       "excerptHi": "Instead of rallying around their candidates, Democrats are falling out among themselves.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "209a5d0a63b5d517fde4f63ede814a67904b5030",
@@ -784,7 +1352,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers",
       "titleHi": "FBI no longer treating applicants’ experience with sex workers as automatic bar against hiring",
       "excerptHi": "Bureau will still dismiss those engaged with sex workers within past 10 years, three or more times overall, or while in public safety capacity The FBI is dropping a categorical hiring ban on applicants who have had…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f68ad645f767b0752cc576e6aedfa6690a6f679a",
@@ -804,7 +1372,7 @@
       "guid": "http://www.euronews.com/2026/08/29/hundreds-of-foreign-nationals-among-the-missing-following-deadly-nepal-floods",
       "titleHi": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
       "excerptHi": "On Friday, Nepal's tourism board put the number of tourists still \"out of communication\" at 622 - 471 of which were foreign tourists.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "46440a378633eaf6947ce6c25a668c5071a0529c",
@@ -824,7 +1392,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/c8xkj45r2jno#3",
       "titleHi": "'Proud' but 'disappointed' - Glasner's mixed emotions after Liverpool draw",
       "excerptHi": "Nottingham Forest manager Oliver Glasner says he was \"proud\" of his side's performance at Anfield as they draw 2-2 with Liverpool in the Premier League, and believes they could have won.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0b9bb8ecee4b94a3320f9b0bd0fcda03f6d82a53",
@@ -844,7 +1412,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
       "titleHi": "Liverpool 2-2 Nottingham Forest: Premier League – as it happened",
       "excerptHi": "Víctor Muñoz struck an 82nd-minute equaliser for Liverpool against Nottingham Forest in an entertaining Premier League draw at Anfield The teams are out! Liverpool all in red, Forest wearing a third-choice shirt that…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5deb3e28e794430a268e3f60421c04121484e4bc",
@@ -864,7 +1432,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/29/nepal-flood-missing-kathmandu-hospital",
       "titleHi": "‘Their whole village has disappeared’: frantic hunt for survivors in Kathmandu hospital",
       "excerptHi": "Family members pin photos of Nepal’s missing to hospital wall as people try not to give up hope on loved ones Nepal-Tibet flash flood – latest updates Posters of missing people line the wall of the hospital, the glue…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "66f20fcecfcb573cb0a4278d62001a092cf43f30",
@@ -884,7 +1452,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/videos/c8d3j6y758go#3",
       "titleHi": "'I still go Nando's' - Itauma on fame, books & The Odyssey",
       "excerptHi": "Moses Itauma and comedian Rob Beckett play a round of golf whilst discussing Itauma's fame, what he does to relax and his biggest challenge in the upcoming fight for the IBF heavyweight world title against Filip Hrgovic…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "83790b150225d5db614f95b89389c4b8f88448cb",
@@ -906,7 +1474,7 @@
       "guid": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o#3",
       "titleHi": "Deadly strike on Kyiv warehouse prompts evacuations",
       "excerptHi": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e95685a07c2ef1c13d993b218e39908fd7898a13",
@@ -926,7 +1494,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
       "titleHi": "Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
       "excerptHi": "A malfunctioning electronic board will not have been on anyone’s bingo list of Liverpool complaints for the first Anfield game of Andoni Iraola’s tenure, but others sounded all too familiar. A slow start, a lack of…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3ac5c43346e4c312e618723eefe5b77a6e81aa1e",
@@ -946,7 +1514,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/c14d0j85nkpo#3",
       "titleHi": "'That's a stinker' - Gay trapped lbw by 'unplayable' Abbas delivery",
       "excerptHi": "After a lengthy rain delay that sees play halted for over three hours, England batter Emilio Gay is dimissed almost instantly after being trapped lbw by an \"unplayable\" ball from Pakistan bowler Muhammad Abbas on day…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "93f9565596adfac6a82ea8399e869614b8495814",
@@ -968,7 +1536,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
       "titleHi": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
       "excerptHi": "Ukrainian prosecutors open investigation into why munitions were stored so close to residential buildings At least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs that was…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "093aa007f69e877e4d739ab9cd85a9596916a8b6",
@@ -991,7 +1559,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
       "titleHi": "Ex-White House teleprompter operator fined $172,000 for Trump speech bets",
       "excerptHi": "Commodity Futures Trading Commission said Gabriel Perez wagered on Kalshi about words president used in speeches A White House teleprompter operator who left his post amid accusations that he used inside knowledge to…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "16c6c6319cdfaa7ffe9616c48c5099a868e1a4c3",
@@ -1011,7 +1579,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no#1",
       "titleHi": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
       "excerptHi": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8a497228b2b1ee8237913641a05d5305f389e4c9",
@@ -1033,7 +1601,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
       "titleHi": "Cells for arrested offenders may run out without early prison release, says Labour",
       "excerptHi": "Bridget Phillipson says government would not have to consider releasing prisoners early if Tories had created more capacity Cells to hold newly arrested people could run out without the early prison release scheme, a…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3cc04d0e6ec7d481da53142b73dff7aeffaadbcd",
@@ -1053,7 +1621,7 @@
       "guid": "https://www.theguardian.com/fashion/2026/aug/29/polyester-material-shein-fast-fashion",
       "titleHi": "‘It gives Shein’: how did polyester become the world’s most-hated material?",
       "excerptHi": "Due to its ubiquity in fast fashion, gen Z are pushing back against the synthetic material and using it as an insult In 2015, Kate Moss called an easyJet pilot a “basic bitch” and a catchy new insult meaning obvious and…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4203fe95a92caaae05bc4813c98d896e0d48138d",
@@ -1073,7 +1641,7 @@
       "guid": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
       "titleHi": "The Galaxy Z Flip 8 is at its best when there’s friction",
       "excerptHi": "The Z Flip 8 is designed to be used shut more than ever before. | Photo: Dominic Preston / The Verge What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b3566dec213ed0b8b9619a6ef460ab9214aa56aa",
@@ -1093,7 +1661,7 @@
       "guid": "023b7b4e-60d3-48e7-975a-f3a2e8f25f78",
       "titleHi": "Tokenized assets are busier than the data shows",
       "excerptHi": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "669ca1f7a7bf1e36a08f3b6c279b301de823d299",
@@ -1115,7 +1683,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no#6",
       "titleHi": "Three-week international break a concern - Mourinho",
       "excerptHi": "Jose Mourinho says the three-week international break is a “concern” for Real Madrid, with several key players facing a demanding schedule after the World Cup.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6f230d6b46efac14f8a2929886e99b43903b9836",
@@ -1137,7 +1705,7 @@
       "guid": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
       "titleHi": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
       "excerptHi": "Nominated in three previous years, the rambunctious standup – one half of The Delightful Sausage – wins the prize for his show Rewilding while Marty Gleeson is named best newcomer The annual Edinburgh comedy award has…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1c82cb9acca2842833f0bd3289e5582e6fbd401a",
@@ -1157,7 +1725,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o#6",
       "titleHi": "Forest to bid £40m for Everton teenager Armstrong",
       "excerptHi": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a6c420b32938b1d1dbdf59cdeeb9c3a42c68681d",
@@ -1177,7 +1745,7 @@
       "guid": "https://www.nytimes.com/2026/08/29/opinion/nepal-flood-glacier-melt-climate-change.html",
       "titleHi": "Mountains Are Coming Undone",
       "excerptHi": "The burning of fossil fuels is pulling down the world’s highest peaks.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7ea6af8a778a335172529d30470af39e63623d21",
@@ -1197,7 +1765,7 @@
       "guid": "https://www.nytimes.com/2026/08/29/opinion/prince-harry-meghan-markle-america.html",
       "titleHi": "Goodbye, Harry and Meghan. Turns Out We Didn’t Need Actual Royals.",
       "excerptHi": "With their departure, can America please shake off its obsession with royalty?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e7986e38d309197e2da9683aa2aacee70866b23f",
@@ -1217,7 +1785,7 @@
       "guid": "https://www.nytimes.com/2026/08/29/opinion/dolly-parton-style-branding-personality.html",
       "titleHi": "Dolly Parton Was So Fake She Was Real",
       "excerptHi": "Dolly Parton was utterly real about her unrealness. She played with the over-the-top details.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1673e858978b697c462f1735dbf6428e74955ab5",
@@ -1237,7 +1805,7 @@
       "guid": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
       "titleHi": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
       "excerptHi": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of living For William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is always the first…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "49dfa08b856c3b16cf18937fef09a9831b10391f",
@@ -1506,6 +2074,28 @@
       "guid": "https://www.nytimes.com/2026/08/29/opinion/wokeism-restitution.html",
       "titleHi": "Reckoning With the Rights and Wrongs of Wokeness",
       "excerptHi": "Readers react to a column by Bret Stephens calling for restitution for those hurt by the movement’s excesses.",
+      "archived": true
+    },
+    {
+      "id": "55dd3b3444b21e423ab8c7f0edf664cb53b0e20c",
+      "slug": "small-steps-for-schmidt-at-ulster---best-55dd3b",
+      "title": "'Small steps' for Schmidt at Ulster - Best",
+      "excerpt": "Rory Best says Joe Schmidt's new role with Ulster is a case of \"small steps\" as the province seek to use the former Ireland coach's expertise to build a platform for long-term success.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/124b/live/2eef4290-a396-11f1-a291-b542ee92de7c.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T10:55:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/clyk7jy2lxeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/clyk7jy2lxeo#11",
+      "titleHi": "'Small steps' for Schmidt at Ulster - Best",
+      "excerptHi": "Rory Best says Joe Schmidt's new role with Ulster is a case of \"small steps\" as the province seek to use the former Ireland coach's expertise to build a platform for long-term success.",
       "archived": true
     },
     {
@@ -80194,25 +80784,6 @@
       "sourceUrl": "https://www.bbc.co.uk/iplayer/episode/m002zc0w?at_medium=RSS&at_campaign=rss",
       "titleHi": "Tech Now",
       "excerptHi": "Ammie Sekhon goes behind the scenes of WWE to see the tech that supports the show.",
-      "archived": true
-    },
-    {
-      "id": "e6c8b37b8a5b8dba94b233f462e6ddee54adc1d0",
-      "slug": "burnham-does-not-rule-out-wealth-tax-e6c8b3",
-      "title": "Burnham does not rule out wealth tax",
-      "excerpt": "The expected next PM says he may have to \"ask for a little more\" in tax and warns of \"difficult\" choices.",
-      "category": "Politics",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816f/live/eb738af0-806b-11f1-bf5f-a7a6eeea7412.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-07-15T17:32:04.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c89nww3z99po?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Burnham does not rule out wealth tax",
-      "excerptHi": "The expected next PM says he may have to \"ask for a little more\" in tax and warns of \"difficult\" choices.",
       "archived": true
     }
   ]
