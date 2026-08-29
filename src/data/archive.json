@@ -1,8 +1,824 @@
 {
-  "generatedAt": "2026-08-28T21:06:51.486Z",
+  "generatedAt": "2026-08-29T03:31:32.659Z",
   "retentionDays": 45,
-  "total": 3745,
+  "total": 3791,
   "items": [
+    {
+      "id": "d1fd3bc001a527cba17882af7a8d195587822c95",
+      "slug": "trump-hails-historic-deal-for-us-to-control-65bn-barrels-of-d1fd3b",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "excerpt": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "category": "World",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T02:42:27.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o#0",
+      "titleHi": "ट्रम्प ने वेनेजुएला के 65 बिलियन बैरल तेल को नियंत्रित करने के लिए अमेरिका के लिए 'ऐतिहासिक' समझौते की सराहना की",
+      "excerptHi": "वेनेजुएला के अंतरिम राष्ट्रपति का कहना है कि असामान्य समझौता उनके देश की अर्थव्यवस्था को पुनर्जीवित करने में मदद करेगा।",
+      "archived": false
+    },
+    {
+      "id": "0f079f3ce400155c294686b3dc3816dd55d510f5",
+      "slug": "ripple-is-preparing-xrp-ledger-for-quantum-computers-before-0f079f",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "excerpt": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Shaurya Malwa",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T02:30:00.000Z",
+      "sourceUrl": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "guid": "23515530-cbb4-434d-95b6-f0620d9d9c02",
+      "titleHi": "'Q - Day‘ के आने से पहले Ripple क्वांटम कंप्यूटर के लिए XRP लेजर तैयार कर रहा है",
+      "excerptHi": "एक एंथ्रोपिक मॉडल ने पिछले महीने 67 मिलियन के कारक द्वारा एक अग्रणी पोस्ट - क्वांटम हस्ताक्षर उम्मीदवार को तोड़ने के लिए आवश्यक कार्य को काट दिया, जबकि बिटकॉइन और एथेरियम ने इस सप्ताह अपनी स्वयं की प्रवासन योजना प्रकाशित की।",
+      "archived": false
+    },
+    {
+      "id": "78195f7869c120bd98168244e744893348751c1b",
+      "slug": "man-posed-as-49ers-player-to-scam-women-out-of-13m-fbi-says-78195f",
+      "title": "Man posed as 49ers player to scam women out of $1.3m, FBI says",
+      "excerpt": "Authorities say 26 women targeted across four states Suspect allegedly used dating apps, fake investments FBI believes there may be ‘many more victims’ Federal authorities claim a man posed as a San Francisco 49ers…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/5cad2b3abc8b6c88922c14fa58739ddffbfaf8f8/395_0_3934_3149/master/3934.jpg?width=140&quality=85&auto=format&fit=max&s=c876386c90b89be5fca9c52d974448b4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T02:28:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/28/fake-49ers-player-romance-scam-daejon-love-fbi",
+      "guid": "https://www.theguardian.com/sport/2026/aug/28/fake-49ers-player-romance-scam-daejon-love-fbi",
+      "titleHi": "FBI का कहना है कि $ 1.3m में से महिलाओं को धोखा देने के लिए आदमी 49ers खिलाड़ी के रूप में सामने आया",
+      "excerptHi": "अधिकारियों का कहना है कि चार राज्यों में 26 महिलाओं को निशाना बनाया गया है संदिग्ध ने कथित तौर पर डेटिंग ऐप का इस्तेमाल किया, फर्जी निवेश एफबीआई का मानना है कि ‘कई और पीड़ित’ हो सकते हैं संघीय अधिकारियों का दावा है कि एक आदमी को सैन फ्रांसिस्को 49ers के रूप में पेश किया गया है...",
+      "archived": false
+    },
+    {
+      "id": "ac57fa72d76206eabe5bfd1f2721db8568c7b43b",
+      "slug": "somali-piracy-surges-as-the-impact-of-the-us-iran-war-ripple-ac57fa",
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "excerpt": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T01:14:13.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo#2",
+      "titleHi": "सोमाली समुद्री डकैती बढ़ रही है क्योंकि अमेरिका - ईरान युद्ध का प्रभाव बाहर की ओर बढ़ रहा है",
+      "excerptHi": "पिछले सप्ताह चार दिनों के भीतर दो जहाजों को जब्त कर लिया गया था और जनवरी के बाद से कम से कम 13 जहाजों पर हमला किया गया था।",
+      "archived": false
+    },
+    {
+      "id": "24b2fda83a35a3f4112c2511c3da43ec88a2f45f",
+      "slug": "close-race-as-iceland-votes-on-whether-to-restart-talks-on-j-24b2fd",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "excerpt": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T00:56:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo#0",
+      "titleHi": "जब आइसलैंड यूरोपीय संघ में शामिल होने पर बातचीत फिर से शुरू करने के लिए मतदान कर रहा है",
+      "excerptHi": "अशांत अंतर्राष्ट्रीय मामलों ने वोट को आगे बढ़ाया है, लेकिन अभियान ने आइसलैंड के महत्वपूर्ण मछली पकड़ने के उद्योग पर अधिक ध्यान केंद्रित किया है।",
+      "archived": false
+    },
+    {
+      "id": "c7e2e74fc2d5a4e2242c37f5fb0c73a5e88d38f0",
+      "slug": "strong-winds-and-thunderstorms-kick-off-the-bank-holiday-wee-c7e2e7",
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "excerpt": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T00:53:13.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o#0",
+      "titleHi": "बैंक हॉलिडे वीकएंड पर तेज़ हवाएँ और आंधी - तूफ़ान आते हैं",
+      "excerptHi": "कूलर और बौछार की स्थिति पूरे सप्ताहांत और सोमवार तक जारी रहेगी, जिससे मैट टेलर बताते हैं कि गर्मियों में रिकॉर्ड तोड़ गर्मी खत्म हो जाएगी।",
+      "archived": false
+    },
+    {
+      "id": "5bc213ebf507b7a561b7c39826cfe53096079321",
+      "slug": "mountain-of-broken-fridges-growing-across-england-and-wales-5bc213",
+      "title": "Mountain of broken fridges growing across England and Wales",
+      "excerpt": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
+      "category": "Science",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T00:51:02.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o#0",
+      "titleHi": "इंग्लैंड और वेल्स में उगने वाले टूटे हुए फ्रिज का पहाड़",
+      "excerptHi": "इस साल की कई गर्मी की लहरों ने फ्रिज और फ्रीजर के टूटने की संख्या में वृद्धि की है।",
+      "archived": false
+    },
+    {
+      "id": "c2dfa02b507f709aea7e4a68df5838f48cd03911",
+      "slug": "the-race-to-stop-england-running-out-of-water-c2dfa0",
+      "title": "The race to stop England running out of water",
+      "excerpt": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T00:46:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko#0",
+      "titleHi": "इंग्लैंड में पानी की कमी को रोकने की दौड़",
+      "excerptHi": "गर्मियों के सूखे के लिए कौन दोषी है, और क्या इंग्लैंड भविष्य में अपने पानी की आपूर्ति का सबूत दे सकता है?",
+      "archived": false
+    },
+    {
+      "id": "71e85c1f00444489fc500e84608d528dc60a7168",
+      "slug": "how-book-queen-dolly-parton-inspired-millions-of-children-wi-71e85c",
+      "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+      "excerpt": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-29T00:35:04.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo#2",
+      "titleHi": "कैसे 'बुक क्वीन' डॉली पार्टन ने लाखों बच्चों को पढ़ने के उपहार से प्रेरित किया",
+      "excerptHi": "दुनिया भर के परिवार साझा करते हैं कि कैसे Parton's Imagination Library की मुफ्त पुस्तकों ने उनके बच्चों की मदद की।",
+      "archived": false
+    },
+    {
+      "id": "fde97915fc1665c499dbd2310d3296b95ee91b0b",
+      "slug": "landlady-to-911-hijackers-reveals-their-links-to-alleged-sau-fde979",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "excerpt": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T00:32:17.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c99dvm39mreo#0",
+      "titleHi": "9/11 अपहरणकर्ताओं की मकान मालकिन ने कथित सऊदी जासूस से अपने संबंधों का खुलासा किया",
+      "excerptHi": "एक महिला जिसने अल - कायदा के दो सदस्यों को घर किराए पर दिए थे, पहली बार सार्वजनिक रूप से बोलती है - बीबीसी को।",
+      "archived": false
+    },
+    {
+      "id": "68d653a6396b83c81f25c946a629ee4f5dd74643",
+      "slug": "what-tariffs-will-really-cost-canadians-and-americans-68d653",
+      "title": "What tariffs will really cost Canadians and Americans",
+      "excerpt": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3575/live/40950170-a24b-11f1-b3a6-2bc501807fe4.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-29T00:15:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o#2",
+      "titleHi": "क्या टैरिफ वास्तव में कनाडाई और अमेरिकियों की लागत होगी",
+      "excerptHi": "घरों और व्यवसायों को अब एक साल से अधिक समय से रहने की लागत को प्रभावित करने वाले टैरिफ की आदत हो गई है, तो अब क्या बदल जाएगा?",
+      "archived": false
+    },
+    {
+      "id": "78eb2339f3fa9c72934b1a8b3b8c91436be93f0e",
+      "slug": "canada-poaches-dozens-of-top-us-researchers-for-its-universi-78eb23",
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "excerpt": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "category": "World",
+      "secondaryCategories": [
+        "Science"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f782/live/25abd190-a304-11f1-80b3-bf1a174ac193.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T23:47:38.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o#1",
+      "titleHi": "कनाडा अपने विश्वविद्यालयों के लिए दर्जनों शीर्ष अमेरिकी शोधकर्ताओं को पछाड़ रहा है",
+      "excerptHi": "जलवायु और चिकित्सा जैसे क्षेत्रों के शोधकर्ताओं को नए शोध वित्तपोषण द्वारा उत्तर की ओर आकर्षित किया जा रहा है।",
+      "archived": false
+    },
+    {
+      "id": "3c1b60e92dd2313fa56e05030978cfa6adc517f7",
+      "slug": "controversial-plans-for-a-daniel-andrews-sculpture-officiall-3c1b60",
+      "title": "Controversial plans for a Daniel Andrews sculpture officially scrapped by Victorian government",
+      "excerpt": "The $134,000 cost of the statue of the former Victorian premier has been heavily criticised by the Liberal opposition Get our breaking news email, free app or daily news podcast The Carroll government in Victoria has…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Petra Stock",
+      "image": "https://i.guim.co.uk/img/media/385a538b33cdc9390d0de38d79cd9619a99c40e4/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=8babbe2aa05775374f05a7e20d492f7e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:47:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/29/controversial-plans-for-a-daniel-andrews-sculpture-officially-scrapped-by-victorian-government",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/29/controversial-plans-for-a-daniel-andrews-sculpture-officially-scrapped-by-victorian-government",
+      "titleHi": "डैनियल एंड्रयू की मूर्तिकला के लिए विवादास्पद योजनाएं आधिकारिक तौर पर विक्टोरियन सरकार द्वारा रद्द कर दी गई",
+      "excerptHi": "विक्टोरिया के पूर्व प्रधानमंत्री की मूर्ति की $ 134,000 की लागत की लिबरल विपक्ष ने कड़ी आलोचना की है हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें विक्टोरिया में कैरोल सरकार ने...",
+      "archived": false
+    },
+    {
+      "id": "98478e6b1347f396877f18c1a326be04b04588be",
+      "slug": "trump-announces-new-us-oil-agreement-with-venezuela-98478e",
+      "title": "Trump announces new US oil agreement with Venezuela",
+      "excerpt": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/1d68042ed18ea8806bd1af82612aa075ae927bba/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=66f72ca7721d87d12ef2f48da2e11f0d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:34:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "titleHi": "ट्रम्प ने वेनेजुएला के साथ नए अमेरिकी तेल समझौते की घोषणा की",
+      "excerptHi": "अमेरिकी राष्ट्रपति ने कहा कि अमेरिका के पास 65 बिलियन बैरल प्रमाणित तेल भंडार का ‘बहुमत’ नियंत्रण होगा डोनाल्ड ट्रम्प ने शुक्रवार को वेनेजुएला के अंतरिम राष्ट्रपति डेल्सी रोड्रिगेज के साथ एक नए अमेरिकी तेल समझौते की घोषणा करते हुए कहा कि अमेरिका के पास होगा...",
+      "archived": false
+    },
+    {
+      "id": "6f583c2b83a36195729cb19e4a5455fe19662d30",
+      "slug": "charli-xcx-electrifies-reading-festival-with-era-spanning-se-6f583c",
+      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+      "excerpt": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "category": "Culture",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T23:34:34.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c750ng9grk0o#0",
+      "titleHi": "Charli XCX ने युग - विस्तारित सेट के साथ रीडिंग फेस्टिवल का विद्युतीकरण किया",
+      "excerptHi": "ब्रिटिश गायक और आयरिश रॉक बैंड Fontaines DC दोनों ने 2026 के लिए रीडिंग की पहली रात को शीर्षक दिया।",
+      "archived": false
+    },
+    {
+      "id": "574c78d9f159d2908139f8e5fb7c7fa86ca704af",
+      "slug": "european-football-psg-scramble-another-draw-while-bayern-mak-574c78",
+      "title": "European football: PSG scramble another draw while Bayern make flying start",
+      "excerpt": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/008b3175c613b04f29126e1e8409b22e1a0fc50d/494_215_3783_3027/master/3783.jpg?width=140&quality=85&auto=format&fit=max&s=608a865d1b8a09394ab8a09a6a9679ad",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:15:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+      "titleHi": "यूरोपीय फुटबॉल: पीएसजी ने एक और ड्रॉ खेला जबकि बायर्न ने उड़ान की शुरुआत की",
+      "excerptHi": "Marquinhos ने एलियांज एरिना पेरिस सेंट - जर्मेन डिफेंडर Marquinhos में Ligue 1 चैंपियन बायर्न अभिभूत स्टटगार्ट के लिए देर से बराबरी पर कब्जा कर लिया Marquinhos ने स्टॉपेज में गहरा स्कोर किया।",
+      "archived": false
+    },
+    {
+      "id": "959b4d55295051f43147e2921dc1318699ec83bb",
+      "slug": "hovland-in-tie-for-lead-at-tour-championship-959b4d",
+      "title": "Hovland in tie for lead at Tour Championship",
+      "excerpt": "Norway's Viktor Hovland and American Ryan Gerard in tie for the lead at 10 under, heading into the weekend at the Tour Championship in Atlanta.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5b/live/8171bb50-a333-11f1-84e6-5f05e8e26a23.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:09:36.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o#2",
+      "titleHi": "टूर चैंपियनशिप में बढ़त के लिए होवलैंड टाई में",
+      "excerptHi": "अटलांटा में टूर चैंपियनशिप में सप्ताहांत में जा रहे नॉर्वे के विक्टर होवलैंड और अमेरिकी रयान जेरार्ड 10 अंडर की बढ़त के लिए टाई में हैं।",
+      "archived": false
+    },
+    {
+      "id": "2ec1a26d47225604a995a67c021cff90025d9885",
+      "slug": "man-41-dies-after-large-sign-falls-at-christian-festival-in-2ec1a2",
+      "title": "Man, 41, dies after large sign falls at Christian festival in West Sussex",
+      "excerpt": "Six more people hospitalised after incident at Big Church festival near Steyning A 41-year-old man has died and at least six other people have been injured after a large sign fell at a Christian festival in West Sussex,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Nadeem Badshah",
+      "image": "https://i.guim.co.uk/img/media/162bc1779242029c4aed9db9cf37228d506f97bc/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f49765cdaaa0b095a08b22caff70f882",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:07:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/29/man-41-dies-after-large-sign-falls-at-christian-festival-in-west-sussex",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/29/man-41-dies-after-large-sign-falls-at-christian-festival-in-west-sussex",
+      "titleHi": "वेस्ट ससेक्स में क्रिश्चियन फेस्टिवल में बड़े संकेत गिरने से 41 वर्षीय व्यक्ति की मौत हो गई",
+      "excerptHi": "वेस्ट ससेक्स में एक ईसाई उत्सव में एक बड़ा संकेत गिरने से एक 41 वर्षीय व्यक्ति की मौत हो गई है और कम से कम छह अन्य लोग घायल हो गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "7f602dff4e4536f2e573b79c93d504ff43608c7c",
+      "slug": "womens-super-league-2026-27-preview-no-8-everton-7f602d",
+      "title": "Women’s Super League 2026-27 preview No 8: Everton",
+      "excerpt": "Toffees new-look attack will hope to gel during their relatively easy start to the campaign in their second season at the historic Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Tom Garry",
+      "image": "https://i.guim.co.uk/img/media/113e8b20552b639a47a5713d09048c010ce0b292/0_683_4446_3557/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=e0c36125c5841198bef9e3214fbdb40d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T23:01:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+      "guid": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+      "titleHi": "महिला सुपर लीग 2026 -27 पूर्वावलोकन नंबर 8: एवर्टन",
+      "excerptHi": "टॉफी का नया लुक अटैक ऐतिहासिक गुडिसन पार्क गार्जियन लेखकों की भविष्यवाणी की स्थिति में अपने दूसरे सीज़न में अभियान की अपेक्षाकृत आसान शुरुआत के दौरान जेल जाने की उम्मीद करेगा: 10 वीं (एनबी: यह जरूरी नहीं है...",
+      "archived": false
+    },
+    {
+      "id": "5704b698bcdc7ca8334adb9f8cc68bdc950eea95",
+      "slug": "a-magician-and-a-maverick---this-could-be-cherkis-moment-for-5704b6",
+      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+      "excerpt": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2142/live/6813fb90-a32a-11f1-8e46-c39d9fc92d9e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:56:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo#0",
+      "titleHi": "एक जादूगर और एक मावेरिक - यह मैन सिटी के लिए चेरकी का क्षण हो सकता है",
+      "excerptHi": "क्रिस्टल पैलेस के खिलाफ दो गोल और एक शानदार प्रदर्शन के बाद, फिल मैकनाल्टी पूछते हैं कि क्या यह मैनचेस्टर सिटी के लिए रयान चेरकी के चमकने का समय है।",
+      "archived": false
+    },
+    {
+      "id": "cdf32bc6833c9085089ebb341b8ce46215cc3034",
+      "slug": "number-of-australians-missing-in-nepals-deadly-floods-rises-cdf32b",
+      "title": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
+      "excerpt": "There are now 41 Australians missing, and four rapid response team members are expected to arrive in Kathmandu At least 93,000 ‘in great need’ after Nepal-Tibet flash floods How the deadly Nepal and Tibet flash flood…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Stephanie Convery and Cait Kelly in Kathmandu",
+      "image": "https://i.guim.co.uk/img/media/00bc3a6f28120010da82b2d0ba9dd72d6e740880/767_0_3833_3067/master/3833.jpg?width=140&quality=85&auto=format&fit=max&s=6d8c6c68fcf618211c94620432dad3e0",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:53:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
+      "guid": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
+      "titleHi": "नेपाल की घातक बाढ़ में लापता ऑस्ट्रेलियाई लोगों की संख्या फिर से बढ़ी है, क्योंकि अल्बानियाई अधिक कर्मियों को तैनात करता है",
+      "excerptHi": "अब 41 ऑस्ट्रेलियाई लापता हैं, और रैपिड रिस्पांस टीम के चार सदस्यों के काठमांडू पहुंचने की उम्मीद है नेपाल - तिब्बत फ्लैश फ्लड के बाद कम से कम 93,000 ‘बहुत जरूरत है' कैसे घातक नेपाल और तिब्बत फ्लैश फ्लड...",
+      "archived": false
+    },
+    {
+      "id": "0f7298102c935538e0d0674bc972ea7b41ff04c0",
+      "slug": "google-further-buries-search-results-under-ai-mode-0f7298",
+      "title": "Google further buries search results under AI mode",
+      "excerpt": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:48:11.000Z",
+      "sourceUrl": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "guid": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "titleHi": "Google आगे एआई मोड के तहत खोज परिणामों को दफन करता है",
+      "excerptHi": "Google अब कुछ खोजों के लिए परिणाम पृष्ठ के शीर्ष पर अपने AI खोज सारांशों का स्वचालित रूप से विस्तार कर रहा है, जैसा कि सर्च इंजन राउंडटेबल द्वारा रिपोर्ट किया गया है। परिवर्तन, जब यह लात मारता है, तो लिंक की विशिष्ट सूची को धक्का देता है...",
+      "archived": false
+    },
+    {
+      "id": "4dd7cc594cd30669abfffb0180d530339fb6266f",
+      "slug": "los-angeles-fire-survivors-face-record-wait-for-federal-disa-4dd7cc",
+      "title": "Los Angeles fire survivors face record wait for federal disaster aid under Trump",
+      "excerpt": "Nearly 600 days after the devastating 2025 fires, thousands of Los Angeles residents are still waiting for more than $15bn in federal funds to rebuild their communities As thousands of residents in Spokane, Washington,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Gabrielle Canon",
+      "image": "https://i.guim.co.uk/img/media/d6341b9be80af45b46afcc83ce09f2a0f866b987/336_0_3347_2679/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=7b986491a62d4c996c340ed2f011c382",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:39:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid",
+      "titleHi": "लॉस एंजिल्स में आग से बचे लोगों को ट्रम्प के नेतृत्व में संघीय आपदा सहायता के लिए रिकॉर्ड प्रतीक्षा का सामना करना पड़ा",
+      "excerptHi": "2025 की विनाशकारी आग के लगभग 600 दिन बाद, लॉस एंजिल्स के हजारों निवासी अभी भी अपने समुदायों के पुनर्निर्माण के लिए संघीय धन में $ 15 बिलियन से अधिक का इंतजार कर रहे हैं। स्पोकेन, वाशिंगटन,...",
+      "archived": false
+    },
+    {
+      "id": "571b08b97280b1ee5fdfe8836170104a0cfcc1c9",
+      "slug": "mcinnes-backs-himself-to-deliver-rangers-success-571b08",
+      "title": "McInnes backs himself to deliver Rangers success",
+      "excerpt": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c82/live/a646d590-a32a-11f1-8e46-c39d9fc92d9e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:29:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o#2",
+      "titleHi": "रेंजरों को कामयाबी दिलाने के लिए McInnes ने खुद का समर्थन किया",
+      "excerptHi": "प्रबंधक डेरेक मैकइन्स का कहना है कि रेंजर अपनी इच्छा से \"बहुत दूर\" हैं, लेकिन इब्रॉक्स में सफलता दिलाने के लिए खुद का समर्थन करते हैं।",
+      "archived": false
+    },
+    {
+      "id": "edcc4d944e206cf7bc80c6ce66481590652b0142",
+      "slug": "mlb-suspends-dominican-prospect-after-age-fraud-plot-involvi-edcc4d",
+      "title": "MLB suspends Dominican prospect after age-fraud plot involving fake grave",
+      "excerpt": "Report: player posed as nearly two years younger Scheme allegedly included fake grave and records $2.8m agreement with Guardians was canceled A once-prized prospect from the Dominican Republic has been suspended by…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/09f48f6dfb9e79c9ecfe0d21b576cc2ebae29220/280_0_2796_2237/master/2796.jpg?width=140&quality=85&auto=format&fit=max&s=60f4539b81012e2634be013e93f6d099",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:27:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/28/mlb-dominican-prospect-age-fraud-david-severino-guardians",
+      "guid": "https://www.theguardian.com/sport/2026/aug/28/mlb-dominican-prospect-age-fraud-david-severino-guardians",
+      "titleHi": "एमएलबी ने नकली कब्र से जुड़े उम्र - धोखाधड़ी के प्लॉट के बाद डोमिनिकन संभावना को निलंबित कर दिया",
+      "excerptHi": "रिपोर्ट: लगभग दो साल छोटी योजना में कथित रूप से नकली कब्र और रिकॉर्ड शामिल होने के कारण अभिभावक के साथ $ 2.8 मिलियन का समझौता रद्द कर दिया गया था डोमिनिकन गणराज्य से एक बार की गई संभावना को निलंबित कर दिया गया है...",
+      "archived": false
+    },
+    {
+      "id": "929aeaf9b43867cfa25cc3682f2b561aca7f887a",
+      "slug": "footage-of-tibet-floods-isnt-being-shown-in-china---and-we-k-929aea",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "excerpt": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T22:05:41.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo#0",
+      "titleHi": "तिब्बत बाढ़ के फुटेज चीन में नहीं दिखाए जा रहे हैं - और हम वहां पीड़ितों के बारे में बहुत कम जानते हैं",
+      "excerptHi": "घातक फ्लैश बाढ़ के कुछ सबसे नाटकीय फुटेज चीन में सार्वजनिक दृश्य से छिपे हुए हैं।",
+      "archived": false
+    },
+    {
+      "id": "ed173e46c20b8b016c398deeb5f723fcbe99313d",
+      "slug": "xbox-ceo-calls-project-helix-a-family-of-devices-ed173e",
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "excerpt": "Asha Sharma. | Image: The Verge, Microsoft According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:03:13.000Z",
+      "sourceUrl": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "guid": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "titleHi": "Xbox के सीईओ प्रोजेक्ट हेलिक्स को ‘उपकरणों का परिवार’ कहते हैं",
+      "excerptHi": "आशा शर्मा। | छवि: द वर्ज, माइक्रोसॉफ्ट एक्सबॉक्स की सीईओ आशा शर्मा के अनुसार, प्रोजेक्ट हेलिक्स, जिसे उन्होंने मार्च में माइक्रोसॉफ्ट की \"अगली पीढ़ी के कंसोल\" के लिए एक कोडनेम के रूप में घोषित किया था - यह वाक्यांश जो प्रतीत होता है कि एक...",
+      "archived": false
+    },
+    {
+      "id": "1f208993b8e6b12fda2e2d24e416550d39c7caed",
+      "slug": "huddersfield-upset-leigh-with-five-try-win-1f2089",
+      "title": "Huddersfield upset Leigh with five-try win",
+      "excerpt": "Huddersfield Giants score five tries to upset in-form Leigh and keep the Leopards waiting to secure their place in the Super League play-offs.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bf/live/238d9bc0-a320-11f1-92a5-fbd6f5289e6b.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T22:00:52.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gq4ep3gg7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gq4ep3gg7o#5",
+      "titleHi": "हडर्सफील्ड ने पांच बार की जीत के साथ लेह को परेशान किया",
+      "excerptHi": "हडर्सफील्ड जायंट्स ने फार्म में लेह को परेशान करने और सुपर लीग प्ले - ऑफ में अपनी जगह सुरक्षित करने के लिए तेंदुए को इंतजार करने की पांच कोशिशें कीं।",
+      "archived": false
+    },
+    {
+      "id": "61fa525bac0d48caab301b6afc89604d4032aa61",
+      "slug": "leeds-go-back-top-with-thumping-win-at-st-helens-61fa52",
+      "title": "Leeds go back top with thumping win at St Helens",
+      "excerpt": "Leeds Rhinos go back to the top of the Super League standings on points difference with a rare and comprehensive away win at St Helens.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/77f51170-a31b-11f1-8937-ebc435db1160.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:59:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo#1",
+      "titleHi": "सेंट हेलेन्स में शानदार जीत के साथ लीड्स फिर से टॉप पर",
+      "excerptHi": "सेंट हेलेन्स में एक दुर्लभ और व्यापक जीत के साथ लीड्स राइनोस अंक अंतर पर सुपर लीग की स्थिति में शीर्ष पर वापस जाते हैं।",
+      "archived": false
+    },
+    {
+      "id": "92bedb1d16d81455ed4d2fb5cca064a08ce433d2",
+      "slug": "trump-arch-will-alter-sightlines-of-many-washington-dc-landm-92bedb",
+      "title": "Trump arch will alter sightlines of many Washington DC landmarks, report says",
+      "excerpt": "National Park Service, which backs the 250ft arch, says it is likely to disrupt historical significance of dozens of sites A new National Park Service report backs Donald Trump’s proposed arch, despite what it says are…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/626ffdbb76edbd528ee90a503063256bc4bba006/68_0_3748_2999/master/3748.jpg?width=140&quality=85&auto=format&fit=max&s=cbe52f186cb306c5fc729d8fee9f5832",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:36:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc",
+      "titleHi": "रिपोर्ट में कहा गया है कि ट्रम्प आर्क वाशिंगटन डीसी के कई स्थलों की दर्शनीय स्थलों को बदल देगा",
+      "excerptHi": "नेशनल पार्क सर्विस, जो 250 फीट आर्क का समर्थन करती है, का कहना है कि यह दर्जनों साइटों के ऐतिहासिक महत्व को बाधित करने की संभावना है एक नई नेशनल पार्क सर्विस रिपोर्ट डोनाल्ड ट्रम्प के प्रस्तावित आर्क का समर्थन करती है, इसके बावजूद कि यह क्या कहती है...",
+      "archived": false
+    },
+    {
+      "id": "32d50aeb697019181dc3e9795522096dfdce4811",
+      "slug": "volunteers-rescue-man-stuck-on-10000ft-high-ledge-in-sierra-32d50a",
+      "title": "Volunteers rescue man stuck on 10,000ft-high ledge in Sierra Nevada",
+      "excerpt": "Climber, stuck on 6in ridge, had veered off treacherous path and ‘any fall would almost certainly be fatal’ An ill-fated move left a man stranded on a 6in ledge over 10,000ft off the ground for hours in California’s…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Uwa Ede-Osifo",
+      "image": "https://i.guim.co.uk/img/media/4e1079ffb55d92c00ef45a5bc60b2a88b431fad4/37_0_1133_906/master/1133.jpg?width=140&quality=85&auto=format&fit=max&s=b070e7edeedc6daa68c0fd0f62021782",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:30:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/28/volunteers-rescue-man-cliff-sierra-nevada",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/28/volunteers-rescue-man-cliff-sierra-nevada",
+      "titleHi": "सिएरा नेवादा में स्वयंसेवकों ने 10,000 फीट ऊंचे किनारे पर फंसे व्यक्ति को बचाया",
+      "excerptHi": "6in रिज पर फंसे पर्वतारोही ने विश्वासघाती रास्ते को तोड़ दिया था और ‘कोई भी गिरावट लगभग निश्चित रूप से घातक होगी' कैलिफ़ोर्निया के...",
+      "archived": false
+    },
+    {
+      "id": "f72d740cfe93531cafc09b634adee6889c902403",
+      "slug": "andoni-iraola-tells-liverpools-forwards-to-exhaust-themselve-f72d74",
+      "title": "Andoni Iraola tells Liverpool’s forwards to ‘exhaust themselves’",
+      "excerpt": "‘I tell them they don’t need to give us 90 minutes’ Head coach takes charge of first home game on Saturday Andoni Iraola has said it is more important for Liverpool’s forwards to exhaust themselves than perform for 90…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Andy Hunter",
+      "image": "https://i.guim.co.uk/img/media/b9be14040d9ab626dc2d79882e83ee39726d9c6d/246_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=74c0ca612534ee212e2721f29eaab5df",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:30:08.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/andoni-iraola-tells-liverpools-forwards-to-exhaust-themselves",
+      "guid": "https://www.theguardian.com/football/2026/aug/28/andoni-iraola-tells-liverpools-forwards-to-exhaust-themselves",
+      "titleHi": "एंडोनी इराओला ने लिवरपूल के फॉरवर्ड को ‘खुद को थका देने‘ के लिए कहा",
+      "excerptHi": "‘मैं उन्हें बताता हूं कि उन्हें हमें 90 मिनट देने की आवश्यकता नहीं है’ मुख्य कोच ने शनिवार को पहले घरेलू खेल का प्रभार संभाला एंडोनी इराओला ने कहा है कि लिवरपूल के फॉरवर्ड के लिए 90 के लिए प्रदर्शन करने की तुलना में खुद को थका देना अधिक महत्वपूर्ण है...",
+      "archived": false
+    },
+    {
+      "id": "95f3edbe9e13a8864fc1bf42af9b5cd331c66e07",
+      "slug": "haaland-and-cherki-fire-impressive-man-city-to-victory-at-pa-95f3ed",
+      "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
+      "excerpt": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/aaa45590-a325-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:30:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no#0",
+      "titleHi": "पैलेस में हेलैंड और चेरकी ने मैन सिटी की शानदार जीत दर्ज की",
+      "excerptHi": "एर्लिंग हेलैंड और रायन चेरकी दोनों ने मैनचेस्टर सिटी क्रूज के रूप में दो बार स्कोर किया और प्रीमियर लीग में क्रिस्टल पैलेस में 4 -1 से जीत दर्ज की।",
+      "archived": false
+    },
+    {
+      "id": "46cab11314fe211292d2c353fcf414ed33621779",
+      "slug": "berlin-is-being-blackmailed-by-hackers-mayor-says-46cab1",
+      "title": "Berlin is being blackmailed by hackers, mayor says",
+      "excerpt": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e3/live/544e16f0-a324-11f1-8d63-4fed9aaab467.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:29:01.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo#1",
+      "titleHi": "मेयर का कहना है कि हैकर्स बर्लिन को ब्लैकमेल कर रहे हैं",
+      "excerptHi": "काई वेगनर का कहना है कि जर्मनी की राजधानी और शहर - राज्य साइबर हमले में चुराए गए डेटा की फिरौती की मांग में शामिल नहीं होंगे।",
+      "archived": false
+    },
+    {
+      "id": "ed2f8cdff0a818a536e53dd5847f2ef1e14063af",
+      "slug": "kalshi-takes-legal-blow-in-court-ruling-confirming-state-pow-ed2f8c",
+      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+      "excerpt": "This latest U.S. appeals court ruling sets up a rift between federal courts on event contracts, suggesting the U.S. Supreme Court may need to settle the matter.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "CoinDesk",
+      "author": "Jesse Hamilton",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cd68dbf11ea2b03847eb5020d28aec70f8c83de4-2321x1306.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:28:12.000Z",
+      "sourceUrl": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+      "guid": "dc9e0064-7291-4c9f-8e55-60aaa65d8e88",
+      "titleHi": "भविष्यवाणी बाजारों पर राज्य की शक्तियों की पुष्टि करने वाले अदालत के फैसले में कलशी को कानूनी झटका लगा है",
+      "excerptHi": "इस नवीनतम अमेरिकी अपील अदालत के फैसले ने इवेंट अनुबंधों पर संघीय अदालतों के बीच एक दरार स्थापित की है, जो सुझाव देता है कि अमेरिकी सुप्रीम कोर्ट को मामले को सुलझाने की आवश्यकता हो सकती है।",
+      "archived": false
+    },
+    {
+      "id": "1d0e38eedb619f1dceb81e7dadadbe95315a9732",
+      "slug": "st-helens-playoff-hopes-hang-by-a-thread-after-thrashing-by-1d0e38",
+      "title": "St Helens playoff hopes hang by a thread after thrashing by Leeds",
+      "excerpt": "St Helens 6-34 Leeds Rhinos return to top of table after running in six tries If you needed any further proof that Super League’s two most successful sides are travelling in different directions in 2026, this was about…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Aaron Bower at BrewDog Stadium",
+      "image": "https://i.guim.co.uk/img/media/066794d5df4b5d7ad8a60b7bb760bbcdbbaae73d/347_0_3476_2780/master/3476.jpg?width=140&quality=85&auto=format&fit=max&s=7131ecc8425d973dbb98c9932bdc16cf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:20:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/28/st-helens-leeds-super-league-match-report",
+      "guid": "https://www.theguardian.com/sport/2026/aug/28/st-helens-leeds-super-league-match-report",
+      "titleHi": "St Helens playoff hopes hang by a thread after thrashing by Leeds",
+      "excerptHi": "St Helens 6-34 Leeds Rhinos return to top of table after running in six tries If you needed any further proof that Super League’s two most successful sides are travelling in different directions in 2026, this was about…",
+      "archived": false
+    },
+    {
+      "id": "61e44c76636cf212d5ac478959531b745e5414d7",
+      "slug": "97-year-old-woman-rescued-after-nepali-floods-looked-like-a-61e44c",
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "excerpt": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/3900eaa0-a318-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T21:17:54.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo#3",
+      "titleHi": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "excerptHi": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+      "archived": false
+    },
+    {
+      "id": "93927e74368484ebcada5cd1cae0cf9e69fc7f25",
+      "slug": "how-bad-is-americas-40-trillion-debt-93927e",
+      "title": "How Bad Is America’s $40 Trillion Debt?",
+      "excerpt": "U.S. debt recently crossed $40 trillion. On “The Ezra Klein Show,” the financial journalist Robin Wigglesworth explains how we got here — and whether the number is cause for concern.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:16:57.000Z",
+      "sourceUrl": "https://www.nytimes.com/video/opinion/100000011115448/how-bad-is-americas-40-trillion-debt.html",
+      "guid": "https://www.nytimes.com/video/opinion/100000011115448/how-bad-is-americas-40-trillion-debt.html",
+      "titleHi": "How Bad Is America’s $40 Trillion Debt?",
+      "excerptHi": "U.S. debt recently crossed $40 trillion. On “The Ezra Klein Show,” the financial journalist Robin Wigglesworth explains how we got here — and whether the number is cause for concern.",
+      "archived": false
+    },
+    {
+      "id": "04e378471b7c30b3f8a903154c2f1351b5d4607a",
+      "slug": "what-the-heck-is-happening-in-the-bond-market-04e378",
+      "title": "What the Heck Is Happening in the Bond Market?",
+      "excerpt": "The U.S. Treasury market has been acting a little strange lately. Robin Wigglesworth, a financial journalist at The Financial Times, helps break down the factors contributing to recent volatility.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T21:14:33.000Z",
+      "sourceUrl": "https://www.nytimes.com/video/opinion/100000011115446/what-the-heck-is-happening-in-the-bond-market.html",
+      "guid": "https://www.nytimes.com/video/opinion/100000011115446/what-the-heck-is-happening-in-the-bond-market.html",
+      "titleHi": "What the Heck Is Happening in the Bond Market?",
+      "excerptHi": "The U.S. Treasury market has been acting a little strange lately. Robin Wigglesworth, a financial journalist at The Financial Times, helps break down the factors contributing to recent volatility.",
+      "archived": false
+    },
     {
       "id": "f744361f8eff030f3eceec808ba6641f1e048cbd",
       "slug": "crystal-palace-1-4-manchester-city-premier-league-live-react-f74436",
@@ -41,6 +857,26 @@
       "guid": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o#0",
       "titleHi": "दक्षिणपंथी कमेंटेटर मिलो यियानोपोलोस को ICE ने हिरासत में लिया",
       "excerptHi": "अमेरिका में रहने और काम करने वाले ब्रिटिश नागरिक ने अतीत में ट्रम्प और आईसीई एजेंटों का समर्थन किया है।",
+      "archived": false
+    },
+    {
+      "id": "f3b1e03b3473a0c4ef56c16f6554a2cea7cdc1bc",
+      "slug": "cherki-genius-and-wharton-excels---palace-v-man-city-player-f3b1e0",
+      "title": "Cherki genius and Wharton excels -  Palace v Man City player ratings",
+      "excerpt": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/510c/live/ef1d9800-a319-11f1-8937-ebc435db1160.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T21:01:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo#0",
+      "titleHi": "Cherki genius and Wharton excels -  Palace v Man City player ratings",
+      "excerptHi": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
       "archived": false
     },
     {
@@ -335,6 +1171,26 @@
       "archived": false
     },
     {
+      "id": "5be3a3e9e2cafa9b6c49b1c9adfed93be9962e7d",
+      "slug": "us-plans-to-cut-off-military-aid-to-key-middle-east-ally-bbc-5be3a3",
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "excerpt": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6112/live/b72dfb80-a2f4-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T19:45:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo#1",
+      "titleHi": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "excerptHi": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "archived": false
+    },
+    {
       "id": "1dd516218cfbff992ac90e58963abb08fcd5777c",
       "slug": "norway-mourns-king-harald-as-haakon-viii-ascends-throne-1dd516",
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
@@ -414,7 +1270,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/28/carlos-alcaraz-believes-it-is-possible-to-win-us-open-despite-long-injury-layoff",
       "titleHi": "कार्लोस अल्कारज़ का मानना है कि लंबी चोट के बावजूद यूएस ओपन जीतना ’संभव’ है",
       "excerptHi": "23 वर्षीय ने अप्रैल के बाद से एकल में भाग नहीं लिया है डिफेंडिंग चैंपियन पहले दौर में रोमन सैफुलिन का सामना करता है कार्लोस अल्कारज़ का मानना है कि वह यूएस ओपन जीतने में सक्षम है क्योंकि वह पेशेवर टेनिस में वापसी कर रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3d1ac9422b9b0f7423e2ac26e3528c67369629cd",
@@ -434,7 +1290,7 @@
       "guid": "https://www.theguardian.com/sport/2026/aug/28/maybe-the-speed-guns-are-dodgy-jofra-archer-plays-down-fastest-spell-after-england-dominate",
       "titleHi": "इंग्लैंड के दबदबे के बाद जोफ्रा आर्चर ने सबसे तेज गेंदबाजी की",
       "excerptHi": "गेंदबाज का औसत 90.7 मील प्रति घंटे है और तीन विकेट लेता है ‘इस हमले के साथ आपको बहुत अधिक करने की ज़रूरत नहीं है’ जोफ्रा आर्चर ने पाकिस्तान की पहली पारी की शुरुआत में तेज गेंदबाजी का एक भयंकर स्पैल तैयार किया, जो नीचे चला जाएगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a9db31667aa1bbe8237777e8b67c3cff985a6386",
@@ -454,7 +1310,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cddv0564vy7o#5",
       "titleHi": "यूरो की निराशाओं पर स्कॉटिश क्लब कैसे प्रतिक्रिया देंगे?",
       "excerptHi": "इस सप्ताहांत के स्कॉटिश प्रीमियरशिप फिक्स्चर के पूरे कार्ड से पहले सबसे अच्छी स्टोरीलाइन पढ़ें।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9f2140eea224c0cc4d8207ea92e54d050412da7d",
@@ -474,7 +1330,7 @@
       "guid": "https://www.nytimes.com/2026/08/28/opinion/democrats-fighters-trump-republicans.html",
       "titleHi": "‘ट्रम्प मतदाता अंततः उन पर खेद करना शुरू कर रहे हैं’",
       "excerptHi": "डेमोक्रेट लड़ाके चाहते हैं। एक पूर्व रिपब्लिकन के पास विचार हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "db43c5f4620fbd093ce88b6f76b7983066bf3551",
@@ -494,7 +1350,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/28/police-arrest-seven-more-men-in-aftermath-of-deadly-a66-crash",
       "titleHi": "A66 दुर्घटना के बाद पुलिस ने सात और लोगों को गिरफ्तार किया",
       "excerptHi": "क्लीवलैंड पुलिस का कहना है कि दुर्घटना के बाद जांच में कुल 24 लोगों को गिरफ्तार किया गया था जिसमें दो अधिकारियों की मौत हो गई थी घातक घटना के बाद कथित संगठित अपराध से निपटने के एक ऑपरेशन के हिस्से के रूप में सात और लोगों को गिरफ्तार किया गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "831269d18b64236f7b72f17ade0ce622b93cf4b0",
@@ -514,7 +1370,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o#0",
       "titleHi": "जैक्सन विला में क्या लाएगा और वाटकिंस बाहर निकलने के लिए तैयार है?",
       "excerptHi": "बीबीसी स्पोर्ट ने इस बात का विश्लेषण किया है कि नए स्ट्राइकर निकोलस जैक्सन एस्टन विला में क्या योगदान देंगे, वहीं ओली वाटकिंस के अल-हिलाल में शामिल होने की संभावना है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "def53bcaf7b27e787e60ff6acafc015d7c882486",
@@ -534,7 +1390,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o#0",
       "titleHi": "ऑस्ट्रेलिया को परेशान करने के लिए इंग्लैंड कैसे हमला कर रहा है",
       "excerptHi": "इंग्लैंड के पूर्व कप्तान माइकल वॉन ने भविष्यवाणी की है कि इंग्लैंड की नई गति चौकड़ी ऑस्ट्रेलिया को परेशान करेगी - तो पाकिस्तान के खिलाफ उन्हें क्या प्रभावी बना रहा है?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d128a51ac3dc00629263ad7549f4d050807b10d3",
@@ -554,7 +1410,7 @@
       "guid": "https://www.nytimes.com/2026/08/28/opinion/ai-power-lobbying-military-britain-east-india-company.html",
       "titleHi": "इसे दुनिया की सबसे शक्तिशाली कंपनी को खत्म करने में क्या लगा",
       "excerptHi": "बिग टेक की बढ़ती शक्ति को रोकने के लिए एक प्लेबुक।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "eb0b65e366420ff3777693318835de2fded8dd09",
@@ -576,7 +1432,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o#0",
       "titleHi": "पश्चिमी अधिकारियों का कहना है कि रूस ने बयानबाजी तेज कर दी है लेकिन वह नाटो के साथ युद्ध से बचना चाहता है",
       "excerptHi": "लेकिन वे कहते हैं कि मॉस्को संभवतः नाटो के सदस्यों के खिलाफ अपनी \"हाइब्रिड गतिविधि\" जारी रखेगा, प्रत्यक्ष सैन्य कार्रवाई से कम।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "57468b673add5cb84c4e0f9f4ae9d43871380a50",
@@ -596,7 +1452,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cvgyw4zyyp2o#11",
       "titleHi": "रेंजर कप खेल के लिए सेल्टिक को 300 टिकट देंगे",
       "excerptHi": "रेंजर इस बात की पुष्टि करते हैं कि वे 13 सितंबर को इब्रॉक्स में होने वाले लीग कप क्वार्टर फ़ाइनल के लिए सेल्टिक को 300 टिकट देंगे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "54a944c09d388b4c7ff6a829755ffa7b0ac09b9e",
@@ -618,7 +1474,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/28/large-fire-near-wembley-stadium-disrupts-tube-and-rail-services",
       "titleHi": "वेम्बली स्टेडियम के पास लगी भीषण आग ने ट्यूब और रेल सेवाओं को बाधित कर दिया",
       "excerptHi": "लगभग 125 अग्निशामक नियस्डेन कचरे की सुविधा में आग से निपटते हैं क्योंकि पास के अमेज़ॅन गोदाम को खाली कर दिया गया है उत्तर - पश्चिम लंदन में वेम्बली स्टेडियम के पास एक कचरे की सुविधा में एक बड़ी आग लग गई है, जिससे ट्यूब बाधित हो गई है और...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "62e743e6202e74b6caad75b7617cb7dc0a5783bf",
@@ -638,7 +1494,7 @@
       "guid": "https://www.nytimes.com/2026/08/28/opinion/mexico-frida-kahlo-art.html",
       "titleHi": "यह किसी दूसरे नाम से लूट रहा है",
       "excerptHi": "हमारी सांस्कृतिक विरासत को कुछ हिस्सों के लिए बेचा जा रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9c3c488ceec7c3371a5f557ee430dbf6fcd0bad7",
@@ -658,7 +1514,7 @@
       "guid": "https://www.nytimes.com/video/opinion/100000011117306/the-frontier-of-algorithmic-fashion.html",
       "titleHi": "‘द फ्रंटियर ऑफ़ एल्गोरिदमिक फ़ैशन’",
       "excerptHi": "निजी इक्विटी और बिग टेक ने फैशन की दुनिया में घुसपैठ की है। यह कैसे हुआ, और उपभोक्ता अधिक जानबूझकर खरीदारी कैसे कर सकते हैं?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d9e905598650ef6dfae11b43330a4c1690732c58",
@@ -678,7 +1534,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/28/yosemite-national-park-private-developer",
       "titleHi": "ट्रम्प प्रशासन योसेमाइट भूमि के पार्सल को निजी डेवलपर को सौंपने पर जोर दे रहा है – रिपोर्ट",
       "excerptHi": "नेवादा स्थित किंग्सबार्न रियल्टी कैपिटल पार्क के बाहर विकास के लिए निजी सड़क बनाने के लिए भूमि का अधिग्रहण करना चाहता है ट्रम्प प्रशासन कथित तौर पर देश के योसेमाइट के अंदर भूमि का एक पार्सल देने के लिए जोर दे रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5d244502b733bf5baa5bbc303ce84f03dcd27260",
@@ -698,7 +1554,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo#6",
       "titleHi": "सेल्टिक और रेंजर प्रशंसक विकार के बाद बंद दरवाजों के पीछे स्कॉटिश कप संबंध खेलेंगे",
       "excerptHi": "सेल्टिक और रेंजर्स को पिछले सीज़न में प्रशंसक विकार के बाद बंद दरवाजों के पीछे अपना अगला घर स्कॉटिश कप संबंध खेलने का आदेश दिया गया है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d52e56300b8acb9e3bebd8313c37720ad39730f4",
@@ -720,7 +1576,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/28/nepal-flood-missing-americans",
       "titleHi": "नेपाल की बाढ़ में कम से कम 90 अमेरिकी लापता हैं, जिनमें से 2,000 बेहिसाब हैं",
       "excerptHi": "आधिकारिक तौर पर मरने वालों की संख्या 600 के करीब पहुंच गई है, कई लापता अमेरिकियों ने एक पवित्र स्थल की तीर्थयात्रा की है शुक्रवार को लगभग 2,000 लोगों के बीच कम से कम 90 अमेरिकी अभी भी लापता थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "28f6cfa5e054e31a9afd649d257857d0c60e3da9",
@@ -742,7 +1598,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods",
       "titleHi": "‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return",
       "excerptHi": "Relatives ‘really worried, but hopeful’ as they wait anxiously for news in the aftermath of the flash flooding disaster Follow our Australia news live blog for latest updates Get our breaking news email, free app or…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1483a5741d40d7073aa107d7c449c9f45b76ce44",
@@ -762,7 +1618,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o#1",
       "titleHi": "England enjoy dominant day at Lord's to close in on series win",
       "excerptHi": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9ebff40e44b6fffc8eae65754f2ffb64133538e6",
@@ -782,7 +1638,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/28/warwickshire-v-nottinghamshire-essex-v-surrey-and-more-county-cricket-day-three-live",
       "titleHi": "County cricket day two: Hill and Cliff lift Yorkshire, Elgar digs in for Essex – as it happened",
       "excerptHi": "George Hill and Ben Cliff brought fireworks to Scarborough while Dean Elgar’s four-hour stand turned up the heat on Surrey There is play at last at the big beast bash at Edgbaston, but it isn’t going so well for Notts,…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "885bbdc8df7d2f04dcc5ad8f7107ba827eeda20b",
@@ -802,7 +1658,7 @@
       "guid": "https://www.theguardian.com/sport/live/2026/aug/28/england-v-pakistan-second-mens-cricket-test-day-two-live",
       "titleHi": "England v Pakistan: second men’s cricket Test, day two – as it happened",
       "excerptHi": "Ollie Robinson took 4-11 and Jofra Archer bowled ferociously as England dominated Pakistan’s batters and opened a 261-lead at Lord’s 62nd over: England 266-9 (Atkinson 38, Tongue 14) Scrap that: Atkinson takes a leg-bye…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b9b965bf0a9193caebba31a84aafc7415ba55c0a",
@@ -822,7 +1678,7 @@
       "guid": "https://www.theguardian.com/football/live/2026/aug/28/transfer-latest-premier-league-news-european-draws-and-more-football-live",
       "titleHi": "Emery and Watkins ‘shed tears’ saying goodbye; transfer latest; Celtic and Rangers punished: football – as it happened",
       "excerptHi": "All the latest press conference news, transfer latest and buildup to the weekend’s fixtures Premier League things to look out for Brighton women’s manager Dario Vidosic said of his time at the club: I have loved my time…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8ced14e82da763a7ea737d0453d1764b1d295f8d",
@@ -842,7 +1698,7 @@
       "guid": "https://www.nytimes.com/2026/08/28/opinion/trump-mail-voting.html",
       "titleHi": "The Battle Over Mail-In Voting",
       "excerptHi": "Readers react to the Supreme Court ruling on the president’s move to restrict mail-in ballots. Also: How to deal with more data centers.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "40ee2766f48992cb0f058112f544813da574ed05",
@@ -864,7 +1720,27 @@
       "guid": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo#0",
       "titleHi": "More British athletes convicted in connection with Baptiste case",
       "excerptHi": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "5cfe95ab7bcca69580c3db3083d2cb5213b512f1",
+      "slug": "wife-of-man-who-died-after-turbulence-sues-airline-5cfe95",
+      "title": "Wife of man who died after turbulence sues airline",
+      "excerpt": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fd5/live/2730a430-a301-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T17:47:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo#0",
+      "titleHi": "Wife of man who died after turbulence sues airline",
+      "excerptHi": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "archived": true
     },
     {
       "id": "5807455716b9612424954eacc93ba81fdd3b6554",
@@ -886,7 +1762,7 @@
       "guid": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals",
       "titleHi": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
       "excerptHi": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a945b423928c77bacaf727b515e93786595c0d09",
@@ -908,7 +1784,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
       "titleHi": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
       "excerptHi": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ad3df32b079ac8e5cdd93f2c84a4c2fd37a878fc",
@@ -928,7 +1804,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo#1",
       "titleHi": "Gatwick Airport faced water outage after main burst",
       "excerptHi": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5654be3a506b7d11faca4954ec1858cfca85ff36",
@@ -948,7 +1824,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cd68vpjv21do#2",
       "titleHi": "Satellite images reveal scale of flood devastation in Nepal villages",
       "excerptHi": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5a59f270138ce19d90f917fe2c926e52e1ef0071",
@@ -968,7 +1844,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o#2",
       "titleHi": "Mayer and Cameron butt heads at final face-off",
       "excerptHi": "Mikaela Mayer and Chantelle Cameron butt heads in their final face-off before Saturday's light-middleweight unification bout in Birmingham.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "aa0ad534bed5d8422d447e0430f93c682f8e3cfb",
@@ -990,7 +1866,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro#0",
       "titleHi": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
       "excerptHi": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3c8108f9253027e857d6152be9529fa256fef65c",
@@ -1012,7 +1888,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/28/drumcree-dispute-court-ruling-garvaghy-road-marching-season",
       "titleHi": "Drumcree ruling raises fears of sectarian confrontation in Northern Ireland",
       "excerptHi": "High court quashes latest restriction on Orange Order march, reigniting political row over Garvaghy Road The boiling cauldron known as Drumcree that used to scald and torment Northern Ireland each summer gradually…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "df39c14dffd6c84e928c5a372cd398ec1effcefe",
@@ -1032,7 +1908,7 @@
       "guid": "http://www.euronews.com/video/2026/08/28/fans-welcome-celine-dion-outside-her-paris-hotel-as-she-prepares-to-launch-a-16show-arena-",
       "titleHi": "Fans welcome Céline Dion outside her Paris hotel as she prepares to launch a 16‑show arena residency",
       "excerptHi": "Fans welcome Céline Dion outside her Paris hotel as she prepares to launch a 16‑show arena residency, her first major concert run since revealing her stiff‑person syndrome diagnosis.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c53c8e2de9067646dc63367c164a7289ee1f24dd",
@@ -1052,7 +1928,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/28/prremier-league-news-sunderland-newcastle-manchester-united-everton",
       "titleHi": "Premier League news: ‘Mackems in Milan’ as Le Bris revels in Sunderland’s rise",
       "excerptHi": "Sunderland will visit San Siro in Europa League while Carlos Baleba must wait for his Manchester United debut Continue reading...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "69ad754709220c9fe3fe468a9f2e13899b953eb6",
@@ -1072,7 +1948,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
       "titleHi": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
       "excerptHi": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty level Russia is losing about 6,000 more troops in Ukraine each month than it can recruit, western officials have…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "08cd8f8ed86b7f74cd5551bc3c69eeac2ca67a4b",
@@ -1094,7 +1970,7 @@
       "guid": "https://www.bbc.co.uk/sport/boxing/articles/cly4v9qg7l4o#1",
       "titleHi": "Hrgovic slaps Itauma after being pushed off stage at weigh-in",
       "excerptHi": "British heavyweight Moses Itauma pushes Filip Hrgovic off the stage before the Croat slaps him as chaos erupts at the weigh-in for Saturday's world-title bout.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "93fcc6773aaf9c86f1696aaef1cd1f311d89284d",
@@ -1116,7 +1992,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c1dlp27gre5o#0",
       "titleHi": "Burnham says he will not vote on assisted dying unlike Starmer",
       "excerptHi": "Burnham has called for all views to be respected as MPs vote in two weeks on legalising assisted dying in England and Wales.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2a7bf1eedf570b03eff0d0f617d641fcbc433330",
@@ -1138,7 +2014,7 @@
       "guid": "https://www.bbc.co.uk/sport/cycling/articles/c5yex9n6l33o#2",
       "titleHi": "Leknessund seals first Grand Tour stage win",
       "excerptHi": "Norway's Andreas Leknessund takes an emotional first Grand Tour stage win as he climbs to victory on stage seven of the Vuelta a Espana.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "eb70385fa494af7e5d0e221daea0e21e6ec777e4",
@@ -1158,7 +2034,7 @@
       "guid": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
       "titleHi": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
       "excerptHi": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7fdd6e8890a924fa0e2776908fdccd82798b90bd",
@@ -1180,7 +2056,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/crl6n1gx8nxo#6",
       "titleHi": "Netherlands beat Scotland by 58 runs in first ODI",
       "excerptHi": "The Netherlands comfortably beat a youthful Scotland side to take the lead in a three-match ODI series.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f3abbe2011817602143d3615a2e2f4b574c27f61",
@@ -1202,7 +2078,7 @@
       "guid": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
       "titleHi": "New heart attack definition promises better care for women",
       "excerptHi": "Leading cardiovascular health groups reclassify overlooked causes and introduce sex-specific diagnostic thresholds Doctors have agreed the world’s first universal definition of a heart attack, paving the way for…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "715e0e3958a501b2dc67b4721a0be27445209980",
@@ -1222,7 +2098,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football",
       "titleHi": "Cartoon alpaca Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
       "excerptHi": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there This week Central Cee launched his new Premier League song, called The Team.…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3a30c00ca04766c02e2174fdab2e4573fcc14e14",
@@ -1244,7 +2120,7 @@
       "guid": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
       "titleHi": "London Science Museum cuts links with BP after decades of partnership",
       "excerptHi": "Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firm The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "86a0e3976bbe06195d0885e3488c8d565b439f97",
@@ -2247,6 +3123,26 @@
       "archived": true
     },
     {
+      "id": "f7bb8ce752846fea9f00a480fac39169a4feb365",
+      "slug": "this-us-city-only-has-one-supermarket-for-45000-people-new-l-f7bb8c",
+      "title": "This US city only has one supermarket for 45,000 people. New legislation seeks to fix that",
+      "excerpt": "Big grocery can use anti-competitive clauses to block other stores from entering a market. Rhode Island is the second state to ban that practice Jeannine Johansen remembers the halcyon days of Woonsocket, Rhode Island,…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Lela Nargi",
+      "image": "https://i.guim.co.uk/img/media/30a80cdfb7288cfab1f71413c226ed4c4e82bb84/647_0_6437_5153/master/6437.jpg?width=140&quality=85&auto=format&fit=max&s=ec9d14f77129b1f295ce1f4a8caf8db8",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T15:00:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants",
+      "guid": "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants",
+      "titleHi": "This US city only has one supermarket for 45,000 people. New legislation seeks to fix that",
+      "excerptHi": "Big grocery can use anti-competitive clauses to block other stores from entering a market. Rhode Island is the second state to ban that practice Jeannine Johansen remembers the halcyon days of Woonsocket, Rhode Island,…",
+      "archived": true
+    },
+    {
       "id": "1e1dd42170620da39fe07dba0914ff4e3fe8ef18",
       "slug": "charles-perrottet-becomes-icacs-main-character-amid-claims-o-1e1dd4",
       "title": "Charles Perrottet becomes Icac’s main character amid claims of hidden payments and political hit jobs",
@@ -2555,6 +3451,26 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c783dexjv74o#9",
       "titleHi": "Trabzonspor reject manager's 'emotional' resignation",
       "excerptHi": "Trabzonspor say Fatih Tekke's decision stems from the \"intense emotional impact\" of the Europa League exit.",
+      "archived": true
+    },
+    {
+      "id": "4c797936c55de0952a2ad5825b0baae7da9d5276",
+      "slug": "who-was-given-the-toughest-fixtures-in-the-champions-league-4c7979",
+      "title": "Who was given the toughest fixtures in the Champions League draw?",
+      "excerpt": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so good By Opta Analyst The 36 clubs in the Champions League know who they will play in the league phase, but which team has…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Oliver Hopkins and Ali Tweedale",
+      "image": "https://i.guim.co.uk/img/media/6455755a8c53396653f10a3c4451c4935f7a2dd4/500_0_4773_3819/master/4773.jpg?width=140&quality=85&auto=format&fit=max&s=fbf8670224279d518bddcf91008ebc20",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T14:00:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
+      "guid": "https://www.theguardian.com/football/2026/aug/28/champions-league-draw-liverpool-arsenal-manchester-city-aston-villa",
+      "titleHi": "Who was given the toughest fixtures in the Champions League draw?",
+      "excerptHi": "The draw was kind to Liverpool and Arsenal, but Manchester City and Aston Villa do not have it so good By Opta Analyst The 36 clubs in the Champions League know who they will play in the league phase, but which team has…",
       "archived": true
     },
     {
@@ -4260,6 +5176,26 @@
       "archived": true
     },
     {
+      "id": "7d3e73690a554883b24e56b7c1e04b6532561dec",
+      "slug": "efl-weekend-preview-managers-under-pressure-already-7d3e73",
+      "title": "EFL weekend preview: Managers under pressure already",
+      "excerpt": "BBC Sport picks out five highlights to keep an eye on in Saturday's busy EFL programme.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9494/live/9691caf0-a187-11f1-aed2-8d6da8d75094.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-28T07:37:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zlg01q7go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zlg01q7go#6",
+      "titleHi": "EFL weekend preview: Managers under pressure already",
+      "excerptHi": "BBC Sport picks out five highlights to keep an eye on in Saturday's busy EFL programme.",
+      "archived": true
+    },
+    {
       "id": "29e10d81c8327eba676542bd7ba8a1eacf54ead9",
       "slug": "the-whisper-man-review-robert-de-niro-sleepwalks-through-sil-29e10d",
       "title": "The Whisper Man review – Robert De Niro sleepwalks through silly Netflix potboiler",
@@ -4818,6 +5754,28 @@
       "archived": true
     },
     {
+      "id": "abd8e6afd9c1153f77d6f4cd1f5025f86929a4b3",
+      "slug": "bondi-library-returns-book-how-to-sell-a-genocide-to-shelves-abd8e6",
+      "title": "Bondi library returns book How to Sell a Genocide to shelves after State Library ‘outlines the law’",
+      "excerpt": "Book was removed for review earlier this month following complaint but reinstated after petition and State Library letter to Waverley council Follow our Australia news live blog for latest updates Get our breaking news…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Jordyn Beazley",
+      "image": "https://i.guim.co.uk/img/media/c207389352417dbd080435a8a6d59bd2ed4bb816/156_0_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=006851b6f455d7ddff6a14b0e75f9d7b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-28T04:25:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/28/sydney-library-returns-book-how-to-sell-a-genocide-to-shelves-after-state-library-intervenes-ntwnfb",
+      "titleHi": "Bondi library returns book How to Sell a Genocide to shelves after State Library ‘outlines the law’",
+      "excerptHi": "Book was removed for review earlier this month following complaint but reinstated after petition and State Library letter to Waverley council Follow our Australia news live blog for latest updates Get our breaking news…",
+      "archived": true
+    },
+    {
       "id": "213ed0518674684bd00382fe92584e97d063a425",
       "slug": "an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vo-213ed0",
       "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
@@ -5085,6 +6043,26 @@
       "guid": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o#0",
       "titleHi": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
       "excerptHi": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
+      "archived": true
+    },
+    {
+      "id": "eb50c25c1a4dce51b80cf46fa85d87d71805c2d6",
+      "slug": "the-interview-eb50c2",
+      "title": "The Interview",
+      "excerpt": "Kristina Wilfore on how a ‘Male Grievance Industry’ is defrauding men on social media",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6n9v2.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-27T23:30:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct98kl?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sounds/play/w3ct98kl#5",
+      "titleHi": "The Interview",
+      "excerptHi": "Kristina Wilfore on how a ‘Male Grievance Industry’ is defrauding men on social media",
       "archived": true
     },
     {
@@ -76899,27 +77877,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
       "titleHi": "Cash-strapped Thames Water poses big test for Burnham",
       "excerptHi": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
-      "archived": true
-    },
-    {
-      "id": "10c1abe297460847385d779b9e50bcfd70d4988e",
-      "slug": "after-record-heat-could-the-atlantic-make-britains-weather-e-10c1ab",
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "excerpt": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
-      "category": "Science",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC",
-      "author": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7318/live/b9b1f540-802c-11f1-926f-c90d1bcfbc84.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-07-14T23:08:13.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "excerptHi": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
       "archived": true
     }
   ]
