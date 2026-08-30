@@ -1,8 +1,521 @@
 {
-  "generatedAt": "2026-08-30T17:55:42.099Z",
+  "generatedAt": "2026-08-30T20:36:44.993Z",
   "retentionDays": 45,
-  "total": 4144,
+  "total": 4172,
   "items": [
+    {
+      "id": "af484d73914406db9a919cd4129614b2a9090e7d",
+      "slug": "michael-carrick-hails-manchester-uniteds-grit-after-rout-of-af484d",
+      "title": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
+      "excerpt": "Fernandes fires hat-trick as United enjoy home win ‘The way they bounced back, that’s the biggest thing’ A delighted Michael Carrick praised how Manchester United bounced back from the opening-weekend defeat at Hull…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jamie Jackson at Old Trafford",
+      "image": "https://i.guim.co.uk/img/media/92bb9e613196f8d94c63c5dbcdb58580262a4a7b/266_0_2657_2125/master/2657.jpg?width=140&quality=85&auto=format&fit=max&s=6c6e5a59902ec2dd67527d3c58e9f142",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:25:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+      "titleHi": "इप्सविच से हार के बाद माइकल कैरिक ने मैनचेस्टर यूनाइटेड के धैर्य की सराहना की",
+      "excerptHi": "फर्नांडीस ने हैट - ट्रिक चलाई क्योंकि यूनाइटेड ने घरेलू जीत का आनंद लिया ‘जिस तरह से उन्होंने वापसी की, वह सबसे बड़ी बात है’ एक खुश माइकल कैरिक ने प्रशंसा की कि मैनचेस्टर यूनाइटेड ने हल में शुरुआती सप्ताहांत की हार से कैसे वापसी की...",
+      "archived": false
+    },
+    {
+      "id": "7e3b4baa15e672c2634db62ee39a2239ad69ba46",
+      "slug": "australian-boxing-great-tony-mundine-dies-aged-75-7e3b4b",
+      "title": "Australian boxing great Tony Mundine dies aged 75",
+      "excerpt": "Father of former boxer and NRL star Anthony Mundine succumbed to a heart attack on Sunday Warning: Aboriginal and Torres Strait Islander readers are advised that this article contains images and names of Indigenous…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/c612e9d77aa19923dfe01ea5757ef27b1ff9f7de/571_344_2403_1923/master/2403.jpg?width=140&quality=85&auto=format&fit=max&s=3b7b5ab458032bf2b436f5d8654d2216",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:25:15.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
+      "guid": "https://www.theguardian.com/sport/2026/aug/31/australian-boxing-great-tony-mundine-dies-aged-75-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया के महान मुक्केबाज टोनी मुंडाइन का 75 साल की उम्र में निधन",
+      "excerptHi": "पूर्व मुक्केबाज और एनआरएल स्टार एंथनी मुंडाइन के पिता की रविवार को दिल का दौरा पड़ने से मौत हो गई चेतावनी: आदिवासी और टोरेस स्ट्रेट आइलैंडर पाठकों को सलाह दी जाती है कि इस लेख में स्वदेशी की छवियां और नाम शामिल हैं...",
+      "archived": false
+    },
+    {
+      "id": "d08be82b1f29650000c98153730c89c2f3cd5a01",
+      "slug": "joe-root-urges-england-to-celebrate-pakistan-series-win-in-s-d08be8",
+      "title": "Joe Root urges England to celebrate Pakistan series win in ‘sensible, grown-up way’",
+      "excerpt": "Team have faced off-field scandals over the last year Root: ‘It’s hard to win Test series so enjoy it’ Joe Root has called on his players to “celebrate in a sensible, grown‑up way” after they secured a first multi‑game…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Simon Burnton at Lord's",
+      "image": "https://i.guim.co.uk/img/media/c21e7ba0af960d0c346b2ed809557095de6ea1b4/1004_466_3641_2912/master/3641.jpg?width=140&quality=85&auto=format&fit=max&s=720184a97302aacb0fc2b1177b21cb64",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:05:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series",
+      "guid": "https://www.theguardian.com/sport/2026/aug/30/joe-root-england-pakistan-lords-test-series",
+      "titleHi": "जो रूट ने इंग्लैंड से पाकिस्तान श्रृंखला की जीत का ‘समझदार, वयस्क तरीके से‘ जश्न मनाने का आग्रह किया",
+      "excerptHi": "टीम को पिछले एक साल में मैदान के बाहर के घोटालों का सामना करना पड़ा है: ‘टेस्ट श्रृंखला जीतना मुश्किल है इसलिए इसका आनंद लें’ जो रूट ने अपने खिलाड़ियों से पहला मल्टी-गेम हासिल करने के बाद \"समझदार, वयस्क तरीके से जश्न मनाने\" का आह्वान किया है...",
+      "archived": false
+    },
+    {
+      "id": "40427bb9294ee7146e0ca87692961fe0c50caeed",
+      "slug": "a-new-man-utd-era---but-fernandes-still-sets-the-standard-40427b",
+      "title": "A new Man Utd era - but Fernandes still sets the standard",
+      "excerpt": "For all the new signings, it is still captain Bruno Fernandes who sets the standard at Manchester United, writes Simon Stone.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f3a/live/69c52ee0-a4a7-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:04:26.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cpwl248p5vgo#0",
+      "titleHi": "एक नया मैन यूटीडी युग - लेकिन फर्नांडीस अभी भी मानक निर्धारित करता है",
+      "excerptHi": "साइमन स्टोन लिखते हैं, सभी नए हस्ताक्षरों के लिए, यह अभी भी कप्तान ब्रूनो फर्नांडिस हैं जो मैनचेस्टर यूनाइटेड में मानक निर्धारित करते हैं।",
+      "archived": false
+    },
+    {
+      "id": "80226a3cb4a833b4499f14d317b75a6cd5a42b1b",
+      "slug": "eight-killed-and-others-missing-after-ferry-capsizes-off-nor-80226a",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "excerpt": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:02:43.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
+      "titleHi": "उत्तरी साइप्रस के पास नौका पलटने से आठ लोगों की मौत हो गई और अन्य लापता हैं",
+      "excerptHi": "बंदरगाह छोड़ने के बाद लगभग 270 लोगों को ले जाने वाली एक नौका के पलटने के बाद एक खोज और बचाव अभियान चल रहा है।",
+      "archived": false
+    },
+    {
+      "id": "bf42cd42ac1a5ec0361b743b3d95a35dd474454e",
+      "slug": "it-doesnt-feel-like-a-goal---oneil-questions-law-after-blata-bf42cd",
+      "title": "'It doesn't feel like a goal' - O'Neil questions law after 'blatant' Maguire handball",
+      "excerpt": "Ipswich Town manager Gary O'Neil questions the handball rule after a loophole allowed Harry Maguire's handling offence to stand as a Jacob Greaves own goal.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e2/live/7e31e660-a4a3-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:01:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cwyzxz0yvz0o#6",
+      "titleHi": "'यह एक लक्ष्य की तरह महसूस नहीं करता है' - ओ'नील ने 'स्पष्ट' मैगुइर हैंडबॉल के बाद कानून पर सवाल उठाया",
+      "excerptHi": "इप्सविच टाउन के मैनेजर गैरी ओ'नील हैंडबॉल नियम पर सवाल उठाते हैं क्योंकि एक खामी ने हैरी मैगुइरे के हैंडलिंग अपराध को जैकब ग्रीव्स के अपने लक्ष्य के रूप में खड़ा होने की अनुमति दी।",
+      "archived": false
+    },
+    {
+      "id": "8bbb946d46fbdefebb34298f89e0e2582faa8a14",
+      "slug": "14000-runs-for-a-reason---root-calm-on-form-8bbb94",
+      "title": "'14,000 runs for a reason' - Root calm on form",
+      "excerpt": "England captain Joe Root is \"not too concerned\" about his recent modest returns with the bat, saying he has \"14,000 runs for a reason\".",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd5/live/c365d300-a4a7-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:53:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c2l8d45yen7o#0",
+      "titleHi": "'एक कारण के लिए 14,000 रन' - फॉर्म पर रूट शांत",
+      "excerptHi": "इंग्लैंड के कप्तान जो रूट बल्ले से अपनी हालिया मामूली वापसी के बारे में \"बहुत चिंतित नहीं\" हैं, उनका कहना है कि उनके पास \"किसी कारण से 14,000 रन हैं\"।",
+      "archived": false
+    },
+    {
+      "id": "f51e814de59a9bd0e0cad205d0232fe91ae22b11",
+      "slug": "marcus-rashfords-manchester-united-return-feels-like-a-marri-f51e81",
+      "title": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
+      "excerpt": "A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work The first chant of the match was for Marcus Rashford, Manchester United’s returning rogue son, the one…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Will Unwin at Old Trafford",
+      "image": "https://i.guim.co.uk/img/media/e58b1e9f48e081de436e32c65d62e943e8cfcc32/202_0_4100_3281/master/4100.jpg?width=140&quality=85&auto=format&fit=max&s=d30779103dd9699a0e79a2209a1b4712",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:45:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+      "titleHi": "मार्कस रैशफोर्ड की मैनचेस्टर यूनाइटेड वापसी सुविधा की शादी की तरह महसूस करती है | विल अनविन",
+      "excerptHi": "प्रस्तावों की कमी और प्रतिस्थापन खोजने में समस्याएं इस कदम के पीछे हो सकती हैं, लेकिन इसका मतलब यह नहीं है कि यह काम नहीं कर सकता मैच का पहला मंत्र मैनचेस्टर यूनाइटेड के लौटने वाले दुष्ट बेटे मार्कस राशफोर्ड के लिए था, जो एक…",
+      "archived": false
+    },
+    {
+      "id": "042f527f803cffe40d6393618990aba0c1d88b75",
+      "slug": "carrick-really-pleased-as-fernandes-hat-trick-sparks-man-utd-042f52",
+      "title": "Carrick 'really pleased' as Fernandes hat-trick sparks Man Utd comeback",
+      "excerpt": "Manchester United manager Michael Carrick is \"really pleased\" with his team as Bruno Fernandes' hat-trick inspires a 5-2 comeback win over Ipswich Town, following last weekend's opening-day defeat.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5283/live/76553970-a4a2-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:41:31.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c05rprn1ld1o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c05rprn1ld1o#6",
+      "titleHi": "फर्नांडीस की हैट्रिक से मैन यूटीडी की वापसी, कैरिक 'वास्तव में खुश'",
+      "excerptHi": "मैनचेस्टर यूनाइटेड के प्रबंधक माइकल कैरिक अपनी टीम से \"वास्तव में खुश\" हैं क्योंकि ब्रूनो फर्नांडीस की हैट्रिक ने पिछले सप्ताहांत की शुरुआती दिन की हार के बाद इप्सविच टाउन पर 5 -2 से जीत दर्ज की।",
+      "archived": false
+    },
+    {
+      "id": "8ab9224bfbf78fdbe191ade4808dda4535437f12",
+      "slug": "trump-border-czar-denies-milo-yiannopoulos-was-deported-quic-8ab922",
+      "title": "Trump ‘border czar’ denies Milo Yiannopoulos was deported quickly to spare him from ICE detention",
+      "excerpt": "Tom Homan denies British far-right commentator, who was deported one day after arrest, got preferential treatment The White House “border czar,” Tom Homan, denied on Sunday that deporting British far-right commentator…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Edward Helmore",
+      "image": "https://i.guim.co.uk/img/media/698ce8e4ef2bd9a7f2a2a6c331b8d40eb40b231c/917_0_4555_3648/master/4555.jpg?width=140&quality=85&auto=format&fit=max&s=a331ad8a594ca9838052019f88361053",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:36:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/30/trump-border-czar-tom-homan-milo-yiannopoulos-arrest-deportation",
+      "titleHi": "ट्रम्प ‘बॉर्डर जार’ ने इस बात से इनकार किया कि मिलो यियानोपोलोस को बर्फ की नजरबंदी से बचाने के लिए जल्दी से निर्वासित कर दिया गया था",
+      "excerptHi": "टॉम होमन ने ब्रिटिश दूर - दराज़ टिप्पणीकार से इनकार किया, जिसे गिरफ्तारी के एक दिन बाद निर्वासित कर दिया गया था, को अधिमान्य उपचार मिला व्हाइट हाउस \"सीमा ज़ार ,\" टॉम होमन ने रविवार को इस बात से इनकार किया कि ब्रिटिश दूर - दराज़ टिप्पणीकार को निर्वासित करना...",
+      "archived": false
+    },
+    {
+      "id": "ebb663f45b4ec2f43118c3575568691ca9efd3b3",
+      "slug": "lola-young-surprises-reading-festival-with-final-day-set-ebb663",
+      "title": "Lola Young surprises Reading Festival with final day set",
+      "excerpt": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fc2/live/5d0d2160-a495-11f1-8395-fb1eae51ae18.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-30T19:36:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c6247yv8564o#0",
+      "titleHi": "लोला यंग ने अंतिम दिन सेट के साथ रीडिंग फेस्टिवल को सरप्राइज़ किया",
+      "excerptHi": "गायक \"खुद पर काम करने\" के लिए पिछले साल ब्रेक लेने के बाद धीरे - धीरे प्रदर्शन में लौट रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "c32ec99f71a27b6592ea0e0a1495cf9f8d1f87f5",
+      "slug": "kicker-smyth-waived-by-new-orleans-saints-c32ec9",
+      "title": "Kicker Smyth waived by New Orleans Saints",
+      "excerpt": "Kicker Charlie Smyth has been waived by the New Orleans Saints ahead of the new NFL season after losing a kicking competition with Dan Carlson.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fce/live/46ab76b0-a4a4-11f1-837c-8514728b4183.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:23:01.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cx2znedg4j2o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/american-football/articles/cx2znedg4j2o#5",
+      "titleHi": "न्यू ऑरलियन्स सेंट्स द्वारा माफ किया गया किकर स्मिथ",
+      "excerptHi": "डैन कार्लसन के साथ किकिंग प्रतियोगिता हारने के बाद किकर चार्ली स्मिथ को न्यू ऑरलियन्स सेंट्स ने नए एनएफएल सीज़न से पहले माफ कर दिया है।",
+      "archived": false
+    },
+    {
+      "id": "cef5b39be4eb252fdad0bf36f4d0bf1450343b93",
+      "slug": "enormous-12tb-steam-leak-includes-abandoned-half-life-2-epis-cef5b3",
+      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+      "excerpt": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24078658/STK139_Stream_Kradtke_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:14:08.000Z",
+      "sourceUrl": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "guid": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+      "titleHi": "भारी 12TB स्टीम लीक में परित्यक्त हाफ - लाइफ 2: एपिसोड 3 एसेट्स शामिल हैं",
+      "excerptHi": "2003 और 2013 के बीच स्टीम पर अपलोड किए गए प्रत्येक गेम के बिल्ड्स वाले 12 से अधिक टेराबाइट डेटा लीक हो गए हैं। हम अभी तक अभिलेखागार में सब कुछ नहीं जानते हैं क्योंकि इसके विशाल आकार के कारण। लेकिन लोग पहले ही खोद चुके हैं...",
+      "archived": false
+    },
+    {
+      "id": "9979677fd0c3dd68f070349862c98de830c4f605",
+      "slug": "fernandes-hat-trick-inspires-five-goal-man-utd-comeback-agai-997967",
+      "title": "Fernandes hat-trick inspires five-goal Man Utd comeback against Ipswich",
+      "excerpt": "Bruno Fernandes scores a hat-trick as Manchester United overcome an early scare to beat Ipswich Town 5-2 at Old Trafford.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ddb/live/e3eae550-a4a4-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:08:36.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cy0z9e5g209o#1",
+      "titleHi": "फर्नांडीस की हैट्रिक ने पांच गोल मैन यूटीडी को इप्सविच के खिलाफ वापसी के लिए प्रेरित किया",
+      "excerptHi": "ब्रूनो फर्नांडिस की हैट्रिक की बदौलत मैनचेस्टर यूनाइटेड ने ओल्ड ट्रैफर्ड में इप्सविच टाउन को 5 -2 से हराया।",
+      "archived": false
+    },
+    {
+      "id": "ecd1c7e8dd61106741ec4fe135d2f2cda98d9879",
+      "slug": "calvert-lewin-rescues-point-for-leeds-against-brentford-ecd1c7",
+      "title": "Calvert-Lewin rescues point for Leeds against Brentford",
+      "excerpt": "Dominic Calvert-Lewin scores his first goal of the season as Leeds battle back and earn a 1-1 draw against Brentford.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc5/live/0d060db0-a49c-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:00:28.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cn0jx60ekk0o#1",
+      "titleHi": "कैल्वर्ट - लेविन ने ब्रेंटफोर्ड के खिलाफ लीड्स के लिए पॉइंट बचाया",
+      "excerptHi": "डोमिनिक कैल्वर्ट - लेविन ने सीज़न का अपना पहला गोल किया क्योंकि लीड्स ने वापसी की और ब्रेंटफोर्ड के खिलाफ 1 -1 से ड्रॉ अर्जित किया।",
+      "archived": false
+    },
+    {
+      "id": "2ba6ac9346504707b161862d0aef3128ea54cae6",
+      "slug": "substitute-isidor-strike-hands-sunderland-first-win-of-seaso-2ba6ac",
+      "title": "Substitute Isidor strike hands Sunderland first win of season",
+      "excerpt": "Substitute Wilson Isidor strikes in the 75th minute to secure a hard-fought 1-0 victory for Sunderland over Fulham at the Stadium of Light.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/38a4f690-a49a-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:00:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cy9zq3zx7veo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cy9zq3zx7veo#1",
+      "titleHi": "सबस्टिट्यूट इसिडोर स्ट्राइक हैंड्स सुंदरलैंड सीज़न की पहली जीत",
+      "excerptHi": "स्थानापन्न विल्सन इसिडोर ने 75वें मिनट में गोल करके लाइट स्टेडियम में सुंदरलैंड को फुलहम पर 1 -0 से जीत दिलाई।",
+      "archived": false
+    },
+    {
+      "id": "46ff87345a49136ca8f0b3f75c0e00376cab1688",
+      "slug": "chelsea-maintain-perfect-start-in-seven-goal-brighton-thrill-46ff87",
+      "title": "Chelsea maintain perfect start in seven-goal Brighton thriller",
+      "excerpt": "Chelsea maintained their perfect start to the season under Xabi Alonso, holding off a Brighton fightback to win a seven-goal encounter 4-3 at Stamford Bridge.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cd0/live/03f6ccd0-a49e-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T19:00:20.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c7v4e23z7gvo#1",
+      "titleHi": "चेल्सी ने सात गोल ब्राइटन थ्रिलर में शानदार शुरुआत बरकरार रखी",
+      "excerptHi": "चेल्सी ने ज़ाबी अलोंसो की अगुवाई में सीज़न की अपनी शानदार शुरुआत बरकरार रखी और स्टैमफोर्ड ब्रिज में ब्राइटन के फाइटबैक मैच को 7 गोल से 4 -3 से जीत लिया।",
+      "archived": false
+    },
+    {
+      "id": "7cad7717c0b39ba68cd679cf014162cf140b5cf7",
+      "slug": "european-football-bellingham-sparks-real-madrids-cruise-to-m-7cad77",
+      "title": "European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
+      "excerpt": "Promoted Málaga slump to 4-0 defeat at the Bernabéu Como win at Napoli; Freiburg thump Werder Bremen Real Madrid maintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promoted…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/7fff533acad60866596499dc5732263eb059be25/488_241_1927_1543/master/1927.jpg?width=140&quality=85&auto=format&fit=max&s=b412480f238289aff2325195d2db372e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:55:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter",
+      "titleHi": "यूरोपीय फुटबॉल: बेलिंगहम ने शानदार शुरुआत बरकरार रखने के लिए रियल मैड्रिड के क्रूज़ पर चढ़ाई की",
+      "excerptHi": "प्रमोटेड मालागा नेपोली में बर्नबेउ कोमो जीत में 4 -0 से हार गई; फ्रीबर्ग थंप वेर्डर ब्रेमेन रियल मैड्रिड ने प्रमोटेड पर आरामदायक 4 -0 की जीत के साथ ला लीगा में सीज़न की अपनी शानदार शुरुआत बरकरार रखी...",
+      "archived": false
+    },
+    {
+      "id": "615e17ab2505ef2519c7e284ba597873aa54a75f",
+      "slug": "prisons-one-major-event-from-disaster-after-u-turn-on-early-615e17",
+      "title": "Prisons ‘one major event from disaster’ after U-turn on early release scheme",
+      "excerpt": "Critics say the move, which will keep PC Harper’s killers in jail, leaves number of prison spaces ‘too close to the bone’ PC Andrew Harper’s killers will remain behind bars after a critical intervention by Andy Burnham,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Alexandra Topping Political correspondent",
+      "image": "https://i.guim.co.uk/img/media/f1dd397fe21a5765771c44122d7f95512dd1d392/1198_0_5992_4796/master/5992.jpg?width=140&quality=85&auto=format&fit=max&s=e2d12f3eaffcd94da688ecc29ac10a8a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:50:27.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
+      "guid": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
+      "titleHi": "शीघ्र रिहाई योजना पर यू - टर्न के बाद जेल ‘आपदा से एक प्रमुख घटना'",
+      "excerptHi": "आलोचकों का कहना है कि यह कदम, जो पीसी हार्पर के हत्यारों को जेल में रखेगा, जेल की जगहों की संख्या को ‘हड्डी के बहुत करीब’ छोड़ देता है एंडी बर्नहम के एक महत्वपूर्ण हस्तक्षेप के बाद पीसी एंड्रयू हार्पर के हत्यारे सलाखों के पीछे रहेंगे,...",
+      "archived": false
+    },
+    {
+      "id": "9978b4a0c0a32972503473c9712931fabea0ec76",
+      "slug": "man-killed-by-falling-sign-at-christian-festival-named-as-ch-9978b4",
+      "title": "Man killed by falling sign at Christian festival named as church pays tribute",
+      "excerpt": "Robert Guanco, 41, a pastor at Jesus Living Water church in Eastbourne, described as having ‘touched many lives’ A 41-year-old man who died after a large wooden sign fell at a Christian festival on Friday has been named…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Harry Cockburn",
+      "image": "https://i.guim.co.uk/img/media/3019148d087166ea76672aa0807e3758a3cf59b2/38_201_1339_1071/master/1339.jpg?width=140&quality=85&auto=format&fit=max&s=090e437dd8753bbe0a5be1da6f46585a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:42:34.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
+      "guid": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
+      "titleHi": "चर्च के रूप में नामित मसीही त्योहार पर चिह्न गिरने से मारे गए व्यक्ति ने श्रद्धांजलि अर्पित की",
+      "excerptHi": "ईस्टबॉर्न के जीसस लिविंग वाटर चर्च के एक पादरी, 41 वर्षीय रॉबर्ट गुआंको ने 'कई जीवनों को छूने‘ के रूप में वर्णित किया है। शुक्रवार को एक ईसाई त्योहार पर लकड़ी के एक बड़े चिह्न के गिरने से 41 वर्षीय व्यक्ति की मृत्यु हो गई, जिसका नाम रखा गया है...",
+      "archived": false
+    },
+    {
+      "id": "5ccda25ff90684af081545d94419b49630c95db3",
+      "slug": "venezuela-says-it-will-retain-sovereignty-over-its-oil-reser-5ccda2",
+      "title": "Venezuela says it will retain 'sovereignty' over its oil reserves despite US deal",
+      "excerpt": "Venezuela's acting president says the aim is to turn the country's underground resources into a \"source of social and economic well-being for the people of Venezuela.\"",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business",
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:40:18.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/30/venezuela-says-it-will-retain-sovereignty-over-its-oil-reserves-despite-us-deal",
+      "guid": "http://www.euronews.com/2026/08/30/venezuela-says-it-will-retain-sovereignty-over-its-oil-reserves-despite-us-deal",
+      "titleHi": "वेनेजुएला ने कहा कि वह अमेरिकी सौदे के बावजूद अपने तेल भंडार पर 'संप्रभुता' बनाए रखेगा",
+      "excerptHi": "वेनेजुएला के कार्यवाहक राष्ट्रपति का कहना है कि इसका उद्देश्य देश के भूमिगत संसाधनों को \"वेनेजुएला के लोगों के लिए सामाजिक और आर्थिक कल्याण के स्रोत\" में बदलना है।",
+      "archived": false
+    },
+    {
+      "id": "1af8b64037cba2c84d81f72511edde994ae18d34",
+      "slug": "england-humble-poor-pakistan-to-confirm-series-win-at-lords-1af8b6",
+      "title": "England humble poor Pakistan to confirm series win at Lord's",
+      "excerpt": "England enjoyed another dominant day at Lord's as they bowled Pakistan out for 194 in their second innings to secure a 194-run win on day four of the second Test and seal a series win, with one match to spare.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/93cea450-a49d-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:29:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/clyqnkxq87po#1",
+      "titleHi": "इंग्लैंड ने खराब पाकिस्तान को हराकर लॉर्ड्स में सीरीज जीतने की पुष्टि की",
+      "excerptHi": "इंग्लैंड ने लॉर्ड्स में एक और प्रभावशाली दिन का आनंद लिया क्योंकि उन्होंने पाकिस्तान को अपनी दूसरी पारी में 194 रन पर आउट कर दूसरे टेस्ट के चौथे दिन 194 रन की जीत हासिल की और एक मैच बचे हुए के साथ श्रृंखला जीत हासिल की।",
+      "archived": false
+    },
+    {
+      "id": "41835e646019950e3cfedbc501e02864eab07b4d",
+      "slug": "lionel-messis-footballing-beauty-hailed-as-miami-crush-montr-41835e",
+      "title": "Lionel Messi’s ‘footballing beauty’ hailed as Miami crush Montreal; MLS roundup",
+      "excerpt": "Messi nets four goals, adds assist in 7-1 Miami win Dejan Joveljić scores twice on Sounders debut Minnesota United score three times in four minutes Inter Miami interim coach Guillermo Hoyos ran out of superlatives for…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/37b96a86445b33202a61b6fc0452837525c34efa/474_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=7278dcade95ee20ce2ae47cd4b1d22e2",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:09:56.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/lionel-messi-inter-miami-mls-nashville-sc-dejan-joveljic-seattle-sounders",
+      "titleHi": "लियोनेल मेस्सी की ‘फुटबॉलिंग ब्यूटी’ को मियामी क्रश मॉन्ट्रियल के रूप में सराहा गया; एमएलएस राउंडअप",
+      "excerptHi": "मेसी ने चार गोल दागे, मियामी ने 7 -1 से जीत दर्ज की, डेजन जोवेलजीक ने साउंडर्स के पदार्पण पर दो बार स्कोर किया मिनेसोटा यूनाइटेड ने चार मिनट में तीन बार स्कोर किया इंटर मियामी के अंतरिम कोच गुइलेर्मो होयोस...",
+      "archived": false
+    },
+    {
+      "id": "5590bfed0f31385bc23d0bf7457782baea666ad2",
+      "slug": "mas-outsprints-britains-onley-to-win-vuelta-stage-nine-5590bf",
+      "title": "Mas outsprints Britain's Onley to win Vuelta stage nine",
+      "excerpt": "Spain's Enric Mas asserts his claim to the red jersey with a commanding win on the ninth stage of the Vuelta a Espana.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82c/live/b928edc0-a48c-11f1-8395-fb1eae51ae18.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T18:07:13.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/c1l6n60pl19o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/c1l6n60pl19o#3",
+      "titleHi": "मास ने वुल्टा स्टेज नौ जीतने के लिए ब्रिटेन के ऑनले को पछाड़ा",
+      "excerptHi": "स्पेन के एनरिक मास ने वुल्टा ए एस्पाना के नौवें चरण में कमांडिंग जीत के साथ लाल जर्सी पर अपने दावे पर जोर दिया।",
+      "archived": false
+    },
+    {
+      "id": "2c3d01a02efaf8b4a9226d091927d8b90fcf7b6a",
+      "slug": "saylor-signals-strategy-is-back-to-bitcoin-buying-2c3d01",
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "excerpt": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Robert Lakin",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M19WS2MWX8WK42HTJNANTQJ5/hi-michael-saylor.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T17:59:00.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
+      "titleHi": "सायलर सिग्नल की रणनीति बिटकॉइन खरीदने के लिए ‘बैक’ है",
+      "excerptHi": "माइकल सायलर की \"हम वापस आ गए हैं\" पोस्ट संकेत रणनीति अपनी बैलेंस शीट को मजबूत करने के लिए दो महीने के विराम के बाद बिटकॉइन खरीदना फिर से शुरू कर सकती है।",
+      "archived": false
+    },
     {
       "id": "e2385e485ff5eb5ce114d77111659e6b5e7d63ef",
       "slug": "wouldnt-touch-him-with-a-barge-pole-milo-yiannopoulos-faces-e2385e",
@@ -23,6 +536,26 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/30/milo-yiannopoulos-struggle-fit-uk-right-wing",
       "titleHi": "‘उसे बजरे के खंभे से नहीं छुएंगे ': मिलो यियानोपोलोस को ब्रिटेन की दक्षिणपंथी विंग के साथ फिट होने के लिए संघर्ष का सामना करना पड़ता है",
       "excerptHi": "कहा जाता है कि अमेरिका से निर्वासित किए गए ‘ऑल्ट - राइट’ आंदोलनकारी और पूर्व ट्रम्प समर्थक जीबी न्यूज एंड रिफॉर्म के लिए बहुत चरम हैं, क्योंकि ट्रम्प प्रशासन द्वारा अमेरिका से निर्वासित किए जाने के बाद वह ब्रिटेन वापस आ गया है, दूर - दराज़ …",
+      "archived": false
+    },
+    {
+      "id": "a8528f8bf744bbb78c43a8f12529700f60bb40fb",
+      "slug": "fernandes-fires-hat-trick-as-manchester-united-fight-back-to-a8528f",
+      "title": "Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
+      "excerpt": "To follow the claiming of both the major footballer of the year awards by scoring a hat-trick in Manchester United’s first home game was some Bruno Fernandes act, and points to an intent to continue his stellar form of…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jamie Jackson at Old Trafford",
+      "image": "https://i.guim.co.uk/img/media/3f5a879a462dcff463d89d1998380ee1900aeae7/545_61_3049_2441/master/3049.jpg?width=140&quality=85&auto=format&fit=max&s=b0020dc8b5718f997923defc54ab266d",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T17:46:59.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
+      "titleHi": "मैनचेस्टर युनाइटेड ने इप्सविच को हराया",
+      "excerptHi": "मैनचेस्टर यूनाइटेड के पहले घरेलू खेल में हैट्रिक बनाकर दोनों प्रमुख फुटबॉलर ऑफ द ईयर पुरस्कारों के दावे का पालन करना कुछ ब्रूनो फर्नांडीस का कार्य था, और अपने शानदार रूप को जारी रखने के इरादे की ओर इशारा करता है...",
       "archived": false
     },
     {
@@ -732,7 +1265,27 @@
       "guid": "http://www.euronews.com/2026/08/30/india-and-uzbekistan-deepen-ties-eye-5bn-trade-and-long-term-uranium-supplies",
       "titleHi": "भारत और उज़्बेकिस्तान ने संबंधों को गहरा किया, $ 5 बिलियन के व्यापार और लंबे समय तक यूरेनियम की आपूर्ति पर नज़र रखी",
       "excerptHi": "दोनों सरकारों ने महत्वपूर्ण खनिजों, रक्षा, डिजिटल भुगतान और परिवहन पर सहयोग को भी व्यापक बनाया। विस्तारित शिक्षा और क्षेत्रीय… के साथ - साथ एक नया विदेश मंत्री - स्तरीय तंत्र कार्यान्वयन की देखरेख करेगा",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "26201267c3d9cf7ea6922534c9368a06da460452",
+      "slug": "british-woman-killed-in-stabbing-at-german-railway-station-262012",
+      "title": "British woman killed in stabbing at German railway station",
+      "excerpt": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229c/live/8e80aca0-a45c-11f1-b370-b9b7934350c8.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-30T16:11:46.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko#1",
+      "titleHi": "British woman killed in stabbing at German railway station",
+      "excerptHi": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+      "archived": true
     },
     {
       "id": "ee8fcdbc423028326a2db56fd186f82a9ab6505c",
@@ -754,7 +1307,7 @@
       "guid": "https://www.bbc.co.uk/sport/cycling/articles/c20vnvdd7e7o#2",
       "titleHi": "Pidcock dedicates world-title triumph to Tarling",
       "excerptHi": "Great Britain's Tom Pidcock pays tribute to Fin Tarling after winning his second cross-country world title at the Mountain Bike World Championships in Italy.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d3be317b2aacf5cf471f76c4c656a20ee8a66362",
@@ -776,7 +1329,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c4glwl90n25o#7",
       "titleHi": "Team concedes cricket match over broken printer",
       "excerptHi": "A team has been forced to concede a match in Northern Ireland because of a broken printer.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1271949787d536b988edae31c43fd3a61c5e95ea",
@@ -796,7 +1349,7 @@
       "guid": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
       "titleHi": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
       "excerptHi": "The movement against datacenters is uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives Bryce Gustafson has been knocking on doors in…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a85b41ee094d89e333798bf1f2e16d014aacf9fc",
@@ -816,7 +1369,7 @@
       "guid": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-evening",
       "titleHi": "Latest news bulletin | August 30th, 2026 – Evening",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this August 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61770f14d086e495ea1a4c132092931e90a800ef",
@@ -838,7 +1391,7 @@
       "guid": "https://www.bbc.co.uk/sport/golf/articles/c23xvx9rgleo#5",
       "titleHi": "England's Dean storms to British Masters title",
       "excerptHi": "Former supermarket delivery driver Joe Dean fires a nine-under-par final round to come from seven shots back to win his first DP World Tour title.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bade0af26ce54363efa8261a123f85b30a5762c3",
@@ -858,7 +1411,7 @@
       "guid": "badaab49-10fc-4905-8abd-8643ec38af0c",
       "titleHi": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
       "excerptHi": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2b3f7512f64f7b11df1ad42294d7c0597e30baba",
@@ -878,7 +1431,7 @@
       "guid": "https://www.theguardian.com/commentisfree/picture/2026/aug/30/nicola-jennings-donald-trump-fossil-fuels-climate-disaster-cartoon",
       "titleHi": "Nicola Jennings on Donald Trump, fossil fuels and climate disaster – cartoon",
       "excerptHi": "Continue reading...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d8fe4aedc3c09efa24bf0fade7bb31156e42c32a",
@@ -900,7 +1453,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
       "titleHi": "Jason Arday accuser given three-month teaching ban but can continue research",
       "excerptHi": "Nathan Cofnas told by Ghent University to work remotely as US ambassador claims credit for lifting of suspension Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent University campus for…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4538153b570fcc0ee2cd9fb3b9c2b3ddafe64ff4",
@@ -920,7 +1473,7 @@
       "guid": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "titleHi": "Texas Governor Abbott blocks funding for more Flock cameras",
       "excerptHi": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "61d0db549830151e782bf29268653f9d492fd557",
@@ -940,7 +1493,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo#0",
       "titleHi": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
       "excerptHi": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "daafc0ab8a444c49abdc0f4f7d53ddb21edc74f7",
@@ -960,7 +1513,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
       "titleHi": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
       "excerptHi": "In the fullness of time Chelsea’s surrender against Brighton & Hove Albion last April may come to be seen as the turning point. The humiliation accelerated Liam Rosenior’s demise and forced the Stamford Bridge hierarchy…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9ea3a7322505cb0126e7a075b27a61914020b59e",
@@ -980,7 +1533,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report",
       "titleHi": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
       "excerptHi": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. An almost palpable fear of losing formed the subtext of a match decided when two of the Sunderland…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "44df3a4647f580a8140acdba1c2ead01f1c738c2",
@@ -1002,7 +1555,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
       "titleHi": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
       "excerptHi": "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "aa6bd45877ee18f22c8479887dff2af4e33016b6",
@@ -1024,7 +1577,7 @@
       "guid": "https://www.bbc.co.uk/sport/rowing/articles/cp80ne8168zo#9",
       "titleHi": "Ireland end World Championships with two silvers",
       "excerptHi": "Ireland brought the 2026 World Rowing Championships to a close with two silver medals on the final day of racing at the Bosbaan in Amsterdam.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d46e612b45bed35839ed24d7b275a54a5b422715",
@@ -1044,7 +1597,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/30/leeds-brentford-premier-league-match-report",
       "titleHi": "Calvert-Lewin cancels out Schade’s opener as Leeds salvage point against Brentford",
       "excerptHi": "Leeds and Brentford continued their unbeaten starts to the Premier League season with a draw that had enough moments to suggest both can be optimistic about what lies ahead. Both sides won on the opening weekend, albeit…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "733eca9e3ba8df0c09469820548486a6c03ffad1",
@@ -1064,7 +1617,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cdx5z7zk54po#0",
       "titleHi": "Joao Pedro and debutant Yalcouye star - Chelsea v Brighton player ratings",
       "excerptHi": "Here's how the players rated as Chelsea and Brighton met in the Premier League on Sunday.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "464e0f3d37004d0c980cbacf580209fca57ae376",
@@ -1087,7 +1640,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
       "titleHi": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
       "excerptHi": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeowners Get our breaking news email, free app or daily news podcast…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "306aaf995343dcaec0c43c2245bdb9535f9f1349",
@@ -1107,7 +1660,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/shooting-rave-party-switzerland",
       "titleHi": "Woman, 22, killed and five injured in shooting at Swiss rave",
       "excerptHi": "Manhunt under way after Italian dies from her injuries in the town of Aarau in the early hours of Sunday A manhunt is under way in Switzerland after a 22-year-old woman was killed ⁠and five people were injured, ⁠some…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8bd82e9aaea27e29a2c294aba68ab69ca8b386f2",
@@ -1127,7 +1680,7 @@
       "guid": "4370612f-a5cb-4cdc-8262-8722eccd5826",
       "titleHi": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
       "excerptHi": "Finance has spent centuries decoupling wealth from physical transport, but constantly erasing friction creates vectors for increasingly high-tech exploits.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f1acf504161f40da8974aa2fa64a450280d04556",
@@ -1150,7 +1703,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
       "titleHi": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
       "excerptHi": "Meanwhile, Trump posts video of himself kicking over a Lake Ontario sign and replacing it with Lake America sign Donald Trump and Canada continued a verbal duel on Saturday over the US government’s administrative…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a4802125f0e545d4ac367e0fbe4ec0363a7a82ea",
@@ -1172,7 +1725,7 @@
       "guid": "http://www.euronews.com/2026/08/30/guinea-bissau-votes-in-referendum-to-rewrite-constitution-and-boost-presidential-powers",
       "titleHi": "Guinea-Bissau votes in referendum to rewrite constitution and boost presidential powers",
       "excerptHi": "Voters in military-ruled Guinea-Bissau, after a coup, vote on Sunday in a referendum to boost presidential powers before elections to restore civilian rule, a process mired in controversy.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d5370245fd3a62c2b705b0e4941b1c963cfa8dfd",
@@ -1192,7 +1745,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cy4zp5xy342o#5",
       "titleHi": "Pakistan to meet King Charles after Lord's controversy",
       "excerptHi": "Pakistan will have an audience with King Charles this week, days after a threat to cancel their tour of England was made because of an interview with the sons of Imran Khan.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "907199a14062e8a0d6d03ea746311c64e925db0c",
@@ -1212,7 +1765,27 @@
       "guid": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
       "titleHi": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
       "excerptHi": "New company reportedly quickly fell behind with promised repayments to administrator A recruitment executive who was allowed to buy back the assets of his bust company in instalments, despite it accumulating almost £3m…",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "ae707259184d4741db1cbc96a2b5a8c24fa77aaf",
+      "slug": "marquez-wins-third-straight-aragon-grand-prix-ae7072",
+      "title": "Marquez wins third straight Aragon Grand Prix",
+      "excerpt": "MotoGP world champion Marc Marquez boosts his title hopes by winning at the Aragon Grand Prix for the third year in a row.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd4/live/36b3e280-a47a-11f1-bed8-470734b5b662.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T14:16:11.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/motorsport/articles/cn9wgnqll14o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/motorsport/articles/cn9wgnqll14o#9",
+      "titleHi": "Marquez wins third straight Aragon Grand Prix",
+      "excerptHi": "MotoGP world champion Marc Marquez boosts his title hopes by winning at the Aragon Grand Prix for the third year in a row.",
+      "archived": true
     },
     {
       "id": "b706a011c83dea515bb99e40f3d9ad64b2cc751e",
@@ -1232,7 +1805,7 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/30/ai-small-business",
       "titleHi": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
       "excerptHi": "Small business owners have watched large companies fumble – and sometimes succeed – with AI, and then use what works One thing I’ve learned about corporate America is that what it succeeds at ultimately trickles down to…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "812754baaa1a48df85949c48e55257f05e54da70",
@@ -1252,7 +1825,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo#0",
       "titleHi": "आर्सेनल के जीसस के लिए सौदा करने के करीब बार्सिलोना",
       "excerptHi": "बार्सिलोना आर्सेनल के स्ट्राइकर गैब्रियल जीसस के लिए £ 8.6 मिलियन की डील कर रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "27bddd8655234b1627158b059056f6651067e45e",
