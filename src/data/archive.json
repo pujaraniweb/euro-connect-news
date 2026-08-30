@@ -1,8 +1,402 @@
 {
-  "generatedAt": "2026-08-30T20:36:44.993Z",
+  "generatedAt": "2026-08-30T23:12:08.770Z",
   "retentionDays": 45,
-  "total": 4172,
+  "total": 4191,
   "items": [
+    {
+      "id": "0f1c3a106962e578b28c2efd0721909e81940ea7",
+      "slug": "womens-super-league-2026-27-preview-no-10-london-city-liones-0f1c3a",
+      "title": "Women’s Super League 2026-27 preview No 10: London City Lionesses",
+      "excerpt": "Ballon d’Or winner Putellas leads influx of superstar names at independent club aiming to bridge gap to very best Guardian writers’ predicted position: 4th (NB: this is not necessarily Suzanne Wrack’s prediction but the…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Suzanne Wrack",
+      "image": "https://i.guim.co.uk/img/media/04b9671c213c8f28cdbfc1947a74e5365ed2fa25/1028_252_3129_2504/master/3129.jpg?width=140&quality=85&auto=format&fit=max&s=0677792891bea0576fb820eff0a825ff",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T23:01:08.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/31/womens-super-league-2026-27-preview-no-10-london-city-lionesses",
+      "guid": "https://www.theguardian.com/football/2026/aug/31/womens-super-league-2026-27-preview-no-10-london-city-lionesses",
+      "titleHi": "महिला सुपर लीग 2026 -27 पूर्वावलोकन नंबर 10: लंदन सिटी लायनेसेस",
+      "excerptHi": "Ballon d'Or विजेता Putellas स्वतंत्र क्लब में सुपरस्टार नामों की आमद का नेतृत्व करता है, जिसका उद्देश्य गार्जियन लेखकों की सबसे अच्छी भविष्यवाणी की स्थिति में अंतर को पाटना है: 4th (NB: यह जरूरी नहीं कि सुज़ैन रैक की भविष्यवाणी हो लेकिन...",
+      "archived": false
+    },
+    {
+      "id": "352a5776196be23d9339e14141fcd7c0e404be32",
+      "slug": "can-chelsea-win-the-league-with-three-at-the-back---givens-v-352a57",
+      "title": "Can Chelsea win the league with three at the back? - Given's verdict",
+      "excerpt": "Match of the Day pundit Shay Given praises Chelsea's flying wing-backs, backing Xabi Alonso's side to win the Premier League title using a three-at-the-back system.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b7/live/22b9c020-a4c4-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:59:49.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cwyz17d1vy9o#12",
+      "titleHi": "क्या चेल्सी पीछे तीन के साथ लीग जीत सकता है? - फ़ैसला दिया गया",
+      "excerptHi": "मैच ऑफ़ द डे पंडित शे गिवेन ने चेल्सी के फ्लाइंग विंग - बैक की प्रशंसा करते हुए, ज़ाबी अलोंसो की टीम को तीन - एट - द - बैक सिस्टम का उपयोग करके प्रीमियर लीग खिताब जीतने का समर्थन किया।",
+      "archived": false
+    },
+    {
+      "id": "e6412fed858b49a3496f83c8f26ce9996091afdc",
+      "slug": "australia-news-live-joyce-calls-one-nation-byelection-win-de-e6412f",
+      "title": "Australia news live: Joyce calls One Nation byelection win ‘decisive’ and ‘humbling’; Oscar Jenkins gives first interview since Russia conviction",
+      "excerpt": "One Nation MP says voters are disillusioned with traditional political parties. Follow the day’s news live Get our breaking news email, free app or daily news podcast Australian government working on release of Oscar…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Nick Visser",
+      "image": "https://i.guim.co.uk/img/media/704cc31ebeb2c73cc3c9bc194580194504885c2c/787_63_2934_2348/master/2934.jpg?width=140&quality=85&auto=format&fit=max&s=a5c51073d2a60bd14cd60f169ce3ca2f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:51:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: जॉयस ने वन नेशन उपचुनाव की जीत को ‘निर्णायक‘ और ’विनम्र‘ बताया; ऑस्कर जेनकिंस ने रूस को दोषी ठहराए जाने के बाद पहला साक्षात्कार दिया",
+      "excerptHi": "वन नेशन के सांसद का कहना है कि मतदाता पारंपरिक राजनीतिक दलों से मोहभंग कर रहे हैं। दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऑस्ट्रेलियाई सरकार ऑस्कर की रिलीज़ पर काम कर रही है...",
+      "archived": false
+    },
+    {
+      "id": "fef6460516d05d88ea1d02963ce2cb8c830d900c",
+      "slug": "motd-pundits-debate-controversial-own-goal-in-man-utd-victor-fef646",
+      "title": "MOTD pundits debate controversial own goal in Man Utd victory",
+      "excerpt": "Match of the Day pundits Ellen White and Shay Given discuss the refereeing controversy at Old Trafford whereby a loophole allowed a Harry Maguire handball to stand as a Jacob Greaves own goal.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e1b/live/20ded080-a4c2-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:47:53.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cp93xrk5k5xo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cp93xrk5k5xo#6",
+      "titleHi": "मैन यूटीडी की जीत में मोट पंडित ने विवादास्पद खुद के लक्ष्य पर बहस की",
+      "excerptHi": "मैच ऑफ द डे के पंडित एलेन व्हाइट और शे गिवेन ओल्ड ट्रैफर्ड में रेफरी विवाद पर चर्चा करते हैं, जिसमें एक खामी ने हैरी मैगुइर हैंडबॉल को जैकब ग्रीव्स के अपने लक्ष्य के रूप में खड़े होने की अनुमति दी।",
+      "archived": false
+    },
+    {
+      "id": "681e827040ca347fdbbb0058a09936f8f1f69554",
+      "slug": "world-number-one-scheffler-claims-second-fedex-cup-title-681e82",
+      "title": "World number one Scheffler claims second Fedex Cup title",
+      "excerpt": "At times it felt like there was a certain inevitability about Scottie Scheffler collecting his second Fedex Cup title on Sunday.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09a/live/b2cd5300-a4c1-11f1-be76-7d0faa1b13a7.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:38:09.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/cx2zj8xngvdo#0",
+      "titleHi": "विश्व के नंबर एक शेफ़लर ने दूसरा फेडेक्स कप खिताब जीता",
+      "excerptHi": "कभी - कभी ऐसा लगता था कि रविवार को स्कॉटी शेफ़लर द्वारा अपना दूसरा फेडेक्स कप खिताब इकट्ठा करने के बारे में एक निश्चित अनिवार्यता थी।",
+      "archived": false
+    },
+    {
+      "id": "9fcd2a53b17212a70133cf38c31e7d99d82ee029",
+      "slug": "hes-on-it-all-the-time---white-praises-unbelievable-fernande-9fcd2a",
+      "title": "'He's on it all the time' - White praises 'unbelievable' Fernandes",
+      "excerpt": "Match of the Day pundit Ellen White labels Bruno Fernandes \"unbelievable\", after the midfielder's hat-trick in Manchester United's 5-2 comeback win against Ipswich Town.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a037/live/41f7ac70-a4c1-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:37:24.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/cy4zmlrrpxxo#6",
+      "titleHi": "'वह हर समय इस पर रहता है' - व्हाइट ने 'अविश्वसनीय' फर्नांडिस की प्रशंसा की",
+      "excerptHi": "मैनचेस्टर यूनाइटेड की इप्सविच टाउन के खिलाफ 5 -2 की वापसी जीत में मिडफील्डर की हैट्रिक के बाद मैच ऑफ द डे पंडित एलेन व्हाइट ने ब्रूनो फर्नांडिस को \"अविश्वसनीय\" लेबल किया।",
+      "archived": false
+    },
+    {
+      "id": "a2ad7f2294c238edf9b18d169618460722bb45fe",
+      "slug": "hikers-feared-missing-after-terrifying-flash-flooding-hits-g-a2ad7f",
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "excerpt": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T22:14:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/clylkjyez1do#0",
+      "titleHi": "ग्रैंड कैन्यन में 'भयानक' बाढ़ आने के बाद हाइकर्स के लापता होने की आशंका",
+      "excerptHi": "\"यह एक सुंदर दिन था - और फिर लोग चिल्ला रहे थे ,\" सुरक्षा के लिए एयरलिफ्ट किए गए एक हाइकर ने बीबीसी को बताया।",
+      "archived": false
+    },
+    {
+      "id": "44c53c942d45dbb327bbfb5ea76a60a6d554f876",
+      "slug": "donald-comes-out-of-retirement-to-rejoin-rams-44c53c",
+      "title": "Donald comes out of retirement to rejoin Rams",
+      "excerpt": "Aaron Donald, one of the NFL's greatest defensive players, has come out of retirement to rejoin his former side Los Angeles Rams.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b7/live/de7f79f0-a4b8-11f1-a35f-6d34e03b9d9f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:39:47.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/american-football/articles/cwyz3y4wzrlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/american-football/articles/cwyz3y4wzrlo#5",
+      "titleHi": "डोनाल्ड रैम्स में फिर से शामिल होने के लिए रिटायरमेंट से बाहर आया",
+      "excerptHi": "एनएफएल के सबसे बड़े रक्षात्मक खिलाड़ियों में से एक, एरोन डोनाल्ड अपनी पूर्व टीम लॉस एंजिल्स रैम्स में फिर से शामिल होने के लिए सेवानिवृत्ति से बाहर आ गए हैं।",
+      "archived": false
+    },
+    {
+      "id": "8b9fda669426d206488d0574eed98080d4ffeaaa",
+      "slug": "trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-8b9fda",
+      "title": "Trump hits out at NBC journalist Kristen Welker, calling for her to face 'rebuke or punishment'",
+      "excerpt": "Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Communications Commission, said the FCC \"has no authority to punish journalists this administration doesn’t like.\"",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:33:36.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
+      "guid": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
+      "titleHi": "ट्रम्प ने एनबीसी पत्रकार क्रिस्टन वेल्कर पर निशाना साधते हुए उन्हें 'फटकार या सजा' का सामना करने का आह्वान किया",
+      "excerptHi": "रविवार को X पर लिखते हुए, फेडरल कम्युनिकेशंस कमीशन की डेमोक्रेट अन्ना गोमेज़ ने कहा कि एफसीसी के पास \"पत्रकारों को दंडित करने का कोई अधिकार नहीं है जो इस प्रशासन को पसंद नहीं है।\"",
+      "archived": false
+    },
+    {
+      "id": "be1a3e75878d48d45f6660e08730c6cf899ab23d",
+      "slug": "mikel-arteta-begging-premier-league-to-expand-20-man-matchda-be1a3e",
+      "title": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
+      "excerpt": "Arsenal manager says dropping players ‘affects wellbeing’ Serie A allows 25-player matchday squads and La Liga 23 Arsenal have asked the Premier League to increase the size of matchday squads, with Mikel Arteta saying…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Sam Cunningham",
+      "image": "https://i.guim.co.uk/img/media/ba51ac6c1860ec8cb44650b68345da405eee922d/531_184_1733_1386/master/1733.jpg?width=140&quality=85&auto=format&fit=max&s=e574e13a5fd3c966bc9f5a89b8404072",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:30:06.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/30/mikel-arteta-premier-league-matchday-squad-player-welfare-arsenal",
+      "guid": "https://www.theguardian.com/football/2026/aug/30/mikel-arteta-premier-league-matchday-squad-player-welfare-arsenal",
+      "titleHi": "मिकेल अर्टेटा ने 20 सदस्यीय मैच डे टीम का विस्तार करने के लिए प्रीमियर लीग से ‘भीख’ मांगी",
+      "excerptHi": "आर्सेनल मैनेजर का कहना है कि खिलाड़ियों को ड्रॉप करने से उनकी सेहत पर असर पड़ता है ’ सेरी ए 25 - खिलाड़ियों के मैच - डे टीमों की अनुमति देता है और ला लीगा 23 आर्सेनल ने प्रीमियर लीग से मैच - डे टीमों का आकार बढ़ाने के लिए कहा है, मिकेल अर्टेटा ने कहा...",
+      "archived": false
+    },
+    {
+      "id": "2706a4eb2d094e8638583a75c4f0c15c5eef46c7",
+      "slug": "professor-murder-rides-the-subway-is-a-forgotten-slice-of-da-2706a4",
+      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+      "excerpt": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a0163061049_10.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:18:59.000Z",
+      "sourceUrl": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "guid": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+      "titleHi": "प्रोफेसर मर्डर राइड्स द सबवे डांस पंक परफेक्शन का एक भूला हुआ टुकड़ा है",
+      "excerptHi": "मैंने हाल ही में अपनी सीडी खोदी और उन सभी को फिर से शुरू करना शुरू कर दिया। मुझे वहाँ कुछ भूले - बिसरे रत्न मिले हैं, लेकिन प्रोफेसर मर्डर राइड्स द सबवे ईपी की तुलना में कुछ ही रत्न मेरे लिए ज़्यादा मुश्किल थे। समय की एक अवधि थी...",
+      "archived": false
+    },
+    {
+      "id": "77c755dad93a1169c4c24399247aa099f33fe6a1",
+      "slug": "us-strikes-iranian-launchers-on-larak-island-in-first-known-77c755",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "excerpt": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-30T21:15:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po#0",
+      "titleHi": "अमेरिका ने हफ्तों में पहले ज्ञात हमले में लारक द्वीप पर ईरानी लॉन्चरों पर हमला किया",
+      "excerptHi": "ईरान का कहना है कि हमले में कुछ नागरिक मारे गए और जुलाई के अंत के बाद से ईरान पर पहला ज्ञात अमेरिकी हमला है।",
+      "archived": false
+    },
+    {
+      "id": "11e9b9add88c33edbf4440156e015615d5922c36",
+      "slug": "usda-reportedly-shelves-cyclospora-research-amid-relocations-11e9b9",
+      "title": "USDA reportedly shelves cyclospora research amid relocations and fund cuts",
+      "excerpt": "Trump officials shuttering three projects on foodborne parasite, two defunded by Congress, Politico reports The Trump administration is shuttering ⁠two of the three US Department of Agriculture research projects…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/8a6c8a8c89962437aa13c2b0cc9feb86886f49fd/731_0_7212_5773/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=2c5ec40098a4b539c4329eeab6ba7dca",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:10:56.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
+      "titleHi": "यूएसडीए ने कथित तौर पर स्थानांतरण और फंड में कटौती के बीच साइक्लोस्पोरा अनुसंधान को ठंडे बस्ते में डाल दिया",
+      "excerptHi": "ट्रम्प अधिकारी खाद्य जनित परजीवी पर तीन परियोजनाओं को बंद कर रहे हैं, दो को कांग्रेस द्वारा वित्त पोषित किया गया है, पॉलिटिको की रिपोर्ट ट्रम्प प्रशासन तीन अमेरिकी कृषि अनुसंधान परियोजनाओं में से दो को बंद कर रहा है...",
+      "archived": false
+    },
+    {
+      "id": "01273f5eeed2e60bc756ff79ce7de3284d0d9e4b",
+      "slug": "us-strikes-iranian-launchers-on-larak-island-amid-strait-of-01273f",
+      "title": "US strikes Iranian launchers on Larak island amid strait of Hormuz tensions",
+      "excerpt": "Attack was response to Islamic ⁠Revolutionary Guard Corps preparing rockets to launch sea mines into strait, says US US forces have struck two Iranian launchers on Iran’s Larak island on Sunday, a US official said,…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/df8d60cf1293a9a22e1ee0b705afdbcae8489701/0_0_10629_8508/master/10629.jpg?width=140&quality=85&auto=format&fit=max&s=76bb940839c0b0013aec3b7e1da9db2b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T21:05:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+      "guid": "https://www.theguardian.com/world/2026/aug/30/us-strikes-iranian-launchers-on-larak-island-amid-strait-of-hormuz-tensions",
+      "titleHi": "अमेरिका ने होर्मुज तनाव के बीच लारक द्वीप पर ईरानी लॉन्चरों पर हमला किया",
+      "excerptHi": "हमला इस्लामी रिवोल्यूशनरी गार्ड कोर द्वारा समुद्री खानों को जलडमरूमध्य में लॉन्च करने के लिए रॉकेट तैयार करने का जवाब था, अमेरिकी अमेरिकी बलों ने रविवार को ईरान के लारक द्वीप पर दो ईरानी लांचरों पर हमला किया है, एक अमेरिकी अधिकारी ने कहा,...",
+      "archived": false
+    },
+    {
+      "id": "3ee906b3aedc595b3ba1b1ccd3e238c2bb687e0e",
+      "slug": "tottenham-enquire-about-pulisic---mondays-gossip-3ee906",
+      "title": "Tottenham enquire about Pulisic - Monday's gossip",
+      "excerpt": "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger Jamie Leweling, and Crystal Palace want to keep Dean Henderson after Nottingham Forest bid.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6f/live/6dc27a90-a4af-11f1-b109-879e35c24276.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:59:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c89jxnelpywo#2",
+      "titleHi": "Tottenham Pulisic के बारे में पूछताछ करता है - सोमवार की गपशप",
+      "excerptHi": "स्पर्स का ध्यान क्रिश्चियन पुलिसिक की ओर जाता है, लिवरपूल और एवर्टन स्टटगार्ट विंगर जेमी लेवेलिंग में रुचि दिखाते हैं, और क्रिस्टल पैलेस नॉटिंघम फॉरेस्ट बोली के बाद डीन हेंडरसन को रखना चाहते हैं।",
+      "archived": false
+    },
+    {
+      "id": "e7cebd0146f9e9f57ecc4508c025222f4ff338ce",
+      "slug": "us-forces-strike-iranian-rocket-launchers-in-strait-of-hormu-e7cebd",
+      "title": "US forces strike Iranian rocket launchers in Strait of Hormuz as IRGC warns of 'retaliatory response'",
+      "excerpt": "The IRGC confirmed strikes had hit Larak Island and warned that the attack would be \"met with a retaliatory response,\" per Iran's Fars news agency.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:52:03.000Z",
+      "sourceUrl": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
+      "guid": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
+      "titleHi": "अमेरिकी बलों ने स्ट्रेट ऑफ होर्मुज में ईरानी रॉकेट लॉन्चरों पर हमला किया क्योंकि IRGC ने 'जवाबी प्रतिक्रिया' की चेतावनी दी थी",
+      "excerptHi": "ईरान की फार्स समाचार एजेंसी के अनुसार, IRGC ने लारक द्वीप पर हमलों की पुष्टि की और चेतावनी दी कि हमले का \"जवाबी जवाब\" दिया जाएगा।",
+      "archived": false
+    },
+    {
+      "id": "3ae3cc4728374136b25b70ffe090c5e9b8b343cc",
+      "slug": "all-time-great-aaron-donald-comes-out-of-retirement-to-rejoi-3ae3cc",
+      "title": "All-time great Aaron Donald comes out of retirement to rejoin stacked LA Rams",
+      "excerpt": "Los Angeles were already Super Bowl favorites Defensive tackle was 10-time Pro Bowler with Rams 35-year-old aiming to win second Super Bowl in LA Aaron Donald, one of the greatest defensive players in NFL history, is…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Tom Lutz",
+      "image": "https://i.guim.co.uk/img/media/541f9e36e41b73c911e4698a909ead6fe07c6b79/918_0_6736_5389/master/6736.jpg?width=140&quality=85&auto=format&fit=max&s=4d2af9c33a5c966424209faed2ae5eee",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:42:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
+      "guid": "https://www.theguardian.com/sport/2026/aug/30/all-time-great-aaron-donald-comes-out-of-retirement-to-rejoin-stacked-la-rams",
+      "titleHi": "ऑल - टाइम महान एरोन डोनाल्ड स्टैक्ड एलए रैम्स में फिर से शामिल होने के लिए सेवानिवृत्ति से बाहर आते हैं",
+      "excerptHi": "लॉस एंजिल्स पहले से ही सुपर बाउल का पसंदीदा डिफेंसिव टैकल 10 बार का प्रो बॉलर था, जिसमें रैम का 35 वर्षीय लक्ष्य एलए आरोन डोनाल्ड में दूसरा सुपर बाउल जीतना था, जो एनएफएल इतिहास के सबसे महान रक्षात्मक खिलाड़ियों में से एक है...",
+      "archived": false
+    },
+    {
+      "id": "82e2afc4f7dc1dba5ac7fad92901b61ff5453f22",
+      "slug": "nepal-flood-relief-vehicles-trapped-as-heavy-rain-turns-road-82e2af",
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "excerpt": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35e4/live/90ea43e0-a4af-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:40:02.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o#3",
+      "titleHi": "नेपाल में भारी बारिश से फंसे बाढ़ राहत वाहन सड़कों को कीचड़ में तब्दील कर देते हैं",
+      "excerptHi": "भारी बारिश ने नेपाल में राहत प्रयासों को बाधित कर दिया है जहां तिब्बत के साथ उसकी सीमा पर अचानक बाढ़ आने के बाद हजारों लोग लापता हैं।",
+      "archived": false
+    },
+    {
+      "id": "7a6dd8d789c19c056b3a8f574bbe68e70bd3019e",
+      "slug": "ill-be-back---itauma-responds-to-world-title-defeat-7a6dd8",
+      "title": "'I'll be back' - Itauma responds to world-title defeat",
+      "excerpt": "Great Britain's Moses Itauma says he will \"be back\" after failing in his attempt to become the second-youngest heavyweight world champion.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f3/live/90478620-a4ad-11f1-91cb-593279fd223e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T20:33:46.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/cddv61jpg33o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/cddv61jpg33o#5",
+      "titleHi": "'मैं वापस आऊंगा' - इटामा ने विश्व खिताब की हार का जवाब दिया",
+      "excerptHi": "ग्रेट ब्रिटेन के मूसा इटामा का कहना है कि वह दूसरे सबसे युवा हैवीवेट विश्व चैंपियन बनने की कोशिश में विफल रहने के बाद \"वापस आ जाएंगे\"।",
+      "archived": false
+    },
     {
       "id": "af484d73914406db9a919cd4129614b2a9090e7d",
       "slug": "michael-carrick-hails-manchester-uniteds-grit-after-rout-of-af484d",
@@ -860,7 +1254,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/c8r6jzk1rzeo#3",
       "titleHi": "'क्या तुम इस पर विश्वास करोगी? '- शकील सदी से कुछ ही कम समय में गिर जाता है",
       "excerptHi": "पाकिस्तान के सऊद शकील ने इंग्लैंड के खिलाफ शानदार 97 रनों की पारी खेली, लेकिन अपने शतक से महज कुछ ही दूर रह गए क्योंकि उन्हें हैरी ब्रुक ने जोश टंग की गेंद पर कैच आउट कराया, क्योंकि इंग्लैंड लॉर्ड्स में दूसरे टेस्ट में जीत के करीब पहुंच गया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1202fec4338c21d0fec18d4d1be3ad13a99cd283",
@@ -882,7 +1276,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o#2",
       "titleHi": "नेपाल बाढ़ के स्कूल में आने से कुछ मिनट पहले हेड टीचर ने 900 बच्चों को निकाला",
       "excerptHi": "राजेंद्र दावड़ी अपने स्कूल की ओर जाने वाले पानी के बारे में चेतावनी मिलने के बाद कार्रवाई में कूद गए।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e3e4a1f956612d212e623b2c37da91d71fb258b7",
@@ -904,7 +1298,7 @@
       "guid": "https://www.theguardian.com/football/2026/aug/30/transfer-roundup-ollie-watkins-al-hilal-aston-villa",
       "titleHi": "ट्रांसफ़र राउंडअप: ओली वाटकिंस ने एस्टन विला से अल - हिलाल की यात्रा पूरी की",
       "excerptHi": "विला न्यूज़ के लिए इंग्लैंड फॉरवर्ड का निकास व्यस्त गर्मियों में जारी है, इसके बाद एमिलियानो मार्टिनेज ने चेल्सी अल - हिलाल जाने के लिए एस्टन विला से ओली वाटकिंस पर हस्ताक्षर किए हैं, जो रविवार को घोषित किए गए दो क्लब हैं, जो 30 वर्षीय स्ट्राइकर हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1405cdba52174375f253907077dd53966c7f2e77",
@@ -926,7 +1320,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zwz51gz5o#11",
       "titleHi": "वेल्स के लिए रोडन चिंता का विषय है क्योंकि फार्क ने चोट की पुष्टि की है",
       "excerptHi": "लीड्स युनाइटेड के ब्रेंटफोर्ड के साथ ड्रा के दौरान जो रोडन के चोटिल होने के बाद वेल्स के बॉस क्रेग बेलामी को अपनी टीम के नेशंस लीग के सलामी बल्लेबाजों से पहले चोट लगने का सामना करना पड़ता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a6e0f0aa0d1e9fbc5f7c4a0be3bb0bc53d622da9",
@@ -946,7 +1340,7 @@
       "guid": "https://www.bbc.co.uk/sport/golf/articles/c3eq3q8de52o#7",
       "titleHi": "अलेक्जेंडर ने जीता आयरिश ओपन",
       "excerptHi": "दक्षिण अफ्रीका की कैसेंड्रा अलेक्जेंडर ने के क्लब में आयरिश ओपन जीता।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "20734e1f121f530accc4f4c8833ae8b20557faa0",
@@ -966,7 +1360,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/people-return-remains-homes-nepal-floods-devighat-trishuli-river",
       "titleHi": "‘नदी ने सब कुछ ले लिया है ': लोग नेपाल में अपने घरों के अवशेषों पर लौटते हैं",
       "excerptHi": "त्रिशूली नदी के किनारे देवीघाट में रहने की अनिश्चितता को रेखांकित किया गया क्योंकि पानी फिर से प्रफुल्लित हो रहा है और निवासी नेपाल - तिब्बत फ्लैश फ्लड की ओर भाग रहे हैं – नवीनतम अपडेट शवों को धोना जारी है। लेकिन मुर्दाघर...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8d04815052ccd2f85f0d5e2742dcc5824f80504f",
@@ -986,7 +1380,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/ckgwz6g45lpo#2",
       "titleHi": "क्या McInnes और Rangers के लिए 'बिट्टी' पिट्टोड्री जीत टर्निंग प्वाइंट है?",
       "excerptHi": "रविवार की एबरडीन की उत्तर की यात्रा तक, डेरेक मैकइनेस ने वास्तव में अपनी रेंजर्स टीम को देखने का आनंद नहीं लिया था। पिट्टोड्री में एक अविश्वसनीय जीत के बाद यह बदल गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2496eadc17a6261614332d20c85f9f3cf0fccabb",
@@ -1006,7 +1400,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/cpq09095xjzo#3",
       "titleHi": "सात गोल की ब्राइटन थ्रिलर के बाद अलोंसो ने जोआओ पेड्रो की 'इच्छा' की प्रशंसा की",
       "excerptHi": "चेल्सी ने नए प्रीमियर लीग सीज़न में अपनी शानदार शुरुआत बरकरार रखी क्योंकि उन्होंने स्टैमफोर्ड ब्रिज में एक मनोरंजक मैच में ब्राइटन को हराया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "501f81f3d6026ce17fd9593d34b9536083ae36a7",
@@ -1026,7 +1420,7 @@
       "guid": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
       "titleHi": "नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप ने डार्क मैटर और डार्क एनर्जी का अध्ययन करने के लिए लॉन्च किया",
       "excerptHi": "नासा की नैन्सी ग्रेस रोमन टेलीस्कोप फट गई। | फोटो: नासा / जॉन क्रूस फंडिंग संघर्ष और नाम बदलने के बाद, नैन्सी ग्रेस रोमन स्पेस टेलीस्कॉप को सफलतापूर्वक लॉन्च किया गया है। अब इसमें तीन महीने लगेंगे,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "922bf447ed0389698b693cb86ad4d45f6201a3f8",
@@ -1048,7 +1442,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c5ye8egg596o#0",
       "titleHi": "रूस का कहना है कि उसने नाइजर के तख्तापलट के प्रयास को पीछे हटाने में मदद",
       "excerptHi": "अधिकारियों का कहना है कि सैनिकों ने शनिवार सुबह एक प्रमुख सैन्य अड्डे पर हमला करने की कोशिश की, लेकिन उन्हें विफल कर दिया गया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a859ab11121b89ff2c09fe8167c6387502f6827e",
@@ -1070,7 +1464,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-the-rise-of-germanys-afd-mainstream-parties-must-deliver-a-bolder-response",
       "titleHi": "जर्मनी के एएफडी के उदय पर अभिभावक का दृष्टिकोण: मुख्यधारा के दलों को एक साहसिक प्रतिक्रिया देनी चाहिए | संपादकीय",
       "excerptHi": "सुदूर दक्षिणपंथी दूसरे विश्व युद्ध के बाद पहली बार राज्य चुनाव जीतने के करीब है। इसका मुकाबला करने के लिए एक अलग आर्थिक दृष्टिकोण की आवश्यकता है शरद ऋतु की शुरुआत जर्मन में भविष्यवाणी और चिंता का समय बन गई है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c89f89f14e4aeb0aa7d5b6648f48f46e1491266d",
@@ -1092,7 +1486,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/aug/30/the-guardian-view-on-rare-earths-its-common-sense-to-secure-essential-supply-chains",
       "titleHi": "दुर्लभ धरती पर अभिभावक का दृष्टिकोण: आवश्यक आपूर्ति श्रृंखलाओं को सुरक्षित करना सामान्य ज्ञान है | संपादकीय",
       "excerptHi": "उद्योग को चीन के लिए आउटसोर्स करना जारी नहीं रख सकता है, लेकिन यूरोप जानता है कि यह अब समाधान के लिए अमेरिका पर भरोसा नहीं कर सकता है। 16 साल पहले अलार्म बजा था। 2010 में, चीन ने जापान को लगातार प्रमुख दुर्लभ पृथ्वी के निर्यात को अवरुद्ध कर दिया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2b92c7fe407b9ee19a41114b6268d64740d5c222",
@@ -1112,7 +1506,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/videos/c0lrgrzjnpxo#3",
       "titleHi": "चेल्सी में 'हमें दंडित करने की गुणवत्ता' थी - हर्ज़ेलर",
       "excerptHi": "ब्राइटन के प्रबंधक फैबियन हर्ज़ेलर ने स्वीकार किया कि चेल्सी में \"हमें दंडित करने की गुणवत्ता\" थी, लेकिन स्टैमफोर्ड ब्रिज में रोमांचक 4 -3 की हार के दौरान \"इसके लिए जाने\" के लिए उनकी टीम के रवैये की प्रशंसा की।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5128e2896c09ad870c16223c39429b6f3ad696b8",
@@ -1134,7 +1528,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/30/james-cleverly-london-mayor-classically-conservative-campaign",
       "titleHi": "चतुराई से पिच में संस्कृति युद्ध के मुद्दों से बचा जाता है ताकि वह लंदन का अगला मेयर बन सके",
       "excerptHi": "रूढ़िवादी उम्मीदवादी कहते हैं कि सादिक खान ने ‘नौकरी के लिए जुनून खो दिया है’ और एंडी बर्नहम ‘बहुत लंदन विरोधी’ हैं जेम्स चतुराई ने लंदन के मेयर बनने के लिए \"शास्त्रीय रूप से रूढ़िवादी\" अभियान चलाने का वादा किया है, जोर देते हुए...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "639b4db0e906a3236a1249019d4587aebfb5fb0e",
@@ -1156,7 +1550,7 @@
       "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/30/the-lost-art-of-guilt-free-relaxation-on-sundays",
       "titleHi": "रविवार को अपराध - मुक्त विश्राम की खोई हुई कला | पत्र",
       "excerptHi": "पाठकों ने Le dimanche français, the French Sunday, के बारे में एक लेख का जवाब दिया, खुशी का रहस्य होने के नाते पोली हडसन ने Le dimanche français के रूप में जो वर्णन किया है, वह मेरे …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3104571ec604c29de9662d1fe53e029f1e41fe59",
@@ -1176,7 +1570,7 @@
       "guid": "https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced",
       "titleHi": "AI की सबसे खराब आपदाएं अघोषित रूप से आएंगी | पत्र",
       "excerptHi": "डॉ साइमन निडर ने एआई द्वारा उत्पन्न खतरों पर अंकुश लगाने के लिए आवश्यक वैश्विक प्रयासों के बारे में बताया। डॉ. एंथोनी हैरिस और डेविड कायलर टिमोथी गार्टन ऐश के प्लस पत्र सही हैं कि गंभीर कृत्रिम बुद्धिमत्ता जोखिम की मांग करती है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "91745fdab061037b2cae2d8bab74be4e57f76fdb",
@@ -1198,7 +1592,7 @@
       "guid": "https://www.theguardian.com/lifeandstyle/2026/aug/30/making-the-british-countryside-more-accessible-and-inviting-to-all",
       "titleHi": "ब्रिटिश ग्रामीण इलाकों को और अधिक सुलभ और सभी के लिए आमंत्रित करना | पत्र",
       "excerptHi": "पाठकों ने पीक डिस्ट्रिक्ट में हाइकर्स की विविधता पर जॉन हैरिस के एक लेख का जवाब दिया, ग्रामीण क्षेत्रों में हो रहे सांस्कृतिक परिवर्तनों पर जॉन हैरिस के लेख को पढ़कर कितनी खुशी हुई (वॉकिंग द पीक डिस्ट्रिक्ट, मैं …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "64cf5bd6fbd8d1bee951749ba778deb499a1e016",
@@ -1220,7 +1614,7 @@
       "guid": "https://www.theguardian.com/politics/2026/aug/30/nonsensical-housing-policy-from-reform",
       "titleHi": "सुधार से निरर्थक आवास नीति | संक्षिप्त पत्र",
       "excerptHi": "विदेशी मूल के नागरिक | एक दिल को छू लेने वाला आगंतुक | संयुक्त राज्य अमेरिका के ट्रम्प | नाम में क्या है? | बाधाओं के बावजूद हमारा पहला बच्चा 30 साल पहले सिंगापुर में पैदा हुआ था, बिना किसी गलती के। यूके के नागरिकों के रूप में, हम...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b2649b6ee94835d4897bd148816e154c28393ac2",
@@ -1242,7 +1636,7 @@
       "guid": "https://www.theguardian.com/environment/2026/aug/30/why-solar-bonds-are-a-bright-idea",
       "titleHi": "सोलर बॉन्ड एक उज्ज्वल विचार क्यों हैं | पत्र",
       "excerptHi": "एक वित्तीय मॉडल जो कई मकान मालिकों के लिए सौर पैनल स्थापित करने की लागत में कटौती कर सकता है, उसका स्वागत एलेक्सिस अब्रामसन द्वारा किया जाता है। रूफटॉप सौर को अधिक किफायती बनाने के लिए \"सौर बॉन्ड\" का उपयोग करने का यूके का प्रस्ताव एक स्मार्ट समाधान है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0bc4621f59731d7843d6da847ca416e80be3fe9b",
