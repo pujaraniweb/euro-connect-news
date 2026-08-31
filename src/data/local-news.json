@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:12:08.770Z",
+  "generatedAt": "2026-08-31T03:45:16.688Z",
   "india": [
     {
       "id": "0bc4621f59731d7843d6da847ca416e80be3fe9b",
@@ -215,6 +215,48 @@
   ],
   "usa": [
     {
+      "id": "556c91f3464575ff57e5471a04401d4ea6cc0e4f",
+      "slug": "how-the-us-canada-trade-war-is-being-felt-on-both-sides-of-t-556c91",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
+      "excerpt": "The US-Canada trade war is being felt on both sides of the border.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b95/live/4a224cf0-a4af-11f1-aed2-8d6da8d75094.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-08-31T00:05:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o#0",
+      "titleHi": "सीमा के दोनों किनारों पर अमेरिका - कनाडा व्यापार युद्ध कैसे महसूस किया जा रहा है",
+      "excerptHi": "अमेरिका - कनाडा व्यापार युद्ध सीमा के दोनों तरफ महसूस किया जा रहा है।",
+      "archived": false
+    },
+    {
+      "id": "8fa061b59a1f0280b6e3f1c7828f2c1320221258",
+      "slug": "gbs-samuel-earns-first-win-at-a-grand-slam---but-nervous-nor-8fa061",
+      "title": "GB's Samuel earns first win at a Grand Slam - but 'nervous' Norrie beaten",
+      "excerpt": "British qualifier Toby Samuel breaks more new ground with a dominant victory over Tomas Machac on his US Open debut.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f5/live/78c791d0-a4ca-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T23:30:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/c8045eyd84mo#0",
+      "titleHi": "जीबी के सैमुअल ने ग्रैंड स्लैम में पहली जीत हासिल की - लेकिन 'नर्वस' नॉरी को हराया",
+      "excerptHi": "ब्रिटिश क्वालीफायर टोबी सैमुअल ने यूएस ओपन में अपने पदार्पण पर टॉमस माचैक पर शानदार जीत के साथ एक और नया आधार बनाया।",
+      "archived": false
+    },
+    {
       "id": "8b9fda669426d206488d0574eed98080d4ffeaaa",
       "slug": "trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-8b9fda",
       "title": "Trump hits out at NBC journalist Kristen Welker, calling for her to face 'rebuke or punishment'",
@@ -383,46 +425,6 @@
       "titleHi": "‘उसे बजरे के खंभे से नहीं छुएंगे ': मिलो यियानोपोलोस को ब्रिटेन की दक्षिणपंथी विंग के साथ फिट होने के लिए संघर्ष का सामना करना पड़ता है",
       "excerptHi": "कहा जाता है कि अमेरिका से निर्वासित किए गए ‘ऑल्ट - राइट’ आंदोलनकारी और पूर्व ट्रम्प समर्थक जीबी न्यूज एंड रिफॉर्म के लिए बहुत चरम हैं, क्योंकि ट्रम्प प्रशासन द्वारा अमेरिका से निर्वासित किए जाने के बाद वह ब्रिटेन वापस आ गया है, दूर - दराज़ …",
       "archived": false
-    },
-    {
-      "id": "f9b4968163cc984a47bb5257f18b4d664ca51006",
-      "slug": "us-open-tennis-2026-norrie-and-medvedev-in-action-pegula-adv-f9b496",
-      "title": "US Open tennis 2026: Norrie and Medvedev in action, Pegula advances on day one – live",
-      "excerpt": "How the US Open became obscenely expensive Follow us on Bluesky | And you can mail Graham Krejcikova gets in a muddle after squandering a 40-0 lead on serve. Deuce. She fights back though. Wins the game with a lovely…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Graham Searles",
-      "image": "https://i.guim.co.uk/img/media/a0272df482492cb56a5b75caec54a585b40ddb03/236_0_2698_2158/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=d82bba9ddfc2be966db2dfa301285b94",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T17:37:25.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
-      "guid": "https://www.theguardian.com/sport/live/2026/aug/30/us-open-tennis-2026-pegula-norrie-and-medvedev-in-action-on-day-one-live",
-      "titleHi": "यूएस ओपन टेनिस 2026: नोरी और मेदवेदेव एक्शन में, पेगुला पहले दिन आगे – LIVE",
-      "excerptHi": "कैसे यूएस ओपन अश्लील रूप से महंगा हो गया ब्लूस्की पर हमारा अनुसरण करें | और आप सेवा पर 40 -0 की बढ़त गंवाने के बाद ग्राहम क्रेजिकिकोवा को एक उलझन में डाल सकते हैं। ड्यूस. हालांकि वह वापस लड़ती है. एक प्यारे से खेल जीतता है...",
-      "archived": false
-    },
-    {
-      "id": "8e3412e5f1cab7db792231c090caeef19a482fb5",
-      "slug": "manchester-united-5-2-ipswich-town-premier-league-live-8e3412",
-      "title": "Manchester United 5-2 Ipswich Town: Premier League – live",
-      "excerpt": "Premier League updates from the 4.30pm (BST) kick-off Live scoreboard | Mail Tim and follow us over on Bluesky Out come the players, some of them holding babes in arms – including Marcus Rashford, who has a big smile on…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Tim de Lisle",
-      "image": "https://i.guim.co.uk/img/media/5ecf7ec80a7b09f3ef32f5232f5c6f974b0099ab/1575_559_3682_2946/master/3682.jpg?width=140&quality=85&auto=format&fit=max&s=836e80ba81b0ff4a72e70e4fb10b1e4d",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T17:33:47.000Z",
-      "sourceUrl": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "guid": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
-      "titleHi": "मैनचेस्टर यूनाइटेड 5 -2 इप्सविच टाउन: प्रीमियर लीग – LIVE",
-      "excerptHi": "शाम 4.30बजे (BST) किक - ऑफ लाइव स्कोरबोर्ड से प्रीमियर लीग अपडेट | मेल टिम और ब्लूस्की आउट पर हमें फॉलो करें खिलाड़ी आते हैं, उनमें से कुछ हथियारों में लड़कियां पकड़े हुए हैं – जिनमें मार्कस रैशफोर्ड भी शामिल हैं, जिनकी...",
-      "archived": false
     }
   ],
   "europe": [
@@ -551,7 +553,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods",
       "titleHi": "चीन में बाढ़ के बाद लापता हुए 261 विदेशियों में पंद्रह ब्रिटिश भी शामिल",
       "excerptHi": "तिब्बत और नेपाल के बीच लापता ब्रिटिशों की कुल संख्या 48 है क्योंकि बीजिंग 2,100 से अधिक बचाव कार्यकर्ताओं को जुटाता है नेपाल - तिब्बत फ्लैश फ्लड – नवीनतम अपडेट चीन में पंद्रह ब्रिटिश नागरिकों के लापता होने की सूचना है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5128e2896c09ad870c16223c39429b6f3ad696b8",
@@ -720,7 +722,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/headteacher-saves-children-flash-flood-nepal",
       "titleHi": "नेपाल में भयानक बाढ़ से हेड टीचर ने 900 बच्चों को बचाया",
       "excerptHi": "राजेंद्र दावड़ी ने छात्रों को अपस्ट्रीम से चेतावनी प्राप्त करने के बाद कुछ क्षणों के लिए उच्च भूमि का आदेश दिया नेपाल में एक हेड टीचर ने पानी की एक घातक दीवार से टकराने से पहले एक स्कूल के क्षणों से 900 बच्चों को निकाला...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1dc20f25425218f96dcaac7fe4a4073f018d1aac",
@@ -740,7 +742,7 @@
       "guid": "https://www.theguardian.com/world/2026/aug/30/britons-foreigners-missing-china-tibet-nepal-floods",
       "titleHi": "चीन में बाढ़ के बाद लापता हुए 261 विदेशियों में पंद्रह ब्रिटिश भी शामिल",
       "excerptHi": "तिब्बत और नेपाल के बीच लापता ब्रिटिशों की कुल संख्या 48 है क्योंकि बीजिंग 2,100 से अधिक बचाव कार्यकर्ताओं को जुटाता है नेपाल - तिब्बत फ्लैश फ्लड – नवीनतम अपडेट चीन में पंद्रह ब्रिटिश नागरिकों के लापता होने की सूचना है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f667295064e53e33dc6aeb9f5aaa44e8a83662c5",
@@ -760,7 +762,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/cm2merdd254o#0",
       "titleHi": "नैदानिक इंग्लैंड की पाकिस्तान पर श्रृंखला जीतने की शक्ति",
       "excerptHi": "इंग्लैंड ने एक बार फिर पाकिस्तान को लॉर्ड्स में दूसरे टेस्ट के चौथे दिन श्रृंखला जीतने के लिए उकसाया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "355cf2841be76ea76d3605edad68ad88aa75ba6f",
@@ -780,7 +782,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/articles/c70d87p74pxo#0",
       "titleHi": "'एक साल के लिए उनका सर्वश्रेष्ठ टेस्ट' - इंग्लैंड - पाकिस्तान के खिलाड़ियों की रेटिंग",
       "excerptHi": "12 महीनों में अपना सर्वश्रेष्ठ टेस्ट प्रदर्शन किसने किया? चयनकर्ताओं का परीक्षण करने के लिए कौन सा बल्लेबाज एक मामला बना रहा है? पाकिस्तान पर इंग्लैंड की जीत से खिलाड़ियों की रेटिंग।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bad1ddce6476ceb8f4fc1e4c71d6c3853d5f7473",
@@ -1134,7 +1136,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo#1",
       "titleHi": "वॉटकिंस ने सऊदी की ओर अल - हिलाल में £ 51 मिलियन की यात्रा पूरी की",
       "excerptHi": "ऑली वाटकिंस ने एस्टन विला से सऊदी प्रो लीग की ओर अल हिलाल में अपना £ 51 मिलियन का कदम पूरा किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e22a0dc02a930dcd2a8e9246dff2480ecabb8636",
@@ -1485,6 +1487,48 @@
   ],
   "oceania": [
     {
+      "id": "adb69c896bb873af2d1eab715861bfbbfc03a450",
+      "slug": "three-point-dunks-and-mid-court-shots-worth-four-how-austral-adb69c",
+      "title": "Three-point dunks and mid-court shots worth four: how Australia’s NBL is seeking to shake up traditional rules",
+      "excerpt": "Basketball Australia refers proposed rule changes to Fiba Idea aimed at delivering more highlights met with mixed reactions The slam dunk has long been a staple of basketball, its biggest billboard, showcasing the…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jack Snape",
+      "image": "https://i.guim.co.uk/img/media/48bff30e0e92f0ee1a980804e41a280b673563eb/543_0_4245_3396/master/4245.jpg?width=140&quality=85&auto=format&fit=max&s=70fe06d9283f24e35013128b2638c14f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-31T02:58:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/31/three-point-dunks-australian-nbl-basketball-rule-changes",
+      "guid": "https://www.theguardian.com/sport/2026/aug/31/three-point-dunks-australian-nbl-basketball-rule-changes",
+      "titleHi": "चार मूल्य के तीन - पॉइंट डंक और मिड - कोर्ट शॉट्स: ऑस्ट्रेलिया का एनबीएल पारंपरिक नियमों को कैसे हिला रहा है",
+      "excerptHi": "बास्केटबॉल ऑस्ट्रेलिया फिबा आइडिया में प्रस्तावित नियम परिवर्तनों को संदर्भित करता है जिसका उद्देश्य मिश्रित प्रतिक्रियाओं से मिले अधिक हाइलाइट्स को वितरित करना है। स्लैम डंक लंबे समय से बास्केटबॉल का एक प्रमुख हिस्सा रहा है, जो इसका सबसे बड़ा बिलबोर्ड है, जो दिखाता है...",
+      "archived": false
+    },
+    {
+      "id": "1eac6c582accdd52641d7bf4fabbde38d3677895",
+      "slug": "victorian-prisoners-to-be-sent-out-to-repair-roads-under-lab-1eac6c",
+      "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
+      "excerpt": "Inmates would take over ‘basic’ road maintenance duties, allowing skilled crews to focus on fixing 500,000 potholes Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "image": "https://i.guim.co.uk/img/media/73072e232729e9e5b2619fbe84f4dee47245dff1/653_0_6530_5224/master/6530.jpg?width=140&quality=85&auto=format&fit=max&s=63609aa6b6559f87dc4cb29f10a3990b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-31T01:04:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
+      "titleHi": "लेबर की गड्ढे योजना के तहत सड़कों की मरम्मत के लिए विक्टोरियन कैदियों को भेजा जाएगा",
+      "excerptHi": "कैदी ‘बुनियादी‘ सड़क रखरखाव कर्तव्यों को संभालेंगे, जिससे कुशल चालक दल 500,000 गड्ढों को ठीक करने पर ध्यान केंद्रित कर सकते हैं नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "e6412fed858b49a3496f83c8f26ce9996091afdc",
       "slug": "australia-news-live-joyce-calls-one-nation-byelection-win-de-e6412f",
       "title": "Australia news live: Joyce calls One Nation byelection win ‘decisive’ and ‘humbling’; Oscar Jenkins gives first interview since Russia conviction",
@@ -1526,6 +1570,29 @@
       "titleHi": "ऑस्ट्रेलिया के महान मुक्केबाज टोनी मुंडाइन का 75 साल की उम्र में निधन",
       "excerptHi": "पूर्व मुक्केबाज और एनआरएल स्टार एंथनी मुंडाइन के पिता की रविवार को दिल का दौरा पड़ने से मौत हो गई चेतावनी: आदिवासी और टोरेस स्ट्रेट आइलैंडर पाठकों को सलाह दी जाती है कि इस लेख में स्वदेशी की छवियां और नाम शामिल हैं...",
       "archived": false
+    },
+    {
+      "id": "0c626d1710f8312b02583a32b073c9f44bd98874",
+      "slug": "smartglasses-should-automatically-blur-peoples-faces-while-f-0c626d",
+      "title": "Smartglasses should automatically blur people’s faces while filming, Australia’s online safety regulator says",
+      "excerpt": "Smartglasses with cameras can benefit the vision impaired but companies might pit ‘accessibility benefits against safety and privacy’, eSafety says Follow our Australia news live blog for latest updates Get our breaking…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Josh Taylor Technology reporter",
+      "image": "https://i.guim.co.uk/img/media/4a486dc22d1f66eddb54d2e1e16341f360057bca/12_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=88c3bda19855d7b75e1de4d0849107d7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-30T15:00:01.000Z",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/31/smart-glasses-automatic-blur-faces-meta-ray-ban-kmart-privacy",
+      "guid": "https://www.theguardian.com/technology/2026/aug/31/smart-glasses-automatic-blur-faces-meta-ray-ban-kmart-privacy",
+      "titleHi": "Smartglasses should automatically blur people’s faces while filming, Australia’s online safety regulator says",
+      "excerptHi": "Smartglasses with cameras can benefit the vision impaired but companies might pit ‘accessibility benefits against safety and privacy’, eSafety says Follow our Australia news live blog for latest updates Get our breaking…",
+      "archived": true
     },
     {
       "id": "8b83ccb811576f48929efbad9721d723f3dfb64e",
@@ -1639,76 +1706,51 @@
       "titleHi": "नेपाल में बचे लोगों को खोजने की दौड़ में परिवार आशा और निराशा को संतुलित करते हैं क्योंकि 41 ऑस्ट्रेलियाई अभी भी लापता हैं",
       "excerptHi": "एक शिक्षण अस्पताल की दीवारें अज्ञात पीड़ितों की तस्वीरों से भरी हुई हैं क्योंकि अधिकारी डीएनए नमूने एकत्र करते हैं और शवों को भरने से पहले दफनाने की योजना बनाते हैं नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे …",
       "archived": true
-    },
-    {
-      "id": "8c5999271c5f81303fd118d3adad42924ca97506",
-      "slug": "addisu-gobena-smashes-sydney-marathon-record-as-jepchirchir-8c5999",
-      "title": "Addisu Gobena smashes Sydney Marathon record as Jepchirchir wins fourth women’s major",
-      "excerpt": "Ethiopian former javelin thrower claims men’s race in 2hr 4min 42sec Kenyan adds harbourside crown to Boston, New York and London titles Ethiopia’s Addisu Gobena surged to a record-breaking victory in the men’s race at…",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "author": "Associated Press",
-      "image": "https://i.guim.co.uk/img/media/d13abc6f95db1d910d9086efbabc408945d5cdc8/234_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=70f2f1aeb3cf38ea8a2920d6caca400b",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T00:27:53.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/2026/aug/30/sydney-marathon-major-addisu-gobena-peres-jepchirchir",
-      "guid": "https://www.theguardian.com/sport/2026/aug/30/sydney-marathon-major-addisu-gobena-peres-jepchirchir",
-      "titleHi": "अदीसु गोबेना ने सिडनी मैराथन का रिकॉर्ड तोड़ा, जेपचिरचिर ने चौथी महिला मेजर का खिताब जीता",
-      "excerptHi": "इथियोपिया के पूर्व भाला फेंक एथलीट का दावा है कि 2hr 4min 42sec में पुरुषों की दौड़ केन्याई ने बोस्टन, न्यूयॉर्क और लंदन खिताब के लिए हार्बरसाइड ताज जोड़ा इथियोपिया के अदीसु गोबेना ने पुरुषों की दौड़ में रिकॉर्ड तोड़ जीत हासिल की...",
-      "archived": true
-    },
-    {
-      "id": "1686f7294433968a8881f693fbe61ce003c205eb",
-      "slug": "one-nation-claims-victory-in-secret-harbour-byelection-in-we-1686f7",
-      "title": "One Nation claims victory in Secret Harbour byelection in Western Australia",
-      "excerpt": "One Nation candidate Luke Herdegen secures 57% of the vote after preferences as Barnaby Joyce says ‘politics has changed’ Follow our Australia news live blog for latest updates Get our breaking news email, free app or…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Krishani Dhanji",
-      "image": "https://i.guim.co.uk/img/media/3e3cf0448660f5e084369101cb80369f69c1e465/0_0_6563_5253/master/6563.jpg?width=140&quality=85&auto=format&fit=max&s=6c8a2a4b661146747e95cd1ae0297ba2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T00:00:28.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
-      "guid": "https://www.theguardian.com/australia-news/2026/aug/30/one-nation-claims-victory-on-secret-harbour-byelection-in-western-australia",
-      "titleHi": "वन नेशन ने पश्चिमी ऑस्ट्रेलिया में सीक्रेट हार्बर उपचुनाव में जीत का दावा किया",
-      "excerptHi": "वन नेशन के उम्मीदवार ल्यूक हर्डगेन को वरीयताओं के बाद 57% वोट मिले हैं क्योंकि बर्नाबी जॉयस का कहना है कि ‘राजनीति बदल गई है’ नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या...",
-      "archived": true
-    },
-    {
-      "id": "0a993e0b1191590d76a146aaea1961fc71a73553",
-      "slug": "penge-tied-for-lead-in-rain-delayed-british-masters-0a993e",
-      "title": "Penge tied for lead in rain-delayed British Masters",
-      "excerpt": "England's Marco Penge and New Zealand's Daniel Hillier jointly lead after play is suspended during round three at a weather-hit Belfry.",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "author": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3939/live/e3a22720-a3e1-11f1-8a10-d905f57c4b9c.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-29T20:43:49.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cdj4gx2nv7xo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/golf/articles/cdj4gx2nv7xo#5",
-      "titleHi": "Penge tied for lead in rain-delayed British Masters",
-      "excerptHi": "England's Marco Penge and New Zealand's Daniel Hillier jointly lead after play is suspended during round three at a weather-hit Belfry.",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "1eac6c582accdd52641d7bf4fabbde38d3677895",
+      "slug": "victorian-prisoners-to-be-sent-out-to-repair-roads-under-lab-1eac6c",
+      "title": "Victorian prisoners to be sent out to repair roads under Labor’s pothole plan",
+      "excerpt": "Inmates would take over ‘basic’ road maintenance duties, allowing skilled crews to focus on fixing 500,000 potholes Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Benita Kolovos Victorian state correspondent",
+      "image": "https://i.guim.co.uk/img/media/73072e232729e9e5b2619fbe84f4dee47245dff1/653_0_6530_5224/master/6530.jpg?width=140&quality=85&auto=format&fit=max&s=63609aa6b6559f87dc4cb29f10a3990b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-31T01:04:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
+      "guid": "https://www.theguardian.com/australia-news/2026/aug/31/victorian-prisoners-to-be-sent-out-to-repair-roads-under-labors-pothole-plan",
+      "titleHi": "लेबर की गड्ढे योजना के तहत सड़कों की मरम्मत के लिए विक्टोरियन कैदियों को भेजा जाएगा",
+      "excerptHi": "कैदी ‘बुनियादी‘ सड़क रखरखाव कर्तव्यों को संभालेंगे, जिससे कुशल चालक दल 500,000 गड्ढों को ठीक करने पर ध्यान केंद्रित कर सकते हैं नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "a2cae271f79d59d6feea477ea643344c6b6e5016",
+      "slug": "at-least-15-people-may-be-missing-after-flash-flood-in-arizo-a2cae2",
+      "title": "At least 15 people may be missing after flash flood in Arizona’s Grand Canyon",
+      "excerpt": "Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say At least 15 people may be missing or unaccounted for after a major flash flood swept through the Grand Canyon national…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Coral Murphy Marcos and agencies",
+      "image": "https://i.guim.co.uk/img/media/be6ab41ca13f50a425306a5a81b41eeec8ff353a/252_0_7560_6048/master/7560.jpg?width=140&quality=85&auto=format&fit=max&s=2d578a4b7113029e263213832c43667b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-08-31T00:01:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
+      "guid": "https://www.theguardian.com/us-news/2026/aug/30/grand-canyon-flash-flood-arizona-people-missing-evacuated",
+      "titleHi": "एरिज़ोना के ग्रैंड कैन्यन में अचानक आई बाढ़ के बाद कम से कम 15 लोग लापता हो सकते हैं",
+      "excerptHi": "ब्राइट एंजेल कैन्यन और फैंटम रैंच के पास फ्लैश - फ्लड इवेंट के बाद निकाले गए दर्जनों, अधिकारियों का कहना है कि ग्रैंड कैन्यन राष्ट्रीय के माध्यम से एक बड़ी फ्लैश फ्लड बहने के बाद कम से कम 15 लोग लापता या बेहिसाब हो सकते हैं...",
+      "archived": false
+    },
     {
       "id": "e6412fed858b49a3496f83c8f26ce9996091afdc",
       "slug": "australia-news-live-joyce-calls-one-nation-byelection-win-de-e6412f",
@@ -1873,52 +1915,6 @@
       "guid": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo#0",
       "titleHi": "उत्तरी साइप्रस के पास नौका पलटने से आठ लोगों की मौत हो गई और अन्य लापता हैं",
       "excerptHi": "बंदरगाह छोड़ने के बाद लगभग 270 लोगों को ले जाने वाली एक नौका के पलटने के बाद एक खोज और बचाव अभियान चल रहा है।",
-      "archived": false
-    },
-    {
-      "id": "615e17ab2505ef2519c7e284ba597873aa54a75f",
-      "slug": "prisons-one-major-event-from-disaster-after-u-turn-on-early-615e17",
-      "title": "Prisons ‘one major event from disaster’ after U-turn on early release scheme",
-      "excerpt": "Critics say the move, which will keep PC Harper’s killers in jail, leaves number of prison spaces ‘too close to the bone’ PC Andrew Harper’s killers will remain behind bars after a critical intervention by Andy Burnham,…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Alexandra Topping Political correspondent",
-      "image": "https://i.guim.co.uk/img/media/f1dd397fe21a5765771c44122d7f95512dd1d392/1198_0_5992_4796/master/5992.jpg?width=140&quality=85&auto=format&fit=max&s=e2d12f3eaffcd94da688ecc29ac10a8a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T18:50:27.000Z",
-      "sourceUrl": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
-      "guid": "https://www.theguardian.com/society/2026/aug/30/pc-harper-killers-prison-early-release-scheme",
-      "titleHi": "शीघ्र रिहाई योजना पर यू - टर्न के बाद जेल ‘आपदा से एक प्रमुख घटना'",
-      "excerptHi": "आलोचकों का कहना है कि यह कदम, जो पीसी हार्पर के हत्यारों को जेल में रखेगा, जेल की जगहों की संख्या को ‘हड्डी के बहुत करीब’ छोड़ देता है एंडी बर्नहम के एक महत्वपूर्ण हस्तक्षेप के बाद पीसी एंड्रयू हार्पर के हत्यारे सलाखों के पीछे रहेंगे,...",
-      "archived": false
-    },
-    {
-      "id": "9978b4a0c0a32972503473c9712931fabea0ec76",
-      "slug": "man-killed-by-falling-sign-at-christian-festival-named-as-ch-9978b4",
-      "title": "Man killed by falling sign at Christian festival named as church pays tribute",
-      "excerpt": "Robert Guanco, 41, a pastor at Jesus Living Water church in Eastbourne, described as having ‘touched many lives’ A 41-year-old man who died after a large wooden sign fell at a Christian festival on Friday has been named…",
-      "category": "World",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Harry Cockburn",
-      "image": "https://i.guim.co.uk/img/media/3019148d087166ea76672aa0807e3758a3cf59b2/38_201_1339_1071/master/1339.jpg?width=140&quality=85&auto=format&fit=max&s=090e437dd8753bbe0a5be1da6f46585a",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-08-30T18:42:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
-      "guid": "https://www.theguardian.com/uk-news/2026/aug/30/man-killed-christian-festival-named-church-tribute",
-      "titleHi": "चर्च के रूप में नामित मसीही त्योहार पर चिह्न गिरने से मारे गए व्यक्ति ने श्रद्धांजलि अर्पित की",
-      "excerptHi": "ईस्टबॉर्न के जीसस लिविंग वाटर चर्च के एक पादरी, 41 वर्षीय रॉबर्ट गुआंको ने 'कई जीवनों को छूने‘ के रूप में वर्णित किया है। शुक्रवार को एक ईसाई त्योहार पर लकड़ी के एक बड़े चिह्न के गिरने से 41 वर्षीय व्यक्ति की मृत्यु हो गई, जिसका नाम रखा गया है...",
       "archived": false
     }
   ]
