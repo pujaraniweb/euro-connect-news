@@ -1,8 +1,691 @@
 {
-  "generatedAt": "2026-09-03T16:43:29.449Z",
+  "generatedAt": "2026-09-03T18:21:59.991Z",
   "retentionDays": 45,
-  "total": 5496,
+  "total": 5537,
   "items": [
+    {
+      "id": "57a16200212d930cbd61bbca4535427c3913bc91",
+      "slug": "fifa-accuses-uefa-of-smear-campaign-against-infantino-57a162",
+      "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "excerpt": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T18:19:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do#0",
+      "titleHi": "फीफा ने यूईएफए पर इन्फैंटिनो के खिलाफ 'धब्बा अभियान' का आरोप लगाया",
+      "excerptHi": "फीफा के अध्यक्ष जियानी इन्फैंटिनो द्वारा निजी निवेशकों को विश्व कप में हिस्सेदारी बेचने की योजना को रद्द करने के बाद से शासी निकायों को झटका लगा है।",
+      "archived": false
+    },
+    {
+      "id": "8f9808d716d1da32db3e8d0abff359d8ced34ebd",
+      "slug": "a-deadly-and-costly-climate-crisis-in-nepal-8f9808",
+      "title": "A Deadly and Costly Climate Crisis in Nepal",
+      "excerpt": "Readers connect the Nepal disaster to the effects of climate change. Also: Afghan girls’ schools; a bad deal in Yosemite; helping farmers; saving wild horses.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02int-nepal-aid-tvzq/02int-nepal-aid-tvzq-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T18:18:19.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/opinion/nepal-climate.html",
+      "guid": "https://www.nytimes.com/2026/09/03/opinion/nepal-climate.html",
+      "titleHi": "नेपाल में एक घातक और महंगा जलवायु संकट",
+      "excerptHi": "पाठक नेपाल आपदा को जलवायु परिवर्तन के प्रभावों से जोड़ते हैं। इसके अलावा: अफगान लड़कियों के स्कूल; योसेमाइट में एक बुरा सौदा; किसानों की मदद करना; जंगली घोड़ों को बचाना।",
+      "archived": false
+    },
+    {
+      "id": "fc06c5afd2a1e8140ea53339c4edfd77cc6fb95e",
+      "slug": "samsung8217s-beloved-q-series-sound-system-is-hundreds-off-f-fc06c5",
+      "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+      "excerpt": "Samsung’s Q990F is a full home audio system in a single box. | Image: The Verge Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Q990F-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T18:14:07.000Z",
+      "sourceUrl": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "guid": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "titleHi": "सैमसंग का प्यारा क्यू सीरीज़ साउंड सिस्टम लेबर डे के लिए सैकड़ों की छूट पर है",
+      "excerptHi": "सैमसंग का Q990F एक सिंगल बॉक्स में एक फुल होम ऑडियो सिस्टम है। | छवि: द वर्ज रिसर्चिंग, खरीदना, फिर अंत में अपने टीवी के लिए एक ध्वनि प्रणाली को इकट्ठा करना चुनौतीपूर्ण है, लेकिन ऐसा होना जरूरी नहीं है। यदि आप सबसे अच्छे में से एक चाहते हैं...",
+      "archived": false
+    },
+    {
+      "id": "5b244ebb7e79975d910d0b5c90a1b10a25548067",
+      "slug": "what-happened-when-gloria-steinem-was-22-pregnant-and-fleein-5b244e",
+      "title": "What Happened When Gloria Steinem Was 22, Pregnant and Fleeing Her Old Life",
+      "excerpt": "Gloria Steinem got to be who she was because of a pre-Roe abortion.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Jill Filipovic",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T18:12:37.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html",
+      "guid": "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html",
+      "titleHi": "क्या हुआ जब ग्लोरिया स्टेनम 22 वर्ष की थी, गर्भवती थी और अपने पुराने जीवन से भाग रही थी",
+      "excerptHi": "ग्लोरिया स्टीनेम को वह बनना पड़ा जो वह रो - रो - पूर्व गर्भपात के कारण थी।",
+      "archived": false
+    },
+    {
+      "id": "b38d2f0c8406b9bfb0225df766154f296d7706f6",
+      "slug": "far-right-israeli-minister-outlines-plan-for-removal-of-all-b38d2f",
+      "title": "Far-right Israeli minister outlines plan for removal of all Palestinians from Gaza",
+      "excerpt": "Itamar Ben-Gvir claims proposal for illegal forced displacement of 2 million people is ‘realistic’ and ‘concrete’ Israel’s far-right national security minister has set out a plan for the illegal forced displacement of…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Peter Beaumont",
+      "image": "https://i.guim.co.uk/img/media/8f9fd51248c37bfdf9c62bf36dc64b008d33f469/156_0_4995_3996/master/4995.jpg?width=140&quality=85&auto=format&fit=max&s=bdc1a7936ef77271ffcab34a1f1b1e64",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T18:01:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "guid": "https://www.theguardian.com/world/2026/sep/03/israel-far-right-minister-itamar-ben-gvir-plan-removal-palestinians-gaza",
+      "titleHi": "सुदूर - दक्षिणपंथी इजरायली मंत्री ने गाजा से सभी फिलिस्तीनियों को हटाने की योजना की रूपरेखा तैयार की",
+      "excerptHi": "इतामार बेन - गवीर का दावा है कि 20 लाख लोगों के अवैध रूप से जबरन विस्थापन का प्रस्ताव ‘यथार्थवादी’ है और ‘ठोस’ इज़राइल के दूर - दराज के राष्ट्रीय सुरक्षा मंत्री ने अवैध रूप से जबरन विस्थापन के लिए एक योजना तैयार की है...",
+      "archived": false
+    },
+    {
+      "id": "0e473f34711ce9d3ac25b285f7fb150bdc1794e2",
+      "slug": "openais-next-big-ai-model-has-entered-the-agi-era-0e473f",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "excerpt": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T18:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "guid": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "titleHi": "ओपनएआई का अगला बड़ा एआई मॉडल ‘एजीआई युग में प्रवेश कर चुका है’",
+      "excerptHi": "ओपनएआई का अगला बड़ा मॉडल यहां है: जीपीटी -6 एस्ट्रा। कंपनी इसे साइबर सुरक्षा, पेशेवर काम, सॉफ्टवेयर इंजीनियरिंग, विज्ञान और कंप्यूटर उपयोग जैसे क्षेत्रों के लिए \"क्षमता में पीढ़ीगत छलांग\" कहती है। ओपनएआई के रूप में...",
+      "archived": false
+    },
+    {
+      "id": "bbb83b524ddf953a702cde6737fab026da99f843",
+      "slug": "vuelta-a-espaa-jakob-omrzel-grabs-first-grand-tour-stage-win-bbb83b",
+      "title": "Vuelta a España: Jakob Omrzel grabs first Grand Tour stage win as Enric Mas extends lead",
+      "excerpt": "Slovenian wins stage 12 as Mas strengthens position Tim Merlier claims stage two in Tour of Britain Spain’s Enric Mas extended his overall lead in the Vuelta a España with a late attack on his rivals ⁠as Slovenia’s…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/959744bf1f12f475749304ef7521511ec98c96fc/316_0_3156_2525/master/3156.jpg?width=140&quality=85&auto=format&fit=max&s=7b489981af3336dc45bd36440e6edd2c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:58:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/03/vuelta-a-espana-omrzel-grabs-first-grand-tour-stage-win-as-mas-extends-lead",
+      "guid": "https://www.theguardian.com/sport/2026/sep/03/vuelta-a-espana-omrzel-grabs-first-grand-tour-stage-win-as-mas-extends-lead",
+      "titleHi": "Vuelta a España: एनरिक मास की बढ़त के साथ जैकब ओमर्ज़ेल ने पहली ग्रैंड टूर स्टेज जीत हासिल की",
+      "excerptHi": "स्लोवेनियाई ने स्टेज 12 जीता क्योंकि एमएएस स्थिति को मजबूत करता है टिम मर्लर ने ब्रिटेन के दौरे में दूसरे चरण का दावा किया स्पेन के एनरिक मास ने अपने प्रतिद्वंद्वियों पर देर से हमले के साथ वुल्टा - ए - स्पेन में अपनी समग्र बढ़त बढ़ा दी।",
+      "archived": false
+    },
+    {
+      "id": "3653e627cfbc7d53459f725ba527ddfcda291955",
+      "slug": "so-scary-massive-hail-and-torrential-rain-causes-chaos-in-to-3653e6",
+      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
+      "excerpt": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09c/live/d9b5a550-a7b7-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T17:52:37.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo#0",
+      "titleHi": "‘इतना डरावना ': भारी ओलावृष्टि और मूसलाधार बारिश टोरंटो में अराजकता का कारण बनती है",
+      "excerptHi": "पूरे क्षेत्र से साझा किए गए वीडियो में कुछ ही मिनटों में बारिश और ओले गिरते हुए सड़कों को देखा जा सकता है।",
+      "archived": false
+    },
+    {
+      "id": "62a156b976ebd3df75d0dd8f3b3ec8f22c23f1b2",
+      "slug": "england-power-to-easy-victory-and-claim-series-win-over-irel-62a156",
+      "title": "England power to easy victory and claim series win over Ireland",
+      "excerpt": "England seal a series win, thrashing Ireland by six wickets with 27 overs to spare in the second One Day International in Derby.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/bc1f9870-a7c1-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:50:48.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/c2l8zjrrz7do?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/videos/c2l8zjrrz7do#3",
+      "titleHi": "इंग्लैंड की आसान जीत और आयरलैंड पर श्रृंखला जीत का दावा करने की शक्ति",
+      "excerptHi": "इंग्लैंड ने डर्बी में दूसरे एक दिवसीय अंतर्राष्ट्रीय मैच में आयरलैंड को 27 ओवर शेष रहते छह विकेट से हराकर श्रृंखला जीत ली।",
+      "archived": false
+    },
+    {
+      "id": "801011ca1240d528c77cf8c38cb729e557e7b821",
+      "slug": "the-guardian-view-on-press-freedom-to-defend-democracy-stand-801011",
+      "title": "The Guardian view on press freedom: to defend democracy, stand up for journalists | Editorial",
+      "excerpt": "The lack of justice for Daphne Caruana Galizia in Malta casts a shadow on reporters everywhere The acquittal of Yorgen Fenech, who was on trial in Malta for involvement in the murder of the journalist Daphne Caruana…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Editorial",
+      "image": "https://i.guim.co.uk/img/media/8c429f1eb94fd677059b676eade7834bc9dce9ba/348_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=9a28dc6c05db587d3b385ac77fc9c5c3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:50:32.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-press-freedom-to-defend-democracy-stand-up-for-journalists",
+      "guid": "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-press-freedom-to-defend-democracy-stand-up-for-journalists",
+      "titleHi": "प्रेस की स्वतंत्रता पर गार्जियन का दृष्टिकोण: लोकतंत्र की रक्षा के लिए, पत्रकारों के लिए खड़े होना | संपादकीय",
+      "excerptHi": "माल्टा में Daphne Caruana Galizia के लिए न्याय की कमी हर जगह पत्रकारों पर छाया डालती है Yorgen Fenech को बरी करना, जो पत्रकार Daphne Caruana की हत्या में शामिल होने के लिए माल्टा में मुकदमा चला रहा था...",
+      "archived": false
+    },
+    {
+      "id": "9d8d5adaf2d35b8783c8b1970dcd877499832c5e",
+      "slug": "hundreds-gather-to-urge-scottish-government-to-pause-datacen-9d8d5a",
+      "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
+      "excerpt": "Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in world Kat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s…",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Patrick Greenfield and Aisha Down",
+      "image": "https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/838_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fd4aaba860372dd131ecd612ea28",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:48:48.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+      "guid": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+      "titleHi": "स्कॉटिश सरकार से डेटासेंटर बूम को रोकने का आग्रह करने के लिए सैकड़ों लोग इकट्ठा हुए",
+      "excerptHi": "विपक्ष प्रस्तावित कम से कम 20 परियोजनाओं के रूप में बढ़ता है, जिसमें फिफ़ में से एक को दुनिया में दूसरा सबसे बड़ा माना जाता है कैट जोन्स 2026 में स्कॉटलैंड के एरिन ब्रोकोविच के सबसे करीब हो सकता है। आर्थर की छाया में खड़ा होना...",
+      "archived": false
+    },
+    {
+      "id": "e4a1ce9ee168dfdc69fdab65c2eeda9155e2e04e",
+      "slug": "serbians-targeted-with-spyware-in-countrys-largest-documente-e4a1ce",
+      "title": "Serbians targeted with spyware in country’s ‘largest documented wave of surveillance’",
+      "excerpt": "Student protesters among those hacked, says digital rights group, though Aleksander Vučić’s government denies spying At least 14 people from across Serbian civil society were targeted with advanced spyware earlier this…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Aisha Down",
+      "image": "https://i.guim.co.uk/img/media/ae0aac5465ad3cebc026a1a93415ec31b229a2d8/475_0_4740_3793/master/4740.jpg?width=140&quality=85&auto=format&fit=max&s=6699fa729d5f5a8db700b8085df6cd2b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:48:36.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+      "guid": "https://www.theguardian.com/world/2026/sep/03/serbians-targeted-with-advanced-spyware",
+      "titleHi": "सर्बियाई देश की ‘निगरानी की सबसे बड़ी प्रलेखित लहर‘ में स्पाइवेयर के साथ लक्षित हैं",
+      "excerptHi": "डिजिटल राइट्स ग्रुप का कहना है कि हैक किए गए लोगों में छात्र प्रदर्शनकारी भी शामिल हैं, हालांकि अलेक्जेंडर वुचिक की सरकार ने जासूसी से इनकार किया सर्बियाई नागरिक समाज के कम से कम 14 लोगों को उन्नत स्पाइवेयर के साथ लक्षित किया गया था...",
+      "archived": false
+    },
+    {
+      "id": "2f0623104ea0f1fb48d2dc3dfeaf025eaa00e027",
+      "slug": "spurs-omit-richarlison-from-premier-league-squad-2f0623",
+      "title": "Spurs omit Richarlison from Premier League squad",
+      "excerpt": "Richarlison is left out of Tottenham's Premier League squad as he does not figure in the club's plans this season.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:46:55.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo#0",
+      "titleHi": "स्पर्स ने रिचार्लिसन को प्रीमियर लीग टीम से बाहर कर दिया",
+      "excerptHi": "रिचार्लिसन को टोटेनहम की प्रीमियर लीग टीम से बाहर रखा गया है क्योंकि वह इस सीज़न में क्लब की योजनाओं में शामिल नहीं हैं।",
+      "archived": false
+    },
+    {
+      "id": "afc5144038242f42b2d59dbc52762ee507825cc3",
+      "slug": "the-guardian-view-on-nigerias-kidnappings-a-country-cant-pro-afc514",
+      "title": "The Guardian view on Nigeria’s kidnappings: a country can’t prosper when going to school is a danger | Editorial",
+      "excerpt": "Abductions are resurging and may be spreading to new areas – with young children among the victims. A military response alone won’t work Early last month, Nigeria’s government announced the largest single-day hostage…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Editorial",
+      "image": "https://i.guim.co.uk/img/media/79e54eea51ccaede785f8c05c5277bc888fb6bea/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=77865dbf399c61cd0f31fd5e09d56962",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:44:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-nigerias-kidnappings-a-country-cant-prosper-when-going-to-school-is-a-danger",
+      "guid": "https://www.theguardian.com/commentisfree/2026/sep/03/the-guardian-view-on-nigerias-kidnappings-a-country-cant-prosper-when-going-to-school-is-a-danger",
+      "titleHi": "नाइजीरिया के अपहरणों पर अभिभावक का दृष्टिकोण: स्कूल जाने पर एक देश समृद्ध नहीं हो सकता है | संपादकीय",
+      "excerptHi": "अपहरण फिर से बढ़ रहे हैं और पीड़ितों में छोटे बच्चों के साथ नए क्षेत्रों में फैल सकते हैं। अकेले सैन्य प्रतिक्रिया काम नहीं करेगी पिछले महीने की शुरुआत में, नाइजीरिया की सरकार ने सबसे बड़े एक दिन के बंधक की घोषणा की...",
+      "archived": false
+    },
+    {
+      "id": "ca5a29e6bdd6ece24f09181a3cb283c9c7e8f1e6",
+      "slug": "wild-horse-nine-review-malkovich-and-rockwell-head-to-easter-ca5a29",
+      "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "excerpt": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a…",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Peter Bradshaw in Venice",
+      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=5f81a8a727003134158d5892270849ef",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:30:44.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+      "guid": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+      "titleHi": "वाइल्ड हॉर्स नाइन रिव्यू: मैकडोनाघ के एसिड ब्रोमैंस के लिए माल्कोविच और रॉकवेल ईस्टर आइलैंड जा रहे हैं",
+      "excerptHi": "वेनिस फिल्म फेस्टिवल: दो पुरुष, कुछ हिंसा, बहुत फ्रीव्हीलिंग चैट: अब तक, ऑस्कर विजेता लेखक - निर्देशक से इतना मानक किराया। लेकिन इस बार कॉमेडी और आकर्षण खून और माचिस से पतला महसूस कर सकते हैं यह एक…",
+      "archived": false
+    },
+    {
+      "id": "8235322a64a397497bfaa6684b3ee274f4868411",
+      "slug": "wong-stars-as-england-thump-ireland-to-seal-series-823532",
+      "title": "Wong stars as England thump Ireland to seal series",
+      "excerpt": "Issy Wong's first international five-wicket haul leads England to a six-wicket win over Ireland and seals the three-match series with a game to spare.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1238/live/eb05fd70-a7ba-11f1-b5cf-8556ae508a51.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:26:10.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/czxz1v7xyk9o#0",
+      "titleHi": "श्रृंखला को सील करने के लिए आयरलैंड को हराते हुए इंग्लैंड के रूप में वोंग सितारे",
+      "excerptHi": "इस्सी वोंग के पहले अंतरराष्ट्रीय पांच विकेट की बदौलत इंग्लैंड ने आयरलैंड पर छह विकेट की जीत दर्ज की और तीन मैचों की श्रृंखला में एक मैच बाकी है।",
+      "archived": false
+    },
+    {
+      "id": "ebcae588ef2d970329bbd4cf49ce47641423af08",
+      "slug": "sussexs-crocombe-takes-second-hat-trick-in-eight-days-ebcae5",
+      "title": "Sussex's Crocombe takes second hat-trick in eight days",
+      "excerpt": "Sussex paceman Henry Crocombe takes a second hat-trick in consecutive games as Essex lose their last seven wickets for six runs.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c98/live/86f1eb00-a7b0-11f1-b78b-6b70b0a83270.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:22:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c1kx4n0z3dlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cricket/articles/c1kx4n0z3dlo#0",
+      "titleHi": "ससेक्स के क्रोकोम्बे ने आठ दिनों में दूसरी हैट्रिक ली",
+      "excerptHi": "ससेक्स के तेज गेंदबाज हेनरी क्रोकोम्बे ने लगातार गेमों में दूसरी हैट्रिक ली, क्योंकि एसेक्स ने अपने अंतिम सात विकेट छह रन पर गंवा दिए।",
+      "archived": false
+    },
+    {
+      "id": "0d7f2cee7e6c4465c5ed8a58cce62aa4d72f6044",
+      "slug": "mas-extends-lead-as-omrzel-wins-vuelta-stage-12-0d7f2c",
+      "title": "Mas extends lead as Omrzel wins Vuelta stage 12",
+      "excerpt": "Spain's Enric Mas extends his overall lead in the Vuelta a Espana with a late attack as Slovenia's Jakob Omrzel wins stage 12 to Calar Alto.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c9/live/0fbdbcf0-a7b8-11f1-b5cf-8556ae508a51.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:20:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/c770n8jez7ko?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/cycling/articles/c770n8jez7ko#5",
+      "titleHi": "ओमर्जेल ने वुल्टा स्टेज 12 में जीत हासिल करते हुए मास की बढ़त बढ़ाई",
+      "excerptHi": "स्पेन के एनरिक मास ने वुल्टा ए एस्पाना में देर से हमले के साथ अपनी समग्र बढ़त का विस्तार किया क्योंकि स्लोवेनिया के जैकब ओमर्ज़ेल ने स्टेज 12 को कालार ऑल्टो से जीता।",
+      "archived": false
+    },
+    {
+      "id": "9814589d83ea987aa414a29248024e9d1619eea8",
+      "slug": "thieves-steal-more-than-70000-pints-worth-of-guinness-from-d-981458",
+      "title": "Thieves steal more than 70,000 pints’ worth of Guinness from depot in Cheshire",
+      "excerpt": "Police say two lorries were driven into industrial estate in Runcorn and attached to trailers holding about 800 barrels The famous tagline “Guinness is good for you” applies only when the drink is bought and paid for,…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Kevin Rawlinson and agency",
+      "image": "https://i.guim.co.uk/img/media/c6708c113391649f3e64f170e7fe8b811c9f0572/450_0_4454_3563/master/4454.jpg?width=140&quality=85&auto=format&fit=max&s=b98ebf71e0f425daba58454000287c7f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:18:45.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
+      "guid": "https://www.theguardian.com/uk-news/2026/sep/03/thieves-steal-guinness-depot-cheshire-runcorn",
+      "titleHi": "चोरों ने चेशायर के डिपो से 70,000 से अधिक पिंट्स गिनीज की कीमत चुरा ली",
+      "excerptHi": "पुलिस का कहना है कि दो लॉरियों को रनकॉर्न में औद्योगिक एस्टेट में ले जाया गया था और लगभग 800 बैरल वाले ट्रेलरों से जोड़ा गया था प्रसिद्ध टैगलाइन \"गिनीज आपके लिए अच्छा है\" केवल तभी लागू होती है जब पेय खरीदा जाता है और भुगतान किया जाता है,...",
+      "archived": false
+    },
+    {
+      "id": "649bb1a5e2d0e966b18d42eb3b2505454cf5c53b",
+      "slug": "ben-jennings-on-the-reform-uk-conference-opening-in-birmingh-649bb1",
+      "title": "Ben Jennings on the Reform UK conference opening in Birmingham – cartoon",
+      "excerpt": "Continue reading...",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Jennings",
+      "image": "https://i.guim.co.uk/img/media/fa0050eff64c10462762a71a85b1f7c40a44daae/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c36edd39bd994fafa5f8a449f141cb79",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T17:17:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/sep/03/ben-jennings-reform-uk-conference-birmingham-cartoon",
+      "guid": "https://www.theguardian.com/commentisfree/picture/2026/sep/03/ben-jennings-reform-uk-conference-birmingham-cartoon",
+      "titleHi": "बर्मिंघम में सुधार ब्रिटेन सम्मेलन के उद्घाटन पर बेन जेनिंग्स – कार्टून",
+      "excerptHi": "पढ़ना जारी रखें",
+      "archived": false
+    },
+    {
+      "id": "5e6d2ae8826673c090575a36d5299c4ea1e88b4c",
+      "slug": "sabotage-leaks-and-political-ties-the-story-of-the-daphne-ca-5e6d2a",
+      "title": "Sabotage, leaks and political ties: the story of the Daphne Caruana Galizia murder trial",
+      "excerpt": "A Maltese businessman has been cleared of involvement in the journalist’s death, but his trial revealed the challenges faced by those leading the search for her killers The conclusion of the longest-running murder trial…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Juliette Garside in Valletta",
+      "image": "https://i.guim.co.uk/img/media/8c429f1eb94fd677059b676eade7834bc9dce9ba/554_0_3480_2784/master/3480.jpg?width=140&quality=85&auto=format&fit=max&s=168f99182693d7257cc8fc7fc410838c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:13:22.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/sabotage-leaks-and-political-ties-the-story-of-the-daphne-caruana-galizia-trial",
+      "guid": "https://www.theguardian.com/world/2026/sep/03/sabotage-leaks-and-political-ties-the-story-of-the-daphne-caruana-galizia-trial",
+      "titleHi": "तोड़फोड़, लीक और राजनीतिक संबंध: Daphne Caruana Galizia हत्या के मुकदमे की कहानी",
+      "excerptHi": "एक माल्टीज़ व्यवसायी को पत्रकार की मौत में शामिल होने से मुक्त कर दिया गया है, लेकिन उसके मुकदमे से पता चला है कि उसके हत्यारों की खोज करने वालों के सामने आने वाली चुनौतियों का सामना करना पड़ रहा है। सबसे लंबे समय तक चलने वाले हत्या के मुकदमे का समापन...",
+      "archived": false
+    },
+    {
+      "id": "fda756334a271127e47c7f1f29e872c0fad3e93f",
+      "slug": "bybit-pay-integrates-with-mesh-to-expand-crypto-payments-fda756",
+      "title": "Bybit Pay integrates with Mesh to expand crypto payments",
+      "excerpt": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1M3NJSETHX828KE4N3BKDW6/hi-the-revival-of-general-partnership-in-the-age-of-tokenomics-part-1.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T17:13:04.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments",
+      "titleHi": "Bybit Pay क्रिप्टो भुगतान का विस्तार करने के लिए मेष के साथ एकीकृत होता है",
+      "excerptHi": "इस इंटीग्रेशन की मदद से Bybit यूज़र अपने एक्सचेंज बैलेंस से सीधे डिजिटल एसेट्स को मेश - पावर्ड प्लैटफ़ॉर्म पर खर्च कर सकते हैं।",
+      "archived": false
+    },
+    {
+      "id": "a0180d9d28d89ef9df4fe7251d85c09dd5f9d6c9",
+      "slug": "adonis-gibbs-whites-chance-to-shine---will-tuchel-take-notic-a0180d",
+      "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "excerpt": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df57/live/4ed623b0-a7b2-11f1-b5cf-8556ae508a51.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:07:18.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego#2",
+      "titleHi": "'एडोनिस' गिब्स - व्हाइट के चमकने का मौका - क्या तुचेल नोटिस लेगा?",
+      "excerptHi": "मॉर्गन गिब्स - व्हाइट को इंग्लैंड की विश्व कप टीम से बाहर कर दिया गया था - क्या थॉमस टुचेल के लिए उनकी निरंतर अच्छी फॉर्म को अनदेखा करना असंभव होगा?",
+      "archived": false
+    },
+    {
+      "id": "ae1b6fe2ad7d291add403bac5626e1787cd8ff71",
+      "slug": "bitmex-co-founder-contributed-75-of-reform-uks-donations-in-ae1b6f",
+      "title": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+      "excerpt": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
+      "category": "Crypto",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Turner Wright",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:06:28.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations",
+      "titleHi": "BitMEX के सह - संस्थापक ने Q2 2026 में Reform UK के दान का 75% योगदान दिया",
+      "excerptHi": "यूके की राजनीतिक पार्टी और उसके नेता, निगेल फैरेज ने क्रिप्टो उद्योग से जुड़े आंकड़ों से योगदान स्वीकार कर लिया है, जिससे नीतियों पर संभावित प्रभाव के बारे में सवाल उठ रहे हैं।",
+      "archived": false
+    },
+    {
+      "id": "7566354ee77e4b50f53a160b723fae2696bea4d2",
+      "slug": "lewis-hamilton-ready-to-rock-monza-with-phenomenal-italian-g-756635",
+      "title": "Lewis Hamilton ready to rock Monza with ‘phenomenal’ Italian GP win for Ferrari",
+      "excerpt": "Scuderia bring upgraded engine to their home race Winning at Monza would be ‘new territory’ Lewis Hamilton believes a win for Ferrari at the team’s home race in the Italian Grand Prix would be a phenomenal moment in an…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Giles Richards in Monza",
+      "image": "https://i.guim.co.uk/img/media/c1eaba1a37dda07053683b551380a70c620771b9/371_0_3720_2976/master/3720.jpg?width=140&quality=85&auto=format&fit=max&s=9aff787b9d39c3918cb380c31f11ebe4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:05:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/03/lewis-hamilton-targets-phenomenal-italian-grand-prix-victory-with-ferrari",
+      "guid": "https://www.theguardian.com/sport/2026/sep/03/lewis-hamilton-targets-phenomenal-italian-grand-prix-victory-with-ferrari",
+      "titleHi": "लुईस हैमिल्टन फेरारी के लिए ‘अभूतपूर्व‘ इतालवी जीपी जीत के साथ मोंज़ा को रॉक करने के लिए तैयार हैं",
+      "excerptHi": "स्कूडरिया अपने घरेलू रेस में अपग्रेड किए गए इंजन को लाता है मोंज़ा में जीतना ‘नया क्षेत्र’ होगा लुईस हैमिल्टन का मानना है कि इतालवी ग्रैंड प्रिक्स में टीम की घरेलू रेस में फेरारी के लिए जीत एक अभूतपूर्व क्षण होगा...",
+      "archived": false
+    },
+    {
+      "id": "562fcd9726c0a2e4ad50abc75d756e7bd899c376",
+      "slug": "fans-praise-catherine-zeta-jones-for-using-her-welsh-accent-562fcd",
+      "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
+      "excerpt": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
+      "category": "Culture",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac1/live/3a9b2fc0-a7a4-11f1-a7ad-37a1f7dc081c.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T17:03:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o#0",
+      "titleHi": "प्रशंसकों ने नई श्रृंखला में अपने वेल्श लहजे का उपयोग करने के लिए कैथरीन जेटा - जोन्स की प्रशंसा की",
+      "excerptHi": "हॉलीवुड अभिनेत्री अपने स्वाभाविक स्वानसी लहजे का उपयोग करके एक नई थ्रिलर श्रृंखला में अभिनय कर रही हैं।",
+      "archived": false
+    },
+    {
+      "id": "cf32d35d4381dc286331d197bf78462ae4f7661c",
+      "slug": "rich-people-more-likely-to-steal-childrens-sweets-finds-ig-n-cf32d3",
+      "title": "Rich people more likely to steal children’s sweets, finds Ig Nobel prize-winning study",
+      "excerpt": "We round up this year’s winners at awards for achievements that ‘first make people laugh and then make them think’ It’s that time of year again: a select group of scientists have been summoned to a ceremony to receive…",
+      "category": "Science",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ian Sample Science editor",
+      "image": "https://i.guim.co.uk/img/media/b143d110013688ded75d7534364cd8a8a2a5f766/0_48_4536_3628/master/4536.jpg?width=140&quality=85&auto=format&fit=max&s=cfbd08bc398f4ec963849f15954a376e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:00:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
+      "guid": "https://www.theguardian.com/science/2026/sep/03/ig-nobel-prize-awards-2026-winners",
+      "titleHi": "अमीर लोग बच्चों की मिठाई चुराने की अधिक संभावना रखते हैं, आईजी नोबेल पुरस्कार विजेता अध्ययन से पता चलता है",
+      "excerptHi": "हम इस साल के विजेताओं को उन उपलब्धियों के लिए पुरस्कारों में शामिल करते हैं जो ‘पहले लोगों को हँसाते हैं और फिर उन्हें सोचने पर मजबूर करते हैं’ यह फिर से वर्ष का वह समय है: वैज्ञानिकों के एक चुनिंदा समूह को प्राप्त करने के लिए एक समारोह में बुलाया गया है...",
+      "archived": false
+    },
+    {
+      "id": "b890879e6a0ec83da6e0f619ffcbf276f25cb780",
+      "slug": "microsoft-slashes-xbox-cloud-gaming-to-just-15-hours-a-month-b89087",
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+      "excerpt": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "guid": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+      "titleHi": "माइक्रोसॉफ्ट ने अल्टीमेट सब्सक्राइबर्स के लिए Xbox क्लाउड गेमिंग को घटाकर सिर्फ 15 घंटे प्रति माह कर दिया है",
+      "excerptHi": "Microsoft आज अपने Xbox गेम पास प्रीमियम और आवश्यक स्तरों के लिए क्लाउड गेमिंग खोलने के एक साल से भी कम समय के बाद, Xbox क्लाउड गेमिंग में कुछ बड़े बदलावों की घोषणा कर रहा है। जबकि सभी गेम पास प्लान में असीमित शामिल हैं...",
+      "archived": false
+    },
+    {
+      "id": "971b1d27d1daaa3382404ff96118144e3bfbff84",
+      "slug": "microsoft-opens-up-xbox-cloud-gaming-with-new-pay-as-you-go-971b1d",
+      "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+      "excerpt": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today,…",
+      "category": "Technology",
+      "secondaryCategories": [],
+      "source": "The Verge",
+      "author": "The Verge",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T17:00:00.000Z",
+      "sourceUrl": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "guid": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+      "titleHi": "Microsoft ने नए पे - एज़ - यू - गो विकल्प के साथ Xbox क्लाउड गेमिंग को खोला",
+      "excerptHi": "Microsoft का कहना है कि वह Xbox गेम पास की सदस्यता लेने की आवश्यकता के बिना, नवंबर में किसी को भी Xbox क्लाउड गेमिंग का उपयोग करने की अनुमति देगा। पे - एज़ - यू - गो मॉडल में बदलाव आज एक्सबॉक्स क्लाउड गेमिंग में कुछ व्यापक बदलावों का हिस्सा है,...",
+      "archived": false
+    },
+    {
+      "id": "a6605fc1499aed907d3311211ddb7e9ad0623006",
+      "slug": "climate-injustices-have-been-laid-bare-in-the-nepal-tibet-fl-a6605f",
+      "title": "Climate injustices have been laid bare in the Nepal-Tibet flood disaster | Letters",
+      "excerpt": "Prof Lyla Mehta says the glacial floods and loss of life are a stark reminder that climate disruption is global and highly unequal. Plus letters from Lynda McDonald and Jan Bengtsson The recent glacial collapse and…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/9d950b8b29620f0f7c8034fad8af143bb7dbca88/793_0_3963_3171/master/3963.jpg?width=140&quality=85&auto=format&fit=max&s=c74037a88931991622d0bd2b799e893b",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:52:29.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/03/climate-injustices-have-been-laid-bare-in-the-nepal-tibet-flood-disaster",
+      "guid": "https://www.theguardian.com/world/2026/sep/03/climate-injustices-have-been-laid-bare-in-the-nepal-tibet-flood-disaster",
+      "titleHi": "नेपाल - तिब्बत बाढ़ आपदा में जलवायु अन्याय को उजागर किया गया है | पत्र",
+      "excerptHi": "प्रोफेसर लीला मेहता का कहना है कि ग्लेशियल बाढ़ और जीवन की हानि इस बात की याद दिलाती है कि जलवायु व्यवधान वैश्विक और अत्यधिक असमान है। लिंडा मैकडॉनल्ड्स और जान बेंग्ससन के प्लस पत्र हाल ही में ग्लेशियल पतन और...",
+      "archived": false
+    },
+    {
+      "id": "a4036dbae76d468ca02fe860464a04503bb7123f",
+      "slug": "how-20mph-on-our-roads-benefits-everyone-letters-a4036d",
+      "title": "How 20mph on our roads benefits everyone | Letters",
+      "excerpt": "The advantages of 20mph speed limits are celebrated by Rod King, while John Hopkin says drivers who speed won’t be deterred unless tougher action is taken against them Thanks to Christian Wolmar for his insightful…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/935e73183c020fdc2f8dc5052c40683e9c4afcb7/265_0_3673_2939/master/3673.jpg?width=140&quality=85&auto=format&fit=max&s=7ed80168692aa4f44b7475c33ecbeb63",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:52:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/03/how-20mph-on-our-roads-benefits-everyone",
+      "guid": "https://www.theguardian.com/uk-news/2026/sep/03/how-20mph-on-our-roads-benefits-everyone",
+      "titleHi": "हमारी सड़कों पर 20 मील प्रति घंटे की रफ्तार से हर किसी को कैसे लाभ होता है | पत्र",
+      "excerptHi": "रॉड किंग द्वारा 20 मील प्रति घंटे की गति सीमा के लाभों का जश्न मनाया जाता है, जबकि जॉन हॉपकिन का कहना है कि जब तक उनके खिलाफ कड़ी कार्रवाई नहीं की जाती है, तब तक गति देने वाले ड्राइवरों को रोका नहीं जाएगा। क्रिश्चियन वोल्मर को उनकी अंतर्दृष्टि के लिए धन्यवाद...",
+      "archived": false
+    },
+    {
+      "id": "1b0e90570cbaccfc9c3befcd5c5b0dd38d164383",
+      "slug": "donald-trumps-shallow-renaming-of-the-great-lakes-letters-1b0e90",
+      "title": "Donald Trump’s shallow renaming of the Great Lakes | Letters",
+      "excerpt": "Readers respond to the Trump administration’s decision to change Lake Ontario to ‘Lake America’ I think too much is being made of this (Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order, 2…",
+      "category": "Opinion",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/988309325b6acb0840db321a93c88dfa72df2d66/323_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=0828d4af7dd492edd4958f9cd20444c7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:52:07.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/03/donald-trumps-shallow-renaming-of-the-great-lakes",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/03/donald-trumps-shallow-renaming-of-the-great-lakes",
+      "titleHi": "डोनाल्ड ट्रम्प का महान झीलों का उथला नाम बदलना | पत्र",
+      "excerptHi": "लेक ओंटारियो को ‘लेक अमेरिका‘ में बदलने के ट्रम्प प्रशासन के फैसले पर पाठकों का जवाब मुझे लगता है कि इस पर बहुत कुछ किया जा रहा है (ट्रम्प के आदेश के बाद अमेरिकी उपयोगकर्ताओं के लिए एप्पल मैप्स ने लेक ओंटारियो का नाम बदलकर ‘लेक अमेरिका’ कर दिया है, 2...",
+      "archived": false
+    },
+    {
+      "id": "a3544b87adc9d973cc302b854dfe7e977b9bbe22",
+      "slug": "abundant-common-fossils-dont-need-to-be-protected-letter-a3544b",
+      "title": "Abundant common fossils don’t need to be protected | Letter",
+      "excerpt": "Museums have countless examples of the common fossils from these Lower Jurassic rocks, says the Charmouth Heritage Coast Centre’s Phil Davidson The vast majority of the fossils revealed on this rapidly eroding part of…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Guardian Staff",
+      "image": "https://i.guim.co.uk/img/media/6e2361427a1aaec81e493e89ac62a4f23965b0c8/12_0_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=b21b942a973ff908a421ea4af49fa7f7",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:52:03.000Z",
+      "sourceUrl": "https://www.theguardian.com/science/2026/sep/03/abundant-common-fossils-dont-need-to-be-protected",
+      "guid": "https://www.theguardian.com/science/2026/sep/03/abundant-common-fossils-dont-need-to-be-protected",
+      "titleHi": "प्रचुर मात्रा में आम जीवाश्मों को संरक्षित करने की आवश्यकता नहीं है | पत्र",
+      "excerptHi": "चारमाउथ हेरिटेज कोस्ट सेंटर के फिल डेविडसन का कहना है कि संग्रहालयों में इन निचली जुरासिक चट्टानों से आम जीवाश्मों के अनगिनत उदाहरण हैं...",
+      "archived": false
+    },
     {
       "id": "65de0fd3b7fa273b8867eaf4ea18b1b93e9d9163",
       "slug": "unlike-keir-starmer-andy-burnham-promises-us-that-things-wil-65de0f",
@@ -90,6 +773,26 @@
       "archived": false
     },
     {
+      "id": "2a64647adf6a95ff54e1c8d8eb69534a31f9b40e",
+      "slug": "reforms-media-presenter-worked-for-chinese-state-propaganda-2a6464",
+      "title": "Reform’s media presenter worked for Chinese state propaganda channel",
+      "excerpt": "Party podcast and social media host Ray Addison fronted films about province where China is accused of genocide Reform UK’s top media presenter has worked for a Chinese state propaganda channel within the past year, the…",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Anna Isaac and Ben Quinn",
+      "image": "https://i.guim.co.uk/img/media/db55a7af7353ac1214cca0457c8a207622c791e3/267_111_3118_2494/master/3118.jpg?width=140&quality=85&auto=format&fit=max&s=b3ca959a8fa34cc06782225b5c33c1ab",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:30:46.000Z",
+      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/03/reform-media-presenter-worked-chinese-state-propaganda-channel",
+      "guid": "https://www.theguardian.com/politics/2026/sep/03/reform-media-presenter-worked-chinese-state-propaganda-channel",
+      "titleHi": "सुधार के मीडिया प्रस्तोता ने चीनी राज्य प्रचार चैनल के लिए काम किया",
+      "excerptHi": "पार्टी पॉडकास्ट और सोशल मीडिया होस्ट रे एडिसन ने प्रांत के बारे में फिल्में बनाईं जहां चीन पर नरसंहार का आरोप है सुधार ब्रिटेन के शीर्ष मीडिया प्रस्तोता ने पिछले एक साल के भीतर एक चीनी राज्य प्रचार चैनल के लिए काम किया है,...",
+      "archived": false
+    },
+    {
       "id": "ef4cc1dced0b45cdf2efe675aa9eca98c824449d",
       "slug": "arsenals-martinelli-joins-al-hilal-in-60m-move-ef4cc1",
       "title": "Arsenal's Martinelli joins Al-Hilal in £60m move",
@@ -169,6 +872,26 @@
       "guid": "https://www.bbc.co.uk/news/articles/cge41ee40vwo#0",
       "titleHi": "ज़ैक पोलांस्की का कहना है कि वह उप - चुनाव में पूर्व पीएम स्टारर की सीट से चुनाव लड़ेंगे",
       "excerptHi": "ग्रीन पार्टी के नेता सांसद के रूप में सर कीर स्टारर के इस्तीफे के बाद होल्बोर्न और सेंट पैनक्रस सीट से चुनाव लड़ने का इरादा रखते हैं।",
+      "archived": false
+    },
+    {
+      "id": "dad3025be4582b77a29f8c6941b9e7a58f4a51ce",
+      "slug": "two-arrested-after-attack-on-defence-companies-in-munich-dad302",
+      "title": "Two arrested after attack on defence companies in Munich",
+      "excerpt": "In Munich, a man and a woman allegedly attempted to carry out an arson attack outside the premises of two defence companies. The pair were arrested.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:26:20.000Z",
+      "sourceUrl": "http://www.euronews.com/my-europe/2026/09/03/two-arrested-after-attack-on-defence-companies-in-munich",
+      "guid": "http://www.euronews.com/my-europe/2026/09/03/two-arrested-after-attack-on-defence-companies-in-munich",
+      "titleHi": "म्यूनिख में रक्षा कंपनियों पर हमले के बाद दो गिरफ्तार",
+      "excerptHi": "म्यूनिख में, एक पुरुष और एक महिला ने कथित तौर पर दो रक्षा कंपनियों के परिसर के बाहर आगजनी का प्रयास किया। दोनों को गिरफ्तार कर लिया गया।",
       "archived": false
     },
     {
@@ -256,6 +979,46 @@
       "archived": false
     },
     {
+      "id": "7c6c32aa1a365ffe6e9026867e3966b906e2e7ed",
+      "slug": "chaos---an-efl-transfer-deadline-day-like-no-other-7c6c32",
+      "title": "'Chaos' - An EFL transfer deadline day like no other",
+      "excerpt": "Norwich City sporting director and Colchester United manager discuss the rarity of deadline day falling on the same day as matches.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f9/live/90ce4510-a79c-11f1-b109-879e35c24276.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:21:14.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c7v4n3dye5ro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c7v4n3dye5ro#9",
+      "titleHi": "'Chaos' - An EFL transfer deadline day like no other",
+      "excerptHi": "Norwich City sporting director and Colchester United manager discuss the rarity of deadline day falling on the same day as matches.",
+      "archived": false
+    },
+    {
+      "id": "15692c630108978a3f639a0cd354b69439106bc2",
+      "slug": "breaking-down-chelseas-staggering-39-summer-exits-15692c",
+      "title": "Breaking down Chelsea's staggering 39 summer exits",
+      "excerpt": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/66294a90-a7b4-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T16:20:42.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o#0",
+      "titleHi": "Breaking down Chelsea's staggering 39 summer exits",
+      "excerptHi": "Chelsea are believed to have recouped more than £500m this summer by either selling or loaning out a staggering 39 players.",
+      "archived": false
+    },
+    {
       "id": "f6f8e16c5c1adf35703316a3faf83c4667c4d285",
       "slug": "venezuelan-opposition-leader-questions-us-oil-deal-with-ille-f6f8e1",
       "title": "Venezuelan opposition leader questions US oil deal with ‘illegitimate regime’",
@@ -275,6 +1038,28 @@
       "guid": "https://www.theguardian.com/world/2026/sep/03/venezuelan-opposition-leader-questions-us-oil-deal-with-illegitimate-regime",
       "titleHi": "वेनेजुएला के विपक्षी नेता ने ‘अवैध शासन‘ के साथ अमेरिकी तेल सौदे पर सवाल उठाया",
       "excerptHi": "मारिया कोरिना मचाडो का कहना है कि अंतरिम सरकार के पास प्राकृतिक संसाधनों पर बातचीत करने के लिए लोकतांत्रिक जनादेश नहीं है वेनेजुएला के विपक्षी नेता, मारिया कोरिना मचाडो ने डोनाल्ड ट्रम्प के साथ तेल सौदे पर सवाल उठाया है...",
+      "archived": false
+    },
+    {
+      "id": "f9c9052e0da7f42aaa919cad370b7d03a869dfde",
+      "slug": "trump-hints-us-would-not-back-uk-over-falkland-islands-due-t-f9c905",
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "excerpt": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+      "category": "Politics",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T16:16:49.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo#0",
+      "titleHi": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "excerptHi": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
       "archived": false
     },
     {
@@ -482,7 +1267,7 @@
       "guid": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1",
       "titleHi": "वर्ल्ड कप की विशलिस्ट, अर्ली मूवर्स, बिग क्लियरआउट: 2026 समर ट्रांसफ़र विंडो ट्रेंड",
       "excerptHi": "विश्व कप में फैले एक व्यस्त स्थानांतरण खिड़की के अंत में, यहाँ गर्मियों के कुछ उप - प्लॉट दिए गए हैं विश्व कप हमेशा एक अच्छी दुकान खिड़की होती है। यान डायोमंडे पहले से ही आरबी लीपज़िग में एक उभरता हुआ सितारा था लेकिन चमक रहा था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2c822d8ed6bdc103e3267c06c6f0e1f9d3f92342",
@@ -502,7 +1287,7 @@
       "guid": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
       "titleHi": "मैंने पहला सही मायने में बेज़ल - फ्री फ़ोन पकड़ा था",
       "excerptHi": "अपने दिमाग को एक दशक या उससे भी पहले कास्ट करें, और स्मार्टफोन निर्माता फोन पर बेज़ेल को सिकुड़ने के जुनून में थे। स्क्रीन बड़ी हो गई, उनके आस - पास के काले रंग के बार छोटे हो गए, और कुछ समय के लिए यह सही मायने में किनारे से किनारे की तरह लग रहा था...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8dd2999e01d76ea213580107b3440f9dc136127b",
@@ -522,7 +1307,7 @@
       "guid": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
       "titleHi": "सर्कुलर के नए स्मार्ट रिंग्स कॉन्टैक्टलेस भुगतान और वाइब्रेटिंग अलर्ट जोड़ते हैं",
       "excerptHi": "सर्कुलर ने आज अपनी नई रिंग 3 सीरीज की घोषणा रिंग 2 के फॉलो - अप के रूप में की, जिसकी शुरुआत CES 2025 में अपग्रेडेड सेंसर और FDA - क्लियर किए गए एट्रियल फाइब्रिलेशन डिटेक्शन के साथ हुई थी। नए रिंग 3 कलेक्शन में एक प्रो … दोनों शामिल हैं",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e1dfd4a314cafb3a2835be75871176fde194b0c3",
@@ -542,7 +1327,7 @@
       "guid": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
       "titleHi": "मोटो वॉच अल्ट्रा Wear OS की वापसी है",
       "excerptHi": "मोटो वॉच अल्ट्रा एक आकार, दो रंगों और Google के स्मार्टवॉच सॉफ़्टवेयर के साथ आता है। स्मार्टवॉच गेम में वापस आने के कुछ ही महीनों बाद, मोटोरोला बाजार के प्रीमियम छोर को लक्षित कर रहा है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0275f523c50272790b0ae272edbe8fca7ba2f52b",
@@ -562,7 +1347,7 @@
       "guid": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
       "titleHi": "लेनोवो का नया मैकबुक नियो प्रतियोगी दो आकारों और सात रंगों में आता है",
       "excerptHi": "अपने आप को टैग करें। मैं मसालेदार सोना हूँ। | फोटो: एंटोनियो जी. डी बेनेडेटो / द वर्ज लेनोवो आइडियापैड वाइब की घोषणा कर रहा है, जो एक उत्पादकता लैपटॉप है जिसका उद्देश्य मैकबुक नियो को एक समान शुरुआती कीमत और एक व्यापक रेंज के साथ लेना है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "1347b8d36ebef7e496cf023228cd03f11287f7d6",
@@ -582,7 +1367,7 @@
       "guid": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
       "titleHi": "यह अल्ट्रा - थिन लेनोवो लैपटॉप कॉन्सेप्ट सॉलिड - स्टेट कूलिंग का उपयोग करता है",
       "excerptHi": "एक लैपटॉप जिसे हम उम्मीद से देखेंगे लेकिन कभी नहीं सुनेंगे। लेनोवो आईएफए 2026 के लिए एक नए कॉन्सेप्ट लैपटॉप की घोषणा कर रहा है जो पारंपरिक प्रशंसकों के बजाय सॉलिड - स्टेट कूलिंग का उपयोग करता है, जिससे यह अविश्वसनीय रूप से पतला और सुपर लाइट हो जाता है। 14 - इंच…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6495510511074d6fa0dbd3199a15d013720e1907",
@@ -602,7 +1387,7 @@
       "guid": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
       "titleHi": "एनवीडिया के नए आरटीएक्स स्पार्क लैपटॉप दो अलग - अलग कॉन्फ़िगरेशन के साथ अक्टूबर में लॉन्च होंगे",
       "excerptHi": "गर्मियों में Nvidia द्वारा अपने आर्म - आधारित RTX स्पार्क चिप्स की घोषणा से पहले की सभी अफवाहों में दो विशिष्ट चिप्स का उल्लेख किया गया है: N1X और N1। जबकि N1 इस साल नहीं आ रहा है, Nvidia का कहना है कि इसकी N1X चिप है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "37ec33c253da61fbf0f3c4e669eb882ae9d8af5b",
@@ -622,7 +1407,7 @@
       "guid": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
       "titleHi": "Nvidia ने निष्क्रिय कंप्यूटरों को एक निजी AI डेटा सेंटर से जोड़ने वाला मुफ़्त टूल लॉन्च किया है",
       "excerptHi": "Nvidia अपने नए पर्सनल AI राउटर (PAIR) की घोषणा कर रहा है, जो एक मुफ़्त टूल है जो आपके होम कंप्यूटर को Ollama और LM Studio जैसे टूल के साथ स्थानीय AI अनुमान कार्यों से निपटने के लिए सिंक करता है। चलो स्पष्ट बात से बाहर निकलते हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6c9aa5299d33c1ddb98990bf1c754622b059d359",
@@ -642,7 +1427,7 @@
       "guid": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
       "titleHi": "14 इंच के इस लैपटॉप में एक स्क्रीन है जो 17 इंच तक अनरोल होती है",
       "excerptHi": "थिंकबुक, रोल आउट! | फोटो: एंटोनियो जी. डी बेनेडेटो / द वर्ज लेनोवो की नवीनतम रोल करने योग्य अवधारणा, आईएफए 2026 में घोषित, थिंकबुक प्रोजेक्ट स्वान है: एक स्क्रीन वाला एक व्यावसायिक लैपटॉप जो क्षैतिज रूप से फैलता है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "341e0620673183966c2a0c9a56f874799a7061f4",
@@ -662,7 +1447,7 @@
       "guid": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
       "titleHi": "Google अब आपको जीमेल, डॉक्स और कीप के साथ चैट करने देता है",
       "excerptHi": "Google जीमेल, डॉक्स और कीप के लिए AI - संचालित वॉयस असिस्टेंट मोड लॉन्च कर रहा है जो आपको उनसे बात करके ऐप्स को प्रबंधित करने की अनुमति देता है। वास्तविक समय की संवादात्मक क्षमताओं को जीमेल लाइव, डॉक्स लाइव और कीप… कहा जाता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0346f47f2737d96c7fc58bf07a196b3514e77260",
@@ -682,7 +1467,7 @@
       "guid": "9f697010-b149-42d6-a2e0-2e25c26b4956",
       "titleHi": "स्टैंडर्ड चार्टर्ड दुबई FX प्लेटफॉर्म पर स्पॉट क्रिप्टो ट्रेडिंग लाता है",
       "excerptHi": "बैंक अब इस क्षेत्र में संस्थागत क्रिप्टो स्पॉट ट्रेडिंग की पेशकश कर रहा है, जिससे बीटीसी और ईटीएच को उसी ईएफएक्स रेल पर लाया जा रहा है जिसका उपयोग संस्थान डॉलर और यूरो के व्यापार के लिए करते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "97b48331793a960ebf2383c41ae3ff4fd63a3d60",
@@ -704,7 +1489,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/c07l8n34dleo#2",
       "titleHi": "अल्वारेज़ को एटलेटिको में भरोसा फिर से बनाने की ज़रूरत कैसे है",
       "excerptHi": "जूलियन अल्वारेज़ को अपने समर्थकों को कैसे आश्वस्त करना चाहिए कि उनका ध्यान एटलेटिको मैड्रिड पर दृढ़ता से केंद्रित है, क्योंकि बार्सिलोना में उनका सपना पूरा नहीं हुआ था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f562afeec197977ef073f9028c6b314da6077fa9",
@@ -724,7 +1509,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo#0",
       "titleHi": "बर्नहम और मैक्रॉन छोटी नौकाओं पर कार्रवाई बढ़ाने के लिए सहमत हैं",
       "excerptHi": "नेता यूक्रेन और \"यूरोप के करीब आने के लिए यूके के अभियान\" पर भी चर्चा करते हैं, नंबर 10 कहता है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f41b6efb6bd3e53acecab8d768768a3470821a0f",
@@ -744,7 +1529,7 @@
       "guid": "http://www.euronews.com/2026/09/03/iranian-cafe-chain-mogul-jailed-and-stripped-of-assets-for-backing-january-protests",
       "titleHi": "Iranian café chain mogul jailed and stripped of assets for backing January protests",
       "excerptHi": "Sadegh Saeedinia, manager of the Saeedinia café chain, was convicted of \"propaganda against national security\" for posting about the January protests on Instagram and encouraging staff to strike, in one of the harshest…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ed4845fc2512cf13f1853e12a14c770aea5e3f2e",
@@ -766,7 +1551,7 @@
       "guid": "https://www.theguardian.com/commentisfree/2026/sep/03/ebike-parking-london-solution-paris-public-space",
       "titleHi": "Badly parked ebikes in London are a menace – but other cities have shown us the solution | Agustin Guilisasti",
       "excerptHi": "Paris converted tens of thousands of on-street parking spaces into docking stations, fundamentally changing its approach to public space Agustin Guilisasti is founder and CEO of the London ebike operator Forest Shared…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f5ad11e54bd599c3672ebd8d55997a98bcf8c32e",
@@ -788,7 +1573,7 @@
       "guid": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-tributes",
       "titleHi": "Hillary Clinton leads tributes to Gloria Steinem: ‘Her activism was rooted in optimism’",
       "excerptHi": "Ex-secretary of state joins Nancy Pelosi, Jill Biden, Roxane Gay and others in heralding groundbreaking feminist Gloria Steinem, groundbreaking feminist campaigner, dies aged 92 ‘We badly need to raise our boys more…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5f3d9a00f74c98d2e0ae8a9faefc1eb8609848aa",
@@ -808,7 +1593,7 @@
       "guid": "https://www.theguardian.com/football/2026/sep/03/mike-dean-claims-secret-games-for-a-laugh-while-refereeing-matches-football-premier-league",
       "titleHi": "Mike Dean claims he played secret games for a laugh while refereeing matches",
       "excerptHi": "Former official says he ‘tried to stay in the centre circle’ Referees’ group thought to be puzzled by remarks The former Premier League referee Mike Dean claims he used to take part in secret challenges while…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5ec10ff6c993142cc22cb367d8a5b6d955c751a8",
@@ -828,7 +1613,7 @@
       "guid": "https://www.nytimes.com/2026/09/03/opinion/trump-trumpism-civics-education.html",
       "titleHi": "It’s OK to Admit It. The State of the World Is Terrifying.",
       "excerptHi": "Exit, Trump. Enter, what?",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c030c80e38dc1875c54c401b5c8a17cf99136f9d",
@@ -848,7 +1633,7 @@
       "guid": "https://www.bbc.co.uk/sport/cricket/videos/c86xj331nexo#3",
       "titleHi": "Wong takes first ODI five-wicket haul for England",
       "excerptHi": "An excellent performance from Issy Wong sees her get a five-wicket haul - her first for England in ODI cricket - during the second One Day International in Derby.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "00fee9d810ebb9f19e3bfe44daa916d1197a6b3c",
@@ -868,7 +1653,7 @@
       "guid": "https://www.theguardian.com/world/2026/sep/03/eu-defence-readiness-eca-auditors-us-reliance",
       "titleHi": "EU’s ability to defend against invasion remains in doubt, finds official report",
       "excerptHi": "Fragmented infrastructure and reliance on US continue to hinder ‘defence readiness’, says European court of auditors Europe live – latest updates The EU’s ability to respond to a foreign invasion by 2030 remains in…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7bb869896ca3e0c6f419f2b265bb6247834914f3",
@@ -890,7 +1675,7 @@
       "guid": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-russia-defence-spending-tories-labour-sketch-john-crace",
       "titleHi": "Kemi the Valkyrie spoils for a fight and has the Russians in her sights | John Crace",
       "excerptHi": "Tory leader scents Labour weakness on defence spending and declares it’s 2030 or bust UK politics live – latest updates There’s something about Kemi Badenoch making a keynote speech – everything she does comes billed as…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b617e4baa27e7c902016727e02ad6f89aadbd971",
@@ -912,7 +1697,7 @@
       "guid": "https://www.theguardian.com/uk-news/2026/sep/03/manchester-synagogue-attack-ministers-seek-block-m15-files-inquest",
       "titleHi": "Manchester synagogue attack: ministers seek to block MI5 files from inquest",
       "excerptHi": "Government lawyers tell coroner disclosing intelligence would pose serious risk to national security Ministers are seeking to block intelligence material from being heard at an inquest into the death of two men killed…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2246744a999f29f55c24156ad60540cf8e743034",
@@ -934,7 +1719,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/cdj4lgdgnx0o#1",
       "titleHi": "London City shirt deal biggest in women's game & beats some in Premier League - Kang",
       "excerptHi": "London City Lionesses owner Michele Kang says they have signed the biggest shirt sponsorship deal in the women's game.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4e4cfa70881f5085a3a5999825dff4735d67bb5a",
@@ -954,7 +1739,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o#0",
       "titleHi": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "excerptHi": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9b53904c36ba4cacc5dd9588002d95db39ca5f8d",
@@ -974,7 +1759,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o#0",
       "titleHi": "Sarr 'needs time' to process collapse of Liverpool move",
       "excerptHi": "Crystal Palace forward Ismaila Sarr will need time to process the collapse of his proposed move to Liverpool, says Eagles head coach Pierre Sage.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6e0585720806585b750d430d8be2aaa66ffad900",
@@ -994,7 +1779,7 @@
       "guid": "https://www.theguardian.com/us-news/2026/sep/03/first-thing-aid-operations-deadly-nepal-floods-hampered-conditions",
       "titleHi": "Aid operations in aftermath of deadly Nepal floods hampered by conditions | First Thing",
       "excerptHi": "Guardian reporters in Nepal have witnessed first-hand the scenes of destruction and grief after the flash floods. Plus, a not-to-be-missed interview with the legendary Mr T Good morning. Thousands remain missing and the…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6559152750c8d36963bf1fb4033dbec2bba11b1f",
@@ -1014,7 +1799,7 @@
       "guid": "https://www.nytimes.com/2026/09/03/opinion/trump-mcmahon-harvard-compact.html",
       "titleHi": "Linda McMahon’s Letter to Colleges Is a Trap",
       "excerptHi": "University presidents, don’t be fooled.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "39275c62049697400c4f870aeead0ea3489c372f",
@@ -1034,7 +1819,7 @@
       "guid": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo#0",
       "titleHi": "How the brain of a fly may help explain human behaviour",
       "excerptHi": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cb6794923fc12bb3569e41d84bfeed5e14d0982b",
@@ -1054,7 +1839,7 @@
       "guid": "https://www.theguardian.com/science/video/2026/sep/03/theres-a-quick-way-to-slow-climate-change-why-isnt-everyone-doing-it-video",
       "titleHi": "There’s a quick way to slow climate change. Why isn’t everyone doing it? - video",
       "excerptHi": "Methane is a potent greenhouse gas that traps more than 80 times as much heat than carbon dioxide over a 20-year period and causes 25% of global heating today. We definitely don’t want this gas spewing needlessly into…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b3ef90e380887d45db466d898aae2f47485feddf",
@@ -1077,7 +1862,7 @@
       "guid": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
       "titleHi": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
       "excerptHi": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six months Follow our Australia news live blog for latest updates Sign up for climate and…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bcc1da84ac50244a4117618f0d3eb163ffd9fa93",
@@ -1099,7 +1884,7 @@
       "guid": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
       "titleHi": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
       "excerptHi": "Venice film festival: Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama Werner Herzog is such a unique film-maker that even a dud from him has some…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9d0c9415f98614e93e316f9e686a640f8dff29e3",
@@ -1119,7 +1904,7 @@
       "guid": "f96cfe31-9c61-4cda-88dc-fa5d3208b227",
       "titleHi": "Crypto for Advisors: Why crypto earnings reports can be misleading",
       "excerptHi": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bc8fbaca0f9b104419f54b75fa93436c04dbfecf",
@@ -1139,7 +1924,7 @@
       "guid": "99743527-a3bd-4cff-ae47-aaf819321e2a",
       "titleHi": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
       "excerptHi": "Users paid nearly $6 million in a day to create and trade tokens through Pons, more than they paid to use Pump or Hyperliquid, and even more than they paid to use Robinhood Chain itself.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "286de0ecf1e0064e9999c0494c6be766257152dc",
@@ -1161,7 +1946,27 @@
       "guid": "https://www.theguardian.com/artanddesign/2026/sep/03/the-bayeux-tapestry-british-museum-london",
       "titleHi": "The Bayeux tapestry: a stupefying, thrilling, horrifying masterpiece that shakes the earth",
       "excerptHi": "British Museum, London The greatest battle ever depicted in art is here at last – and it hurtles along, making your heart pound with its sense of doom and destiny, culminating in fires and corpses on a battlefield full…",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "08c02dd8f3927e7c208999d2e09bc4b7537e05ff",
+      "slug": "donovan-wont-underestimate-fired-up-mckenna-08c02d",
+      "title": "Donovan won't 'underestimate' fired-up McKenna",
+      "excerpt": "Paddy Donovan insists he is not \"underestimating\" Tyrone McKenna before they meet at Croke Park on Saturday with a second crack at world honours on the horizon.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53a/live/c3895060-a7a3-11f1-a7ad-37a1f7dc081c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T14:51:29.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/c86xjqj529go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/boxing/articles/c86xjqj529go#9",
+      "titleHi": "Donovan won't 'underestimate' fired-up McKenna",
+      "excerptHi": "Paddy Donovan insists he is not \"underestimating\" Tyrone McKenna before they meet at Croke Park on Saturday with a second crack at world honours on the horizon.",
+      "archived": true
     },
     {
       "id": "cfcef8693c22fcd7cccd6a32a9a03300912c82f1",
@@ -1181,7 +1986,7 @@
       "guid": "http://www.euronews.com/2026/09/03/general-charged-over-kyiv-childrens-hospital-strike-shot-in-russia",
       "titleHi": "General charged over Kyiv children's hospital strike shot in Russia",
       "excerptHi": "Major General Nikolai Varpakhovich, commander of a heavy bomber division and charged in absentia by Ukraine over the 2024 Okhmatdyt children's hospital strike, was shot twice by a motorbike gunman near Engels airbase…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5c3d42fb9d4872391ad67e575e533851e135692a",
@@ -1201,7 +2006,7 @@
       "guid": "5e35b6c9-e0e6-4dfa-bcaa-e860d425163a",
       "titleHi": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
       "excerptHi": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "384dcd55077429dd27b70a626902982959239472",
@@ -1221,7 +2026,7 @@
       "guid": "https://www.bbc.co.uk/sport/football/articles/crm93nv8n7yo#7",
       "titleHi": "Leeds' Rodon out for up to 10 weeks with hamstring injury",
       "excerptHi": "Leeds United manager Daniel Farke says centre-back Joe Rodon will be out for eight to 10 weeks because of a \"serious hamstring injury\".",
-      "archived": false
+      "archived": true
     },
     {
       "id": "4261658719f911c32e9e002a9e377d15fbd8c5b9",
@@ -1243,7 +2048,7 @@
       "guid": "https://www.theguardian.com/world/2026/sep/03/howard-lutnick-iran-war-deaths-trump",
       "titleHi": "US commerce secretary erroneously said no Americans have died in Iran war, Trump claims",
       "excerptHi": "President said Howard Lutnick had Venezuela operation on his mind when he was discussing Iran war on CNBC Donald Trump has claimed his commerce secretary, Howard Lutnick, erroneously stated that no Americans had been…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5aab72b001045067991f0e1ff52d6ed3442240f8",
@@ -1328,6 +2133,28 @@
       "guid": "https://www.theguardian.com/world/2026/sep/03/roberto-vannacci-far-right-party-futuro-nazionale-dilemma-meloni",
       "titleHi": "Rise of far-right leader Roberto Vannacci challenges Meloni as she celebrates Italian milestone",
       "excerptHi": "Futuro Nazionale party’s speedy poll rise poses questions whether PM will return to her roots before election Europe live – latest updates Giorgia Meloni’s government has become the longest-running in Italy since the…",
+      "archived": true
+    },
+    {
+      "id": "40bb4cc79e13358e6b315413b9585eb7186839a1",
+      "slug": "they-were-raised-on-drag-race-uk---but-can-they-snatch-the-c-40bb4c",
+      "title": "They were raised on Drag Race UK - but can they snatch the crown?",
+      "excerpt": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
+      "category": "Culture",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a925/live/ed86e030-a6ef-11f1-9e4c-79c1c0e340c6.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-03T14:23:50.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o#0",
+      "titleHi": "They were raised on Drag Race UK - but can they snatch the crown?",
+      "excerptHi": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown.",
       "archived": true
     },
     {
@@ -2643,6 +3470,26 @@
       "guid": "54b4c2bf-54c5-4db9-9881-4cab92bf74d0",
       "titleHi": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
       "excerptHi": "BTC rose 0.76% since midnight as a softer dollar lifted equities and metals alongside crypto, while ARB and PONS pushed higher for a third session.",
+      "archived": true
+    },
+    {
+      "id": "9a7c3764a9b514ab02b48d224c0072f253cdbdf4",
+      "slug": "racist-abuse-of-new-signing-vaz-abhorrent---hull-9a7c37",
+      "title": "Racist abuse of new signing Vaz abhorrent - Hull",
+      "excerpt": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a464/live/f12dd7a0-a77d-11f1-b2d5-535b3b3d379f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-03T10:28:25.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o#5",
+      "titleHi": "Racist abuse of new signing Vaz abhorrent - Hull",
+      "excerptHi": "Hull City criticise the \"abhorrent racist abuse\" directed at new signing Robinio Vaz when they announced his signing.",
       "archived": true
     },
     {
