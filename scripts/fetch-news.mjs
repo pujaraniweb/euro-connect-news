@@ -45,7 +45,17 @@ const ARCHIVE_PATH = resolve(DATA_DIR, "archive.json");
 const LOCAL_PATH = resolve(DATA_DIR, "local-news.json");
 
 const CURRENT_ITEMS = 60; // newest items shown as "current" news
-const ARCHIVE_DAYS = 45; // retention window for the archive (repo's concept)
+// archive.json is imported by src/lib/archive.ts, so it is compiled INTO the
+// deployed server bundle — and Cloudflare Workers cap that bundle at 3 MiB
+// gzipped. A 45-day window grew past the cap on 2026-08-25 and every deploy
+// silently failed from then on, freezing the live site. Keep the archive lean.
+const ARCHIVE_DAYS = 10; // retention window for the archive (bundle-size bound)
+// Fields the site never reads: `guid` is only used while fetching (dedupe is by
+// `id` = sha1 of the canonical URL) and `author` is replaced by the publisher
+// label at render time. Dropping them trims ~9% off the archive.
+const ARCHIVE_OMIT = ["guid", "author"];
+const slimForArchive = (it) =>
+  Object.fromEntries(Object.entries(it).filter(([k]) => !ARCHIVE_OMIT.includes(k)));
 const TRANSLATE_BUDGET = 70; // max NEW MyMemory translations per run (quota-friendly)
 const MYMEMORY_EMAIL = process.env.MYMEMORY_EMAIL || ""; // optional; raises quota; not a secret
 
@@ -412,11 +422,12 @@ async function main() {
       null, 2
     ) + "\n"
   );
+  // Written compact (no pretty-printing): this file is bundled, not read by a
+  // human, and the indentation alone cost ~0.9MB.
   writeFileSync(
     ARCHIVE_PATH,
     JSON.stringify(
-      { generatedAt: now, retentionDays: ARCHIVE_DAYS, total: all.length, items: all },
-      null, 2
+      { generatedAt: now, retentionDays: ARCHIVE_DAYS, total: all.length, items: all.map(slimForArchive) }
     ) + "\n"
   );
 
