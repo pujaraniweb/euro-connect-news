@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-09-06T13:57:08.089Z",
+  "generatedAt": "2026-09-06T16:45:00.516Z",
   "india": [
+    {
+      "id": "8888dade1bda318cb2bec634ef3f5519e2e0161c",
+      "slug": "dozens-feared-trapped-in-collapsed-building-in-delhi-8888da",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "excerpt": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-06T14:07:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
+      "titleHi": "दिल्ली में इमारत के ढहने से दर्जनों के फंसे होने की आशंका",
+      "excerptHi": "माना जाता है कि पांच मंजिला हॉस्टल के गिरने के समय उसमें लगभग 50 लोग थे।",
+      "archived": false
+    },
     {
       "id": "67cf5129ec56616b7c51f53bba6ac13ca5c97f4a",
       "slug": "mandhana-becomes-all-time-leading-womens-run-scorer-67cf51",
@@ -167,27 +187,71 @@
       "titleHi": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
       "excerptHi": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has…",
       "archived": true
-    },
-    {
-      "id": "29af255d47e47e0128e184f4f65a0a90fdf4bba6",
-      "slug": "could-the-man-who-murdered-a-christian-missionary-and-his-so-29af25",
-      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-      "excerpt": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c814/live/0ee23980-a5d5-11f1-ae66-53604efd186f.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-01T22:32:30.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Could the man who murdered a Christian missionary and his sons walk free in India?",
-      "excerptHi": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999.",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "71d4fcbf6970483df550aa2748ff5b0e6bb0b138",
+      "slug": "us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-act-71d4fc",
+      "title": "US Open tennis 2026: Aryna Sabalenka and Marta Kostyuk in action on day eight – live",
+      "excerpt": "The latest fourth-round updates from Flushing Meadows You can mail Daniel and follow us on TikTok and Bluesky We’re 4-4 in the doubles and knocking up on Ashe. Thinking more about the match, I’d expect Townsend to use…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Daniel Harris",
+      "image": "https://i.guim.co.uk/img/media/1cac1af0d45e205add046ae7ac3c79a6e6d4e2f7/49_0_3481_2785/master/3481.jpg?width=140&quality=85&auto=format&fit=max&s=ebb6591fc5907fd6ae93998b1c5fef56",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:35:17.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/06/us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-action-on-day-eight-live",
+      "guid": "https://www.theguardian.com/sport/live/2026/sep/06/us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-action-on-day-eight-live",
+      "titleHi": "यूएस ओपन टेनिस 2026: आठवें दिन एक्शन में आर्यना सबालेंका और मार्टा कोस्ट्युक – LIVE",
+      "excerptHi": "Flushing Meadows के नवीनतम चौथे दौर के अपडेट आप डेनियल को मेल कर सकते हैं और TikTok और Bluesky पर हमें फ़ॉलो कर सकते हैं। हम डबल्स में 4 -4 हैं और ऐश पर दस्तक दे रहे हैं। मैच के बारे में और सोचकर, मुझे उम्मीद है कि टाउनसेंड इसका इस्तेमाल करेगा...",
+      "archived": false
+    },
+    {
+      "id": "241283732c8305da7801bf24fcf50d0e2f461d0e",
+      "slug": "trump-again-asks-supreme-court-to-restrict-mail-in-voting-as-241283",
+      "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
+      "excerpt": "Legal fight continues as states begin sending out ballots for voters to vote by mail in November’s midterm elections The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar and agency",
+      "image": "https://i.guim.co.uk/img/media/3f384f89bef7e9e74d066a3ab9aa76ecf2a3faa4/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=1de05a315f5bdff129336b2667bd5526",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:23:02.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+      "titleHi": "ट्रम्प ने फिर से सुप्रीम कोर्ट से मेल - इन वोटिंग को मिडटर्म लूम के रूप में प्रतिबंधित करने के लिए कहा",
+      "excerptHi": "कानूनी लड़ाई जारी है क्योंकि राज्यों ने नवंबर के मध्यावधि चुनावों में मतदाताओं को डाक से मतदान करने के लिए मतपत्र भेजना शुरू कर दिया है। ट्रम्प प्रशासन ने रविवार को अमेरिकी सर्वोच्च न्यायालय में अपनी अपील को फिर से जारी किया ताकि प्रतिबंधों की अनुमति दी जा सके...",
+      "archived": false
+    },
+    {
+      "id": "dabb35121944d7510d3d1400d080fc3de265d4aa",
+      "slug": "that-sound-you-hear-is-not-the-world-ending-its-liberalism-b-dabb35",
+      "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
+      "excerpt": "It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours Get our breaking news email, free app or daily news podcast Depending on your politics,…",
+      "category": "Politics",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Waleed Aly",
+      "image": "https://i.guim.co.uk/img/media/fa5f40e391219a1fec7a924aa5a1ed79acf1f5d3/1_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0606e8436d8336f568f7bce29639918c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T15:00:08.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
+      "guid": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
+      "titleHi": "वह आवाज जो आप सुनते हैं वह दुनिया का अंत नहीं है – यह उदारवाद है जिसे राक्षस बनाया जा रहा है | वलीद अली",
+      "excerptHi": "यह पता चला है कि हम में से अधिकांश अब प्रगति में विश्वास नहीं करते हैं। और जब ऐसा होता है, तो यह हमारे जैसे समाजों के लिए जल्दी से एक संकट बन जाता है हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें आपकी राजनीति के आधार पर,...",
+      "archived": false
+    },
     {
       "id": "e366c745f2ba60ead923c2d335242ac6ae9f2723",
       "slug": "no-bailouts-for-jaguar-land-rover-amid-reports-of-thousands-e366c7",
@@ -196,14 +260,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Rob Davies",
       "image": "https://i.guim.co.uk/img/media/c39f169b8d92cd1ca91472da8ed13962def68d2f/263_0_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=72542926d1823cf74bbd929cac8aac6a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:24:05.000Z",
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
-      "guid": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
       "titleHi": "मंत्री ने कहा, हजारों नौकरियों में कटौती की खबरों के बीच जगुआर लैंड रोवर के लिए कोई बेलआउट नहीं",
       "excerptHi": "ट्रम्प टैरिफ और चीनी प्रतिस्पर्धियों से जूझ रही कार निर्माता, यूनियन के नेताओं और सरकार के साथ बातचीत का सामना कर रही है सरकार ने संकेत दिया है कि वह जगुआर लैंड में नौकरी के नुकसान को सीमित करने के लिए करदाताओं के पैसे का निवेश नहीं करेगी...",
       "archived": false
@@ -218,14 +280,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Amy Hawkins in Kyiv",
       "image": "https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=39b06eb97c51ef57507b8d817bebba63",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:05:46.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "guid": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
       "titleHi": "पुतिन के साथ बातचीत के बाद अमेरिकी राजदूत कुशनर और विटकॉफ कीव पहुंचे",
       "excerptHi": "आगमन यूक्रेन की पहली यात्रा को चिह्नित करता है और मॉस्को में चर्चा किए गए युद्ध को समाप्त करने पर ‘ठोस योजनाओं’ के एक दिन बाद आता है अमेरिकी वार्ताकार जेरेड कुशनर और स्टीव विटकॉफ दूसरे दिन कीव पहुंचे हैं कि कैसे...",
       "archived": false
@@ -240,14 +300,12 @@
         "Europe"
       ],
       "source": "The Guardian",
-      "author": "Emma Beddington",
       "image": "https://i.guim.co.uk/img/media/0fd4cb51be8e2c7fe509073f75f48e57b53dcf7a/147_0_5088_4070/master/5088.jpg?width=140&quality=85&auto=format&fit=max&s=48cb70bf8b2d310fe8491204f47f4071",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:00:07.000Z",
       "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
-      "guid": "https://www.theguardian.com/commentisfree/2026/sep/06/some-americans-call-us-europoor-seven-ways-we-are-exceedingly-rich",
       "titleHi": "कुछ अमेरिकी हमें ‘यूरोपूर‘ कहते हैं - लेकिन सात तरीके हैं जिनसे हम बहुत अमीर हैं | एम्मा बेडिंगटन",
       "excerptHi": "हमारे अमेरिकी दोस्त हमारे कम वेतन, उच्च करों और सार्वजनिक परिवहन पर निर्भरता के लिए यूरोपीय लोगों पर दया कर सकते हैं – लेकिन वे वास्तव में महत्वपूर्ण चीजों को भूल रहे हैं... मुझे इसे तोड़ने के लिए खेद है, लेकिन आप \"यूरोपियर\" हो सकते हैं। यह...",
       "archived": false
@@ -260,14 +318,12 @@
       "category": "Opinion",
       "secondaryCategories": [],
       "source": "The New York Times",
-      "author": "The New York Times",
       "image": "https://static01.nyt.com/images/2026/08/17/multimedia/00CLI-FOREST-LOSS-02-gzhw/00CLI-FOREST-LOSS-02-gzhw-mediumSquareAt3X.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:00:06.000Z",
       "sourceUrl": "https://www.nytimes.com/2026/09/06/opinion/letters/fires-forests-college-essay-deportations.html",
-      "guid": "https://www.nytimes.com/2026/09/06/opinion/letters/fires-forests-college-essay-deportations.html",
       "titleHi": "आग अमेरिका के महान जंगलों को नष्ट कर सकती है, या बचा सकती है",
       "excerptHi": "अमेरिका के महान जंगलों पर बड़ी आग के प्रभाव के बारे में एक लेख के जवाब। इसके अलावा: कॉलेज प्रवेश निबंध; शर्मनाक निर्वासन; यू.एस. ओपन बनाम निक्स।",
       "archived": false
@@ -280,14 +336,12 @@
       "category": "Technology",
       "secondaryCategories": [],
       "source": "The Verge",
-      "author": "The Verge",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T12:00:00.000Z",
       "sourceUrl": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
-      "guid": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
       "titleHi": "अमेरिका में DIY प्लग - इन सौर लाभ गति",
       "excerptHi": "इकोफ्लो का हाई - एंड, वेदरप्रूफ, इंटीग्रेटेड बैटरी के साथ प्लग - इन सोलर किट। | इमेज: इकोफ़्लो यह द स्टेपबैक है, एक साप्ताहिक न्यूज़लेटर जो तकनीकी दुनिया की एक ज़रूरी कहानी को तोड़ता है। ई - बाइक पर अधिक जानकारी के लिए, बिजली...",
       "archived": false
@@ -300,14 +354,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Dave Schilling",
       "image": "https://i.guim.co.uk/img/media/19c71a4cb0eed83996d2ebfc7cafc8980ce984d8/1_0_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f943e8d625c069d8900e8952c618ef37",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:00:04.000Z",
       "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/06/prediction-markets-gambling-american-pastime",
-      "guid": "https://www.theguardian.com/commentisfree/2026/sep/06/prediction-markets-gambling-american-pastime",
       "titleHi": "प्रिडिक्शन मार्केट अमेरिका का नया राष्ट्रीय शगल बन गया है | डेव शिलिंग",
       "excerptHi": "मेरे माता - पिता की पीढ़ी जुआ खेलने के खिलाफ हो सकती है। अगर केवल जॉर्ज सैंटोस ने सुना होता अगर केवल जॉर्ज सैंटोस और बिल सीमन्स के पास मेरे माता - पिता होते, तो उन्हें ओलावृष्टि का सामना नहीं करना पड़ता...",
       "archived": false
@@ -320,76 +372,62 @@
       "category": "Opinion",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "John Harris",
       "image": "https://i.guim.co.uk/img/media/8dc81cc5a2a1b8f57df89c7cc126eca5d873b315/104_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8a36d1c3ed096a7df064778bb84754f0",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T10:54:07.000Z",
       "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/06/geese-rock-music-perfect-soundtrack-age-of-disquiet-cameron-winter",
-      "guid": "https://www.theguardian.com/commentisfree/2026/sep/06/geese-rock-music-perfect-soundtrack-age-of-disquiet-cameron-winter",
       "titleHi": "ऐसा लगा जैसे दुनिया रॉक संगीत से थक गई है, फिर भी हंस इस अशांत युग के लिए एकदम सही साउंडट्रैक हैं | जॉन हैरिस",
       "excerptHi": "कैमरून विंटर के नेतृत्व में इस युवा अमेरिकी बैंड ने किनारे पर एक पीढ़ी के लिए संगीत बनाया \"यदि आप चाहते हैं कि मैं अपने करों का भुगतान करूं ,\" मंच पर 23 वर्षीय व्यक्ति ने जोर से गाया, उसके सामने हजारों लोग थे,\" आप...",
-      "archived": false
-    },
-    {
-      "id": "1dafec52057b9694284fb56f26577a40e2a85bd6",
-      "slug": "premier-league-buildup-to-arsenal-v-chelsea-plus-everton-v-m-1dafec",
-      "title": "Premier League buildup to Arsenal v Chelsea, plus Everton v Manchester United and WSL – matchday live",
-      "excerpt": "Buildup, news and discussion before Sunday’s games This weekend’s fixtures | Mail us with your thoughts Dave Estherby gets in touch: “Not sure about the pile-on for Russell Martin - it takes a very select set of skills…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/64f2ff7201ed89f62fdfce73d0f054160beec892/5_0_4990_3993/master/4990.jpg?width=140&quality=85&auto=format&fit=max&s=e078c0bb744b3ac9878a8ad389672030",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T09:57:21.000Z",
-      "sourceUrl": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-host-chelsea-and-manchester-united-travel-to-everton-matchday-live",
-      "titleHi": "प्रीमियर लीग का निर्माण आर्सेनल बनाम चेल्सी, प्लस एवर्टन बनाम मैनचेस्टर यूनाइटेड और डब्ल्यूएसएल - मैच डे लाइव",
-      "excerptHi": "रविवार के खेलों से पहले बिल्डअप, समाचार और चर्चा इस सप्ताहांत के जुड़नार | हमें अपने विचारों के साथ मेल करें डेव एस्थर्बी संपर्क में आता है: \"रसेल मार्टिन के लिए ढेर - ऑन के बारे में निश्चित नहीं है - इसमें कौशल का एक बहुत ही चयनित सेट लगता है...",
-      "archived": false
-    },
-    {
-      "id": "b33ae2fc1716599163aa912557c4ea8fa38fe171",
-      "slug": "iranian-forces-target-us-naval-drone-attempting-to-enter-str-b33ae2",
-      "title": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
-      "excerpt": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T09:16:36.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-      "titleHi": "ईरानी बलों ने होर्मुज जलडमरूमध्य में प्रवेश करने की कोशिश करने वाले अमेरिकी नौसैनिक ड्रोन को निशाना बनाया",
-      "excerptHi": "यह अमेरिकी सेना की घोषणा के बाद आया है कि उसने तीन ईरानी तेल टैंकरों पर हमला किया था, जिसके जवाब में उसने कहा था कि आईआरजीसी द्वारा दो नौसेना के युद्धपोतों के खिलाफ बैलिस्टिक मिसाइल हमले किए गए थे।",
-      "archived": false
-    },
-    {
-      "id": "30ea2c030147e71eb8625bea57fb68f16b0c485e",
-      "slug": "tupac-trial-spotlights-decades-of-us-police-failures-in-solv-30ea2c",
-      "title": "Tupac trial spotlights decades of US police failures in solving the case",
-      "excerpt": "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b28828f32e9a7d085c7daeb0fba899ae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T05:00:56.000Z",
-      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
-      "titleHi": "Tupac trial spotlights decades of US police failures in solving the case",
-      "excerptHi": "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s…",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "aafc7669e145c1ccd3d7091196364f95b47252a8",
+      "slug": "german-far-right-set-for-big-win-in-eastern-state---exit-pol-aafc76",
+      "title": "German far-right set for big win in eastern state - exit polls",
+      "excerpt": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:21:19.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o#0",
+      "titleHi": "पूर्वी राज्य में बड़ी जीत के लिए जर्मन दूर - दाएं सेट - एग्जिट पोल",
+      "excerptHi": "जर्मनी की एएफडी ने एक \"ऐतिहासिक परिणाम\" की सराहना की है और 18.5% पर रूढ़िवादी सीडीयू से बहुत आगे 44.5% वोट जीतने का अनुमान है।",
+      "archived": false
+    },
+    {
+      "id": "39d67e5113a56f031db6f5a1bf8968524b2e348a",
+      "slug": "far-right-afd-wins-key-german-state-election-but-may-fail-to-39d67e",
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "excerpt": "Exit poll shows Alternative für Deutschland on 44.5% of vote in Saxony-Anhalt after huge turnout, with votes still being counted The populist far-right, anti-immigration Alternative für Deutschland has emerged as the…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Kate Connolly in Berlin",
+      "image": "https://i.guim.co.uk/img/media/eabad25ad64cbcb78ce194592dff54c12e76611f/357_0_4806_3847/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=712145630863ef8f234361e326ac967e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:17:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "guid": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "titleHi": "सुदूर - दक्षिणपंथी एएफडी प्रमुख जर्मन राज्य चुनाव जीतता है लेकिन बहुमत हासिल करने में विफल हो सकता है",
+      "excerptHi": "एग्जिट पोल में सैक्सोनी - एन्हाल्ट में भारी मतदान के बाद 44.5% वोट पर ऑल्टरनेटिव फर ड्यूशलैंड दिखाया गया है, जिसमें वोट अभी भी गिने जा रहे हैं लोकलुभावन दूर - दराज़, विरोधी - आव्रजन ऑल्टरनेटिव फर ड्यूशलैंड के रूप में उभरा है...",
+      "archived": false
+    },
     {
       "id": "1870eae5c5ad644e1ca14e2c77757cbd6ff06cfb",
       "slug": "german-startup-sends-first-commercial-rocket-into-space-from-1870ea",
@@ -401,14 +439,12 @@
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Reuters in Oslo",
       "image": "https://i.guim.co.uk/img/media/172434774f2fbc7efb0751cb504e5c9d76b5babb/515_0_6646_5317/master/6646.jpg?width=140&quality=85&auto=format&fit=max&s=f850a63dc4d1c83fc12ee384d51c2e27",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:21:36.000Z",
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-      "guid": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
       "titleHi": "जर्मन स्टार्टअप ने यूरोप से अंतरिक्ष में पहला वाणिज्यिक रॉकेट भेजा",
       "excerptHi": "इसर एयरोस्पेस उपग्रह - प्रक्षेपण बाजार के विस्तार को भुनाने की दौड़ के बीच तेजी से विस्तार की योजना बना रहा है एक जर्मन स्टार्टअप ने महाद्वीपीय यूरोप से कक्षा में पहुंचने वाला पहला वाणिज्यिक रॉकेट लॉन्च किया है, जो...",
       "archived": false
@@ -423,14 +459,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Amy Hawkins in Kyiv",
       "image": "https://i.guim.co.uk/img/media/894e23975128a19a89301a4a3b5ecf0390ebfe14/533_0_3692_2955/master/3692.jpg?width=140&quality=85&auto=format&fit=max&s=39b06eb97c51ef57507b8d817bebba63",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:05:46.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "guid": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
       "titleHi": "पुतिन के साथ बातचीत के बाद अमेरिकी राजदूत कुशनर और विटकॉफ कीव पहुंचे",
       "excerptHi": "आगमन यूक्रेन की पहली यात्रा को चिह्नित करता है और मॉस्को में चर्चा किए गए युद्ध को समाप्त करने पर ‘ठोस योजनाओं’ के एक दिन बाद आता है अमेरिकी वार्ताकार जेरेड कुशनर और स्टीव विटकॉफ दूसरे दिन कीव पहुंचे हैं कि कैसे...",
       "archived": false
@@ -445,14 +479,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Natricia Duncan Caribbean correspondent",
       "image": "https://i.guim.co.uk/img/media/514934ca4b4e8c7dba4e71b2c01cec9431eddf58/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f53910d64a67d88ed74232c9faeacdc5",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:00:07.000Z",
       "sourceUrl": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "guid": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
       "titleHi": "जमैका के प्रतिनिधि किंग चार्ल्स को गुलामी की भरपाई की याचिका सौंपने के लिए ब्रिटेन पहुंचे",
       "excerptHi": "मंत्री का कहना है कि गुलामी की विरासत ‘हमारे देश और हमारे लोगों को वंचित करने’ के लिए जारी है, क्योंकि समूह जमैका के राज्य प्रमुख से अपील करने की तैयारी कर रहा है। गुलामी को लेकर जमैका द्वारा किंग चार्ल्स को एक ऐतिहासिक याचिका सौंपी जानी है...",
       "archived": false
@@ -467,14 +499,12 @@
         "Politics"
       ],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T12:26:35.000Z",
       "sourceUrl": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
-      "guid": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
       "titleHi": "एएफडी के उलरिच सिगमंड ने महत्वपूर्ण जर्मन राज्य चुनाव में मतदान किया",
       "excerptHi": "एएफडी उम्मीदवार उलरिच सिगमंड ने सैक्सोनी - एन्हाल्ट में अपना वोट डाला, जहां उनकी पार्टी राज्य चुनाव में एक ऐतिहासिक सफलता की तलाश कर रही है।",
       "archived": false
@@ -487,14 +517,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Guardian sport",
       "image": "https://i.guim.co.uk/img/media/56523e8ee330b91985f6730a0176501399f034cc/407_0_1993_1595/master/1993.jpg?width=140&quality=85&auto=format&fit=max&s=1164f4a4b4c7840c26edc54668689938",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T12:05:29.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
-      "guid": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
       "titleHi": "मैटरहॉर्न रिकॉर्ड प्रयास के लिए प्रशिक्षण सत्र के दौरान कनाडाई स्काईरनर लापता हो गया",
       "excerptHi": "कैली मैकक्रिस्टल को आल्प्स में रिकॉर्ड तोड़ने की उम्मीद थी एथलीट को आखिरी बार मंगलवार दोपहर को देखा गया था कनाडाई एथलीट कैली मैकक्रिस्टल आल्प्स में रिकॉर्ड प्रयास की तैयारी के दौरान लापता हो गए हैं। McCrystal, से...",
       "archived": false
@@ -507,14 +535,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:15:23.000Z",
       "sourceUrl": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
-      "guid": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
       "titleHi": "दोहा द्वारा ईरान के खिलाफ वापस धकेलने के बाद नेतन्याहू ने कतर को ‘शत्रुतापूर्ण राज्य’ कहा",
       "excerptHi": "नेतन्याहू ने दोहा पर इजरायल के 2025 के हमले का बचाव किया और कतर को \"शत्रुतापूर्ण राज्य\" कहा, जबकि कतर ने अलग से ईरान पर अपने क्षेत्र पर हमलों को सही ठहराने के लिए कतर के सुरक्षा मूल्यांकन को चुनिंदा रूप से उद्धृत करने का आरोप लगाया।",
       "archived": false
@@ -527,14 +553,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Pippa Crerar Political editor",
       "image": "https://i.guim.co.uk/img/media/5f102288b2d396ca87ffa246f9644c6e7310acc6/0_0_4126_3302/master/4126.jpg?width=140&quality=85&auto=format&fit=max&s=fdc612e0fa029b3491d689b6ff9050d1",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:12:09.000Z",
       "sourceUrl": "https://www.theguardian.com/politics/2026/sep/06/farage-says-overseas-donation-row-looks-bad-but-denies-reform-breached-electoral-law",
-      "guid": "https://www.theguardian.com/politics/2026/sep/06/farage-says-overseas-donation-row-looks-bad-but-denies-reform-breached-electoral-law",
       "titleHi": "फैराज का कहना है कि विदेशी दान पंक्ति ‘खराब दिखती है’ लेकिन सुधार ने कानून तोड़ने से इनकार किया",
       "excerptHi": "रॉबर्ट जेनरिक का कहना है कि पार्टी ने 'हर समय‘ कानूनी प्रोटोकॉल का पालन किया है क्योंकि मेट पुलिस जांच शुरू करने पर विचार कर रही है यूके राजनीति लाइव – नवीनतम अपडेट निगेल फैरेज ने विदेशी दान विवाद को स्वीकार किया है...",
       "archived": false
@@ -549,61 +573,40 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Rachel Hall",
       "image": "https://i.guim.co.uk/img/media/70cd1ddff7221708adb05e3140dcbd192bdb8d0f/500_0_2352_1882/master/2352.jpg?width=140&quality=85&auto=format&fit=max&s=03132015e2b7db5c33b9c61ab1c9ac58",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T10:47:25.000Z",
       "sourceUrl": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
-      "guid": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
       "titleHi": "मंत्री द्वारा 'वेशभूषा पहनने‘ के लिए काले रंग के डोवर प्रदर्शनकारियों की निंदा की गई",
       "excerptHi": "व्यापार सचिव का कहना है कि ब्रिटिश सड़कों पर नकाबपोश आव्रजन विरोधी विरोध ’कुछ ऐसा नहीं था जो हम चाहते थे' एक कैबिनेट मंत्री ने दर्जनों नकाबपोश और काले रंग के लोगों द्वारा डोवर सड़कों को अवरुद्ध करने की निंदा की है...",
-      "archived": false
-    },
-    {
-      "id": "16e21f351c8a519c1c3e67ed3a7fd76f0003e376",
-      "slug": "undercover-report-on-donations-looks-bad-for-reform-admits-n-16e21f",
-      "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – UK politics live",
-      "excerpt": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donations Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a93fa72607888ddd3d0d67033f949cb5673b1edb/682_775_2715_2173/master/2715.jpg?width=140&quality=85&auto=format&fit=max&s=2e6e5f7ed463f9871b8e85d12f3b0ccc",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T10:00:00.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
-      "titleHi": "सुधार के लिए दान पर अंडरकवर रिपोर्ट ’खराब लग रही है ', निगेल फैरेज ने स्वीकार किया – यूके पॉलिटिक्स लाइव",
-      "excerptHi": "फॉकलैंड द्वीप समूह के लिए जेवियर माइली की धमकियों पर विदेशी दान पर चुनावी कानूनों को दरकिनार करने की साजिश करने के लिए वरिष्ठ सहयोगियों के सामने आने के बाद सुधार ब्रिटेन के नेता दबाव में हैं, यह और भी महत्वपूर्ण है कि एंडी बर्नहम…",
-      "archived": false
-    },
-    {
-      "id": "b33ae2fc1716599163aa912557c4ea8fa38fe171",
-      "slug": "iranian-forces-target-us-naval-drone-attempting-to-enter-str-b33ae2",
-      "title": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
-      "excerpt": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T09:16:36.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-      "titleHi": "ईरानी बलों ने होर्मुज जलडमरूमध्य में प्रवेश करने की कोशिश करने वाले अमेरिकी नौसैनिक ड्रोन को निशाना बनाया",
-      "excerptHi": "यह अमेरिकी सेना की घोषणा के बाद आया है कि उसने तीन ईरानी तेल टैंकरों पर हमला किया था, जिसके जवाब में उसने कहा था कि आईआरजीसी द्वारा दो नौसेना के युद्धपोतों के खिलाफ बैलिस्टिक मिसाइल हमले किए गए थे।",
-      "archived": false
+      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "5ff640fa6ded83b6acbfa9f5dcd0316d149b7f0b",
+      "slug": "china-prepares-40bn-stimulus-for-financial-sector-amid-fears-5ff640",
+      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "excerpt": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Rob Davies",
+      "image": "https://i.guim.co.uk/img/media/a9fb4483c893b5ee6edc075352b001c54decc7a0/305_0_2391_1913/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=4a334e6f50d2945bd64b1f0487684271",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T15:16:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "guid": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "titleHi": "सुस्त विकास की आशंका के बीच चीन ने वित्तीय क्षेत्र के लिए £ 40 बिलियन का प्रोत्साहन तैयार किया",
+      "excerptHi": "बीजिंग चाहता है कि बैंक और बीमाकर्ता शेयर बाजार में निवेश को बढ़ावा दें क्योंकि यह नकदी भंडार को भरने में मदद करता है चीन अपने वित्तीय क्षेत्र में $ 54bn (£ 40bn) इंजेक्ट करेगा क्योंकि बीजिंग बैंकों और बीमाकर्ताओं को किनारे करने का प्रयास करता है...",
+      "archived": false
+    },
     {
       "id": "e366c745f2ba60ead923c2d335242ac6ae9f2723",
       "slug": "no-bailouts-for-jaguar-land-rover-amid-reports-of-thousands-e366c7",
@@ -612,14 +615,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Rob Davies",
       "image": "https://i.guim.co.uk/img/media/c39f169b8d92cd1ca91472da8ed13962def68d2f/263_0_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=72542926d1823cf74bbd929cac8aac6a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T13:24:05.000Z",
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
-      "guid": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
       "titleHi": "मंत्री ने कहा, हजारों नौकरियों में कटौती की खबरों के बीच जगुआर लैंड रोवर के लिए कोई बेलआउट नहीं",
       "excerptHi": "ट्रम्प टैरिफ और चीनी प्रतिस्पर्धियों से जूझ रही कार निर्माता, यूनियन के नेताओं और सरकार के साथ बातचीत का सामना कर रही है सरकार ने संकेत दिया है कि वह जगुआर लैंड में नौकरी के नुकसान को सीमित करने के लिए करदाताओं के पैसे का निवेश नहीं करेगी...",
       "archived": false
@@ -634,14 +635,12 @@
         "Europe"
       ],
       "source": "The Guardian",
-      "author": "Guardian sport",
       "image": "https://i.guim.co.uk/img/media/fa287f387845884e86f1ff792e715bfbc07cc0e2/104_0_1176_941/master/1176.jpg?width=140&quality=85&auto=format&fit=max&s=8321cb5a92396714c501553c8505b2df",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:46:39.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/ollie-millroy-loek-hartog-heroic-rival-burning-car-china-gt",
-      "guid": "https://www.theguardian.com/sport/2026/sep/06/ollie-millroy-loek-hartog-heroic-rival-burning-car-china-gt",
       "titleHi": "ओली मिलरॉय का कहना है कि वह अपने जीवन का श्रेय वीर प्रतिद्वंद्वी को देते हैं जिसने उन्हें चीन जीटी में जलती हुई कार से खींच लिया",
       "excerptHi": "दुर्घटना के बाद ब्रिटिश ड्राइवर को बचाने के लिए लोएक हार्टोग रुक गया ‘मैं अपने जीवन के बाकी हिस्सों के लिए उसकी बहादुरी को याद रखूंगा’ ब्रिटिश रेसिंग ड्राइवर ओली मिलरॉय ने लोएक हार्टोग को बताया कि वह अपने त्वरित सोच वाले प्रतिद्वंद्वी के बाद उसे अपना जीवन देता है...",
       "archived": false
@@ -654,14 +653,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742c/live/81049e20-a974-11f1-b6ca-99ea24dda2b9.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:02:04.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zr7jjpero?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cx2zr7jjpero#5",
       "titleHi": "एशियन गेम्स में जाने वाले यांग को सेल्टिक की कितनी कमी खलेगी?",
       "excerptHi": "यांग ह्यून - जून ने एशियाई खेलों के लिए रवाना होने से पहले सेंट मिरेन के खिलाफ एक महत्वपूर्ण गोल के साथ सेल्टिक के लिए अपने महत्व को चित्रित किया।",
       "archived": false
@@ -684,7 +681,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
       "titleHi": "ज्वालामुखी फटने से इंडोनेशिया में फंसे 150,000 यात्री",
       "excerptHi": "विस्फोट के बाद जकार्ता के पास हवाई क्षेत्र में राख का पता चलने के बाद 150,000 से अधिक एयरलाइन यात्री फंसे हुए हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "77abd0170e3f4b4116d9976de872dcf45f330954",
@@ -702,7 +699,7 @@
       "sourceUrl": "http://www.euronews.com/2026/09/06/flights-suspended-at-indonesias-main-airport-due-to-volcanic-eruption",
       "titleHi": "ज्वालामुखी विस्फोट के कारण इंडोनेशिया के मुख्य हवाई अड्डे पर उड़ानें निलंबित",
       "excerptHi": "माउंट अनक क्राकाटोआ एक सक्रिय ज्वालामुखी है जो जावा और सुमात्रा द्वीपों के बीच सुंडा जलडमरूमध्य में स्थित है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "23c010eb17dba77a488c8ff52436f36b32d81645",
@@ -774,24 +771,6 @@
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
       "titleHi": "Rescuers in Nepal find two more people alive after flash flood disaster",
       "excerptHi": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation Emergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities…",
-      "archived": true
-    },
-    {
-      "id": "f92b4cd96f2e8d3250a59c63535327e7ca6bc7ed",
-      "slug": "why-did-uss-lincoln-turn-up-in-thailand-looking-so-rusty-f92b4c",
-      "title": "Why did USS Lincoln turn up in Thailand looking so rusty?",
-      "excerpt": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/b2e2b170-a87f-11f1-aed2-8d6da8d75094.png",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-05T06:53:20.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "यूएसएस लिंकन थाईलैंड में इतना जंग खाए हुए क्यों दिखे?",
-      "excerptHi": "जब यूएसएस अब्राहम लिंकन ने इस सप्ताह थाईलैंड में डॉक किया तो कुछ लोग उस स्थिति की आलोचना करने के लिए जल्दी में थे।",
       "archived": true
     }
   ],
@@ -983,6 +962,49 @@
   ],
   "middleeast": [
     {
+      "id": "bc26524b01408ff134c222bc195f7f52deefe225",
+      "slug": "arsenal-v-chelsea-premier-league-live-bc2652",
+      "title": "Arsenal v Chelsea: Premier League – live",
+      "excerpt": "Minute-by-minute updates from the action at the Emirates Stadium Arsenal bank on continuity after window closes And now a third goal… There’s been a second goal at Hill Dickinson Stadium. Clickity click click click!…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Rob Smyth",
+      "image": "https://i.guim.co.uk/img/media/1965cb08f60dd2819e277bf117f8342601685835/402_206_3611_2889/master/3611.jpg?width=140&quality=85&auto=format&fit=max&s=8f70c0d87cd10bbdc02bf7473e88c2a3",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:38:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+      "guid": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+      "titleHi": "आर्सेनल बनाम चेल्सी: प्रीमियर लीग – LIVE",
+      "excerptHi": "विंडो बंद होने के बाद निरंतरता पर अमीरात स्टेडियम आर्सेनल बैंक में एक्शन से मिनट - दर - मिनट अपडेट और अब तीसरा गोल... हिल डिकिंसन स्टेडियम में दूसरा गोल हुआ है। क्लिकिटी क्लिक क्लिक क्लिक !…",
+      "archived": false
+    },
+    {
+      "id": "d6707ba28f81db1a90c56feff183780550e7209a",
+      "slug": "shoebridge-criticises-labor-response-after-idf-officers-repr-d6707b",
+      "title": "Shoebridge criticises Labor response after IDF officer’s ‘reprehensible’ comments on deadly Zomi Frankcom strike",
+      "excerpt": "Greens defence spokesman says ‘words are just distractions’ until government takes action ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike Get our breaking news email, free…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Sports"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Doherty",
+      "image": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2057fd5b9d385dabcf89dd9b2d0c5cd1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T15:00:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+      "titleHi": "ज़ोमी फ्रैंककॉम की घातक हड़ताल पर आईडीएफ अधिकारी की ‘निंदनीय‘ टिप्पणी के बाद शूब्रिज ने श्रम प्रतिक्रिया की आलोचना की",
+      "excerptHi": "ग्रीन्स के रक्षा प्रवक्ता का कहना है कि ‘शब्द सिर्फ ध्यान भंग करने वाले हैं’ जब तक कि सरकार ‘एसोसिएशन द्वारा अपराधबोध’ पर कार्रवाई नहीं करती: इजरायली हवाई हमले में सात अंतर्राष्ट्रीय सहायता कार्यकर्ता क्यों मारे गए हमारे ब्रेकिंग न्यूज ईमेल प्राप्त करें, मुफ्त...",
+      "archived": false
+    },
+    {
       "id": "4681316e32e1c9b2b7810502457098b4df24e858",
       "slug": "netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-agai-468131",
       "title": "Netanyahu calls Qatar ‘hostile state’ as Doha pushes back against Iran",
@@ -990,14 +1012,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T11:15:23.000Z",
       "sourceUrl": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
-      "guid": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
       "titleHi": "दोहा द्वारा ईरान के खिलाफ वापस धकेलने के बाद नेतन्याहू ने कतर को ‘शत्रुतापूर्ण राज्य’ कहा",
       "excerptHi": "नेतन्याहू ने दोहा पर इजरायल के 2025 के हमले का बचाव किया और कतर को \"शत्रुतापूर्ण राज्य\" कहा, जबकि कतर ने अलग से ईरान पर अपने क्षेत्र पर हमलों को सही ठहराने के लिए कतर के सुरक्षा मूल्यांकन को चुनिंदा रूप से उद्धृत करने का आरोप लगाया।",
       "archived": false
@@ -1020,7 +1040,7 @@
       "sourceUrl": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
       "titleHi": "ईरानी बलों ने होर्मुज जलडमरूमध्य में प्रवेश करने की कोशिश करने वाले अमेरिकी नौसैनिक ड्रोन को निशाना बनाया",
       "excerptHi": "यह अमेरिकी सेना की घोषणा के बाद आया है कि उसने तीन ईरानी तेल टैंकरों पर हमला किया था, जिसके जवाब में उसने कहा था कि आईआरजीसी द्वारा दो नौसेना के युद्धपोतों के खिलाफ बैलिस्टिक मिसाइल हमले किए गए थे।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f204e3bf35a78744fcc808cd0beae44f3dec1a43",
@@ -1134,46 +1154,6 @@
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/05/us-military-iran-tankers",
       "titleHi": "US military says it struck three Iranian tankers after American warships came under missile attack",
       "excerptHi": "Officials said US aircraft carrier and destroyer avoided attacks before three Iranian tankers were struck by the US The US military said Saturday it struck three Iranian oil tankers after US navy warships came under…",
-      "archived": true
-    },
-    {
-      "id": "289b2232d3442b9779568cb1475393a41911adc5",
-      "slug": "us-drafting-post-war-plan-for-the-middle-east-report-says-289b22",
-      "title": "US drafting post-war plan for the Middle East, report says",
-      "excerpt": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-05T14:04:40.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/09/05/us-drafting-post-war-plan-for-the-middle-east-report-says",
-      "titleHi": "US drafting post-war plan for the Middle East, report says",
-      "excerptHi": "Axios reported that the plan remains in its early stages but that it could set out US policy towards the Middle East for the remainder of Trump's term.",
-      "archived": true
-    },
-    {
-      "id": "712bc8cbbdeefe98bcb3f5c0398dd5d9ee35c210",
-      "slug": "civilians-among-at-least-60-killed-in-yemen-as-ground-fighti-712bc8",
-      "title": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-      "excerpt": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in years Clashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7d6dcaee114add9c2041df69f3c3f1819d8d0fcd/245_229_3639_2911/master/3639.jpg?width=140&quality=85&auto=format&fit=max&s=cd8de059638da7a9588fbbf4289bcff1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-05T13:47:19.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/sep/05/yemen-ground-fighting-escalates-houthi-rebels-government-forces",
-      "titleHi": "Civilians among at least 60 killed in Yemen as ground fighting escalates",
-      "excerptHi": "Houthi rebel offensive against government forces on west coast leads to some of deadliest clashes in years Clashes between Yemen’s Saudi-backed government forces and the Iran-aligned Houthi rebel movement have killed…",
       "archived": true
     }
   ],
@@ -1386,7 +1366,7 @@
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
       "titleHi": "‘इंजन में आग लग गई है ': यात्रियों द्वारा आग की लपटों को देखने के बाद क्वींसटाउन से सिडनी के लिए क्वांटास की उड़ान फिर से चलती है",
       "excerptHi": "यात्री संदिग्ध इंजन समस्या के बाद केबिन की रोशनी झिलमिलाहट और ‘बहुत चीखना’ देखकर याद करते हैं हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें लिज़ा - जेने लोच एक व्यावसायिक यात्रा से घर लौट रहे थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "718844009f1fd14026fd6d60eb16c82fdd5b625c",
@@ -1396,17 +1376,15 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Robert Kitson",
       "image": "https://i.guim.co.uk/img/media/ba255824fed66124db6c9621190250bdacff4b6d/35_0_2043_1634/master/2043.jpg?width=140&quality=85&auto=format&fit=max&s=0c744eace42f830e3cbbf72e59d297d6",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T07:00:01.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/jonah-lomu-new-film-late-all-blacks-rugby-union-hero",
-      "guid": "https://www.theguardian.com/sport/2026/sep/06/jonah-lomu-new-film-late-all-blacks-rugby-union-hero",
       "titleHi": "‘जोना लोमू होना मुश्किल था ': नई फिल्म ने दिवंगत ऑल ब्लैक के हीरो पर प्रकाश डाला",
       "excerptHi": "न्यूजीलैंड के महान खिलाड़ी ने 1995 रग्बी विश्व कप में अपना नाम बनाया लेकिन प्रसिद्धि में तेजी से वृद्धि ने एक टोल ले लिया क्योंकि उनका स्वास्थ्य बिगड़ गया जोनाह लोमू के जीवन के बारे में एक फिल्म बनाना कभी भी हर किसी को रोमांचित करने वाला नहीं था। बड़े आदमी की विधवा, नादने,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9f9e82af934b7aaff63ef419c4197e397c548ec3",
@@ -1570,6 +1548,115 @@
   ],
   "world": [
     {
+      "id": "241283732c8305da7801bf24fcf50d0e2f461d0e",
+      "slug": "trump-again-asks-supreme-court-to-restrict-mail-in-voting-as-241283",
+      "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
+      "excerpt": "Legal fight continues as states begin sending out ballots for voters to vote by mail in November’s midterm elections The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Marina Dunbar and agency",
+      "image": "https://i.guim.co.uk/img/media/3f384f89bef7e9e74d066a3ab9aa76ecf2a3faa4/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=1de05a315f5bdff129336b2667bd5526",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:23:02.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+      "titleHi": "ट्रम्प ने फिर से सुप्रीम कोर्ट से मेल - इन वोटिंग को मिडटर्म लूम के रूप में प्रतिबंधित करने के लिए कहा",
+      "excerptHi": "कानूनी लड़ाई जारी है क्योंकि राज्यों ने नवंबर के मध्यावधि चुनावों में मतदाताओं को डाक से मतदान करने के लिए मतपत्र भेजना शुरू कर दिया है। ट्रम्प प्रशासन ने रविवार को अमेरिकी सर्वोच्च न्यायालय में अपनी अपील को फिर से जारी किया ताकि प्रतिबंधों की अनुमति दी जा सके...",
+      "archived": false
+    },
+    {
+      "id": "c1fee3744b7f3694b6244bdea5793c7339fbdb3f",
+      "slug": "pupils-with-send-plans-in-england-likely-to-double-to-one-in-c1fee3",
+      "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
+      "excerpt": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision ‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision Schools and…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Richard Adams Education editor",
+      "image": "https://i.guim.co.uk/img/media/7f8a09145494ff1fc793d8c44f248207176d9bc0/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d4d7270c6764141c322610ed3045c885",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T16:00:09.000Z",
+      "sourceUrl": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
+      "guid": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
+      "titleHi": "इंग्लैंड में भेजने की योजना वाले छात्र समर्थन के लिए जल्दबाजी में 10 में से एक को दोगुना कर सकते हैं",
+      "excerptHi": "प्रावधान ‘शक्तिशाली उदाहरण‘ में संभावित परिवर्तन से पहले ईएचसीपी आवेदनों में वृद्धि के रूप में स्कूल और परिषद वित्तीय चिंताओं को व्यक्त करते हैं: मंत्री प्रावधान स्कूलों को बदलने के लिए ब्लूप्रिंट के लिए एसेक्स स्कूल की ओर देखते हैं और...",
+      "archived": false
+    },
+    {
+      "id": "5ff640fa6ded83b6acbfa9f5dcd0316d149b7f0b",
+      "slug": "china-prepares-40bn-stimulus-for-financial-sector-amid-fears-5ff640",
+      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "excerpt": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers…",
+      "category": "World",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Rob Davies",
+      "image": "https://i.guim.co.uk/img/media/a9fb4483c893b5ee6edc075352b001c54decc7a0/305_0_2391_1913/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=4a334e6f50d2945bd64b1f0487684271",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T15:16:43.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "guid": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "titleHi": "सुस्त विकास की आशंका के बीच चीन ने वित्तीय क्षेत्र के लिए £ 40 बिलियन का प्रोत्साहन तैयार किया",
+      "excerptHi": "बीजिंग चाहता है कि बैंक और बीमाकर्ता शेयर बाजार में निवेश को बढ़ावा दें क्योंकि यह नकदी भंडार को भरने में मदद करता है चीन अपने वित्तीय क्षेत्र में $ 54bn (£ 40bn) इंजेक्ट करेगा क्योंकि बीजिंग बैंकों और बीमाकर्ताओं को किनारे करने का प्रयास करता है...",
+      "archived": false
+    },
+    {
+      "id": "d6707ba28f81db1a90c56feff183780550e7209a",
+      "slug": "shoebridge-criticises-labor-response-after-idf-officers-repr-d6707b",
+      "title": "Shoebridge criticises Labor response after IDF officer’s ‘reprehensible’ comments on deadly Zomi Frankcom strike",
+      "excerpt": "Greens defence spokesman says ‘words are just distractions’ until government takes action ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike Get our breaking news email, free…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Sports"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Doherty",
+      "image": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2057fd5b9d385dabcf89dd9b2d0c5cd1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T15:00:10.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+      "titleHi": "ज़ोमी फ्रैंककॉम की घातक हड़ताल पर आईडीएफ अधिकारी की ‘निंदनीय‘ टिप्पणी के बाद शूब्रिज ने श्रम प्रतिक्रिया की आलोचना की",
+      "excerptHi": "ग्रीन्स के रक्षा प्रवक्ता का कहना है कि ‘शब्द सिर्फ ध्यान भंग करने वाले हैं’ जब तक कि सरकार ‘एसोसिएशन द्वारा अपराधबोध’ पर कार्रवाई नहीं करती: इजरायली हवाई हमले में सात अंतर्राष्ट्रीय सहायता कार्यकर्ता क्यों मारे गए हमारे ब्रेकिंग न्यूज ईमेल प्राप्त करें, मुफ्त...",
+      "archived": false
+    },
+    {
+      "id": "8888dade1bda318cb2bec634ef3f5519e2e0161c",
+      "slug": "dozens-feared-trapped-in-collapsed-building-in-delhi-8888da",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "excerpt": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-06T14:07:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro#0",
+      "titleHi": "दिल्ली में इमारत के ढहने से दर्जनों के फंसे होने की आशंका",
+      "excerptHi": "माना जाता है कि पांच मंजिला हॉस्टल के गिरने के समय उसमें लगभग 50 लोग थे।",
+      "archived": false
+    },
+    {
       "id": "de3874786362918f227f775a74dec0bc15e2bb85",
       "slug": "volcano-eruption-leaves-150000-passengers-stranded-in-indone-de3874",
       "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
@@ -1587,7 +1674,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
       "titleHi": "ज्वालामुखी फटने से इंडोनेशिया में फंसे 150,000 यात्री",
       "excerptHi": "विस्फोट के बाद जकार्ता के पास हवाई क्षेत्र में राख का पता चलने के बाद 150,000 से अधिक एयरलाइन यात्री फंसे हुए हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "37348db0bac2bd315750d0ab0888e184161f894d",
@@ -1607,7 +1694,7 @@
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
       "titleHi": "‘इंजन में आग लग गई है ': यात्रियों द्वारा आग की लपटों को देखने के बाद क्वींसटाउन से सिडनी के लिए क्वांटास की उड़ान फिर से चलती है",
       "excerptHi": "यात्री संदिग्ध इंजन समस्या के बाद केबिन की रोशनी झिलमिलाहट और ‘बहुत चीखना’ देखकर याद करते हैं हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें लिज़ा - जेने लोच एक व्यावसायिक यात्रा से घर लौट रहे थे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "192b0f8630a0d3d484e3f8514dc7769e5c3b5a23",
@@ -1627,7 +1714,7 @@
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/england-losing-tennis-courts-as-number-of-padel-facilities-rises-exponentially",
       "titleHi": "पैडल सुविधाओं की संख्या में तेजी से वृद्धि के साथ इंग्लैंड टेनिस कोर्ट खो रहा है",
       "excerptHi": "देश तीन वर्षों में 200 टेनिस कोर्ट खो देता है, लेकिन वे अभी भी पैडल सुविधाओं को 11 से एक कारक से पीछे छोड़ देते हैं इंग्लैंड ने तीन वर्षों में लगभग 200 टेनिस कोर्ट खो दिए हैं क्योंकि पैडल सुविधाएं लगभग छह गुना बढ़ गई हैं।...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d1e0e620976b05d955228790bdec5920dbebd35d",
@@ -1648,7 +1735,7 @@
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather",
       "titleHi": "पूर्वी तट के बेमौसम गर्म मौसम का सामना करने के कारण ब्रिस्बेन सितंबर के सबसे गर्म दिन में बह रहा है",
       "excerptHi": "क्वींसलैंड की राजधानी 34.4C से टकराती है क्योंकि अग्निशामकों ने इप्सविच के पश्चिम में लॉकर घाटी में तेजी से बढ़ती झाड़ी की आग से लड़ाई की है। हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें निवासियों को एक के रूप में हाई अलर्ट पर रखा गया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "29bda0e93f3ce6c1b6ff61b06ace2b250b917ecc",
@@ -1668,101 +1755,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "titleHi": "क्यों एक मशहूर मॉन्ट्रियल सैंडविच शॉप को अपना सोडा बदलने के लिए मजबूर किया गया है",
       "excerptHi": "मॉन्ट्रियल के सबसे प्रसिद्ध डेली में से एक, श्वार्ट्ज ने अपने काले चेरी सोडा के लिए आपूर्तिकर्ताओं को बदल दिया है।",
-      "archived": true
-    },
-    {
-      "id": "85137f9aca1b5925966777bc92b2bbf5a74ecfd3",
-      "slug": "falklands-row-shows-urgent-need-to-commit-to-3-target-says-l-85137f",
-      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-      "excerpt": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/db9d35f059df6267e2f788a80f0be9b8d449471a/806_0_3772_3020/master/3772.jpg?width=140&quality=85&auto=format&fit=max&s=7cac097367bdcd1478d9b6855c919716",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-      "titleHi": "लेबर डिफेंस कमेटी के चेयरमैन का कहना है कि फ़ॉकलैंड का विवाद 3% लक्ष्य के लिए प्रतिबद्ध होने की तत्काल आवश्यकता को दर्शाता है",
-      "excerptHi": "एक्सक्लूसिव: टैन ढेसी का कहना है कि अर्जेंटीना के खतरे इसे पहले से कहीं अधिक महत्वपूर्ण बनाते हैं कि प्रधान मंत्री रक्षा खर्च में वृद्धि करते हैं फॉकलैंड द्वीप समूह के लिए जेवियर माइली के खतरे एंडी बर्नहम को और भी महत्वपूर्ण बनाते हैं...",
-      "archived": true
-    },
-    {
-      "id": "2bfa6c27534773dbeceb8a751c60c9b7fabcfd7d",
-      "slug": "broken-feet-ripped-out-hair-and-now-a-death-sentence-the-fat-2bfa6c",
-      "title": "Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests",
-      "excerpt": "Taraneh Rahimi was told prison guards would rape her sister, Romina, if she did not sign a confession The twins were 19 and still in high school when they were taken from their beds in the dead of night by masked men…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/ce72bfd109e3793dc187f3eab311d7996bee2a51/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=47929e30dddb4036ab70d462a3e8e2ac",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T06:00:58.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/taraneh-romina-rahimi-twin-sisters-jailed-over-iran-protests",
-      "titleHi": "टूटे हुए पैर, फटे हुए बाल और अब मौत की सजा: ईरान के विरोध प्रदर्शनों पर जेल में बंद जुड़वां बहनों का भाग्य",
-      "excerptHi": "तरानेह रहीमी को बताया गया था कि जेल के गार्ड उसकी बहन रोमिना के साथ बलात्कार करेंगे, अगर उसने कबूलनामे पर हस्ताक्षर नहीं किए तो जुड़वाँ बच्चे 19 साल के थे और अभी भी हाई स्कूल में थे जब उन्हें रात में नकाबपोश पुरुषों द्वारा उनके बिस्तरों से ले जाया गया था...",
-      "archived": true
-    },
-    {
-      "id": "30ea2c030147e71eb8625bea57fb68f16b0c485e",
-      "slug": "tupac-trial-spotlights-decades-of-us-police-failures-in-solv-30ea2c",
-      "title": "Tupac trial spotlights decades of US police failures in solving the case",
-      "excerpt": "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b28828f32e9a7d085c7daeb0fba899ae",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T05:00:56.000Z",
-      "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
-      "titleHi": "Tupac trial spotlights decades of US police failures in solving the case",
-      "excerptHi": "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur’s…",
-      "archived": true
-    },
-    {
-      "id": "9f9e82af934b7aaff63ef419c4197e397c548ec3",
-      "slug": "labor-plans-crackdown-on-social-media-algorithms-as-taylor-s-9f9e82",
-      "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
-      "excerpt": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’ Follow our Australia news live blog for latest updates…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/6d0ac88df3374cb0ef4cf8f7faa031887a3a6019/1004_891_5733_4586/master/5733.jpg?width=140&quality=85&auto=format&fit=max&s=621082f532c7ef5099b14d0ff3b77d97",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T04:08:08.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
-      "titleHi": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
-      "excerptHi": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’ Follow our Australia news live blog for latest updates…",
-      "archived": true
-    },
-    {
-      "id": "034d3cc784dd6ba1c9f71b86db2ff8585b63be7e",
-      "slug": "watch-moment-64-year-old-nepali-woman-is-found-alive-in-mud-034d3c",
-      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "excerpt": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-06T01:54:29.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-      "excerptHi": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
       "archived": true
     }
   ]
