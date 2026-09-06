@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-09-06T21:03:32.210Z",
+  "generatedAt": "2026-09-06T23:29:48.590Z",
   "india": [
+    {
+      "id": "e0641d3a845ebcf45882aa736f72cc3bd5a36479",
+      "slug": "indias-high-stakes-exam-system-faces-a-crisis-of-trust-e0641d",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "excerpt": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T23:02:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o#2",
+      "titleHi": "भारत की हाई - स्टेक परीक्षा प्रणाली विश्वास के संकट का सामना कर रही है",
+      "excerptHi": "जैसे - जैसे परीक्षा घोटाले जारी रहते हैं, आलोचक पूछते हैं कि क्या केंद्रीकृत परीक्षण एजेंसी को ठीक करना पर्याप्त है या मॉडल को बदलने की आवश्यकता है।",
+      "archived": false
+    },
     {
       "id": "8888dade1bda318cb2bec634ef3f5519e2e0161c",
       "slug": "dozens-feared-trapped-in-collapsed-building-in-delhi-8888da",
@@ -167,27 +187,71 @@
       "titleHi": "I Went to Princeton to Become a So-So Indian",
       "excerptHi": "I realized that in this country Indians were not supposed to be happy or to pursue happiness. We were supposed to suffer and to pursue suffering.",
       "archived": true
-    },
-    {
-      "id": "fc3b4e4c2778232fee61996cfc73558ae208875d",
-      "slug": "almost-half-of-worlds-farmers-poisoned-by-pesticides-every-y-fc3b4e",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "excerpt": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/52efe842cca5785b2f13b82605be6d0460ca734c/741_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ff6e31d932863b2776099b74f66511e7",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-02T06:00:25.000Z",
-      "sourceUrl": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "titleHi": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "excerptHi": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has…",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "56ee5524303e261c760d4b6aabc4c362296202d4",
+      "slug": "alcaraz-delivers-statement-win-to-reach-us-open-last-eight-56ee55",
+      "title": "Alcaraz delivers statement win to reach US Open last eight",
+      "excerpt": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab66/live/410b6450-aa2a-11f1-aed2-8d6da8d75094.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T22:56:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o#1",
+      "titleHi": "अल्कारज़ ने यूएस ओपन के अंतिम आठ में पहुंचने के लिए स्टेटमेंट जीत हासिल की",
+      "excerptHi": "कार्लोस अल्कारज़ ने यूएस ओपन में टॉमी पॉल के खिलाफ चौथे दौर में शानदार जीत के साथ लंबी अवधि की चोट से वापसी जारी रखी।",
+      "archived": false
+    },
+    {
+      "id": "ce7c8ca835cac3cd19b58af5084f734c8b6a2ea3",
+      "slug": "who-has-made-troys-premier-league-team-of-the-week-ce7c8c",
+      "title": "Who has made Troy's Premier League team of the week?",
+      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T22:06:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo#0",
+      "titleHi": "ट्रॉय की सप्ताह की प्रीमियर लीग टीम किसने बनाई है?",
+      "excerptHi": "इस सीज़न में प्रीमियर लीग के हर दौर के मैचों के बाद, ट्रॉय डेनी हमें सप्ताह की अपनी टीम देते हैं। क्या आप उसकी पसंद से सहमत हैं?",
+      "archived": false
+    },
+    {
+      "id": "62e6ebca82aff44ba8d80689f02c0d299770969a",
+      "slug": "us-overcome-poor-shooting-and-italys-eye-poke-claims-in-edgy-62e6eb",
+      "title": "US overcome poor shooting and Italy’s eye-poke claims in edgy Fiba World Cup win",
+      "excerpt": "USA edge into quarter’s with nervy 55-52 win Cecilia Zandalasini claims she was poked in eye Caitlin Clark shoots 0-6 from the field Jackie Young had a big fourth quarter and Breanna Stewart made her only basket of the…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Agencies",
+      "image": "https://i.guim.co.uk/img/media/847028e11ca827232f73144e064a867724b610bb/655_309_6161_4931/master/6161.jpg?width=140&quality=85&auto=format&fit=max&s=8e671d05dc9d82d291a5edefdffcbc82",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T21:48:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/us-overcome-poor-shooting-and-italys-eye-poke-claims-in-edgy-fiba-world-cup-win",
+      "guid": "https://www.theguardian.com/sport/2026/sep/06/us-overcome-poor-shooting-and-italys-eye-poke-claims-in-edgy-fiba-world-cup-win",
+      "titleHi": "अमेरिका ने फीबा विश्व कप जीत में खराब शूटिंग और इटली के आंखों के पोक दावों को दूर किया",
+      "excerptHi": "संयुक्त राज्य अमेरिका ने 55 -52 से नर्वी जीत के साथ क्वार्टर में बढ़त बनाई सेसिलिया ज़ैंडलासिनी का दावा है कि उन्हें कैटलिन क्लार्क ने मैदान से 0 -6 से गोली मार दी थी जैकी यंग ने एक बड़ा चौथा क्वार्टर किया था और ब्रेना स्टीवर्ट ने अपना एकमात्र बास्केट बनाया...",
+      "archived": false
+    },
     {
       "id": "4b22560d8220b367a340a157cb3a3e2df7299ccc",
       "slug": "peace-talks-rich-in-symbolism-but-fundamental-differences-be-4b2256",
@@ -196,14 +260,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:52:12.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
       "titleHi": "शांति वार्ता प्रतीकात्मकता से भरपूर है लेकिन रूस और यूक्रेन के बीच मौलिक अंतर अभी भी बना हुआ है",
       "excerptHi": "जेम्स लैंडेल लिखते हैं, अमेरिकी राजदूतों और पुतिन और ज़ेलेंस्की दोनों के बीच बातचीत के बावजूद, कीव में उम्मीद है कि लड़ाई जारी रहेगी।",
       "archived": false
@@ -216,14 +278,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Maya Yang",
       "image": "https://i.guim.co.uk/img/media/fc60cd7ed9cc974664292c9ca383987f438e92e4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=707fb47dc373c8ce090f7b0c5a53397a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:24:13.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
       "titleHi": "मियामी हवाई अड्डे पर अमेज़ॅन कार्गो विमान दुर्घटनाग्रस्त हो गया और कई वाहनों को टक्कर मार दी",
       "excerptHi": "एफएए ने दुर्घटना और हवाई अड्डे के संचालन को रोकने की पुष्टि की है क्योंकि वीडियो में विमान के आसपास धुएं के भारी झुंड दिखाई दे रहे हैं एक अमेज़ॅन कार्गो विमान रविवार दोपहर फ्लोरिडा के मियामी अंतर्राष्ट्रीय हवाई अड्डे पर दुर्घटनाग्रस्त हो गया...",
       "archived": false
@@ -236,14 +296,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Tumaini Carayol at Flushing Meadows",
       "image": "https://i.guim.co.uk/img/media/623e4cf9d74991c84afcb808e99bc35dc0fff0a1/443_0_3848_3080/master/3848.jpg?width=140&quality=85&auto=format&fit=max&s=04f1030e9a12a2bfde402c7284bf7d33",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:16:01.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis",
-      "guid": "https://www.theguardian.com/sport/2026/sep/06/aryna-sabalenka-taylor-townsend-carlos-alcaraz-tommy-paul-us-open-2026-tennis",
       "titleHi": "सबालेंका ने टाउनसेंड को हराकर नोस्कोवा यूएस ओपन के क्वार्टर फाइनल में जगह बनाई",
       "excerptHi": "मौजूदा चैंपियन ने सीधे सेटों में टाउनसेंड को हराया लिंडा नोस्कोवा ने मार्टा कोस्ट्युक को 7 -5, 5 -7, 6 -4 से हराया आर्यना सबालेंका का यूएस ओपन खिताब का बचाव जारी रहा क्योंकि वह फ्लशिंग में क्वार्टर फाइनल में लौट आईं...",
       "archived": false
@@ -258,14 +316,12 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66cf/live/5f4eb540-aa2d-11f1-b109-879e35c24276.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:12:58.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cwyzr5kw491o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/golf/articles/cwyzr5kw491o#2",
       "titleHi": "GB&I ने 2015 के बाद से पहले वॉकर कप के साथ इतिहास रचा",
       "excerptHi": "ग्रेट ब्रिटेन और आयरलैंड ने वॉकर कप के इतिहास में सबसे बड़ी वापसी करते हुए संयुक्त राज्य अमेरिका को हराया और 2015 के बाद पहली बार ट्रॉफी जीती।",
       "archived": false
@@ -280,14 +336,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Ben Doherty, Andy Ball and Nick Evershed",
       "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:00:14.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-      "guid": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
       "titleHi": "अमेरिका के पास अब ऑस्ट्रेलिया के आधे से अधिक सैन्य ठिकानों तक पहुंच है – क्या यह देश को अनिच्छा से युद्ध में खींच सकता है?",
       "excerptHi": "एक्सक्लूसिव: अमेरिका - नियंत्रित हथियार निगमों और बलों का पूरे महाद्वीप में 100 से अधिक सुविधाओं पर नियंत्रण या पहुंच है, जिसे कुछ विश्लेषक ऑस्ट्रेलिया की सेना के ‘उपनिवेशीकरण’ के रूप में वर्णित करते हैं। का मैप ढूँढें...",
       "archived": false
@@ -329,64 +383,6 @@
       "titleHi": "ऊर्जा सचिव का कहना है कि अमेरिका ईरान के साथ परमाणु समझौता नहीं कर सकता है",
       "excerptHi": "क्रिस राइट ने एबीसी को बताया कि ‘ऐसा समझौता नहीं हो सकता है’ जो ईरान को परमाणु हथियार रखने से रोकेगा अमेरिकी ऊर्जा सचिव क्रिस राइट ने रविवार सुबह कहा कि अमेरिका परमाणु समझौते तक पहुंचने में सक्षम नहीं हो सकता है...",
       "archived": false
-    },
-    {
-      "id": "44ac47f1f8a433ef4ffa338adfc4e174f4240d29",
-      "slug": "iran-warns-of-faster-heavier-more-painful-response-to-us-att-44ac47",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "excerpt": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T17:00:56.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "titleHi": "ईरान ने अमेरिकी हमलों के लिए 'तेज, भारी, अधिक दर्दनाक प्रतिक्रिया' की चेतावनी दी",
-      "excerptHi": "यह टिप्पणी वाशिंगटन के एक दिन बाद आई है कि उसने क्षेत्र में अमेरिकी युद्धपोतों पर तेहरान के हमलों के जवाब में ईरानी तेल टैंकरों पर हमला किया था।",
-      "archived": false
-    },
-    {
-      "id": "71d4fcbf6970483df550aa2748ff5b0e6bb0b138",
-      "slug": "us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-act-71d4fc",
-      "title": "US Open tennis 2026: Aryna Sabalenka and Marta Kostyuk in action on day eight – live",
-      "excerpt": "The latest fourth-round updates from Flushing Meadows You can mail Daniel and follow us on TikTok and Bluesky We’re 4-4 in the doubles and knocking up on Ashe. Thinking more about the match, I’d expect Townsend to use…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/1cac1af0d45e205add046ae7ac3c79a6e6d4e2f7/49_0_3481_2785/master/3481.jpg?width=140&quality=85&auto=format&fit=max&s=ebb6591fc5907fd6ae93998b1c5fef56",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T16:35:17.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/06/us-open-tennis-2026-aryna-sabalenka-and-marta-kostyuk-in-action-on-day-eight-live",
-      "titleHi": "यूएस ओपन टेनिस 2026: आठवें दिन एक्शन में आर्यना सबालेंका और मार्टा कोस्ट्युक – LIVE",
-      "excerptHi": "Flushing Meadows के नवीनतम चौथे दौर के अपडेट आप डेनियल को मेल कर सकते हैं और TikTok और Bluesky पर हमें फ़ॉलो कर सकते हैं। हम डबल्स में 4 -4 हैं और ऐश पर दस्तक दे रहे हैं। मैच के बारे में और सोचकर, मुझे उम्मीद है कि टाउनसेंड इसका इस्तेमाल करेगा...",
-      "archived": false
-    },
-    {
-      "id": "e8aa738030092072cb931586e636a3d0c8f45031",
-      "slug": "the-guardian-view-on-extreme-heat-its-scale-should-be-a-wake-e8aa73",
-      "title": "The Guardian view on extreme heat: its scale should be a wake-up call to us all | Editorial",
-      "excerpt": "With thousands dead across Europe this summer, it’s time to recognise heatwaves as the major natural disasters they are The numbers are now trickling in: nearly 2,900 dead in the UK, at least 35,000 dead across Europe.…",
-      "category": "Opinion",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/d14a834ac771fca30f2928690a7e4f4e41adcb96/664_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=62967625c12259a143a86fb29eb8deed",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T16:30:09.000Z",
-      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/06/the-guardian-view-on-extreme-heat-its-scale-should-be-a-wake-up-call-to-us-all",
-      "titleHi": "अत्यधिक गर्मी पर अभिभावक का दृष्टिकोण: इसका पैमाना हम सभी के लिए एक वेक - अप कॉल होना चाहिए | संपादकीय",
-      "excerptHi": "इस गर्मी में यूरोप भर में हजारों लोगों की मौत के साथ, अब हीटवेव को प्रमुख प्राकृतिक आपदाओं के रूप में पहचानने का समय आ गया है। संख्या अब बढ़ रही है: यूके में लगभग 2,900 लोग मारे गए, यूरोप भर में कम से कम 35,000 लोग मारे गए।...",
-      "archived": false
     }
   ],
   "europe": [
@@ -398,14 +394,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/92218f50-aa29-11f1-a291-b542ee92de7c.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:52:12.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c980j5m8mpro#0",
       "titleHi": "शांति वार्ता प्रतीकात्मकता से भरपूर है लेकिन रूस और यूक्रेन के बीच मौलिक अंतर अभी भी बना हुआ है",
       "excerptHi": "जेम्स लैंडेल लिखते हैं, अमेरिकी राजदूतों और पुतिन और ज़ेलेंस्की दोनों के बीच बातचीत के बावजूद, कीव में उम्मीद है कि लड़ाई जारी रहेगी।",
       "archived": false
@@ -418,14 +412,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:03:48.000Z",
       "sourceUrl": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
-      "guid": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
       "titleHi": "अमेज़ॅन कार्गो विमान ने मियामी रनवे को ओवरशूट किया, वाहनों में दुर्घटनाग्रस्त हो गया और आग लग गई",
       "excerptHi": "फेडरल एविएशन एडमिनिस्ट्रेशन और मियामी इंटरनेशनल एयरपोर्ट के अनुसार, अमेज़ॅन प्राइम एयर द्वारा संचालित बोइंग 767 से जुड़ी घटना में हताहतों के बारे में तत्काल कोई शब्द नहीं था।",
       "archived": false
@@ -440,14 +432,12 @@
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Jack Larkin",
       "image": "https://i.guim.co.uk/img/media/decca5c97cd9355e54501230b725d5eb392a637a/502_30_5505_4404/master/5505.jpg?width=140&quality=85&auto=format&fit=max&s=a83397e4a7ba3379919781e3c77e8dbc",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T19:00:12.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
-      "guid": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
       "titleHi": "ऑस्ट्रेलिया में मशरूम से बने ताबूत में पहले महिला को रखा गया",
       "excerptHi": "माइसेलियम और हेमप फाइबर से उगाए जाने वाले कास्केट को तोड़ने में सिर्फ 45 दिन लगते हैं, इस प्रक्रिया में मिट्टी को समृद्ध करते हुए हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एक महिला को एक ताबूत में दफनाया गया है...",
       "archived": false
@@ -471,7 +461,7 @@
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
       "titleHi": "यूरोपीय संघ को 300,000 फैक्ट्री नौकरियों में कटौती का सामना करना पड़ रहा है क्योंकि चीन आपूर्ति श्रृंखलाओं को ‘उपनिवेश’ बना रहा है, उद्योग ने चेतावनी दी है",
       "excerptHi": "ब्रसेल्स में संघर्षरत विनिर्माण उद्योग का प्रतीक बनने के लिए 10 ताबूतों का उपयोग करने का विरोध यूरोपीय संघ के विनिर्माण में नौकरी का नुकसान तेजी से बढ़ेगा जब तक कि ब्रसेल्स चीनी द्वारा उद्योग के \"उपनिवेशीकरण\" को रोकता नहीं है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "aafc7669e145c1ccd3d7091196364f95b47252a8",
@@ -597,6 +587,26 @@
   ],
   "asia": [
     {
+      "id": "34dcf9287119792e96797ea82e43704995c4a879",
+      "slug": "the-volunteers-risking-their-lives-to-defuse-indonesias-wild-34dcf9",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "excerpt": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T23:13:29.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
+      "titleHi": "इंडोनेशिया के जंगल की आग 'कार्बन बम' को निष्क्रिय करने के लिए स्वयंसेवक अपनी जान जोखिम में डाल रहे हैं",
+      "excerptHi": "बोर्नियो में पीट की आग कार्बन के प्राचीन भंडार जारी कर रही है - और पूरे दक्षिण पूर्व एशिया में एक जहरीला धुंध भेज रही है।",
+      "archived": false
+    },
+    {
       "id": "6ff9df25a03125618d6b3208f5ba998cebd32261",
       "slug": "im-only-alive-thanks-to-one-man---british-driver-rescued-fro-6ff9df",
       "title": "'I'm only alive thanks to one man' -  British driver rescued from car fire in China race",
@@ -606,14 +616,12 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5b1/live/97a9cf80-aa2b-11f1-8785-3786c2a9a1ba.png",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:04:48.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/motorsport/articles/cp9305r12lpo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/motorsport/articles/cp9305r12lpo#5",
       "titleHi": "'मैं सिर्फ़ एक आदमी की बदौलत ज़िंदा हूँ' - चीन की दौड़ में कार में लगी आग से ब्रिटिश ड्राइवर को बचाया गया",
       "excerptHi": "ब्रिटिश रेसिंग ड्राइवर ओली मिलरॉय का कहना है कि वह केवल एक प्रतिद्वंद्वी के लिए जीवित हैं जिन्होंने उन्हें चाइना जीटी में दुर्घटना के बाद अपनी कार के जलते हुए मलबे से खींच लिया।",
       "archived": false
@@ -637,7 +645,7 @@
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
       "titleHi": "यूरोपीय संघ को 300,000 फैक्ट्री नौकरियों में कटौती का सामना करना पड़ रहा है क्योंकि चीन आपूर्ति श्रृंखलाओं को ‘उपनिवेश’ बना रहा है, उद्योग ने चेतावनी दी है",
       "excerptHi": "ब्रसेल्स में संघर्षरत विनिर्माण उद्योग का प्रतीक बनने के लिए 10 ताबूतों का उपयोग करने का विरोध यूरोपीय संघ के विनिर्माण में नौकरी का नुकसान तेजी से बढ़ेगा जब तक कि ब्रसेल्स चीनी द्वारा उद्योग के \"उपनिवेशीकरण\" को रोकता नहीं है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5ff640fa6ded83b6acbfa9f5dcd0316d149b7f0b",
@@ -770,24 +778,6 @@
       "titleHi": "ज्वालामुखीय राख के बादल ने जकार्ता के सहित इंडोनेशिया के पांच हवाई अड्डों पर उड़ानें रोक दीं",
       "excerptHi": "अनक क्राकाटाऊ विस्फोट 301 उड़ानों को बाधित करता है, मछली पकड़ने और कुछ स्कूल गतिविधियों को प्रभावित करता है इंडोनेशिया ने रविवार को अपने मुख्य अंतरराष्ट्रीय हवाई अड्डे सहित पांच हवाई अड्डों पर परिचालन रोक दिया, सैकड़ों उड़ानों को निलंबित कर दिया,...",
       "archived": true
-    },
-    {
-      "id": "9b9b7accbf212675e278c25d3861126185eeb63d",
-      "slug": "dollar-backed-stablecoins-can-push-local-currencies-lower-ba-9b9b7a",
-      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "excerpt": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ac8c45e4922af71fd8721593cdaa1bd4b1c0d3c5-3994x2246.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-05T16:43:13.000Z",
-      "sourceUrl": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-      "titleHi": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "excerptHi": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-      "archived": true
     }
   ],
   "africa": [
@@ -809,7 +799,7 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cgqd3x9lz34o?at_medium=RSS&at_campaign=rss",
       "titleHi": "स्विट्ज़रलैंड में चौथे प्ले - ऑफ होल पर केसी को पीटा गया",
       "excerptHi": "स्विट्जरलैंड में यूरोपीय मास्टर्स में चौथे प्ले - ऑफ होल पर इंग्लैंड के पॉल केसी को दक्षिण अफ्रीका के गत चैंपियन थ्रीस्टन लॉरेंस ने हराया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d31b4f8c9165c36dc7d8dc90245a9c33c96b655e",
@@ -980,6 +970,46 @@
   ],
   "middleeast": [
     {
+      "id": "6bcacc5df8567ae238672092cf0c411dbfd313f8",
+      "slug": "odegaard-desire-in-chelsea-win-impresses-rooney-6bcacc",
+      "title": "Odegaard 'desire' in Chelsea win impresses Rooney",
+      "excerpt": "Match of the Day pundit Wayne Rooney analyses how Martin Odegaard took control of the game as Arsenal faced Chelsea at the Emirates Stadium.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f7/live/1af84370-aa41-11f1-a291-b542ee92de7c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T22:32:06.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o#3",
+      "titleHi": "चेल्सी जीत में ओडेगार्ड की 'इच्छा' रूनी को प्रभावित करती है",
+      "excerptHi": "मैच ऑफ द डे पंडित वेन रूनी विश्लेषण करते हैं कि कैसे मार्टिन ओडेगार्ड ने एमिरेट्स स्टेडियम में आर्सेनल का सामना चेल्सी से करते हुए खेल पर नियंत्रण किया।",
+      "archived": false
+    },
+    {
+      "id": "f0f8f86c51054fc4d0cd011f4a6c89b325275615",
+      "slug": "richard-hughes-confirmed-as-al-hilal-sporting-director-after-f0f8f8",
+      "title": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
+      "excerpt": "Hughes joins Saudi exodus after two years at Anfield Martinelli, Summerville and Watkins are at Al-Hilal Richard Hughes has been appointed as the sporting director ⁠of Al-Hilal, the Saudi Pro League club confirmed on…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Reuters and Guardian sport",
+      "image": "https://i.guim.co.uk/img/media/3187016e56c5ed3a33c336b5e15f290203b896f3/373_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ae92ede37c347f6f315dfdd50bafc9ea",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T21:15:14.000Z",
+      "sourceUrl": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
+      "guid": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
+      "titleHi": "रिचर्ड ह्यूजेस ने लिवरपूल जाने के बाद अल - हिलाल के खेल निदेशक के रूप में पुष्टि की",
+      "excerptHi": "ह्यूजेस दो साल बाद एनफील्ड मार्टिनेली में सऊदी पलायन में शामिल हो गए, समरविले और वाटकिंस अल - हिलाल में हैं रिचर्ड ह्यूजेस को अल - हिलाल के खेल निदेशक के रूप में नियुक्त किया गया है, सऊदी प्रो लीग क्लब ने पुष्टि की...",
+      "archived": false
+    },
+    {
       "id": "a91f8b5f6b57f2207cb0cce6e5577affec2f41d1",
       "slug": "champions-arsenal-come-from-behind-to-beat-chelsea-a91f8b",
       "title": "Champions Arsenal come from behind to beat Chelsea",
@@ -989,14 +1019,12 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce40/live/0bbdd2d0-aa19-11f1-b109-879e35c24276.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-06T18:58:27.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c4gm2y4ll5vo#0",
       "titleHi": "चैंपियंस आर्सेनल चेल्सी को हराने के लिए पीछे से आता है",
       "excerptHi": "मौजूदा चैंपियन आर्सेनल ने एमिरेट्स स्टेडियम में लंदन डर्बी में बड़े खर्च वाले चेल्सी को हराया।",
       "archived": false
@@ -1009,14 +1037,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8559/live/c2e965e0-aa1f-11f1-aed2-8d6da8d75094.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-06T18:49:00.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cge4nv8j0w4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cge4nv8j0w4o#3",
       "titleHi": "आर्सेनल ने शानदार तरीके से प्रतिक्रिया व्यक्त की - आर्टेटा",
       "excerptHi": "शस्त्रागार प्रबंधक मिकेल आर्टेटा अमीरात में चेल्सी के खिलाफ अपनी टीम की वापसी की जीत से रोमांचित हैं।",
       "archived": false
@@ -1079,7 +1105,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "titleHi": "ईरान ने अमेरिकी हमलों के लिए 'तेज, भारी, अधिक दर्दनाक प्रतिक्रिया' की चेतावनी दी",
       "excerptHi": "यह टिप्पणी वाशिंगटन के एक दिन बाद आई है कि उसने क्षेत्र में अमेरिकी युद्धपोतों पर तेहरान के हमलों के जवाब में ईरानी तेल टैंकरों पर हमला किया था।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2185607de1be70ba521d8672c14374b183d57d9c",
@@ -1099,7 +1125,7 @@
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/tim-wellens-ben-wiggins-tour-of-britain-final-stage-cycling",
       "titleHi": "टिम वेलेंस ने ब्रिटेन का दौरा जीतने के लिए अंतिम चरण में कदम रखा",
       "excerptHi": "बेल्जियम ने ब्रिटेन के लुईस एस्की को दूसरे ब्रैडली विगिन्स के बेटे बेन को 10 वें टिम वेलेंस में हराया, जो संयुक्त अरब अमीरात एक्सआरजी टीम में तादेज पोगाकर के टीम के साथी थे, ने पुरुषों के ब्रिटेन के दौरे में समग्र जीत हासिल की...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bc26524b01408ff134c222bc195f7f52deefe225",
@@ -1117,7 +1143,7 @@
       "sourceUrl": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
       "titleHi": "आर्सेनल बनाम चेल्सी: प्रीमियर लीग – LIVE",
       "excerptHi": "विंडो बंद होने के बाद निरंतरता पर अमीरात स्टेडियम आर्सेनल बैंक में एक्शन से मिनट - दर - मिनट अपडेट और अब तीसरा गोल... हिल डिकिंसन स्टेडियम में दूसरा गोल हुआ है। क्लिकिटी क्लिक क्लिक क्लिक !…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d6707ba28f81db1a90c56feff183780550e7209a",
@@ -1139,44 +1165,6 @@
       "titleHi": "ज़ोमी फ्रैंककॉम की घातक हड़ताल पर आईडीएफ अधिकारी की ‘निंदनीय‘ टिप्पणी के बाद शूब्रिज ने श्रम प्रतिक्रिया की आलोचना की",
       "excerptHi": "ग्रीन्स के रक्षा प्रवक्ता का कहना है कि ‘शब्द सिर्फ ध्यान भंग करने वाले हैं’ जब तक कि सरकार ‘एसोसिएशन द्वारा अपराधबोध’ पर कार्रवाई नहीं करती: इजरायली हवाई हमले में सात अंतर्राष्ट्रीय सहायता कार्यकर्ता क्यों मारे गए हमारे ब्रेकिंग न्यूज ईमेल प्राप्त करें, मुफ्त...",
       "archived": true
-    },
-    {
-      "id": "4681316e32e1c9b2b7810502457098b4df24e858",
-      "slug": "netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-agai-468131",
-      "title": "Netanyahu calls Qatar ‘hostile state’ as Doha pushes back against Iran",
-      "excerpt": "Netanyahu defended Israel’s 2025 strike on Doha and called Qatar a “hostile state,\" while Qatar separately accused Iran of selectively quoting a Qatari security assessment to justify attacks on its territory.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T11:15:23.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/09/06/netanyahu-calls-qatar-hostile-state-as-doha-pushes-back-against-iran",
-      "titleHi": "दोहा द्वारा ईरान के खिलाफ वापस धकेलने के बाद नेतन्याहू ने कतर को ‘शत्रुतापूर्ण राज्य’ कहा",
-      "excerptHi": "नेतन्याहू ने दोहा पर इजरायल के 2025 के हमले का बचाव किया और कतर को \"शत्रुतापूर्ण राज्य\" कहा, जबकि कतर ने अलग से ईरान पर अपने क्षेत्र पर हमलों को सही ठहराने के लिए कतर के सुरक्षा मूल्यांकन को चुनिंदा रूप से उद्धृत करने का आरोप लगाया।",
-      "archived": true
-    },
-    {
-      "id": "b33ae2fc1716599163aa912557c4ea8fa38fe171",
-      "slug": "iranian-forces-target-us-naval-drone-attempting-to-enter-str-b33ae2",
-      "title": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
-      "excerpt": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T09:16:36.000Z",
-      "sourceUrl": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-      "titleHi": "ईरानी बलों ने होर्मुज जलडमरूमध्य में प्रवेश करने की कोशिश करने वाले अमेरिकी नौसैनिक ड्रोन को निशाना बनाया",
-      "excerptHi": "यह अमेरिकी सेना की घोषणा के बाद आया है कि उसने तीन ईरानी तेल टैंकरों पर हमला किया था, जिसके जवाब में उसने कहा था कि आईआरजीसी द्वारा दो नौसेना के युद्धपोतों के खिलाफ बैलिस्टिक मिसाइल हमले किए गए थे।",
-      "archived": true
     }
   ],
   "latam": [
@@ -1190,14 +1178,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Guardian staff",
       "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/257_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=bbb43d994ae96a7dac92da3092a5dcf8",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:49:01.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
       "titleHi": "समाचार LIVE: मेक्सिको में मारे गए ऑस्ट्रेलियाई सर्फर्स के माता - पिता मुकदमे के लिए उड़ान भरते हैं; श्रम पर लॉबिंग नियमों को कड़ा करने का दबाव डाला गया",
       "excerptHi": "दिन की खबरों का पालन करें LIVE संचार मंत्री, अनिका वेल्स ने गठबंधन और ग्रीन्स को चुनौती दी है कि वे सोशल मीडिया प्रतिबंध से संबंधित ई - सेफ्टी कमिश्नर के लिए शक्तियों को मजबूत करने वाला कानून पारित करें...",
       "archived": false
@@ -1384,14 +1370,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Guardian staff",
       "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/257_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=bbb43d994ae96a7dac92da3092a5dcf8",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:49:01.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
       "titleHi": "समाचार LIVE: मेक्सिको में मारे गए ऑस्ट्रेलियाई सर्फर्स के माता - पिता मुकदमे के लिए उड़ान भरते हैं; श्रम पर लॉबिंग नियमों को कड़ा करने का दबाव डाला गया",
       "excerptHi": "दिन की खबरों का पालन करें LIVE संचार मंत्री, अनिका वेल्स ने गठबंधन और ग्रीन्स को चुनौती दी है कि वे सोशल मीडिया प्रतिबंध से संबंधित ई - सेफ्टी कमिश्नर के लिए शक्तियों को मजबूत करने वाला कानून पारित करें...",
       "archived": false
@@ -1406,14 +1390,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Ben Doherty, Andy Ball and Nick Evershed",
       "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:00:14.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-      "guid": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
       "titleHi": "अमेरिका के पास अब ऑस्ट्रेलिया के आधे से अधिक सैन्य ठिकानों तक पहुंच है – क्या यह देश को अनिच्छा से युद्ध में खींच सकता है?",
       "excerptHi": "एक्सक्लूसिव: अमेरिका - नियंत्रित हथियार निगमों और बलों का पूरे महाद्वीप में 100 से अधिक सुविधाओं पर नियंत्रण या पहुंच है, जिसे कुछ विश्लेषक ऑस्ट्रेलिया की सेना के ‘उपनिवेशीकरण’ के रूप में वर्णित करते हैं। का मैप ढूँढें...",
       "archived": false
@@ -1428,14 +1410,12 @@
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Jack Larkin",
       "image": "https://i.guim.co.uk/img/media/decca5c97cd9355e54501230b725d5eb392a637a/502_30_5505_4404/master/5505.jpg?width=140&quality=85&auto=format&fit=max&s=a83397e4a7ba3379919781e3c77e8dbc",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T19:00:12.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
-      "guid": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
       "titleHi": "ऑस्ट्रेलिया में मशरूम से बने ताबूत में पहले महिला को रखा गया",
       "excerptHi": "माइसेलियम और हेमप फाइबर से उगाए जाने वाले कास्केट को तोड़ने में सिर्फ 45 दिन लगते हैं, इस प्रक्रिया में मिट्टी को समृद्ध करते हुए हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें एक महिला को एक ताबूत में दफनाया गया है...",
       "archived": false
@@ -1580,6 +1560,112 @@
   ],
   "world": [
     {
+      "id": "34dcf9287119792e96797ea82e43704995c4a879",
+      "slug": "the-volunteers-risking-their-lives-to-defuse-indonesias-wild-34dcf9",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "excerpt": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T23:13:29.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
+      "titleHi": "इंडोनेशिया के जंगल की आग 'कार्बन बम' को निष्क्रिय करने के लिए स्वयंसेवक अपनी जान जोखिम में डाल रहे हैं",
+      "excerptHi": "बोर्नियो में पीट की आग कार्बन के प्राचीन भंडार जारी कर रही है - और पूरे दक्षिण पूर्व एशिया में एक जहरीला धुंध भेज रही है।",
+      "archived": false
+    },
+    {
+      "id": "e0641d3a845ebcf45882aa736f72cc3bd5a36479",
+      "slug": "indias-high-stakes-exam-system-faces-a-crisis-of-trust-e0641d",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "excerpt": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T23:02:40.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o#2",
+      "titleHi": "भारत की हाई - स्टेक परीक्षा प्रणाली विश्वास के संकट का सामना कर रही है",
+      "excerptHi": "जैसे - जैसे परीक्षा घोटाले जारी रहते हैं, आलोचक पूछते हैं कि क्या केंद्रीकृत परीक्षण एजेंसी को ठीक करना पर्याप्त है या मॉडल को बदलने की आवश्यकता है।",
+      "archived": false
+    },
+    {
+      "id": "f4a75bb927257cf2f8821338e1814f8e7f477f63",
+      "slug": "gigantic-spaceship-university-of-bristols-flagship-500m-camp-f4a75b",
+      "title": "‘Gigantic spaceship’: University of Bristol’s flagship £500m campus opens",
+      "excerpt": "Temple Quarter Enterprise Campus near to station will make it easier for students and staff to commute Not so long ago, the first impression for visitors arriving by train to Bristol’s main railway station was a…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Steven Morris",
+      "image": "https://i.guim.co.uk/img/media/427ba87f73bdeca4042a8c920c38f5f942b94c81/913_0_9101_7280/master/9101.jpg?width=140&quality=85&auto=format&fit=max&s=4e643a6ad2b48bbe801facf32d084d1c",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T23:01:18.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
+      "guid": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
+      "titleHi": "‘विशालकाय स्पेसशिप ': ब्रिस्टल विश्वविद्यालय का प्रमुख £ 500m परिसर खुलता है",
+      "excerptHi": "स्टेशन के पास टेम्पल क्वार्टर एंटरप्राइज़ कैम्पस छात्रों और कर्मचारियों के लिए आवागमन को आसान बना देगा बहुत समय पहले नहीं, ब्रिस्टल के मुख्य रेलवे स्टेशन पर ट्रेन से आने वाले आगंतुकों के लिए पहली छाप थी...",
+      "archived": false
+    },
+    {
+      "id": "60b68f673e5a97af64e3bd85afb35efd5d02f85f",
+      "slug": "assailant-lunged-at-democratic-candidate-for-ohio-governor-c-60b68f",
+      "title": "Assailant lunged at Democratic candidate for Ohio governor, campaign says",
+      "excerpt": "Team says armed suspect attacked Amy Acton during a campaign stop at the Canfield Fair, injuring several people Amy Acton, Democratic candidate for Ohio governor, was the target of an attack on Sunday during a campaign…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Diana Ramirez-Simon and agencies",
+      "image": "https://i.guim.co.uk/img/media/408db6cdf40d5fa11aa2aa2df62ac1d0a232bc30/172_0_3404_2724/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=59e1f4c6c36c3686f21bd624918270b1",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T22:40:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
+      "titleHi": "हमलावर ने ओहियो के गवर्नर के लिए डेमोक्रेटिक उम्मीदवार पर हमला किया, अभियान का कहना है",
+      "excerptHi": "टीम का कहना है कि सशस्त्र संदिग्ध ने कैनफील्ड मेले में एक अभियान स्टॉप के दौरान एमी एक्टन पर हमला किया, जिसमें कई लोग घायल हो गए, ओहियो के गवर्नर के लिए डेमोक्रेटिक उम्मीदवार एमी एक्टन रविवार को एक अभियान के दौरान हमले का निशाना बनीं...",
+      "archived": false
+    },
+    {
+      "id": "11d76854eecf4da102e03a2c43e9dc4ae639eaf8",
+      "slug": "far-right-protesters-descend-on-portsmouth-after-small-boat-11d768",
+      "title": "Far-right protesters descend on Portsmouth after small boat arrival",
+      "excerpt": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leaving Hundreds of far-right activists have descended on Portsmouth, where a small boat with 140 asylum…",
+      "category": "World",
+      "secondaryCategories": [
+        "Sports",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Diane Taylor and Charlie Moloney",
+      "image": "https://i.guim.co.uk/img/media/c2a3840a8d6743190813d001f4d4362351ca26b4/252_0_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=e68419ef876bc0a586e7f96f90b4ee40",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-06T21:38:52.000Z",
+      "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+      "guid": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+      "titleHi": "छोटी नाव के आने के बाद पोर्ट्समाउथ पर दक्षिणपंथी प्रदर्शनकारी उतरते हैं",
+      "excerptHi": "इन्फ्लुएंसर लाइवस्ट्रीम इवेंट पुरुषों को शरण चाहने वालों को छोड़ने से रोकने के लिए बंदरगाह की यात्रा करने के लिए बुला रहा है सैकड़ों दूर - दराज़ कार्यकर्ता पोर्ट्समाउथ पर उतरे हैं, जहां 140 शरण के साथ एक छोटी नाव...",
+      "archived": false
+    },
+    {
       "id": "6825b4e5fb9c4c1f29b3c60c306fa9b17708dfae",
       "slug": "news-live-parents-of-australian-surfers-killed-in-mexico-fly-6825b4",
       "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
@@ -1589,14 +1675,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Guardian staff",
       "image": "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/257_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=bbb43d994ae96a7dac92da3092a5dcf8",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:49:01.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
       "titleHi": "समाचार LIVE: मेक्सिको में मारे गए ऑस्ट्रेलियाई सर्फर्स के माता - पिता मुकदमे के लिए उड़ान भरते हैं; श्रम पर लॉबिंग नियमों को कड़ा करने का दबाव डाला गया",
       "excerptHi": "दिन की खबरों का पालन करें LIVE संचार मंत्री, अनिका वेल्स ने गठबंधन और ग्रीन्स को चुनौती दी है कि वे सोशल मीडिया प्रतिबंध से संबंधित ई - सेफ्टी कमिश्नर के लिए शक्तियों को मजबूत करने वाला कानून पारित करें...",
       "archived": false
@@ -1609,14 +1693,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f28f/live/73735120-aa32-11f1-a291-b542ee92de7c.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-06T20:41:48.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo#3",
       "titleHi": "वीडियो दिखाता है कि दुर्घटना के बाद अमेज़ॅन कार्गो विमान क्षतिग्रस्त हो गया",
       "excerptHi": "मियामी अंतर्राष्ट्रीय हवाई अड्डे पर उतरने का प्रयास करते समय एक अमेज़ॅन एयर कार्गो विमान ने रनवे को ओवरशॉट कर दिया है।",
       "archived": false
@@ -1629,14 +1711,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Maya Yang",
       "image": "https://i.guim.co.uk/img/media/fc60cd7ed9cc974664292c9ca383987f438e92e4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=707fb47dc373c8ce090f7b0c5a53397a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:24:13.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
       "titleHi": "मियामी हवाई अड्डे पर अमेज़ॅन कार्गो विमान दुर्घटनाग्रस्त हो गया और कई वाहनों को टक्कर मार दी",
       "excerptHi": "एफएए ने दुर्घटना और हवाई अड्डे के संचालन को रोकने की पुष्टि की है क्योंकि वीडियो में विमान के आसपास धुएं के भारी झुंड दिखाई दे रहे हैं एक अमेज़ॅन कार्गो विमान रविवार दोपहर फ्लोरिडा के मियामी अंतर्राष्ट्रीय हवाई अड्डे पर दुर्घटनाग्रस्त हो गया...",
       "archived": false
@@ -1651,14 +1731,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Ben Doherty, Andy Ball and Nick Evershed",
       "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T20:00:14.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-      "guid": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
       "titleHi": "अमेरिका के पास अब ऑस्ट्रेलिया के आधे से अधिक सैन्य ठिकानों तक पहुंच है – क्या यह देश को अनिच्छा से युद्ध में खींच सकता है?",
       "excerptHi": "एक्सक्लूसिव: अमेरिका - नियंत्रित हथियार निगमों और बलों का पूरे महाद्वीप में 100 से अधिक सुविधाओं पर नियंत्रण या पहुंच है, जिसे कुछ विश्लेषक ऑस्ट्रेलिया की सेना के ‘उपनिवेशीकरण’ के रूप में वर्णित करते हैं। का मैप ढूँढें...",
       "archived": false
@@ -1673,117 +1751,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Marina Dunbar",
       "image": "https://i.guim.co.uk/img/media/4ec21ba47fba56699afd8ea34f2aed0f3e55bbc5/422_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=cc2d770cfe60f8c3731fa70e350ab7d5",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T19:12:36.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
       "titleHi": "हवाई ने तूफान लोवेल के द्वीपों तक पहुँचने के साथ ही आपातकाल की स्थिति घोषित कर दी है",
       "excerptHi": "तूफान, जो सोमवार के रूप में जल्द ही प्रभाव डाल सकता है, तूफान के मौसम के दौरान राज्य को धमकी देने के लिए हफ्तों में तीसरी प्रणाली है हवाई ने आपातकाल की स्थिति घोषित कर दी है क्योंकि शक्तिशाली तूफान लोवेल द्वीपों की ओर अपना रास्ता बनाता है,...",
       "archived": false
-    },
-    {
-      "id": "7a2141c2148a480d1b43c41c67d3387f795edac6",
-      "slug": "energy-secretary-says-us-might-not-reach-nuclear-agreement-w-7a2141",
-      "title": "Energy secretary says US might not reach nuclear agreement with Iran",
-      "excerpt": "Chris Wright tells ABC there ‘may not’ be an agreement that would prevent Iran from having nuclear weapons US energy secretary Chris Wright said on Sunday morning that the US may not be able to reach a nuclear agreement…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/ccc6df5c5160ccabf5586177abf886151fbfd850/617_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=481353dc743fd11d1f4eace055478217",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T17:39:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
-      "titleHi": "ऊर्जा सचिव का कहना है कि अमेरिका ईरान के साथ परमाणु समझौता नहीं कर सकता है",
-      "excerptHi": "क्रिस राइट ने एबीसी को बताया कि ‘ऐसा समझौता नहीं हो सकता है’ जो ईरान को परमाणु हथियार रखने से रोकेगा अमेरिकी ऊर्जा सचिव क्रिस राइट ने रविवार सुबह कहा कि अमेरिका परमाणु समझौते तक पहुंचने में सक्षम नहीं हो सकता है...",
-      "archived": false
-    },
-    {
-      "id": "44ac47f1f8a433ef4ffa338adfc4e174f4240d29",
-      "slug": "iran-warns-of-faster-heavier-more-painful-response-to-us-att-44ac47",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "excerpt": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T17:00:56.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "titleHi": "ईरान ने अमेरिकी हमलों के लिए 'तेज, भारी, अधिक दर्दनाक प्रतिक्रिया' की चेतावनी दी",
-      "excerptHi": "यह टिप्पणी वाशिंगटन के एक दिन बाद आई है कि उसने क्षेत्र में अमेरिकी युद्धपोतों पर तेहरान के हमलों के जवाब में ईरानी तेल टैंकरों पर हमला किया था।",
-      "archived": false
-    },
-    {
-      "id": "241283732c8305da7801bf24fcf50d0e2f461d0e",
-      "slug": "trump-again-asks-supreme-court-to-restrict-mail-in-voting-as-241283",
-      "title": "Trump again asks supreme court to restrict mail-in voting as midterms loom",
-      "excerpt": "Legal fight continues as states begin sending out ballots for voters to vote by mail in November’s midterm elections The Trump administration renewed its appeal to the US supreme court on Sunday to allow restrictions on…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/3f384f89bef7e9e74d066a3ab9aa76ecf2a3faa4/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=1de05a315f5bdff129336b2667bd5526",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T16:23:02.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-      "titleHi": "ट्रम्प ने फिर से सुप्रीम कोर्ट से मेल - इन वोटिंग को मिडटर्म लूम के रूप में प्रतिबंधित करने के लिए कहा",
-      "excerptHi": "कानूनी लड़ाई जारी है क्योंकि राज्यों ने नवंबर के मध्यावधि चुनावों में मतदाताओं को डाक से मतदान करने के लिए मतपत्र भेजना शुरू कर दिया है। ट्रम्प प्रशासन ने रविवार को अमेरिकी सर्वोच्च न्यायालय में अपनी अपील को फिर से जारी किया ताकि प्रतिबंधों की अनुमति दी जा सके...",
-      "archived": true
-    },
-    {
-      "id": "c1fee3744b7f3694b6244bdea5793c7339fbdb3f",
-      "slug": "pupils-with-send-plans-in-england-likely-to-double-to-one-in-c1fee3",
-      "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
-      "excerpt": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision ‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision Schools and…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7f8a09145494ff1fc793d8c44f248207176d9bc0/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d4d7270c6764141c322610ed3045c885",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T16:00:09.000Z",
-      "sourceUrl": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
-      "titleHi": "इंग्लैंड में भेजने की योजना वाले छात्र समर्थन के लिए जल्दबाजी में 10 में से एक को दोगुना कर सकते हैं",
-      "excerptHi": "प्रावधान ‘शक्तिशाली उदाहरण‘ में संभावित परिवर्तन से पहले ईएचसीपी आवेदनों में वृद्धि के रूप में स्कूल और परिषद वित्तीय चिंताओं को व्यक्त करते हैं: मंत्री प्रावधान स्कूलों को बदलने के लिए ब्लूप्रिंट के लिए एसेक्स स्कूल की ओर देखते हैं और...",
-      "archived": true
-    },
-    {
-      "id": "5ff640fa6ded83b6acbfa9f5dcd0316d149b7f0b",
-      "slug": "china-prepares-40bn-stimulus-for-financial-sector-amid-fears-5ff640",
-      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
-      "excerpt": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers…",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a9fb4483c893b5ee6edc075352b001c54decc7a0/305_0_2391_1913/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=4a334e6f50d2945bd64b1f0487684271",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T15:16:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
-      "titleHi": "सुस्त विकास की आशंका के बीच चीन ने वित्तीय क्षेत्र के लिए £ 40 बिलियन का प्रोत्साहन तैयार किया",
-      "excerptHi": "बीजिंग चाहता है कि बैंक और बीमाकर्ता शेयर बाजार में निवेश को बढ़ावा दें क्योंकि यह नकदी भंडार को भरने में मदद करता है चीन अपने वित्तीय क्षेत्र में $ 54bn (£ 40bn) इंजेक्ट करेगा क्योंकि बीजिंग बैंकों और बीमाकर्ताओं को किनारे करने का प्रयास करता है...",
-      "archived": true
     }
   ]
 }
