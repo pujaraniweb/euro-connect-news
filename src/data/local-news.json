@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T23:29:48.590Z",
+  "generatedAt": "2026-09-07T02:59:13.209Z",
   "india": [
     {
       "id": "e0641d3a845ebcf45882aa736f72cc3bd5a36479",
@@ -9,14 +9,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T23:02:40.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o#2",
       "titleHi": "भारत की हाई - स्टेक परीक्षा प्रणाली विश्वास के संकट का सामना कर रही है",
       "excerptHi": "जैसे - जैसे परीक्षा घोटाले जारी रहते हैं, आलोचक पूछते हैं कि क्या केंद्रीकृत परीक्षण एजेंसी को ठीक करना पर्याप्त है या मॉडल को बदलने की आवश्यकता है।",
       "archived": false
@@ -198,14 +196,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab66/live/410b6450-aa2a-11f1-aed2-8d6da8d75094.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T22:56:39.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o#1",
       "titleHi": "अल्कारज़ ने यूएस ओपन के अंतिम आठ में पहुंचने के लिए स्टेटमेंट जीत हासिल की",
       "excerptHi": "कार्लोस अल्कारज़ ने यूएस ओपन में टॉमी पॉल के खिलाफ चौथे दौर में शानदार जीत के साथ लंबी अवधि की चोट से वापसी जारी रखी।",
       "archived": false
@@ -218,14 +214,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/83c38710-aa24-11f1-8046-e7e0d3946c1a.png",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T22:06:40.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/cd947djg1zpo#0",
       "titleHi": "ट्रॉय की सप्ताह की प्रीमियर लीग टीम किसने बनाई है?",
       "excerptHi": "इस सीज़न में प्रीमियर लीग के हर दौर के मैचों के बाद, ट्रॉय डेनी हमें सप्ताह की अपनी टीम देते हैं। क्या आप उसकी पसंद से सहमत हैं?",
       "archived": false
@@ -240,14 +234,12 @@
         "Europe"
       ],
       "source": "The Guardian",
-      "author": "Agencies",
       "image": "https://i.guim.co.uk/img/media/847028e11ca827232f73144e064a867724b610bb/655_309_6161_4931/master/6161.jpg?width=140&quality=85&auto=format&fit=max&s=8e671d05dc9d82d291a5edefdffcbc82",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T21:48:35.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/06/us-overcome-poor-shooting-and-italys-eye-poke-claims-in-edgy-fiba-world-cup-win",
-      "guid": "https://www.theguardian.com/sport/2026/sep/06/us-overcome-poor-shooting-and-italys-eye-poke-claims-in-edgy-fiba-world-cup-win",
       "titleHi": "अमेरिका ने फीबा विश्व कप जीत में खराब शूटिंग और इटली के आंखों के पोक दावों को दूर किया",
       "excerptHi": "संयुक्त राज्य अमेरिका ने 55 -52 से नर्वी जीत के साथ क्वार्टर में बढ़त बनाई सेसिलिया ज़ैंडलासिनी का दावा है कि उन्हें कैटलिन क्लार्क ने मैदान से 0 -6 से गोली मार दी थी जैकी यंग ने एक बड़ा चौथा क्वार्टर किया था और ब्रेना स्टीवर्ट ने अपना एकमात्र बास्केट बनाया...",
       "archived": false
@@ -362,7 +354,7 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
       "titleHi": "सबालेंका ने यूएस ओपन में टाउनसेंड टेस्ट को हराया",
       "excerptHi": "दो बार की गत चैंपियन आर्यना सबलेन्का ने सेरेना विलियम्स का अनुसरण करते हुए टेलर टाउनसेंड को हराकर लगातार छठे यूएस ओपन के क्वार्टर फाइनल में प्रवेश किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7a2141c2148a480d1b43c41c67d3387f795edac6",
@@ -382,10 +374,52 @@
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
       "titleHi": "ऊर्जा सचिव का कहना है कि अमेरिका ईरान के साथ परमाणु समझौता नहीं कर सकता है",
       "excerptHi": "क्रिस राइट ने एबीसी को बताया कि ‘ऐसा समझौता नहीं हो सकता है’ जो ईरान को परमाणु हथियार रखने से रोकेगा अमेरिकी ऊर्जा सचिव क्रिस राइट ने रविवार सुबह कहा कि अमेरिका परमाणु समझौते तक पहुंचने में सक्षम नहीं हो सकता है...",
-      "archived": false
+      "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "af28608005f2da39c497e69441d10235357d5f5a",
+      "slug": "germanys-far-right-afd-thanks-elon-musk-as-france-warns-stat-af2860",
+      "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’",
+      "excerpt": "Lead candidate in Saxony-Anhalt welcomes further ‘strong’ cooperation with Musk as French minister says ‘We cannot forget our history’ The candidate who led the far-right Alternative für Deutschland party to a historic…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/1f2347cd67b123d62a8aeb95074332a837a87df0/109_30_1651_1321/master/1651.jpg?width=140&quality=85&auto=format&fit=max&s=737272224dee14fabff9d88a9bb87d17",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T01:03:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+      "guid": "https://www.theguardian.com/world/2026/sep/07/afd-thanks-elon-musk-german-state-elections-2026-win",
+      "titleHi": "जर्मनी के दूर - दराज के एएफडी ने एलोन मस्क को धन्यवाद दिया क्योंकि फ्रांस ने राज्य चुनाव जीत को ‘गंभीर क्षण’ की चेतावनी दी",
+      "excerptHi": "सैक्सोनी - एन्हाल्ट में प्रमुख उम्मीदवार मस्क के साथ आगे ‘मजबूत’ सहयोग का स्वागत करते हैं क्योंकि फ्रांसीसी मंत्री कहते हैं कि ’हम अपने इतिहास को नहीं भूल सकते' वह उम्मीदवार जिसने एक ऐतिहासिक…",
+      "archived": false
+    },
+    {
+      "id": "186cad496c76242ca57fb08822ef1dd0b5e1b3b0",
+      "slug": "austrias-islamic-headscarf-ban-in-force-as-under-14s-go-back-186cad",
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "excerpt": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:01:32.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o#0",
+      "titleHi": "ऑस्ट्रिया का इस्लामिक हेडस्कार्फ प्रतिबंध लागू है क्योंकि अंडर -14 स्कूल में वापस जाते हैं",
+      "excerptHi": "सरकार का कहना है कि कानून का उद्देश्य युवा लड़कियों के अधिकारों की रक्षा करना है, लेकिन आलोचकों का कहना है कि यह मुस्लिम विरोधी भावना को बढ़ावा दे रहा है।",
+      "archived": false
+    },
     {
       "id": "4b22560d8220b367a340a157cb3a3e2df7299ccc",
       "slug": "peace-talks-rich-in-symbolism-but-fundamental-differences-be-4b2256",
@@ -543,49 +577,29 @@
       "titleHi": "पुतिन के साथ बातचीत के बाद अमेरिकी राजदूत कुशनर और विटकॉफ कीव पहुंचे",
       "excerptHi": "आगमन यूक्रेन की पहली यात्रा को चिह्नित करता है और मॉस्को में चर्चा किए गए युद्ध को समाप्त करने पर ‘ठोस योजनाओं’ के एक दिन बाद आता है अमेरिकी वार्ताकार जेरेड कुशनर और स्टीव विटकॉफ दूसरे दिन कीव पहुंचे हैं कि कैसे...",
       "archived": true
-    },
-    {
-      "id": "7d8bb82203ac0487b27b739297e541fd76f72b3a",
-      "slug": "jamaican-delegates-arrive-in-uk-to-hand-slavery-reparations-7d8bb8",
-      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-      "excerpt": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/514934ca4b4e8c7dba4e71b2c01cec9431eddf58/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f53910d64a67d88ed74232c9faeacdc5",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T13:00:07.000Z",
-      "sourceUrl": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "titleHi": "जमैका के प्रतिनिधि किंग चार्ल्स को गुलामी की भरपाई की याचिका सौंपने के लिए ब्रिटेन पहुंचे",
-      "excerptHi": "मंत्री का कहना है कि गुलामी की विरासत ‘हमारे देश और हमारे लोगों को वंचित करने’ के लिए जारी है, क्योंकि समूह जमैका के राज्य प्रमुख से अपील करने की तैयारी कर रहा है। गुलामी को लेकर जमैका द्वारा किंग चार्ल्स को एक ऐतिहासिक याचिका सौंपी जानी है...",
-      "archived": true
-    },
-    {
-      "id": "2b68f0f1287e4ffaeb17fb30bf7ede8ed71600ec",
-      "slug": "afds-ulrich-siegmund-casts-vote-in-key-german-state-election-2b68f0",
-      "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
-      "excerpt": "AfD candidate Ulrich Siegmund casts his ballot in Saxony-Anhalt, where his party is seeking a historic breakthrough in the state election.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T12:26:35.000Z",
-      "sourceUrl": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
-      "titleHi": "एएफडी के उलरिच सिगमंड ने महत्वपूर्ण जर्मन राज्य चुनाव में मतदान किया",
-      "excerptHi": "एएफडी उम्मीदवार उलरिच सिगमंड ने सैक्सोनी - एन्हाल्ट में अपना वोट डाला, जहां उनकी पार्टी राज्य चुनाव में एक ऐतिहासिक सफलता की तलाश कर रही है।",
-      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "681db6f07567805bf41ae466207e8cefb366bd94",
+      "slug": "china-to-pump-54bn-into-state-banks-and-insurers-to-boost-ec-681db6",
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "excerpt": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa90/live/53598b50-aa57-11f1-bd0c-f98b6f213356.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-07T02:26:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno#0",
+      "titleHi": "चीन अर्थव्यवस्था को बढ़ावा देने के लिए सरकारी बैंकों और बीमा कंपनियों में $ 54 बिलियन का निवेश करेगा",
+      "excerptHi": "यह ऐसे समय में आया है जब बीजिंग कई चुनौतियों का सामना करते हुए अपनी अर्थव्यवस्था को नया आकार देने का लक्ष्य बना रहा है।",
+      "archived": false
+    },
     {
       "id": "34dcf9287119792e96797ea82e43704995c4a879",
       "slug": "the-volunteers-risking-their-lives-to-defuse-indonesias-wild-34dcf9",
@@ -594,14 +608,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T23:13:29.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
       "titleHi": "इंडोनेशिया के जंगल की आग 'कार्बन बम' को निष्क्रिय करने के लिए स्वयंसेवक अपनी जान जोखिम में डाल रहे हैं",
       "excerptHi": "बोर्नियो में पीट की आग कार्बन के प्राचीन भंडार जारी कर रही है - और पूरे दक्षिण पूर्व एशिया में एक जहरीला धुंध भेज रही है।",
       "archived": false
@@ -760,27 +772,29 @@
       "titleHi": "ज्वालामुखी विस्फोट के कारण इंडोनेशिया के मुख्य हवाई अड्डे पर उड़ानें निलंबित",
       "excerptHi": "माउंट अनक क्राकाटोआ एक सक्रिय ज्वालामुखी है जो जावा और सुमात्रा द्वीपों के बीच सुंडा जलडमरूमध्य में स्थित है।",
       "archived": true
-    },
-    {
-      "id": "23c010eb17dba77a488c8ff52436f36b32d81645",
-      "slug": "volcanic-ash-cloud-halts-flights-at-five-indonesian-airports-23c010",
-      "title": "Volcanic ash cloud halts flights at five Indonesian airports, including Jakarta’s",
-      "excerpt": "Anak Krakatau eruption disrupts 301 flights, affects fishing and some school activities Indonesia halted operations at five airports on Sunday, including its main international airport, suspending hundreds of flights,…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/775131d69ba12fbfa80df770ed180d8d85442f32/40_0_1201_960/master/1201.jpg?width=140&quality=85&auto=format&fit=max&s=f950e5b80ed1be3e1edfd0ef85cb71b7",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T06:38:05.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
-      "titleHi": "ज्वालामुखीय राख के बादल ने जकार्ता के सहित इंडोनेशिया के पांच हवाई अड्डों पर उड़ानें रोक दीं",
-      "excerptHi": "अनक क्राकाटाऊ विस्फोट 301 उड़ानों को बाधित करता है, मछली पकड़ने और कुछ स्कूल गतिविधियों को प्रभावित करता है इंडोनेशिया ने रविवार को अपने मुख्य अंतरराष्ट्रीय हवाई अड्डे सहित पांच हवाई अड्डों पर परिचालन रोक दिया, सैकड़ों उड़ानों को निलंबित कर दिया,...",
-      "archived": true
     }
   ],
   "africa": [
+    {
+      "id": "12cada320aee516fa08dde7ca496649f63d6cbbc",
+      "slug": "australia-keep-faith-in-marnus-labuschagne-as-test-squad-for-12cada",
+      "title": "Australia keep faith in Marnus Labuschagne as Test squad for South Africa tour named",
+      "excerpt": "Under-pressure batter retains place for three-Test series George Bailey says tweak to top order may be considered Australian selectors have stuck with struggling batter Marnus Labuschagne for next month’s Test tour of…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jack Snape",
+      "image": "https://i.guim.co.uk/img/media/823efaed00704d0c0bef84a40975903bbce6df5f/0_2035_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=c72098af85d629afa58fd054359ca92f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:20:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
+      "guid": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
+      "titleHi": "ऑस्ट्रेलिया ने दक्षिण अफ्रीका दौरे के लिए टेस्ट टीम के रूप में मार्नस लाबुशेन पर भरोसा रखा",
+      "excerptHi": "तीन टेस्ट मैचों की सीरीज के लिए अंडर - प्रेशर बल्लेबाज को बरकरार रखा जा सकता है जॉर्ज बेली ने कहा कि शीर्ष क्रम में बदलाव को माना जा सकता है कि ऑस्ट्रेलियाई चयनकर्ता अगले महीने के टेस्ट दौरे के लिए संघर्षरत बल्लेबाज मार्नस लाबुशेन के साथ फंस गए हैं...",
+      "archived": false
+    },
     {
       "id": "8c5f437b719436542cb7590f142d33b2aa319d9a",
       "slug": "casey-beaten-on-fourth-play-off-hole-in-switzerland-8c5f43",
@@ -948,27 +962,31 @@
       "titleHi": "अफ्रीका के वास्तविक आकार को प्रतिबिंबित करने के लिए संयुक्त राष्ट्र ने नए विश्व मानचित्र को अपनाने के लिए मतदान किया",
       "excerptHi": "टोगो - प्रायोजित प्रस्ताव का समर्थन 164 देशों ने किया था - अमेरिका इसके खिलाफ मतदान करने वाला एकमात्र देश था।",
       "archived": true
-    },
-    {
-      "id": "fcf46ce277cb626824cbe1c794a35280a2d08509",
-      "slug": "at-least-37-killed-by-toxic-fumes-during-alleged-petrol-thef-fcf46c",
-      "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-      "excerpt": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-      "category": "Science",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c46/live/efad0420-a866-11f1-b109-879e35c24276.png",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-04T15:44:05.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-      "excerptHi": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
-      "archived": true
     }
   ],
   "middleeast": [
+    {
+      "id": "9b5e433aad402bd7a0726755200e93546b0a7ddb",
+      "slug": "susan-sarandon-says-she-is-losing-movie-roles-because-of-her-9b5e43",
+      "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
+      "excerpt": "Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/1f492e3655b3de42d32bf8c27a9ea31f3b901d74/352_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=cb0080f5e2c846f8c5824e24b681f386",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:17:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
+      "guid": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
+      "titleHi": "सुसान सरांडन का कहना है कि फिलिस्तीन के लिए उनके समर्थन के कारण वह फिल्मी भूमिकाएं खो रही हैं",
+      "excerptHi": "ऑस्कर विजेता अभिनेत्री का कहना है कि उन्हें और इज़राइल के अन्य मुखर आलोचकों को प्रमुख स्टूडियो द्वारा किराए पर लेना ‘असंभव’ लगा है। ऑस्कर विजेता अभिनेत्री सुसान सरांडन ने कहा है कि वह अभी भी अपनी...",
+      "archived": false
+    },
     {
       "id": "6bcacc5df8567ae238672092cf0c411dbfd313f8",
       "slug": "odegaard-desire-in-chelsea-win-impresses-rooney-6bcacc",
@@ -977,14 +995,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f7/live/1af84370-aa41-11f1-a291-b542ee92de7c.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T22:32:06.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/c8e34k1r3j9o#3",
       "titleHi": "चेल्सी जीत में ओडेगार्ड की 'इच्छा' रूनी को प्रभावित करती है",
       "excerptHi": "मैच ऑफ द डे पंडित वेन रूनी विश्लेषण करते हैं कि कैसे मार्टिन ओडेगार्ड ने एमिरेट्स स्टेडियम में आर्सेनल का सामना चेल्सी से करते हुए खेल पर नियंत्रण किया।",
       "archived": false
@@ -997,14 +1013,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Reuters and Guardian sport",
       "image": "https://i.guim.co.uk/img/media/3187016e56c5ed3a33c336b5e15f290203b896f3/373_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=ae92ede37c347f6f315dfdd50bafc9ea",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T21:15:14.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
-      "guid": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
       "titleHi": "रिचर्ड ह्यूजेस ने लिवरपूल जाने के बाद अल - हिलाल के खेल निदेशक के रूप में पुष्टि की",
       "excerptHi": "ह्यूजेस दो साल बाद एनफील्ड मार्टिनेली में सऊदी पलायन में शामिल हो गए, समरविले और वाटकिंस अल - हिलाल में हैं रिचर्ड ह्यूजेस को अल - हिलाल के खेल निदेशक के रूप में नियुक्त किया गया है, सऊदी प्रो लीग क्लब ने पुष्टि की...",
       "archived": false
@@ -1085,7 +1099,7 @@
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/06/us-iran-nuclear-agreement-chris-wright",
       "titleHi": "ऊर्जा सचिव का कहना है कि अमेरिका ईरान के साथ परमाणु समझौता नहीं कर सकता है",
       "excerptHi": "क्रिस राइट ने एबीसी को बताया कि ‘ऐसा समझौता नहीं हो सकता है’ जो ईरान को परमाणु हथियार रखने से रोकेगा अमेरिकी ऊर्जा सचिव क्रिस राइट ने रविवार सुबह कहा कि अमेरिका परमाणु समझौते तक पहुंचने में सक्षम नहीं हो सकता है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "44ac47f1f8a433ef4ffa338adfc4e174f4240d29",
@@ -1143,27 +1157,6 @@
       "sourceUrl": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
       "titleHi": "आर्सेनल बनाम चेल्सी: प्रीमियर लीग – LIVE",
       "excerptHi": "विंडो बंद होने के बाद निरंतरता पर अमीरात स्टेडियम आर्सेनल बैंक में एक्शन से मिनट - दर - मिनट अपडेट और अब तीसरा गोल... हिल डिकिंसन स्टेडियम में दूसरा गोल हुआ है। क्लिकिटी क्लिक क्लिक क्लिक !…",
-      "archived": true
-    },
-    {
-      "id": "d6707ba28f81db1a90c56feff183780550e7209a",
-      "slug": "shoebridge-criticises-labor-response-after-idf-officers-repr-d6707b",
-      "title": "Shoebridge criticises Labor response after IDF officer’s ‘reprehensible’ comments on deadly Zomi Frankcom strike",
-      "excerpt": "Greens defence spokesman says ‘words are just distractions’ until government takes action ‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike Get our breaking news email, free…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Sports"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/fbf424c515f9b213f9cd8f694dcab6846293659a/0_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2057fd5b9d385dabcf89dd9b2d0c5cd1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T15:00:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
-      "titleHi": "ज़ोमी फ्रैंककॉम की घातक हड़ताल पर आईडीएफ अधिकारी की ‘निंदनीय‘ टिप्पणी के बाद शूब्रिज ने श्रम प्रतिक्रिया की आलोचना की",
-      "excerptHi": "ग्रीन्स के रक्षा प्रवक्ता का कहना है कि ‘शब्द सिर्फ ध्यान भंग करने वाले हैं’ जब तक कि सरकार ‘एसोसिएशन द्वारा अपराधबोध’ पर कार्रवाई नहीं करती: इजरायली हवाई हमले में सात अंतर्राष्ट्रीय सहायता कार्यकर्ता क्यों मारे गए हमारे ब्रेकिंग न्यूज ईमेल प्राप्त करें, मुफ्त...",
       "archived": true
     }
   ],
@@ -1361,6 +1354,26 @@
   ],
   "oceania": [
     {
+      "id": "12cada320aee516fa08dde7ca496649f63d6cbbc",
+      "slug": "australia-keep-faith-in-marnus-labuschagne-as-test-squad-for-12cada",
+      "title": "Australia keep faith in Marnus Labuschagne as Test squad for South Africa tour named",
+      "excerpt": "Under-pressure batter retains place for three-Test series George Bailey says tweak to top order may be considered Australian selectors have stuck with struggling batter Marnus Labuschagne for next month’s Test tour of…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Jack Snape",
+      "image": "https://i.guim.co.uk/img/media/823efaed00704d0c0bef84a40975903bbce6df5f/0_2035_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=c72098af85d629afa58fd054359ca92f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:20:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
+      "guid": "https://www.theguardian.com/sport/2026/sep/07/marnus-labuschagne-australia-cricket-squad-south-africa-tour",
+      "titleHi": "ऑस्ट्रेलिया ने दक्षिण अफ्रीका दौरे के लिए टेस्ट टीम के रूप में मार्नस लाबुशेन पर भरोसा रखा",
+      "excerptHi": "तीन टेस्ट मैचों की सीरीज के लिए अंडर - प्रेशर बल्लेबाज को बरकरार रखा जा सकता है जॉर्ज बेली ने कहा कि शीर्ष क्रम में बदलाव को माना जा सकता है कि ऑस्ट्रेलियाई चयनकर्ता अगले महीने के टेस्ट दौरे के लिए संघर्षरत बल्लेबाज मार्नस लाबुशेन के साथ फंस गए हैं...",
+      "archived": false
+    },
+    {
       "id": "6825b4e5fb9c4c1f29b3c60c306fa9b17708dfae",
       "slug": "news-live-parents-of-australian-surfers-killed-in-mexico-fly-6825b4",
       "title": "News live: parents of Australian surfers killed in Mexico fly in for trial; Labor pressured to toughen lobbying rules",
@@ -1538,27 +1551,51 @@
       "titleHi": "विक्टोरिया में कथित कुल्हाड़ी हमले के बाद मैनहंट ने तीन लोगों को गंभीर रूप से घायल कर दिया",
       "excerptHi": "पुलिस ने टायर्स के गिप्सलैंड शहर में घटना के बाद 50 के दशक में कथित हमलावर की खोज की नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें तीन लोग...",
       "archived": true
-    },
-    {
-      "id": "0ecc3b1436cbd228152e163dc41f9637da2cc5ae",
-      "slug": "argentina-28-28-australia-rugby-union-second-test-as-it-happ-0ecc3b",
-      "title": "Argentina 28-28 Australia: rugby union second Test – as it happened",
-      "excerpt": "Australia secure series win in Argentina for first time in history after an eight-try slugfest ends in a draw It’s not a packed house unfortunately. Perhaps its economic reasons, perhaps it’s a sign of the sport’s…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/92be7a1cbbc66b03e45fabfb46767e77a6c0db83/264_0_2319_1856/master/2319.jpg?width=140&quality=85&auto=format&fit=max&s=f532c27fbd4bd6c4df0986f3b3329687",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T00:10:37.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/05/arg-vs-aus-wallabies-rugby-union-second-test-live-updates",
-      "titleHi": "अर्जेंटीना 28 -28 ऑस्ट्रेलिया: रग्बी यूनियन दूसरा टेस्ट – जैसा कि हुआ",
-      "excerptHi": "ऑस्ट्रेलिया ने अर्जेंटीना में इतिहास में पहली बार श्रृंखला जीत हासिल की, जब आठ - प्रयास स्लगफेस्ट ड्रॉ में समाप्त हुआ। यह दुर्भाग्य से एक पैक घर नहीं है। शायद इसके आर्थिक कारण, शायद यह खेल का संकेत है...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "85e21207cd706cd4b9a04655671caf4a962776fa",
+      "slug": "five-dead-after-amazon-cargo-plane-crashes-at-miami-airport-85e212",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "excerpt": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:57:38.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro#0",
+      "titleHi": "मियामी हवाई अड्डे पर अमेज़ॅन कार्गो विमान दुर्घटनाग्रस्त होने से पांच लोगों की मौत",
+      "excerptHi": "अधिकारियों का कहना है कि बोइंग 767 -300 कार्गो विमान के रनवे पर \"ओवरन\" होने और आग लगने से पांच लोगों की मौत हो गई और पांच गंभीर रूप से घायल हो गए।",
+      "archived": false
+    },
+    {
+      "id": "9b5e433aad402bd7a0726755200e93546b0a7ddb",
+      "slug": "susan-sarandon-says-she-is-losing-movie-roles-because-of-her-9b5e43",
+      "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
+      "excerpt": "Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/1f492e3655b3de42d32bf8c27a9ea31f3b901d74/352_0_2222_1777/master/2222.jpg?width=140&quality=85&auto=format&fit=max&s=cb0080f5e2c846f8c5824e24b681f386",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-07T00:17:35.000Z",
+      "sourceUrl": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
+      "guid": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
+      "titleHi": "सुसान सरांडन का कहना है कि फिलिस्तीन के लिए उनके समर्थन के कारण वह फिल्मी भूमिकाएं खो रही हैं",
+      "excerptHi": "ऑस्कर विजेता अभिनेत्री का कहना है कि उन्हें और इज़राइल के अन्य मुखर आलोचकों को प्रमुख स्टूडियो द्वारा किराए पर लेना ‘असंभव’ लगा है। ऑस्कर विजेता अभिनेत्री सुसान सरांडन ने कहा है कि वह अभी भी अपनी...",
+      "archived": false
+    },
     {
       "id": "34dcf9287119792e96797ea82e43704995c4a879",
       "slug": "the-volunteers-risking-their-lives-to-defuse-indonesias-wild-34dcf9",
@@ -1567,14 +1604,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T23:13:29.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o#2",
       "titleHi": "इंडोनेशिया के जंगल की आग 'कार्बन बम' को निष्क्रिय करने के लिए स्वयंसेवक अपनी जान जोखिम में डाल रहे हैं",
       "excerptHi": "बोर्नियो में पीट की आग कार्बन के प्राचीन भंडार जारी कर रही है - और पूरे दक्षिण पूर्व एशिया में एक जहरीला धुंध भेज रही है।",
       "archived": false
@@ -1587,14 +1622,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T23:02:40.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o#2",
       "titleHi": "भारत की हाई - स्टेक परीक्षा प्रणाली विश्वास के संकट का सामना कर रही है",
       "excerptHi": "जैसे - जैसे परीक्षा घोटाले जारी रहते हैं, आलोचक पूछते हैं कि क्या केंद्रीकृत परीक्षण एजेंसी को ठीक करना पर्याप्त है या मॉडल को बदलने की आवश्यकता है।",
       "archived": false
@@ -1610,14 +1643,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Steven Morris",
       "image": "https://i.guim.co.uk/img/media/427ba87f73bdeca4042a8c920c38f5f942b94c81/913_0_9101_7280/master/9101.jpg?width=140&quality=85&auto=format&fit=max&s=4e643a6ad2b48bbe801facf32d084d1c",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T23:01:18.000Z",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
-      "guid": "https://www.theguardian.com/uk-news/2026/sep/07/university-of-bristol-flagship-500m-campus-opens",
       "titleHi": "‘विशालकाय स्पेसशिप ': ब्रिस्टल विश्वविद्यालय का प्रमुख £ 500m परिसर खुलता है",
       "excerptHi": "स्टेशन के पास टेम्पल क्वार्टर एंटरप्राइज़ कैम्पस छात्रों और कर्मचारियों के लिए आवागमन को आसान बना देगा बहुत समय पहले नहीं, ब्रिस्टल के मुख्य रेलवे स्टेशन पर ट्रेन से आने वाले आगंतुकों के लिए पहली छाप थी...",
       "archived": false
@@ -1630,14 +1661,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Diana Ramirez-Simon and agencies",
       "image": "https://i.guim.co.uk/img/media/408db6cdf40d5fa11aa2aa2df62ac1d0a232bc30/172_0_3404_2724/master/3404.jpg?width=140&quality=85&auto=format&fit=max&s=59e1f4c6c36c3686f21bd624918270b1",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T22:40:55.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/06/amy-acton-ohio-governor-candidate-attack",
       "titleHi": "हमलावर ने ओहियो के गवर्नर के लिए डेमोक्रेटिक उम्मीदवार पर हमला किया, अभियान का कहना है",
       "excerptHi": "टीम का कहना है कि सशस्त्र संदिग्ध ने कैनफील्ड मेले में एक अभियान स्टॉप के दौरान एमी एक्टन पर हमला किया, जिसमें कई लोग घायल हो गए, ओहियो के गवर्नर के लिए डेमोक्रेटिक उम्मीदवार एमी एक्टन रविवार को एक अभियान के दौरान हमले का निशाना बनीं...",
       "archived": false
@@ -1653,14 +1682,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Diane Taylor and Charlie Moloney",
       "image": "https://i.guim.co.uk/img/media/c2a3840a8d6743190813d001f4d4362351ca26b4/252_0_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=e68419ef876bc0a586e7f96f90b4ee40",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-06T21:38:52.000Z",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
-      "guid": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
       "titleHi": "छोटी नाव के आने के बाद पोर्ट्समाउथ पर दक्षिणपंथी प्रदर्शनकारी उतरते हैं",
       "excerptHi": "इन्फ्लुएंसर लाइवस्ट्रीम इवेंट पुरुषों को शरण चाहने वालों को छोड़ने से रोकने के लिए बंदरगाह की यात्रा करने के लिए बुला रहा है सैकड़ों दूर - दराज़ कार्यकर्ता पोर्ट्समाउथ पर उतरे हैं, जहां 140 शरण के साथ एक छोटी नाव...",
       "archived": false
@@ -1719,46 +1746,6 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
       "titleHi": "मियामी हवाई अड्डे पर अमेज़ॅन कार्गो विमान दुर्घटनाग्रस्त हो गया और कई वाहनों को टक्कर मार दी",
       "excerptHi": "एफएए ने दुर्घटना और हवाई अड्डे के संचालन को रोकने की पुष्टि की है क्योंकि वीडियो में विमान के आसपास धुएं के भारी झुंड दिखाई दे रहे हैं एक अमेज़ॅन कार्गो विमान रविवार दोपहर फ्लोरिडा के मियामी अंतर्राष्ट्रीय हवाई अड्डे पर दुर्घटनाग्रस्त हो गया...",
-      "archived": false
-    },
-    {
-      "id": "0dba5b66677ca1f87cc761dfa2fecb21efc68c45",
-      "slug": "the-us-now-has-access-to-more-than-half-australias-military-0dba5b",
-      "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
-      "excerpt": "Exclusive: US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a ‘colonisation’ of Australia’s military. Find a map of…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/b843b024e07dc609e8afff4975f2a4095ca2eb88/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=3a4d4804604f244625dc4873ac275c48",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T20:00:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-      "titleHi": "अमेरिका के पास अब ऑस्ट्रेलिया के आधे से अधिक सैन्य ठिकानों तक पहुंच है – क्या यह देश को अनिच्छा से युद्ध में खींच सकता है?",
-      "excerptHi": "एक्सक्लूसिव: अमेरिका - नियंत्रित हथियार निगमों और बलों का पूरे महाद्वीप में 100 से अधिक सुविधाओं पर नियंत्रण या पहुंच है, जिसे कुछ विश्लेषक ऑस्ट्रेलिया की सेना के ‘उपनिवेशीकरण’ के रूप में वर्णित करते हैं। का मैप ढूँढें...",
-      "archived": false
-    },
-    {
-      "id": "fde06b766eccfd82c3a41f8d01cfe7c1c518f342",
-      "slug": "hawaii-declares-state-of-emergency-as-hurricane-lowell-appro-fde06b",
-      "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands",
-      "excerpt": "Storm, which may make impact as soon as Monday, is third system in weeks to threaten state during hurricane season Hawaii has declared a state of emergency as powerful Hurricane Lowell makes its way toward the islands,…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/4ec21ba47fba56699afd8ea34f2aed0f3e55bbc5/422_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=cc2d770cfe60f8c3731fa70e350ab7d5",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-06T19:12:36.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/06/hawaii-hurricane-lowell-state-of-emergency",
-      "titleHi": "हवाई ने तूफान लोवेल के द्वीपों तक पहुँचने के साथ ही आपातकाल की स्थिति घोषित कर दी है",
-      "excerptHi": "तूफान, जो सोमवार के रूप में जल्द ही प्रभाव डाल सकता है, तूफान के मौसम के दौरान राज्य को धमकी देने के लिए हफ्तों में तीसरी प्रणाली है हवाई ने आपातकाल की स्थिति घोषित कर दी है क्योंकि शक्तिशाली तूफान लोवेल द्वीपों की ओर अपना रास्ता बनाता है,...",
       "archived": false
     }
   ]
