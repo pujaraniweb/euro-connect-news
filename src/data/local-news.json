@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T21:25:23.833Z",
+  "generatedAt": "2026-09-10T23:44:47.892Z",
   "india": [
     {
       "id": "5ffd668f19928c79a51a741dc135649ad7994325",
@@ -191,6 +191,128 @@
   ],
   "usa": [
     {
+      "id": "629643b1fa3ed38d68b49c3ecfcc7827ad681de3",
+      "slug": "us-open-tennis-2026-womens-semi-finals-sabalenka-v-pegula-ga-629643",
+      "title": "US Open tennis 2026 women’s semi-finals: Sabalenka v Pegula, Gauff v Rybakina – live",
+      "excerpt": "Meet the US Open’s fascinating ambidextrous talent Tiafoe v Shelton semi-final a legacy of departing Monfils Semi-finals begin at 7pm ET. Email Ella your thoughts! First set: Sabalenka 1-0 *Pegula (*denotes next server)…",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Ella Brockway",
+      "image": "https://i.guim.co.uk/img/media/f28c8c4230bcf68d14f7be74da127c789c1704a6/0_0_6346_5077/master/6346.jpg?width=140&quality=85&auto=format&fit=max&s=34c09309e506e2d0e02666713aadf9b4",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T23:36:21.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates",
+      "guid": "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates",
+      "titleHi": "यूएस ओपन टेनिस 2026 महिला सेमीफाइनल: सबालेंका बनाम पेगुला, गौफ बनाम राइबाकिना – LIVE",
+      "excerptHi": "यूएस ओपन के आकर्षक उभयचर प्रतिभा टियाफो बनाम शेल्टन सेमीफाइनल से मिलें - मोनफिल्स सेमीफाइनल की विरासत शाम 7 बजे ईटी से शुरू होती है। एला को अपने विचार ईमेल करें! पहला सेट: सबालेंका 1 -0 *पेगुला (* अगले सर्वर को दर्शाता है)...",
+      "archived": false
+    },
+    {
+      "id": "5a446576b2c7291233a9c225be84a91b531776d3",
+      "slug": "canada-took-in-american-planes-on-911-it-still-would-today-5a4465",
+      "title": "Canada Took In American Planes on 9/11. It Still Would Today.",
+      "excerpt": "A tiny slice of Newfoundland welcomed in stranded passengers.",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "Glynnis MacNicol",
+      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/11MacNicol-zhqp/11MacNicol-zhqp-mediumSquareAt3X.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-10T23:22:53.000Z",
+      "sourceUrl": "https://www.nytimes.com/2026/09/10/opinion/911-canada-gander-newfoundland-come-from-away.html",
+      "guid": "https://www.nytimes.com/2026/09/10/opinion/911-canada-gander-newfoundland-come-from-away.html",
+      "titleHi": "कनाडा ने 9/11 को अमेरिकी विमानों का इस्तेमाल किया। यह आज भी होगा।",
+      "excerptHi": "फंसे हुए यात्रियों में न्यूफ़ाउंडलैंड के एक छोटे से टुकड़े का स्वागत किया गया।",
+      "archived": false
+    },
+    {
+      "id": "d3774a5d2f4b5a9b04545bc61f1f393f41847c39",
+      "slug": "watch-three-times-trump-has-promised-money-to-americans-d3774a",
+      "title": "Watch: Three times Trump has promised money to Americans",
+      "excerpt": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T22:53:00.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/videos/cgk5nn338peo#5",
+      "titleHi": "देखें: ट्रम्प ने तीन बार अमेरिकियों को पैसे देने का वादा किया है",
+      "excerptHi": "बीबीसी की समीरा हुसैन राष्ट्रपति के पिछले दावों को देखती हैं जब उन्होंने घोषणा की कि अगर रिपब्लिकन मध्यावधि चुनावों में जीतते हैं तो वह अमेरिकी वयस्कों को $ 5,000 का भुगतान करेंगे।",
+      "archived": false
+    },
+    {
+      "id": "4fe339a0c6937d711b6ffed569cee910c8eb8214",
+      "slug": "florida-executes-man-in-connection-to-hog-trail-murders-4fe339",
+      "title": "Florida executes man in connection to Hog Trail Murders",
+      "excerpt": "The execution of Daniel Owen Conahan Jr makes him the state’s 15th person executed this year A Florida man was executed by lethal injection on Thursday after being convicted of one of a series of suspected killings that…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Keely Aouga",
+      "image": "https://i.guim.co.uk/img/media/437accbd84bd0913ac5123d2a1312d6c7f41c023/493_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7acad356a6e393aa6daa8c239f1bc648",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T22:40:50.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/florida-execution-hog-trail-murders",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/10/florida-execution-hog-trail-murders",
+      "titleHi": "फ्लोरिडा ने हॉग ट्रेल हत्याओं के संबंध में एक व्यक्ति को मौत की सजा दी",
+      "excerptHi": "डैनियल ओवेन कोनाहन जूनियर की फांसी ने उन्हें इस साल राज्य के 15 वें व्यक्ति को फांसी दे दी फ्लोरिडा के एक व्यक्ति को गुरुवार को संदिग्ध हत्याओं की एक श्रृंखला में से एक में दोषी ठहराए जाने के बाद घातक इंजेक्शन द्वारा फांसी दे दी गई थी...",
+      "archived": false
+    },
+    {
+      "id": "97fb5627d71a7eda372cf2a0efa270904e22b636",
+      "slug": "trump-ally-resigns-from-post-leading-inquiry-into-alleged-co-97fb56",
+      "title": "Trump ally resigns from post leading inquiry into alleged conspiracy against president",
+      "excerpt": "Joe diGenova led investigation focused on intelligence assessment that Russia interfered in 2016 election An ally of Donald Trump said on Thursday that he had resigned from his post leading a Department of Justice…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/f10417e239548f2d78236db887c17d08ad71353b/293_0_3510_2809/master/3510.jpg?width=140&quality=85&auto=format&fit=max&s=8d69a22eb2b9a8cacd075fff39b9e9fb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T22:19:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
+      "titleHi": "ट्रंप के सहयोगी ने राष्ट्रपति के खिलाफ कथित साजिश की जांच की अगुवाई करते हुए पद से इस्तीफा दे दिया",
+      "excerptHi": "जो डिजेनोवा के नेतृत्व वाली जांच ने खुफिया आकलन पर ध्यान केंद्रित किया कि 2016 के चुनाव में रूस ने हस्तक्षेप किया था डोनाल्ड ट्रम्प के एक सहयोगी ने गुरुवार को कहा कि उन्होंने न्याय विभाग का नेतृत्व करते हुए अपने पद से इस्तीफा दे दिया था...",
+      "archived": false
+    },
+    {
+      "id": "bfc5ab741bbe56a628b4f0293ad4109149c19567",
+      "slug": "enjoying-tennis-shouldnt-be-this-expensive-bfc5ab",
+      "title": "Enjoying Tennis Shouldn’t Be This Expensive",
+      "excerpt": "A little unsolicited advice for the U.S. Open: Tennis should be for everyone. But inaccessible ticket prices, $100 caviar chicken nuggets and meager prize winnings could make you wonder who’s benefiting from all this.…",
+      "category": "Opinion",
+      "secondaryCategories": [],
+      "source": "The New York Times",
+      "author": "The New York Times",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T21:48:27.000Z",
+      "sourceUrl": "https://www.nytimes.com/video/opinion/100000011144574/enjoying-tennis-shouldnt-be-this-expensive.html",
+      "guid": "https://www.nytimes.com/video/opinion/100000011144574/enjoying-tennis-shouldnt-be-this-expensive.html",
+      "titleHi": "टेनिस का आनंद लेना इतना महंगा नहीं होना चाहिए",
+      "excerptHi": "यूएस ओपन के लिए एक छोटी सी अवांछित सलाह: टेनिस हर किसी के लिए होनी चाहिए। लेकिन टिकट की दुर्गम कीमतें, $ 100 कैवियार चिकन नगेट और मामूली इनाम की जीत आपको आश्चर्यचकित कर सकती है कि इन सब से कौन लाभान्वित हो रहा है।…",
+      "archived": false
+    },
+    {
       "id": "1d12e9bf7cb2544d20c2f60fc3203f08ef0131bb",
       "slug": "ai-may-drive-the-next-911-1d12e9",
       "title": "A.I. May Drive the Next 9/11",
@@ -198,14 +320,12 @@
       "category": "Opinion",
       "secondaryCategories": [],
       "source": "The New York Times",
-      "author": "Philip Bobbitt",
       "image": "https://static01.nyt.com/images/2026/09/10/opinion/10bobbitt-image/10bobbitt-image-mediumSquareAt3X.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-10T21:00:05.000Z",
       "sourceUrl": "https://www.nytimes.com/2026/09/10/opinion/911-ai-terrorist-attack-america.html",
-      "guid": "https://www.nytimes.com/2026/09/10/opinion/911-ai-terrorist-attack-america.html",
       "titleHi": "ए.आई. अगले 9/11 को ड्राइव कर सकता है",
       "excerptHi": "ए.आई. द्वारा संचालित साइबर और जैविक हमले न केवल अमेरिकी जीवन के लिए खतरा हैं, बल्कि अमेरिकी सरकार के लिए भी खतरा हैं।",
       "archived": false
@@ -220,14 +340,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "George Chidi",
       "image": "https://i.guim.co.uk/img/media/1b64d780d138f983eb00807f780354fab89e93b6/157_0_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=5092852d87cd25a01d2ee7e4609c456a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-10T20:55:20.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/missouri-redistricting-map-supreme-court-rejection",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/10/missouri-redistricting-map-supreme-court-rejection",
       "titleHi": "अमेरिकी सुप्रीम कोर्ट ने मिडटर्म में रिपब्लिकन को बढ़ावा देने के लिए तैयार किए गए मिसौरी मानचित्रों को फिर से खारिज कर दिया",
       "excerptHi": "नवीनतम निर्णय इस वर्ष अपने पुराने चुनावी मानचित्रों का उपयोग करने के लिए राज्य के लिए मंच निर्धारित करता प्रतीत होता है अमेरिकी सर्वोच्च न्यायालय ने फिर से मिसौरी के कांग्रेसी मानचित्रों को ओवरहाल करने के लिए डोनाल्ड ट्रम्प द्वारा समर्थित एक पुश को खारिज कर दिया...",
       "archived": false
@@ -271,123 +389,6 @@
       "titleHi": "अमेरिकी अपील अदालत ने मिडटर्म से पहले मेल - इन वोटिंग पर प्रतिबंध लगाने की ट्रम्प की बोली को खारिज कर दिया",
       "excerptHi": "अदालत ने USPS को डाक मतदान के आसपास नियमों को कड़ा करने से रोकने वाले निषेधाज्ञा पर रोक लगाने से इनकार कर दिया एक अमेरिकी अपील अदालत ने मेल - इन वोटिंग पर व्यापक प्रतिबंध लगाने के लिए डोनाल्ड ट्रम्प की बोली को खारिज कर दिया है...",
       "archived": false
-    },
-    {
-      "id": "3dde745816fe811f817534028575e3f7f1302297",
-      "slug": "new-clarity-act-text-tweaks-defi-credit-union-provisions-but-3dde74",
-      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-      "excerpt": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/27f181c6ee0ec7f329ad40b57f8403e3338d7346-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T20:21:57.000Z",
-      "sourceUrl": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-      "titleHi": "नए क्लैरिटी एक्ट के टेक्स्ट में डीईएफआई, क्रेडिट यूनियन के प्रावधानों में बदलाव किया गया है, लेकिन बिल के लिए आगे की राह अस्पष्ट बनी हुई है",
-      "excerptHi": "जब सीनेट अगले सप्ताह अपने अवकाश से लौटती है तो क्लैरिटी एक्ट को 60 वोटों की आवश्यकता होती है। रिपब्लिकन ने मतदान से पहले गुरुवार को एक नया मसौदा प्रसारित किया।",
-      "archived": false
-    },
-    {
-      "id": "6e17d9c2218e75d62a0190f678391680d35a95d5",
-      "slug": "trumps-getting-richer-is-it-illegal-6e17d9",
-      "title": "Trump’s Getting Richer. Is It Illegal?",
-      "excerpt": "Trump’s wealth has ballooned during his second term. On “Interesting Times,” the Harvard law professor Jack Goldsmith explains why the former business tycoon has been able to profit off the presidency.",
-      "category": "Opinion",
-      "secondaryCategories": [],
-      "source": "The New York Times",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T19:34:19.000Z",
-      "sourceUrl": "https://www.nytimes.com/video/opinion/100000011139845/trumps-getting-richer-is-it-illegal.html",
-      "titleHi": "ट्रम्प अमीर हो रहे हैं। क्या यह अवैध है?",
-      "excerptHi": "ट्रम्प के दूसरे कार्यकाल के दौरान उनकी संपत्ति में वृद्धि हुई है। \"दिलचस्प टाइम्स\" पर, हार्वर्ड लॉ के प्रोफेसर जैक गोल्डस्मिथ बताते हैं कि पूर्व व्यापारिक दिग्गज राष्ट्रपति पद से लाभ क्यों उठा पाए हैं।",
-      "archived": false
-    },
-    {
-      "id": "aa5ceb9d1176f111872fb1a72430c3d69fb1b3d8",
-      "slug": "tiafoe-v-shelton-us-open-semi-final-a-legacy-of-the-departin-aa5ceb",
-      "title": "Tiafoe v Shelton US Open semi-final a legacy of the departing Gaël Monfils",
-      "excerpt": "Veteran Frenchman bowed out in New York but the clash of two black players in the last four of the men’s singles is testament to his effect The early days of this year’s US Open can be told in a series of farewells to…",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/21681da7f8a9065b9d84c6771e1ac9ead2cf3f07/472_0_4356_3486/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=23aeb41313edc553d966c5808fe0aac2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:51:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/2026/sep/10/tiafoe-v-shelton-semi-final-a-legacy-of-the-departing-gael-monfils",
-      "titleHi": "टियाफो बनाम शेल्टन यूएस ओपन सेमीफ़ाइनल - प्रस्थान करने वाले गेल मॉन्फ़िल्स की विरासत",
-      "excerptHi": "दिग्गज फ्रांसीसी खिलाड़ी न्यूयॉर्क में झुक गए लेकिन पुरुष एकल के अंतिम चार में दो अश्वेत खिलाड़ियों का टकराव उनके प्रभाव का प्रमाण है। इस साल के यूएस ओपन के शुरुआती दिनों को विदाई की एक श्रृंखला में बताया जा सकता है...",
-      "archived": false
-    },
-    {
-      "id": "cb523b67b0b84b05e57f94ce2a5e0493c518b90f",
-      "slug": "james-talarico-accuses-ken-paxton-of-ignoring-epstein-surviv-cb523b",
-      "title": "James Talarico accuses Ken Paxton of ‘ignoring’ Epstein survivors",
-      "excerpt": "Democrats are targeting Trump’s relationship with Epstein as part of strategy ahead of midterm elections James Talarico, the Democratic candidate for Senate in Texas, accused his rival Ken Paxton of “ignoring” survivors…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/bf618d249794abae632467ef42e1dcd4d5b4d66f/652_0_6523_5219/master/6523.jpg?width=140&quality=85&auto=format&fit=max&s=67f3441fd5be1cf13ba2a1960fdd03c3",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:49:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors",
-      "titleHi": "जेम्स टैलारिको ने केन पैक्सटन पर एपस्टीन बचे लोगों की ‘अनदेखी’ करने का आरोप लगाया",
-      "excerptHi": "डेमोक्रेट टेक्सास में सीनेट के लिए डेमोक्रेटिक उम्मीदवार जेम्स तलारिको ने अपने प्रतिद्वंद्वी केन पैक्सटन पर जीवित बचे लोगों को \"अनदेखा\" करने का आरोप लगाया... से पहले रणनीति के हिस्से के रूप में एपस्टीन के साथ ट्रम्प के रिश्ते को लक्षित कर रहे हैं।",
-      "archived": false
-    },
-    {
-      "id": "bf635551bc3f1f39a9800469a4af6b97ac2ba4c5",
-      "slug": "us-home-sales-slowest-in-more-than-a-year-as-mortgage-rates-bf6355",
-      "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-      "excerpt": "Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/11cb2d940350d5b2eed42b662b099876b5442a59/336_0_3328_2664/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=95022e37294f795e95d9b909c3286395",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:27:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-      "titleHi": "अमेरिकी घरों की बिक्री एक साल से अधिक समय में सबसे धीमी है क्योंकि बंधक दरों और कीमतों में वृद्धि हुई है",
-      "excerptHi": "उधार लेने की लागत से आवास बाजार में रुकावट आ रही है, क्योंकि ईरान युद्ध ने बंधक दरों को अधिक धक्का दिया है पहले कब्जे वाले अमेरिकी घरों की बिक्री अगस्त में एक साल से अधिक समय में अपनी सबसे धीमी वार्षिक गति से गिरावट आई है क्योंकि घर के खरीदार...",
-      "archived": false
-    },
-    {
-      "id": "ee2cdfa4ead974b1c87ec6c626b8f28eb5fbc261",
-      "slug": "angine-de-poitrine-review-mind-boggling-math-rock-mastery-fr-ee2cdf",
-      "title": "Angine de Poitrine review – mind-boggling math rock mastery from freaky Québécois duo",
-      "excerpt": "Le Poisson Rouge, New York The brilliantly strange experimental band’s live show is a must-see spectacle powered by glorious noise and wild flair Their masks light up now. To the extent there was a hard news event from…",
-      "category": "Culture",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/526a8865de7a397d58bbfcaeca23af0dca8e5eda/623_0_6383_5106/master/6383.jpg?width=140&quality=85&auto=format&fit=max&s=7132ca6b711f00adb627373bb91c695f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:21:50.000Z",
-      "sourceUrl": "https://www.theguardian.com/music/2026/sep/10/angine-de-poitrine-concert-review",
-      "titleHi": "Angine de Poitrine की समीक्षा – अजीबोगरीब Québécois जोड़ी की गणित की रॉक में महारत",
-      "excerptHi": "Le Poisson Rouge, New York शानदार रूप से अजीब प्रयोगात्मक बैंड का लाइव शो शानदार शोर और जंगली फ्लेयर से संचालित एक अवश्य ही देखने लायक तमाशा है। उनके मास्क अब चमक उठते हैं। एक हद तक एक कठिन समाचार घटना थी...",
-      "archived": false
     }
   ],
   "europe": [
@@ -399,14 +400,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Raphael Boyd",
       "image": "https://i.guim.co.uk/img/media/63c641806a2df41393538647526cb42b27b40519/571_236_7527_6020/master/7527.jpg?width=140&quality=85&auto=format&fit=max&s=2a4621b9e9b1e060cfa3e3d5afa6b033",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-10T21:00:46.000Z",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/10/new-battery-powered-trains-will-bring-faster-journeys-to-north",
-      "guid": "https://www.theguardian.com/uk-news/2026/sep/10/new-battery-powered-trains-will-bring-faster-journeys-to-north",
       "titleHi": "बैटरी से चलने वाली नई ट्रेनें ‘उत्तर की ओर तेज़ी से यात्रा करेंगी’",
       "excerptHi": "नंबर 10 का कहना है कि डर्बी में बनाई जाने वाली 29 नई ट्रेनें 350 स्थानीय नौकरियों का समर्थन करेंगी, साथ ही यूके नंबर 10 में लगभग 6,000 ने बैटरी संचालित ट्रेनों के एक नए बेड़े के निर्माण की घोषणा की है जो \"तेजी से लाएगा,...",
       "archived": false
@@ -440,14 +439,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Agence France-Presse",
       "image": "https://i.guim.co.uk/img/media/be7c2941850f3cf0d37436c968f44745b159e3aa/38_0_4431_3544/master/4431.jpg?width=140&quality=85&auto=format&fit=max&s=d7f71d2dcb2b86d6931e9e5f3545e566",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-10T20:35:06.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
-      "guid": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
       "titleHi": "ज़ेलेंस्की के दौरे के दौरान कनाडा यूक्रेन के लिए हवाई रक्षा सहायता प्रदान करता है",
       "excerptHi": "कनाडा के प्रधान मंत्री मार्क कार्नी ने कैलगरी में राष्ट्रपति की मेजबानी की, जहां वह बड़े यूक्रेनी समुदाय के साथ पले - बढ़े थे, कनाडा ने यूक्रेन की हवाई सुरक्षा को बढ़ावा देने और इसके ड्रोन स्टॉक को फिर से भरने में मदद करने के लिए गुरुवार को समर्थन की पेशकश की...",
       "archived": false
@@ -525,7 +522,7 @@
       "sourceUrl": "https://www.theguardian.com/football/2026/sep/10/bromley-stabbing-reports-south-east-london",
       "titleHi": "दक्षिण - पूर्वी लंदन में चाकू घोंपने के बाद चार लोग अस्पताल में",
       "excerptHi": "गुरुवार दोपहर को ब्रोमली हाई स्ट्रीट पर ‘विवाद’ के बाद सात लोगों को गिरफ्तार किया गया दक्षिण - पूर्वी लंदन में चार लोगों पर चाकू से हमला करने के बाद सात लोगों को गिरफ्तार किया गया है, मेट्रोपॉलिटन पुलिस ने कहा। अधिकारियों को …",
-      "archived": false
+      "archived": true
     },
     {
       "id": "75bf7d4809fa8494c587a4b55e334b7c11b845ff",
@@ -545,7 +542,7 @@
       "sourceUrl": "https://www.theguardian.com/stage/2026/sep/10/sacha-baron-cohen-quentin-tarantino-west-end-debut-popinjay-cavalier",
       "titleHi": "साचा बैरन कोहेन क्वेंटिन टारनटिनो के वेस्ट एंड नाटक लेखन पदार्पण के लिए लाइन में लगे",
       "excerptHi": "अली जी और बोराट निर्माता के बारे में बताया जाता है कि वे द पोपिनजय कैवेलियर में लीड ले रहे हैं, जो 2027 की शुरुआत के लिए एक स्वाशबक कॉमेडी टारनटिनो विकसित कर रहा है। वह जल्द ही अपने पुराने स्टेंस रूडबॉय व्यक्तित्व को फिर से शुरू करते हुए देखा जाएगा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3856290263f11ff0adbde432679e17ce103a5aa1",
@@ -586,6 +583,48 @@
   ],
   "asia": [
     {
+      "id": "3df548f99f2197553256f6e741f1a8d933efd01d",
+      "slug": "metaplanet-equity-backlash-se-asia-crypto-funding-doubles-as-3df548",
+      "title": "Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express",
+      "excerpt": "Shareholders of Bitcoin treasury company Metaplanet are seething over equity allocations for insiders, while new figures cement Singapore’s role as the top Asian crypto hub.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Andrew Fenton",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T23:21:26.000Z",
+      "sourceUrl": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express",
+      "titleHi": "मेटाप्लेनेट इक्विटी बैकलैश, एसई एशिया क्रिप्टो फंडिंग दोगुनी: एशिया एक्सप्रेस",
+      "excerptHi": "बिटकॉइन ट्रेजरी कंपनी मेटाप्लेनेट के शेयरधारक अंदरूनी सूत्रों के लिए इक्विटी आवंटन को लेकर उत्साहित हैं, जबकि नए आंकड़े शीर्ष एशियाई क्रिप्टो हब के रूप में सिंगापुर की भूमिका को सीमेंट करते हैं।",
+      "archived": false
+    },
+    {
+      "id": "31029957a2605b0d930e963dabf354f701ac3d8b",
+      "slug": "can-europe-recharge-its-battery-industry-310299",
+      "title": "Can Europe recharge its battery industry?",
+      "excerpt": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "category": "Business",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-09-10T23:05:47.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o#0",
+      "titleHi": "क्या यूरोप अपने बैटरी उद्योग को रिचार्ज कर सकता है?",
+      "excerptHi": "यूरोप में कुछ आशाजनक बैटरी तकनीक है, लेकिन क्या यह चीनी बैटरी दिग्गजों के लिए जमीन खो सकता है?",
+      "archived": false
+    },
+    {
       "id": "6040a96c06cedb75f02dc177e41b593db62fc560",
       "slug": "englands-dan-lawrence-delighted-with-form-as-pakistan-focus-6040a9",
       "title": "England’s Dan Lawrence delighted with form as Pakistan focus on the future",
@@ -619,7 +658,7 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
       "titleHi": "बारिश के कारण पाकिस्तान पर जल्दी जीत दर्ज करने के लिए इंग्लैंड ने मार्च किया",
       "excerptHi": "इंग्लैंड के लिए तीसरे टेस्ट के दूसरे दिन हैरी ब्रुक, डैन लॉरेंस, जेमी स्मिथ और ओली रॉबिन्सन ने अर्धशतक जमाए, बारिश के कारण पाकिस्तान की टीम 268 रन से पीछे है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9260b0fe915a725f5deb97e641ff0a4131c57bfb",
@@ -729,44 +768,6 @@
       "sourceUrl": "https://www.euronews.com/video/2026/09/10/coast-guard-rescues-survivors-from-burning-ferry-in-philippines",
       "titleHi": "Coast guard rescues survivors from burning ferry in Philippines",
       "excerptHi": "A ferry fire near Coron in the Philippines has killed at least five people and left 87 missing as coast guard crews search in rough seas.",
-      "archived": true
-    },
-    {
-      "id": "e2b3cfc256c6b87f1b7b0f28b4af465f81dce4e6",
-      "slug": "england-v-pakistan-third-mens-cricket-test-day-two-live-e2b3cf",
-      "title": "England v Pakistan: third men’s cricket Test, day two – live",
-      "excerpt": "Over-by-over updates from at Edgbaston, 11am BST start County cricket live – Tanya Aldred has the latest news Jonathan Liew on Sooryavanshi | Sign up for The Spin 41st over: England 169-4 (Brook 53, Lawrence 17)…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/08f4267a60c43c35e0fc21be399e11cab65e54cd/267_54_3650_2921/master/3650.jpg?width=140&quality=85&auto=format&fit=max&s=77d29e43f56bcb819a7442a0d67d82a8",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T10:41:42.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/10/england-v-pakistan-third-mens-cricket-test-day-two-live",
-      "titleHi": "इंग्लैंड बनाम पाकिस्तान: तीसरा पुरुष क्रिकेट टेस्ट, दूसरा दिन – लाइव",
-      "excerptHi": "एजबेस्टन से ओवर - बाय - ओवर अपडेट, 11am BST स्टार्ट काउंटी क्रिकेट लाइव – तान्या एल्ड्रेड के पास सूर्यवंशी पर जोनाथन ल्यू की नवीनतम खबरें हैं | स्पिन 41 वें ओवर के लिए साइन अप करें: इंग्लैंड 169 -4 (ब्रुक 53, लॉरेंस 17)...",
-      "archived": true
-    },
-    {
-      "id": "61eae7e487a468ff61bca8838fe54768bcbae01c",
-      "slug": "heavy-casualties-after-fire-on-cargo-ship-in-eastern-china-61eae7",
-      "title": "'Heavy casualties' after fire on cargo ship in eastern China",
-      "excerpt": "President Xi Jinping has called for urgent search and rescue efforts.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-10T10:30:30.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "पूर्वी चीन में मालवाहक जहाज में आग लगने से 'भारी जनहानि'",
-      "excerptHi": "राष्ट्रपति शी जिनपिंग ने तत्काल खोज और बचाव प्रयासों का आह्वान किया है।",
       "archived": true
     }
   ],
@@ -981,7 +982,7 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/9-11-victim-families-saudi-arabia",
       "titleHi": "पीड़ित परिवारों का कहना है कि 9/11 के कथित समर्थन के लिए सऊदी अरब को जवाबदेह ठहराने में ’बहुत लंबा समय’ लग गया है",
       "excerptHi": "टेरी स्ट्रैडा, जिनके पति हमलों में मारे गए थे, का कहना है कि वह न्याय के लिए आशान्वित हैं क्योंकि एक मुकदमे में आरोप लगाया गया है कि अपहरणकर्ताओं के लिए सऊदी समर्थन मुकदमे की ओर बढ़ता है। 9/11 पीड़ितों के परिवारों के एक समूह के नेता का कहना है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "bf635551bc3f1f39a9800469a4af6b97ac2ba4c5",
@@ -1002,7 +1003,7 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
       "titleHi": "अमेरिकी घरों की बिक्री एक साल से अधिक समय में सबसे धीमी है क्योंकि बंधक दरों और कीमतों में वृद्धि हुई है",
       "excerptHi": "उधार लेने की लागत से आवास बाजार में रुकावट आ रही है, क्योंकि ईरान युद्ध ने बंधक दरों को अधिक धक्का दिया है पहले कब्जे वाले अमेरिकी घरों की बिक्री अगस्त में एक साल से अधिक समय में अपनी सबसे धीमी वार्षिक गति से गिरावट आई है क्योंकि घर के खरीदार...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5885c6bd56ff34f12ac75f5c963f507ea35b8939",
@@ -1020,7 +1021,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
       "titleHi": "यमन के हौथियों ने कथित तौर पर मोखा के रणनीतिक लाल सागर बंदरगाह को जब्त कर लिया",
       "excerptHi": "मोखा का कब्जा ईरान समर्थित समूह को बाब अल - मंडब जलमार्ग को नियंत्रित करने के करीब लाएगा, जो एक महत्वपूर्ण शिपिंग मार्ग है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "75545558ab86c202ac6139026b9eab28d1d1e091",
@@ -1038,7 +1039,7 @@
       "sourceUrl": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
       "titleHi": "वैश्विक बॉन्ड बिक्री फिर से शुरू हुई क्योंकि तेल की बढ़ती कीमतों ने मुद्रास्फीति के बारे में आशंका पैदा की",
       "excerptHi": "मध्य पूर्व संघर्ष पर चिंताओं के बीच कच्चे तेल में $ 107 प्रति बैरल से ऊपर की उछाल आई है और बड़ी अर्थव्यवस्थाओं में नर्वस निवेशकों को नियंत्रण से बाहर करने से सरकारी बॉन्ड डंप हो रहे हैं, जिससे लागत बढ़ रही है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c792fb242bf88550d28dd12628a883a9b9c7e1e5",
@@ -1056,7 +1057,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "titleHi": "तेल, गैस और उधार लेने की लागत बढ़ जाती है क्योंकि मध्य पूर्व को लेकर आशंका बढ़ जाती है",
       "excerptHi": "ईरान युद्ध के संकेतों के बीच तेल की कीमत $ 105 प्रति बैरल तक पहुंच जाती है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ec1304fd36391dede8cb4f883ccca2eca4dab9eb",
@@ -1356,14 +1357,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Nick Visser",
       "image": "https://i.guim.co.uk/img/media/1aa56685eb74c25556657a1b14512093dda9a4a9/728_972_4564_3651/master/4564.jpg?width=140&quality=85&auto=format&fit=max&s=0f9db90c8db9d411d8f37669f922e66d",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-10T20:41:36.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: एंथनी अल्बेनीज़ ने 11 सितंबर को 25 साल पूरे किए; वृद्ध देखभाल प्रदाता ने निवासियों को हजारों रुपये का भुगतान किया",
       "excerptHi": "शुक्रवार के लिए गार्जियन ऑस्ट्रेलिया के लाइव समाचार कवरेज में आपका स्वागत है। पढ़ना जारी रखें...",
       "archived": false
@@ -1548,6 +1547,94 @@
   ],
   "world": [
     {
+      "id": "4fe339a0c6937d711b6ffed569cee910c8eb8214",
+      "slug": "florida-executes-man-in-connection-to-hog-trail-murders-4fe339",
+      "title": "Florida executes man in connection to Hog Trail Murders",
+      "excerpt": "The execution of Daniel Owen Conahan Jr makes him the state’s 15th person executed this year A Florida man was executed by lethal injection on Thursday after being convicted of one of a series of suspected killings that…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Keely Aouga",
+      "image": "https://i.guim.co.uk/img/media/437accbd84bd0913ac5123d2a1312d6c7f41c023/493_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=7acad356a6e393aa6daa8c239f1bc648",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T22:40:50.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/florida-execution-hog-trail-murders",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/10/florida-execution-hog-trail-murders",
+      "titleHi": "फ्लोरिडा ने हॉग ट्रेल हत्याओं के संबंध में एक व्यक्ति को मौत की सजा दी",
+      "excerptHi": "डैनियल ओवेन कोनाहन जूनियर की फांसी ने उन्हें इस साल राज्य के 15 वें व्यक्ति को फांसी दे दी फ्लोरिडा के एक व्यक्ति को गुरुवार को संदिग्ध हत्याओं की एक श्रृंखला में से एक में दोषी ठहराए जाने के बाद घातक इंजेक्शन द्वारा फांसी दे दी गई थी...",
+      "archived": false
+    },
+    {
+      "id": "97fb5627d71a7eda372cf2a0efa270904e22b636",
+      "slug": "trump-ally-resigns-from-post-leading-inquiry-into-alleged-co-97fb56",
+      "title": "Trump ally resigns from post leading inquiry into alleged conspiracy against president",
+      "excerpt": "Joe diGenova led investigation focused on intelligence assessment that Russia interfered in 2016 election An ally of Donald Trump said on Thursday that he had resigned from his post leading a Department of Justice…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/f10417e239548f2d78236db887c17d08ad71353b/293_0_3510_2809/master/3510.jpg?width=140&quality=85&auto=format&fit=max&s=8d69a22eb2b9a8cacd075fff39b9e9fb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T22:19:57.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/10/trump-ally-resigns-president-conspiracy-inquiry",
+      "titleHi": "ट्रंप के सहयोगी ने राष्ट्रपति के खिलाफ कथित साजिश की जांच की अगुवाई करते हुए पद से इस्तीफा दे दिया",
+      "excerptHi": "जो डिजेनोवा के नेतृत्व वाली जांच ने खुफिया आकलन पर ध्यान केंद्रित किया कि 2016 के चुनाव में रूस ने हस्तक्षेप किया था डोनाल्ड ट्रम्प के एक सहयोगी ने गुरुवार को कहा कि उन्होंने न्याय विभाग का नेतृत्व करते हुए अपने पद से इस्तीफा दे दिया था...",
+      "archived": false
+    },
+    {
+      "id": "47255caa330b5ae9c174c7967b17cb78ad4ca2c8",
+      "slug": "more-anthropic-researchers-warn-of-ais-perils-as-musk-terms-47255c",
+      "title": "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’",
+      "excerpt": "Insiders at the firm fear tech’s advancement could cause human extinction while others are calling it a ‘setup’ A day after a former researcher at Anthropic made an apocalyptic declaration about artificial intelligence,…",
+      "category": "World",
+      "secondaryCategories": [
+        "Science",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Johana Bhuiyan",
+      "image": "https://i.guim.co.uk/img/media/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=0c6653067417b404617765294f09e8bd",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T21:51:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "guid": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "titleHi": "अधिक मानवविज्ञानी शोधकर्ताओं ने एआई के खतरों के बारे में चेतावनी दी है क्योंकि मस्क की शर्तें एक ‘साइकोप‘ से डरती हैं",
+      "excerptHi": "फर्म के अंदरूनी सूत्रों को डर है कि तकनीक की प्रगति मानव विलुप्त होने का कारण बन सकती है जबकि अन्य इसे ‘सेटअप‘ कह रहे हैं एक दिन बाद एंथ्रोपिक के एक पूर्व शोधकर्ता ने कृत्रिम बुद्धिमत्ता के बारे में एक सर्वनाश घोषणा की,...",
+      "archived": false
+    },
+    {
+      "id": "267b0f1329728f95255c3bb4a39aac6e002ee852",
+      "slug": "san-francisco-mayor-declares-rent-emergency-as-housing-costs-267b0f",
+      "title": "San Francisco mayor declares rent emergency as housing costs soar",
+      "excerpt": "Median rent for one-bedroom apartment in city tops $4,495 with a national median of $1,900 San Francisco’s mayor, Daniel Lurie, declared a rent emergency on Thursday, proposing reforms aimed at curbing evictions and…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Uwa Ede-Osifo",
+      "image": "https://i.guim.co.uk/img/media/c73f4f2d31ef4b4b15ec0c8eb59fd93b43751b42/865_0_4331_3464/master/4331.jpg?width=140&quality=85&auto=format&fit=max&s=ddf16305675c4ffa88d3489fa0ee01bb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-10T21:34:55.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
+      "titleHi": "सैन फ़्रांसिस्को के मेयर ने किराए की इमरजेंसी की घोषणा की क्योंकि आवास की लागत बढ़ गई है",
+      "excerptHi": "शहर में एक बेडरूम के अपार्टमेंट के लिए औसत किराया सबसे ऊपर $ 4,495 है, जिसमें $ 1,900 का राष्ट्रीय औसत है सैन फ्रांसिस्को के मेयर, डैनियल ल्यूरी ने गुरुवार को किराए पर आपातकाल घोषित किया, जिसमें बेदखली पर अंकुश लगाने के उद्देश्य से सुधारों का प्रस्ताव किया गया और...",
+      "archived": false
+    },
+    {
       "id": "d14c111b308b3e5d21200e21e12e6e4f95c72e31",
       "slug": "us-supreme-court-again-rejects-missouri-maps-drawn-to-boost-d14c11",
       "title": "US supreme court again rejects Missouri maps drawn to boost Republicans in midterms",
@@ -1557,14 +1644,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "George Chidi",
       "image": "https://i.guim.co.uk/img/media/1b64d780d138f983eb00807f780354fab89e93b6/157_0_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=5092852d87cd25a01d2ee7e4609c456a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-10T20:55:20.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/missouri-redistricting-map-supreme-court-rejection",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/10/missouri-redistricting-map-supreme-court-rejection",
       "titleHi": "अमेरिकी सुप्रीम कोर्ट ने मिडटर्म में रिपब्लिकन को बढ़ावा देने के लिए तैयार किए गए मिसौरी मानचित्रों को फिर से खारिज कर दिया",
       "excerptHi": "नवीनतम निर्णय इस वर्ष अपने पुराने चुनावी मानचित्रों का उपयोग करने के लिए राज्य के लिए मंच निर्धारित करता प्रतीत होता है अमेरिकी सर्वोच्च न्यायालय ने फिर से मिसौरी के कांग्रेसी मानचित्रों को ओवरहाल करने के लिए डोनाल्ड ट्रम्प द्वारा समर्थित एक पुश को खारिज कर दिया...",
       "archived": false
@@ -1577,14 +1662,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Reuters",
       "image": "https://i.guim.co.uk/img/media/9404b898379fb64bdbe4432b60a3c0a8711f5512/293_0_4641_3712/master/4641.jpg?width=140&quality=85&auto=format&fit=max&s=01e6cf83d37364e8f024d9e777bb68d3",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-10T20:43:50.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/lindsay-clancy-lawyer-mistrial",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/10/lindsay-clancy-lawyer-mistrial",
       "titleHi": "लिंडसे क्लेन्सी के वकील ने जज से कहा कि वह गलतफहमी के बाद उसे दोषी न पाए",
       "excerptHi": "केविन रेडिंगटन का कहना है कि अभियोजन पक्ष ने इस बात के सबूत पेश नहीं किए कि क्लाइंट की हत्या ने उसके बच्चों की हत्या का गठन किया था लिंडसे क्लेंसी के वकील ने गुरुवार को मैसाचुसेट्स महिला की हत्या के मुकदमे की देखरेख करने वाले न्यायाधीश से पूछा...",
       "archived": false
@@ -1597,14 +1680,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Nick Visser",
       "image": "https://i.guim.co.uk/img/media/1aa56685eb74c25556657a1b14512093dda9a4a9/728_972_4564_3651/master/4564.jpg?width=140&quality=85&auto=format&fit=max&s=0f9db90c8db9d411d8f37669f922e66d",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-10T20:41:36.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/11/anthony-albanese-september-11-aged-care-labor-coalition-angus-taylor-one-nation-pauline-hanson-andrew-hastie-ntwnfb",
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: एंथनी अल्बेनीज़ ने 11 सितंबर को 25 साल पूरे किए; वृद्ध देखभाल प्रदाता ने निवासियों को हजारों रुपये का भुगतान किया",
       "excerptHi": "शुक्रवार के लिए गार्जियन ऑस्ट्रेलिया के लाइव समाचार कवरेज में आपका स्वागत है। पढ़ना जारी रखें...",
       "archived": false
@@ -1665,85 +1746,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "titleHi": "डीआर कांगो स्कूल में आग लगने से 20 से अधिक बच्चों की मौत",
       "excerptHi": "अधिकारियों का कहना है कि पूर्वी विद्रोहियों के कब्जे वाले बुकावू शहर में दो स्कूलों में लगी आग से भागने के दौरान भगदड़ मच गई।",
-      "archived": false
-    },
-    {
-      "id": "cb523b67b0b84b05e57f94ce2a5e0493c518b90f",
-      "slug": "james-talarico-accuses-ken-paxton-of-ignoring-epstein-surviv-cb523b",
-      "title": "James Talarico accuses Ken Paxton of ‘ignoring’ Epstein survivors",
-      "excerpt": "Democrats are targeting Trump’s relationship with Epstein as part of strategy ahead of midterm elections James Talarico, the Democratic candidate for Senate in Texas, accused his rival Ken Paxton of “ignoring” survivors…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/bf618d249794abae632467ef42e1dcd4d5b4d66f/652_0_6523_5219/master/6523.jpg?width=140&quality=85&auto=format&fit=max&s=67f3441fd5be1cf13ba2a1960fdd03c3",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:49:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors",
-      "titleHi": "जेम्स टैलारिको ने केन पैक्सटन पर एपस्टीन बचे लोगों की ‘अनदेखी’ करने का आरोप लगाया",
-      "excerptHi": "डेमोक्रेट टेक्सास में सीनेट के लिए डेमोक्रेटिक उम्मीदवार जेम्स तलारिको ने अपने प्रतिद्वंद्वी केन पैक्सटन पर जीवित बचे लोगों को \"अनदेखा\" करने का आरोप लगाया... से पहले रणनीति के हिस्से के रूप में एपस्टीन के साथ ट्रम्प के रिश्ते को लक्षित कर रहे हैं।",
-      "archived": false
-    },
-    {
-      "id": "989fe3a986b9aa0f7a13066efcb66625fcae30c8",
-      "slug": "victim-families-say-it-has-taken-way-too-long-to-hold-saudi-989fe3",
-      "title": "Victim families say it has ‘taken way too long’ to hold Saudi Arabia accountable for alleged support on 9/11",
-      "excerpt": "Terry Strada, whose husband was killed in the attacks, says she remains hopeful for justice as a lawsuit alleging Saudi support for the hijackers moves toward trial The leader of one group of 9/11 victims’ families says…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/2d5d1225ef29b2567d2e5b86e98208f280ed1098/749_0_3751_3000/master/3751.jpg?width=140&quality=85&auto=format&fit=max&s=d514d7d3e49730af99d38c20c09095fb",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:37:47.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/9-11-victim-families-saudi-arabia",
-      "titleHi": "पीड़ित परिवारों का कहना है कि 9/11 के कथित समर्थन के लिए सऊदी अरब को जवाबदेह ठहराने में ’बहुत लंबा समय’ लग गया है",
-      "excerptHi": "टेरी स्ट्रैडा, जिनके पति हमलों में मारे गए थे, का कहना है कि वह न्याय के लिए आशान्वित हैं क्योंकि एक मुकदमे में आरोप लगाया गया है कि अपहरणकर्ताओं के लिए सऊदी समर्थन मुकदमे की ओर बढ़ता है। 9/11 पीड़ितों के परिवारों के एक समूह के नेता का कहना है...",
-      "archived": false
-    },
-    {
-      "id": "bf635551bc3f1f39a9800469a4af6b97ac2ba4c5",
-      "slug": "us-home-sales-slowest-in-more-than-a-year-as-mortgage-rates-bf6355",
-      "title": "US home sales slowest in more than a year as mortgage rates and prices climb",
-      "excerpt": "Housing market has been stymied by borrowing costs, as Iran war pushed mortgage rates higher Sales of previously occupied US homes declined in August to their slowest annual pace in more than a year as home shoppers…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/11cb2d940350d5b2eed42b662b099876b5442a59/336_0_3328_2664/master/3328.jpg?width=140&quality=85&auto=format&fit=max&s=95022e37294f795e95d9b909c3286395",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-10T18:27:10.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/10/home-sales-slow-housing-market",
-      "titleHi": "अमेरिकी घरों की बिक्री एक साल से अधिक समय में सबसे धीमी है क्योंकि बंधक दरों और कीमतों में वृद्धि हुई है",
-      "excerptHi": "उधार लेने की लागत से आवास बाजार में रुकावट आ रही है, क्योंकि ईरान युद्ध ने बंधक दरों को अधिक धक्का दिया है पहले कब्जे वाले अमेरिकी घरों की बिक्री अगस्त में एक साल से अधिक समय में अपनी सबसे धीमी वार्षिक गति से गिरावट आई है क्योंकि घर के खरीदार...",
-      "archived": false
-    },
-    {
-      "id": "5885c6bd56ff34f12ac75f5c963f507ea35b8939",
-      "slug": "yemens-houthis-reportedly-seize-strategic-red-sea-port-of-mo-5885c6",
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "excerpt": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af67/live/bf0ec050-ad2b-11f1-bc1f-3f186ca4140c.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-10T18:15:47.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "यमन के हौथियों ने कथित तौर पर मोखा के रणनीतिक लाल सागर बंदरगाह को जब्त कर लिया",
-      "excerptHi": "मोखा का कब्जा ईरान समर्थित समूह को बाब अल - मंडब जलमार्ग को नियंत्रित करने के करीब लाएगा, जो एक महत्वपूर्ण शिपिंग मार्ग है।",
       "archived": false
     }
   ]
