@@ -33,16 +33,24 @@ export function Hero({
   // European visitors), supplied by the server. Fall back to the newest overall
   // so the hero is never empty.
   const pool = leadArticles && leadArticles.length > 0 ? leadArticles : articles;
-  // Give the large hero slot a story that actually has a source image (they are
-  // already newest-first, so this stays recent) — falling back to the newest if
-  // none have one, so the hero still shows the subtle placeholder rather than
-  // nothing. The remaining stories keep their order.
-  // Prefer a real source photo for the big hero slot; fall back to an AI
-  // illustration, then anything.
+  // Give the large hero slot a story that actually has a source image, but
+  // NEVER at the cost of recency. Whether a story has a photo is independent of
+  // how new it is, so an unbounded search for one used to reach back past
+  // fresher news (an 8h-old lead while a 30m-old story sat at the top of the
+  // pool). The photo preference therefore only applies within PHOTO_WINDOW_MS
+  // of the newest story; past that the newest simply wins and the hero shows
+  // its labelled AI illustration. The remaining stories keep their order.
   const hasRealPhoto = (a: Article) =>
     /^https?:\/\//.test(a.imageSeed) && a.imageType !== "ai";
-  const lead =
-    pool.find(hasRealPhoto) ?? pool.find((a) => a.featured) ?? pool[0];
+  const byNewest = (a: Article, b: Article) =>
+    new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime();
+  const ordered = [...pool].sort(byNewest);
+  const newest = new Date(ordered[0].publishedAt).getTime();
+  const PHOTO_WINDOW_MS = 2 * 60 * 60 * 1000;
+  const fresh = ordered.filter(
+    (a) => newest - new Date(a.publishedAt).getTime() <= PHOTO_WINDOW_MS
+  );
+  const lead = fresh.find(hasRealPhoto) ?? ordered[0];
   const leadText = localize(lead, locale);
   const secondary = pool.filter((a) => a.id !== lead.id).slice(0, 3);
 
