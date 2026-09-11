@@ -23,6 +23,11 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    # A successful run takes ~10-25 min. Without a cap, a stalled upstream
+    # request used to hold the job open until GitHub's 6h ceiling cancelled it,
+    # which both lost that run's commit and ate the slots after it. Fail fast
+    # instead so the next scheduled run gets a clean attempt.
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 

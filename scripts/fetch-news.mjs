@@ -49,7 +49,11 @@ const CURRENT_ITEMS = 60; // newest items shown as "current" news
 // deployed server bundle — and Cloudflare Workers cap that bundle at 3 MiB
 // gzipped. A 45-day window grew past the cap on 2026-08-25 and every deploy
 // silently failed from then on, freezing the live site. Keep the archive lean.
-const ARCHIVE_DAYS = 10; // retention window for the archive (bundle-size bound)
+// Lowered 10 -> 7 when the Indian national feeds were added: they roughly
+// double the daily article volume, which took the deployed Worker bundle to
+// 2.88 MiB gzipped — 0.12 MiB under the cap, i.e. days away from repeating the
+// silent-deploy failure above. 7 days restores ~0.46 MiB of headroom.
+const ARCHIVE_DAYS = 7; // retention window for the archive (bundle-size bound)
 // Fields the site never reads: `guid` is only used while fetching (dedupe is by
 // `id` = sha1 of the canonical URL) and `author` is replaced by the publisher
 // label at render time. Dropping them trims ~9% off the archive.
@@ -57,6 +61,7 @@ const ARCHIVE_OMIT = ["guid", "author"];
 const slimForArchive = (it) =>
   Object.fromEntries(Object.entries(it).filter(([k]) => !ARCHIVE_OMIT.includes(k)));
 const TRANSLATE_BUDGET = 70; // max NEW MyMemory translations per run (quota-friendly)
+const WARM_BUDGET_MS = 5 * 60 * 1000; // max time spent pre-warming AI images (best-effort)
 const MYMEMORY_EMAIL = process.env.MYMEMORY_EMAIL || ""; // optional; raises quota; not a secret
 
 /** Legitimate per-category RSS feeds. `category` is the primary hint. */
@@ -91,6 +96,15 @@ const FEEDS = [
   // OPINION
   { url: "https://www.theguardian.com/uk/commentisfree/rss", source: "The Guardian", category: "Opinion" },
   { url: "https://rss.nytimes.com/services/xml/rss/nyt/Opinion.xml", source: "The New York Times", category: "Opinion" },
+  // INDIA — the India section is a keyword view over the corpus (see
+  // src/lib/categories.ts), so it can only be as fresh as the India coverage
+  // that actually enters it. The international feeds above carry very little,
+  // which left the India homepage lead ~15h old while Europe/World led with
+  // sub-hour stories. These national feeds close that gap; they classify as
+  // World by geography, exactly like any other non-European source.
+  { url: "https://www.thehindu.com/news/national/feeder/default.rss", source: "The Hindu", category: "World" },
+  { url: "https://indianexpress.com/section/india/feed/", source: "The Indian Express", category: "World" },
+  { url: "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml", source: "Hindustan Times", category: "World" },
 ];
 
 const parser = new Parser({
@@ -449,6 +463,17 @@ async function main() {
     all.filter((x) => re.test(`${x.title || ""} ${x.excerpt || ""}`)).slice(0, 10);
   const byCat = (c) =>
     all.filter((x) => (x.category || "").toLowerCase() === c).slice(0, 10);
+  // The Indian national outlets above are classified WORLD by geography (they
+  // are not European), and they publish far more often than the international
+  // feeds — so without this the WORLD pool fills with Indian domestic stories
+  // and a European or US visitor gets one as their lead. They still reach
+  // Indian visitors through the `india` keyword pool, which is the point of
+  // adding them. Only the WORLD pool is filtered; every other pool is unchanged.
+  const INDIA_SOURCES = new Set(["The Hindu", "The Indian Express", "Hindustan Times"]);
+  const byCatIntl = (c) =>
+    all
+      .filter((x) => (x.category || "").toLowerCase() === c && !INDIA_SOURCES.has(x.source))
+      .slice(0, 10);
   const pools = {
     india: byKw(KW.india),
     usa: byKw(KW.usa),
@@ -458,7 +483,7 @@ async function main() {
     middleeast: byKw(KW.middleeast),
     latam: byKw(KW.latam),
     oceania: byKw(KW.oceania),
-    world: byCat("world"),
+    world: byCatIntl("world"),
   };
   writeFileSync(
     LOCAL_PATH,
@@ -509,23 +534,39 @@ async function warmAiImages(items) {
   }
   if (!targets.length) return;
   console.log(`[news] warming ${targets.length} AI illustrations (sequential)…`);
+  // This is best-effort CDN pre-warming — the JSON is already written by the
+  // time we get here, and visitors generate any missing image on demand. It
+  // must therefore never hold the run open: a stalled image stream used to hang
+  // the whole job until GitHub's 6h ceiling killed it, losing a commit whose
+  // data was already on disk. Two guards: the abort timer now covers the BODY
+  // read (it was cleared before `arrayBuffer()`, leaving it unbounded), and the
+  // loop stops once the overall budget is spent.
+  const deadline = Date.now() + WARM_BUDGET_MS;
   let ok = 0;
+  let done = 0;
   for (const url of targets) {
+    if (Date.now() > deadline) break;
+    done++;
     for (let a = 1; a <= 3; a++) {
+      const ctl = new AbortController();
+      const t = setTimeout(() => ctl.abort(), 45000);
       try {
-        const ctl = new AbortController();
-        const t = setTimeout(() => ctl.abort(), 45000);
         const r = await fetch(url, { signal: ctl.signal });
-        clearTimeout(t);
         if (r.ok) { await r.arrayBuffer(); ok++; break; }
         if (r.status === 429) { await new Promise((x) => setTimeout(x, 4000 * a)); continue; }
         break;
       } catch {
         await new Promise((x) => setTimeout(x, 2500 * a));
+      } finally {
+        clearTimeout(t);
       }
     }
   }
-  console.log(`[news] warmed ${ok}/${targets.length} AI illustrations`);
+  const skipped = targets.length - done;
+  console.log(
+    `[news] warmed ${ok}/${targets.length} AI illustrations` +
+      (skipped > 0 ? ` (${skipped} skipped — warm budget spent)` : "")
+  );
 }
 
 // Run the full pipeline only when executed directly (not when imported by tests).
