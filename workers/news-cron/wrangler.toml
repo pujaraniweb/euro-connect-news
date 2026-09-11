@@ -1,0 +1,19 @@
+name = "ecn-news-cron"
+main = "src/index.js"
+compatibility_date = "2026-09-11"
+
+# Cron-only Worker. `workers_dev = false` and the absence of any [[routes]]
+# mean this Worker has NO public HTTP surface at all — the scheduled handler is
+# the only way it can run, so there is no URL anyone could hit to trigger a
+# news refresh (or to probe the token).
+workers_dev = false
+
+# Hourly. GitHub's own `schedule:` trigger is best-effort and in practice fired
+# only 3-8 times a day for this repo; Cloudflare's cron is dependable, which is
+# the entire reason this Worker exists.
+[triggers]
+crons = ["0 * * * *"]
+
+# NOTE: there is deliberately no [vars] block. The GitHub token is a SECRET and
+# must never live in this file (wrangler.toml is plaintext and committed).
+# Set it out-of-band, once, with:  wrangler secret put GITHUB_TOKEN
