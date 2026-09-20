@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T20:35:18.257Z",
+  "generatedAt": "2026-09-20T22:59:56.107Z",
   "india": [
     {
       "id": "a583ed0e3ecaa59ec05b1615ba2d2fddc88d33a3",
@@ -9,14 +9,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/7q7ajl/article71488972.ece/alternates/LANDSCAPE_1200/AI%20data%20centres.JPG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-20T19:44:03.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/stop-vizag-data-centers-instagram-account-blocked-in-india/article71487350.ece",
-      "guid": "article-71487350",
       "titleHi": "‘विजाग डेटा सेंटर बंद करें’ का इंस्टाग्राम अकाउंट भारत में ब्लॉक कर दिया गया है",
       "excerptHi": "‘विजाग डेटा सेंटर बंद करें’ का इंस्टाग्राम अकाउंट भारत में ब्लॉक कर दिया गया है",
       "archived": false
@@ -31,14 +29,12 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/6ts3qb/article71489069.ece/alternates/LANDSCAPE_1200/iStock-962382338.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T19:20:45.000Z",
       "sourceUrl": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece",
-      "guid": "article-71488862",
       "titleHi": "भारत के चुंबक मिशन में लापता माप",
       "excerptHi": "रणनीतिक सवाल यह नहीं है कि क्या भारत के पास दुर्लभ पृथ्वी संसाधन हैं या क्या चीन से आयात कम किया जा सकता है। असली नीतिगत चुनौती यह समझना है कि बीच में क्या होता है",
       "archived": false
@@ -51,14 +47,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/opinion/op-ed/x7eh0a/article71488463.ece/alternates/LANDSCAPE_1200/iStock-1193671253.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-20T18:21:05.000Z",
       "sourceUrl": "https://www.thehindu.com/opinion/lead/indias-ngos-at-a-new-funding-crossroads/article71488462.ece",
-      "guid": "article-71488462",
       "titleHi": "भारत के गैर सरकारी संगठन एक नए वित्त पोषण चौराहे पर",
       "excerptHi": "भारत के गैर - सरकारी संगठनों को विदेशी और घरेलू वित्त पोषण स्रोतों को स्थानांतरित करने के लिए नेविगेट करना चाहिए",
       "archived": false
@@ -74,16 +68,14 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/zggf96/article71489011.ece/alternates/LANDSCAPE_1200/80688_18_6_2022_16_2_31_1_19TVTRCROPSDAMAGED_KKN.JPG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T17:58:24.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/state-level-conclave-to-discuss-strategy-to-address-human-wildlife-conflict-minister/article71487423.ece",
-      "guid": "article-71487423",
-      "titleHi": "State-level conclave to discuss strategy to address human-wildlife conflict: Minister",
-      "excerptHi": "Experts from Veterinary University, Kerala Agricultural University, Indian Council of Agricultural Research, Wildlife Institute of India, and Kerala Forest Research Institute, besides farmers, will participate in the…",
+      "titleHi": "मानव - वन्यजीव संघर्ष से निपटने की रणनीति पर चर्चा करने के लिए राज्य स्तरीय सम्मेलन: मंत्री",
+      "excerptHi": "पशु चिकित्सा विश्वविद्यालय, केरल कृषि विश्वविद्यालय, भारतीय कृषि अनुसंधान परिषद, भारतीय वन्यजीव संस्थान और केरल वन अनुसंधान संस्थान के विशेषज्ञ, किसानों के अलावा,...",
       "archived": false
     },
     {
@@ -209,6 +201,91 @@
   ],
   "usa": [
     {
+      "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
+      "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
+      "title": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon’s murder trial to begin",
+      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Dan Tehan, the shadow minister for energy, said Gallagher’s criticism of the Coalition’s fuel plan wasn’t fair. Tehan said the call…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Nick Visser",
+      "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T22:42:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
+      "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
+      "archived": false
+    },
+    {
+      "id": "c25428ef67e3e8bfd5f7240fe9b33d6f40430702",
+      "slug": "can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-c25428",
+      "title": "Can Trump and Xi cooperate to guide humanity through the AI revolution? Humanity might depend on it | Alan Finkel",
+      "excerpt": "The CEOs of tech firms issue stark warnings over the rate of change, with AI capability doubling every four months Recently, Jacob Coxon, a researcher at Anthropic, quit his job over concerns that AI was on a collision…",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Alan Finkel",
+      "image": "https://i.guim.co.uk/img/media/b95961888853edd0e0b05c5fb70cd7d1564b943e/389_0_3932_3145/master/3932.jpg?width=140&quality=85&auto=format&fit=max&s=d178b9ed4f69954a6dcb04e2abd22449",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T22:00:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
+      "guid": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
+      "titleHi": "क्या ट्रम्प और शी AI क्रांति के माध्यम से मानवता का मार्गदर्शन करने के लिए सहयोग कर सकते हैं? मानवता इस पर निर्भर हो सकती है | एलन फिंकल",
+      "excerptHi": "तकनीकी फर्मों के सीईओ परिवर्तन की दर पर कड़ी चेतावनी जारी करते हैं, एआई क्षमता हर चार महीने में दोगुनी हो जाती है हाल ही में, एंथ्रोपिक के एक शोधकर्ता जैकब कॉक्सन ने एआई के टकराव की चिंताओं के कारण अपनी नौकरी छोड़ दी...",
+      "archived": false
+    },
+    {
+      "id": "ca042d2ba41c8967daba70840a14a375262a1aba",
+      "slug": "trump-reportedly-to-form-health-funding-board-that-could-vet-ca042d",
+      "title": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
+      "excerpt": "President’s latest order expected to bring NIH funding under control of Trump administration to align with agenda Donald Trump’s latest executive order is expected to establish a board responsible for approving National…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Coral Murphy Marcos",
+      "image": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:53:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+      "titleHi": "ट्रम्प ने कथित तौर पर स्वास्थ्य वित्त पोषण बोर्ड का गठन किया है जो ‘जागने‘ की पहल पर वीटो कर सकता है",
+      "excerptHi": "राष्ट्रपति के नवीनतम आदेश से एनआईएच फंडिंग को ट्रम्प प्रशासन के नियंत्रण में लाने की उम्मीद है ताकि एजेंडे के साथ संरेखित किया जा सके डोनाल्ड ट्रम्प के नवीनतम कार्यकारी आदेश से राष्ट्रीय…",
+      "archived": false
+    },
+    {
+      "id": "7c23287a05422ac4907071e1e9657cff844072dc",
+      "slug": "elvira-loses-nerve-as-spaun-triumphs-at-wentworth-7c2328",
+      "title": "Elvira loses nerve as Spaun triumphs at Wentworth",
+      "excerpt": "Manuel Elvira choked back the tears as an elated JJ Spaun celebrated becoming only the third US player to win the BMW PGA Championship at Wentworth.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/452227c0-b530-11f1-a430-4d16ee157c41.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T20:41:21.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cwvgyze7603jo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/golf/articles/cwvgyze7603jo#2",
+      "titleHi": "वेंटवर्थ में स्पैन की जीत के साथ ही एल्विरा ने तंत्रिका खो दी",
+      "excerptHi": "वेंटवर्थ में बीएमडब्ल्यू पीजीए चैंपियनशिप जीतने वाले केवल तीसरे अमेरिकी खिलाड़ी के रूप में मनाए गए जेजे स्पॉन के रूप में मनाए जाने पर मैनुअल एल्विरा ने आंसू बहाए।",
+      "archived": false
+    },
+    {
       "id": "0ad57370d9d2e254c86533cf92cd08e7cf73a425",
       "slug": "carrick-disputes-cunhas-claim-that-manchester-united-lacked-0ad573",
       "title": "Carrick disputes Cunha’s claim that Manchester United lacked energy in Fulham draw",
@@ -216,14 +293,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "David Hytner at Craven Cottage",
       "image": "https://i.guim.co.uk/img/media/9b78cfa6a21599416e415fb13a4f9950fca92f1b/254_0_2258_1806/master/2258.jpg?width=140&quality=85&auto=format&fit=max&s=5119ab60cbda463151fc19bdf87ff593",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T19:49:21.000Z",
       "sourceUrl": "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
-      "guid": "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
       "titleHi": "कैरिक ने कुन्हा के दावे पर विवाद किया कि मैनचेस्टर यूनाइटेड में फुलहम ड्रॉ में ऊर्जा की कमी थी",
       "excerptHi": "माइकल कैरिक ने लेवलर मैथियस कुन्हा के लिए टीम को ’धक्का देते रहने' पर जोर दिया: ‘फुलहम ने हमसे अधिक ऊर्जा लगाई’ माइकल कैरिक ने इस सुझाव को खारिज कर दिया कि उनके मैनचेस्टर यूनाइटेड के खिलाड़ियों के पास शारीरिक फिटनेस की कमी थी...",
       "archived": false
@@ -236,14 +311,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b2a/live/f62a5f00-b527-11f1-a430-4d16ee157c41.png",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T19:40:25.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/ckzdz2l0m52mo#2",
       "titleHi": "ट्रॉय की सप्ताह की प्रीमियर लीग टीम किसने बनाई है?",
       "excerptHi": "इस सीज़न में प्रीमियर लीग के हर दौर के मैचों के बाद, ट्रॉय डेनी हमें सप्ताह की अपनी टीम देते हैं। क्या आप उसकी पसंद से सहमत हैं?",
       "archived": false
@@ -258,14 +331,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Patrick Wintourin New York",
       "image": "https://i.guim.co.uk/img/media/2422e7807856ad13343c9672009287cf0c04ba5f/619_0_2581_2066/master/2581.jpg?width=140&quality=85&auto=format&fit=max&s=42f1a7f199ebc9d44766be0858d1e5fb",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:56:45.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
-      "guid": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
       "titleHi": "मध्य पूर्व और अधिक हिंसा के लिए तैयार है क्योंकि ईरान का दावा है कि अमेरिका बमबारी अभियान को नवीनीकृत करने की योजना बना रहा है",
       "excerptHi": "तनाव बढ़ता है क्योंकि ट्रम्प ने फॉक्स न्यूज को बताया कि वह मध्य पूर्व में हौथी विद्रोहियों द्वारा रियाद पर हमलों के बाद ’ईरान को मिटाने' पर विचार कर रहे हैं, ईरान द्वारा दावा किए जाने के बाद हिंसा को बढ़ाने के लिए तैयार हैं...",
       "archived": false
@@ -281,14 +352,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Pippa Crerar Political editor",
       "image": "https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a9012fc2ccc9861cd5baf89f1a212d04",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:45:23.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
       "titleHi": "एंडी बर्नहम एक कमजोर ट्रम्प का सामना कर रहे हैं – लेकिन राष्ट्रपति अप्रत्याशित बने हुए हैं",
       "excerptHi": "प्रधानमंत्री राजनयिक युद्ध को भड़काए बिना अपने पूर्ववर्ती की तुलना में अमेरिकी नेता के साथ मजबूत होने की उम्मीद करते हैं, क्योंकि ईरान युद्ध ब्रिटेन की अर्थव्यवस्था पर भारी पड़ता है एंडी की सफलता का निर्धारण करने के लिए किसी भी अंतर्राष्ट्रीय संबंध में अधिक शक्ति नहीं है...",
       "archived": false
@@ -309,7 +378,7 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/golf/videos/cm4g50pr405eo?at_medium=RSS&at_campaign=rss",
       "titleHi": "स्पॉन ने 67 के अंतिम दौर के बाद पीजीए चैंपियनशिप जीती",
       "excerptHi": "जेजे स्पॉन ने पीजीए चैंपियनशिप जीतने के लिए 67 के अंतिम दौर में प्रवेश किया और ऐसा करने वाले तीन वर्षों में दूसरे अमेरिकी बन गए।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "92c39b911de9bbd264949115d57af2d15f4f9882",
@@ -329,90 +398,75 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
       "titleHi": "हाउस रिपब्लिकन ने ट्रम्प के आव्रजन प्रवर्तन पर प्रतिबंध लगा दिया",
       "excerptHi": "फ्लोरिडा की मारिया एल्विरा सालाजार ने ट्रम्प को चेतावनी दी है कि सलाहकार ‘उनकी विरासत से समझौता कर रहे हैं’ और रिपब्लिकन कांग्रेस की महिला मारिया एल्विरा सालाजार को ’पूरी तस्वीर’ नहीं दिखा रहे हैं, जिन्होंने राष्ट्रपति पर बहुत दूर जाने का आरोप लगाया है...",
-      "archived": false
-    },
-    {
-      "id": "52aad59b27a42b548f86e6a9ce1dd537a59ff7df",
-      "slug": "keralam-doctors-selected-to-present-research-at-uicc-world-c-52aad5",
-      "title": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong",
-      "excerpt": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-20T16:23:32.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-doctors-selected-to-present-research-at-uicc-world-cancer-congress-in-hong-kong/article71488687.ece",
-      "titleHi": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong",
-      "excerptHi": "Keralam doctors selected to present research at UICC World Cancer Congress in Hong Kong",
-      "archived": true
-    },
-    {
-      "id": "cbca06743ab5f274a7b71c64442d96b1f776c640",
-      "slug": "usa-loss-a-game-ireland-should-have-won---bemand-cbca06",
-      "title": "USA loss a game Ireland 'should have won' - Bemand",
-      "excerpt": "Ireland head coach Scott Bemand says their defeat against USA in the WXV Global Series opener at Tallaght Stadium was \"a game we should have won\".",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/c4ff8b40-b50d-11f1-91cc-c5691e33b858.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:56:06.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/articles/cmz7z2wvr510o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "USA loss a game Ireland 'should have won' - Bemand",
-      "excerptHi": "Ireland head coach Scott Bemand says their defeat against USA in the WXV Global Series opener at Tallaght Stadium was \"a game we should have won\".",
-      "archived": true
-    },
-    {
-      "id": "ab6f8cfe692467a2fb099616627e628e93acc040",
-      "slug": "trumps-tariff-decision-can-hurt-energy-security-trade-econom-ab6f8c",
-      "title": "Trump’s tariff decision can hurt energy security, trade, economy of India: Congress",
-      "excerpt": "Trump’s “unjustified action” can hurt India’s energy security, economy, trade, while exposing U.S. hypocrisy, say Congress leaders; slam Modi government’s “abject capitulation” to Washington",
-      "category": "World",
-      "secondaryCategories": [
-        "Business",
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/icc7v7/article71488757.ece/alternates/LANDSCAPE_1200/CONGRESS%20PC%20SUGAR%20AICC_27_08_16.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:49:02.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/trumps-tariff-decision-can-hurt-energy-security-trade-economy-of-india-congress/article71488448.ece",
-      "titleHi": "Trump’s tariff decision can hurt energy security, trade, economy of India: Congress",
-      "excerptHi": "Trump’s “unjustified action” can hurt India’s energy security, economy, trade, while exposing U.S. hypocrisy, say Congress leaders; slam Modi government’s “abject capitulation” to Washington",
-      "archived": true
-    },
-    {
-      "id": "ba91ca58495db0274e07e6ad1c709d85005b9346",
-      "slug": "trump-now-says-he-wants-to-form-an-ai-force-ba91ca",
-      "title": "Trump now says he wants to form an ‘AI Force’",
-      "excerpt": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump…",
-      "category": "Technology",
-      "secondaryCategories": [],
-      "source": "The Verge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334825/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:39:22.000Z",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-      "titleHi": "Trump now says he wants to form an ‘AI Force’",
-      "excerptHi": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump…",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "2636459a27e6386ad1d95af30481810e330b3be1",
+      "slug": "albanese-launches-bid-for-un-security-council-seat-and-names-263645",
+      "title": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post",
+      "excerpt": "Australia and Finland are vying for a spot on the council, and the PM needs two thirds of member states to back him Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/24e3e7388851cf2ac03c9b08d5542eca8ea054fd/205_0_4399_3521/master/4399.jpg?width=140&quality=85&auto=format&fit=max&s=7bb044f36f056d94014d7d0359e771eb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:45:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
+      "titleHi": "अल्बानिया ने संयुक्त राष्ट्र सुरक्षा परिषद की सीट के लिए बोली शुरू की और मर्डोक के पूर्व सहयोगी को शीर्ष राजनयिक पद के लिए नामित किया",
+      "excerptHi": "ऑस्ट्रेलिया और फ़िनलैंड परिषद में एक जगह के लिए दौड़ रहे हैं, और प्रधानमंत्री को उनका समर्थन करने के लिए दो तिहाई सदस्य देशों की आवश्यकता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "84fafa9a1dcdbc5002fe9774a51d73208c10997d",
+      "slug": "specialist-courtrooms-to-prioritise-rape-cases-in-england-an-84fafa",
+      "title": "Specialist courtrooms to prioritise rape cases in England and Wales",
+      "excerpt": "Funding boost for facilities and fixed dates for trials designed to encourage more survivors to come forward Specialist courtrooms prioritising cases of rape and other serious sex offences are to be introduced across…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Ben Quinn Political correspondent",
+      "image": "https://i.guim.co.uk/img/media/6c463c6aa6acdd0ed4770333f103da83ac48276b/220_0_2471_1977/master/2471.jpg?width=140&quality=85&auto=format&fit=max&s=eeb0715b20854c648c234a109309b27e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:30:26.000Z",
+      "sourceUrl": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
+      "guid": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
+      "titleHi": "इंग्लैंड और वेल्स में बलात्कार के मामलों को प्राथमिकता देने के लिए विशेषज्ञ अदालतें",
+      "excerptHi": "अधिक बचे लोगों को आगे आने के लिए प्रोत्साहित करने के लिए डिज़ाइन किए गए परीक्षणों के लिए सुविधाओं और निश्चित तिथियों के लिए धन को बढ़ावा देना बलात्कार और अन्य गंभीर यौन अपराधों के मामलों को प्राथमिकता देने वाले विशेषज्ञ न्यायालयों को पेश किया जाना है...",
+      "archived": false
+    },
+    {
+      "id": "2ba89fba34efca0aa425709e9f8c6fa22098a3da",
+      "slug": "man-82-dies-after-beach-fight-with-76-year-old-over-sunloung-2ba89f",
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "excerpt": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:17:22.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#0",
+      "titleHi": "ग्रीस में सूर्योदय पर 76 वर्षीय व्यक्ति के साथ समुद्र तट पर लड़ाई के बाद 82 वर्षीय व्यक्ति की मौत हो गई",
+      "excerptHi": "एक प्रत्यक्षदर्शी ने कहा कि दृश्य इतना अराजक था कि समुद्र तट के दूसरे छोर से चिल्लाने की आवाज सुनी जा सकती थी।",
+      "archived": false
+    },
     {
       "id": "51deb005e82c8f68c01859acb01fc167b4998581",
       "slug": "deaths-of-three-women-in-sea-at-brighton-had-no-criminal-inv-51deb0",
@@ -421,14 +475,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Charlie Moloney",
       "image": "https://i.guim.co.uk/img/media/8b1cc8caac62b0e70d663d4255cd7a868fdff4f8/0_139_4584_3667/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=b4c7624dc895b0b654a1473f6fb6b99b",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T19:03:04.000Z",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/sep/20/deaths-three-women-sea-brighton-no-criminal-involvement-police-say",
-      "guid": "https://www.theguardian.com/uk-news/2026/sep/20/deaths-three-women-sea-brighton-no-criminal-involvement-police-say",
       "titleHi": "पुलिस का कहना है कि ब्राइटन में समुद्र में तीन महिलाओं की मौत में कोई आपराधिक संलिप्तता नहीं थी",
       "excerptHi": "13 मई को उक्सब्रिज से जेन एडेटोरो, क्रिस्टीना वाल्टर्स और रेबेका वाल्टर्स मिले थे ब्राइटन बीच से समुद्र में मिली तीन बहनों की मौत में कोई आपराधिकता या तीसरे पक्ष की संलिप्तता शामिल नहीं थी, पुलिस…",
       "archived": false
@@ -444,14 +496,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Pippa Crerar Political editor",
       "image": "https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a9012fc2ccc9861cd5baf89f1a212d04",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:45:23.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
       "titleHi": "एंडी बर्नहम एक कमजोर ट्रम्प का सामना कर रहे हैं – लेकिन राष्ट्रपति अप्रत्याशित बने हुए हैं",
       "excerptHi": "प्रधानमंत्री राजनयिक युद्ध को भड़काए बिना अपने पूर्ववर्ती की तुलना में अमेरिकी नेता के साथ मजबूत होने की उम्मीद करते हैं, क्योंकि ईरान युद्ध ब्रिटेन की अर्थव्यवस्था पर भारी पड़ता है एंडी की सफलता का निर्धारण करने के लिए किसी भी अंतर्राष्ट्रीय संबंध में अधिक शक्ति नहीं है...",
       "archived": false
@@ -467,14 +517,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Deborah Cole in Berlin",
       "image": "https://i.guim.co.uk/img/media/b33e44cdc09bdf62ed132265b8f5a32981f5a38d/302_0_6392_5111/master/6392.jpg?width=140&quality=85&auto=format&fit=max&s=f3be5e67be018a369e76123575078f7b",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:33:02.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
-      "guid": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
       "titleHi": "जर्मन राज्य चुनावों में सीडीयू ‘आपदा‘ के बाद फ्रेडरिक मर्ज़ ने पद पर बने रहने का संकल्प लिया",
       "excerptHi": "सुदूर - दक्षिणपंथी एएफडी ने मेक्लेनबर्ग - वेस्टर्न पोमेरानिया में जीत हासिल की और बर्लिन में जीत के लिए डाई लिंके को छोड़ दिया जर्मनी के चांसलर फ्रेडरिक मर्ज़ ने पद पर बने रहने और भविष्य के लिए लड़ने की कसम खाई है...",
       "archived": false
@@ -489,16 +537,14 @@
         "Science"
       ],
       "source": "The Guardian",
-      "author": "Alexandra Topping Political correspondent",
       "image": "https://i.guim.co.uk/img/media/9125603baaa69836781c6305419932194dba050a/130_78_1343_1075/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=435ec21477b9e4c9a9108bebfa28aa4a",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:04:26.000Z",
       "sourceUrl": "https://www.theguardian.com/politics/2026/sep/20/young-tory-defectors-lib-dems-conference",
-      "guid": "https://www.theguardian.com/politics/2026/sep/20/young-tory-defectors-lib-dems-conference",
-      "titleHi": "Feeling ‘forced out’ by Badenoch? Lib Dems conference welcomes young Tory defectors",
-      "excerptHi": "Self-described moderates say Ed Davey’s party offers them a home as Conservatives shift further right Climbing the party-branded stairs of the Brighton Centre with a Liberal Britain tote bag over his shoulder, Cody…",
+      "titleHi": "बैडेनोक द्वारा ‘जबरन बाहर’ महसूस कर रहे हैं? लिब डेम्स सम्मेलन युवा टोरी दलबदलुओं का स्वागत करता है",
+      "excerptHi": "स्व - वर्णित उदारवादियों का कहना है कि एड डेवी की पार्टी उन्हें एक घर प्रदान करती है क्योंकि कंजर्वेटिव्स ब्राइटन सेंटर की पार्टी - ब्रांडेड सीढ़ियों पर अपने कंधे पर एक लिबरल ब्रिटेन टोटे बैग के साथ आगे बढ़ रहे हैं, कोडी...",
       "archived": false
     },
     {
@@ -519,7 +565,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
       "titleHi": "जर्मन चांसलर मर्ज़ ने राज्य चुनाव को अपनी पार्टी के लिए एक 'आपदा' बताया, लेकिन साथ रहने का संकल्प लिया",
       "excerptHi": "एग्जिट पोल बर्लिन और मेक्लेनबर्ग - वोरपोमर्न राज्यों में मर्ज़ की केंद्र - दाएं सीडीयू पार्टी के लिए हानिकारक नुकसान दिखाते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "71309709907c0e8ef3be9809b65a59831b41853e",
@@ -561,65 +607,6 @@
       "titleHi": "La Bola Negra wins Toronto film festival people’s choice award",
       "excerptHi": "The queer period drama wins Oscar-predicting award, being named the most popular audience film at the festival Spanish queer drama La Bola Negra has won this year’s people’s choice award at the Toronto film festival.…",
       "archived": true
-    },
-    {
-      "id": "5f30855890b30c4faa008b2112534865423bed65",
-      "slug": "lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty-5f3085",
-      "title": "Lib Dems use conference to set out £2bn plan to cut fuel duty",
-      "excerpt": "Ed Davey’s party made a series of proposals as concern grows among members that voters don’t know what its policies are or what it stands for The Liberal Democrats have used their conference to unveil a £2bn plan to cut…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/c0b8903dff3ef46059e3f3d4c98f9c6a84df885f/593_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9f092158ef8b222878ae1d3a6afff1d1",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T16:09:11.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
-      "titleHi": "Lib Dems use conference to set out £2bn plan to cut fuel duty",
-      "excerptHi": "Ed Davey’s party made a series of proposals as concern grows among members that voters don’t know what its policies are or what it stands for The Liberal Democrats have used their conference to unveil a £2bn plan to cut…",
-      "archived": true
-    },
-    {
-      "id": "b0309d383d3b0041aff41137d42635fdb7bff015",
-      "slug": "latest-news-bulletin-september-20th-2026-evening-b0309d",
-      "title": "Latest news bulletin | September 20th, 2026 – Evening",
-      "excerpt": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T16:00:29.000Z",
-      "sourceUrl": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-evening",
-      "titleHi": "Latest news bulletin | September 20th, 2026 – Evening",
-      "excerptHi": "Catch up with the most important stories from around Europe and beyond this September 20th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
-      "archived": true
-    },
-    {
-      "id": "20b4e0bf4fd0cc021d31554b2b2aed624ebacbb9",
-      "slug": "victoria-starmer-models-clothes-at-london-fashion-week-show-20b4e0",
-      "title": "Victoria Starmer models clothes at London fashion week show",
-      "excerpt": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of Sisyphus Victoria Starmer has taken part in a London fashion week show, in one of her first public appearances since her husband,…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/d06e1122ec9ea211ee4fd2179b237ffe9d33a9df/1651_446_4247_3398/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=dddc4de99c636795b3eefd008d240945",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:16:01.000Z",
-      "sourceUrl": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
-      "titleHi": "Victoria Starmer models clothes at London fashion week show",
-      "excerptHi": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of Sisyphus Victoria Starmer has taken part in a London fashion week show, in one of her first public appearances since her husband,…",
-      "archived": true
     }
   ],
   "asia": [
@@ -633,14 +620,12 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/6ts3qb/article71489069.ece/alternates/LANDSCAPE_1200/iStock-962382338.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T19:20:45.000Z",
       "sourceUrl": "https://www.thehindu.com/opinion/op-ed/missing-measure-in-indias-magnet-mission/article71488862.ece",
-      "guid": "article-71488862",
       "titleHi": "भारत के चुंबक मिशन में लापता माप",
       "excerptHi": "रणनीतिक सवाल यह नहीं है कि क्या भारत के पास दुर्लभ पृथ्वी संसाधन हैं या क्या चीन से आयात कम किया जा सकता है। असली नीतिगत चुनौती यह समझना है कि बीच में क्या होता है",
       "archived": false
@@ -653,14 +638,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-20T19:04:11.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#1",
       "titleHi": "पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की बहन गिरफ्तार",
       "excerptHi": "अलीमा खानम पर देशव्यापी विरोध प्रदर्शनों से पहले अपने भाई के समर्थकों को जुटाने का आरोप है।",
       "archived": false
@@ -681,7 +664,7 @@
       "sourceUrl": "https://www.theguardian.com/sport/2026/sep/20/brendon-mccullum-harry-brook-england-t20-sri-lanka-stephen-fleming",
       "titleHi": "मैकुलम ने ब्रुक की कप्तानी की सराहना की क्योंकि इंग्लैंड टी20 विश्व रैंकिंग में शीर्ष पर है",
       "excerptHi": "ब्रुक ‘कप्तान के रूप में और एक व्यक्ति के रूप में विकसित हुए हैं’ – मैकुलम इंग्लैंड ने इस सप्ताह श्रीलंका के खिलाफ एकदिवसीय श्रृंखला शुरू की, इंग्लैंड के सफेद गेंद के कोच, ब्रेंडन मैकुलम, कप्तान, हैरी ब्रुक की प्रशंसा से भरे हुए थे, के बाद...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "52aad59b27a42b548f86e6a9ce1dd537a59ff7df",
@@ -1020,14 +1003,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Patrick Wintourin New York",
       "image": "https://i.guim.co.uk/img/media/2422e7807856ad13343c9672009287cf0c04ba5f/619_0_2581_2066/master/2581.jpg?width=140&quality=85&auto=format&fit=max&s=42f1a7f199ebc9d44766be0858d1e5fb",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:56:45.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
-      "guid": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
       "titleHi": "मध्य पूर्व और अधिक हिंसा के लिए तैयार है क्योंकि ईरान का दावा है कि अमेरिका बमबारी अभियान को नवीनीकृत करने की योजना बना रहा है",
       "excerptHi": "तनाव बढ़ता है क्योंकि ट्रम्प ने फॉक्स न्यूज को बताया कि वह मध्य पूर्व में हौथी विद्रोहियों द्वारा रियाद पर हमलों के बाद ’ईरान को मिटाने' पर विचार कर रहे हैं, ईरान द्वारा दावा किए जाने के बाद हिंसा को बढ़ाने के लिए तैयार हैं...",
       "archived": false
@@ -1043,14 +1024,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Pippa Crerar Political editor",
       "image": "https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a9012fc2ccc9861cd5baf89f1a212d04",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:45:23.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/20/andy-burnham-faces-a-weakened-trump-but-the-president-remains-unpredictable",
       "titleHi": "एंडी बर्नहम एक कमजोर ट्रम्प का सामना कर रहे हैं – लेकिन राष्ट्रपति अप्रत्याशित बने हुए हैं",
       "excerptHi": "प्रधानमंत्री राजनयिक युद्ध को भड़काए बिना अपने पूर्ववर्ती की तुलना में अमेरिकी नेता के साथ मजबूत होने की उम्मीद करते हैं, क्योंकि ईरान युद्ध ब्रिटेन की अर्थव्यवस्था पर भारी पड़ता है एंडी की सफलता का निर्धारण करने के लिए किसी भी अंतर्राष्ट्रीय संबंध में अधिक शक्ति नहीं है...",
       "archived": false
@@ -1414,6 +1393,52 @@
   ],
   "oceania": [
     {
+      "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
+      "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
+      "title": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon’s murder trial to begin",
+      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Dan Tehan, the shadow minister for energy, said Gallagher’s criticism of the Coalition’s fuel plan wasn’t fair. Tehan said the call…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Nick Visser",
+      "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T22:42:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
+      "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
+      "archived": false
+    },
+    {
+      "id": "2636459a27e6386ad1d95af30481810e330b3be1",
+      "slug": "albanese-launches-bid-for-un-security-council-seat-and-names-263645",
+      "title": "Albanese launches bid for UN security council seat and names former Murdoch aide to top diplomatic post",
+      "excerpt": "Australia and Finland are vying for a spot on the council, and the PM needs two thirds of member states to back him Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/24e3e7388851cf2ac03c9b08d5542eca8ea054fd/205_0_4399_3521/master/4399.jpg?width=140&quality=85&auto=format&fit=max&s=7bb044f36f056d94014d7d0359e771eb",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:45:37.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
+      "titleHi": "अल्बानिया ने संयुक्त राष्ट्र सुरक्षा परिषद की सीट के लिए बोली शुरू की और मर्डोक के पूर्व सहयोगी को शीर्ष राजनयिक पद के लिए नामित किया",
+      "excerptHi": "ऑस्ट्रेलिया और फ़िनलैंड परिषद में एक जगह के लिए दौड़ रहे हैं, और प्रधानमंत्री को उनका समर्थन करने के लिए दो तिहाई सदस्य देशों की आवश्यकता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "480944219ac6fc34034e26246f2d4d43aec99a07",
       "slug": "the-gunzels-grand-final-melbourne-tramaroos-campaign-derails-480944",
       "title": "The gunzels’ grand final: Melbourne Tramaroos’ campaign derails at European TramDriver Championship",
@@ -1576,45 +1601,54 @@
       "titleHi": "New Zealand cruise to victory over Scotland in WXV",
       "excerptHi": "Scotland suffer a second successive defeat in the WXV Global Series as New Zealand run out comfortable winners at Hive Stadium.",
       "archived": true
-    },
-    {
-      "id": "79cd9081294b6ed4e0305e474cda739ab64e8fee",
-      "slug": "englands-39-match-winning-streak-halted-by-thrilling-draw-wi-79cd90",
-      "title": "England's 39-match winning streak halted by thrilling draw with Canada",
-      "excerpt": "England's winning record - stretching back to a loss in the 2022 World Cup final to New Zealand - was halted by Canada, who held the hosts to a thrilling 26-26 draw in the WXV Global Series.",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/09256ab0-b44b-11f1-a430-4d16ee157c41.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-19T17:14:35.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/videos/ckj06v16j972o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "England's 39-match winning streak halted by thrilling draw with Canada",
-      "excerptHi": "England's winning record - stretching back to a loss in the 2022 World Cup final to New Zealand - was halted by Canada, who held the hosts to a thrilling 26-26 draw in the WXV Global Series.",
-      "archived": true
-    },
-    {
-      "id": "4c6a64f4ca92e04c1785fddd0e2858c7eb75c16b",
-      "slug": "hawthorn-hawks-v-brisbane-lions-afl-preliminary-final-live-4c6a64",
-      "title": "Hawthorn Hawks v Brisbane Lions: AFL preliminary final – live",
-      "excerpt": "Updates as the Hawks host the reigning premiers at the MCG Start time in Melbourne is 5.15pm AEST Sign up for our AFL newsletter | Any thoughts? Send an email Rival rucks Lloyd Meek and Sam Draper leap high in the…",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a0e02ffe472f90df81c284d34db4834d4733ec19/225_0_2269_1815/master/2269.jpg?width=140&quality=85&auto=format&fit=max&s=e5285b279fd9b10de7534d01a1f60ee0",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-19T10:07:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/sport/live/2026/sep/19/afl-hawthorn-vs-brisbane-live-preliminary-final-hawks-v-lions-score-game-today",
-      "titleHi": "हॉथॉर्न हॉक्स बनाम ब्रिस्बेन लायंस: एएफएल प्रारंभिक फाइनल – लाइव",
-      "excerptHi": "मेलबर्न में एमसीजी के शुरू होने के समय हॉक्स के मौजूदा प्रीमियर की मेज़बानी करने के बारे में अपडेट शाम 5.15बजे AEST हमारे AFL न्यूज़लेटर के लिए साइन अप करें | क्या आपके कोई विचार हैं? एक ईमेल भेजें प्रतिद्वंद्वी ने लॉयड मीक और सैम ड्रैपर को...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
+      "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
+      "title": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon’s murder trial to begin",
+      "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Dan Tehan, the shadow minister for energy, said Gallagher’s criticism of the Coalition’s fuel plan wasn’t fair. Tehan said the call…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Business"
+      ],
+      "source": "The Guardian",
+      "author": "Nick Visser",
+      "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T22:42:49.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
+      "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
+      "archived": false
+    },
+    {
+      "id": "ca042d2ba41c8967daba70840a14a375262a1aba",
+      "slug": "trump-reportedly-to-form-health-funding-board-that-could-vet-ca042d",
+      "title": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
+      "excerpt": "President’s latest order expected to bring NIH funding under control of Trump administration to align with agenda Donald Trump’s latest executive order is expected to establish a board responsible for approving National…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Coral Murphy Marcos",
+      "image": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T21:53:00.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+      "titleHi": "ट्रम्प ने कथित तौर पर स्वास्थ्य वित्त पोषण बोर्ड का गठन किया है जो ‘जागने‘ की पहल पर वीटो कर सकता है",
+      "excerptHi": "राष्ट्रपति के नवीनतम आदेश से एनआईएच फंडिंग को ट्रम्प प्रशासन के नियंत्रण में लाने की उम्मीद है ताकि एजेंडे के साथ संरेखित किया जा सके डोनाल्ड ट्रम्प के नवीनतम कार्यकारी आदेश से राष्ट्रीय…",
+      "archived": false
+    },
     {
       "id": "ffd8ea2a9aef8bff251ea0d5c81647a0a309da3e",
       "slug": "more-than-a-dozen-arrested-in-connection-with-assassination-ffd8ea",
@@ -1625,14 +1659,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Agence France-Presse",
       "image": "https://i.guim.co.uk/img/media/c07b6557450672c341c5f2c93ab73eae917227e3/232_0_2914_2333/master/2914.jpg?width=140&quality=85&auto=format&fit=max&s=c8ea92c13ca743ac8f8ee4bf4d170e73",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T20:17:44.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
-      "guid": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
       "titleHi": "हैती के राष्ट्रपति की हत्या के सिलसिले में एक दर्जन से अधिक गिरफ्तार",
       "excerptHi": "53 वर्षीय जोवेनेल मोइस की जुलाई 2021 में एक हत्या में गोली मारकर हत्या कर दी गई थी, जिससे हैती में अराजकता फैल गई थी। हैती के राष्ट्रपति जोवेनेल मोइस की 2021 की हत्या के साथ मिलकर अठारह लोगों को गिरफ्तार किया गया है, के अनुसार...",
       "archived": false
@@ -1645,14 +1677,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015a/live/88adf260-b523-11f1-b1e2-034207760e32.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-09-20T19:04:11.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo#1",
       "titleHi": "पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की बहन गिरफ्तार",
       "excerptHi": "अलीमा खानम पर देशव्यापी विरोध प्रदर्शनों से पहले अपने भाई के समर्थकों को जुटाने का आरोप है।",
       "archived": false
@@ -1667,14 +1697,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Patrick Wintourin New York",
       "image": "https://i.guim.co.uk/img/media/2422e7807856ad13343c9672009287cf0c04ba5f/619_0_2581_2066/master/2581.jpg?width=140&quality=85&auto=format&fit=max&s=42f1a7f199ebc9d44766be0858d1e5fb",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T18:56:45.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
-      "guid": "https://www.theguardian.com/world/2026/sep/20/middle-east-braces-for-more-violence-as-iran-claims-us-is-planning-to-renew-bombing-campaign",
       "titleHi": "मध्य पूर्व और अधिक हिंसा के लिए तैयार है क्योंकि ईरान का दावा है कि अमेरिका बमबारी अभियान को नवीनीकृत करने की योजना बना रहा है",
       "excerptHi": "तनाव बढ़ता है क्योंकि ट्रम्प ने फॉक्स न्यूज को बताया कि वह मध्य पूर्व में हौथी विद्रोहियों द्वारा रियाद पर हमलों के बाद ’ईरान को मिटाने' पर विचार कर रहे हैं, ईरान द्वारा दावा किए जाने के बाद हिंसा को बढ़ाने के लिए तैयार हैं...",
       "archived": false
@@ -1695,7 +1723,7 @@
       "sourceUrl": "https://www.theguardian.com/world/2026/sep/20/greek-police-investigate-death-man-beach-brawl",
       "titleHi": "ग्रीक पुलिस ने 82 वर्षीय व्यक्ति की मौत की जांच की जब समुद्र तट पर सनलॉन्जर को लेकर झगड़ा हुआ",
       "excerptHi": "एथेनियन रिवेरा पर रिसॉर्ट में पंक्ति उस समय हिंसा में बढ़ गई जब दो बुजुर्ग स्नान करने वालों ने कथित तौर पर लाउंजर्स की कमी पर बहस की ग्रीक पुलिस एक 82 वर्षीय व्यक्ति की मौत की जांच कर रही है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "92c39b911de9bbd264949115d57af2d15f4f9882",
@@ -1715,7 +1743,7 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
       "titleHi": "हाउस रिपब्लिकन ने ट्रम्प के आव्रजन प्रवर्तन पर प्रतिबंध लगा दिया",
       "excerptHi": "फ्लोरिडा की मारिया एल्विरा सालाजार ने ट्रम्प को चेतावनी दी है कि सलाहकार ‘उनकी विरासत से समझौता कर रहे हैं’ और रिपब्लिकन कांग्रेस की महिला मारिया एल्विरा सालाजार को ’पूरी तस्वीर’ नहीं दिखा रहे हैं, जिन्होंने राष्ट्रपति पर बहुत दूर जाने का आरोप लगाया है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "8ba8dbcd3ce388c023ec08b2911c37f0db087efb",
@@ -1774,45 +1802,6 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
       "titleHi": "भालू - वाई अच्छे पड़ोसी: मनुष्य और जानवर एक विस्तारित लॉस एंजिल्स में एक साथ रहना सीख रहे हैं",
       "excerptHi": "लोग जंगली जानवरों के साथ तेजी से रास्तों को पार कर रहे हैं क्योंकि घर जंगलों के बाहरी इलाके में रिंग करते हैं, हर साल सह - अस्तित्व के एक नए युग को जन्म देते हैं, जैसे - जैसे गर्मियां करीब आती हैं और गिरावट शुरू होती है, कैलिफ़ोर्निया के भालू मिलते हैं...",
-      "archived": true
-    },
-    {
-      "id": "9b7cadaecbe9e1f1ffcb1ac0cca34fd7ef6892f4",
-      "slug": "trump-says-his-planned-triumphal-arch-will-double-as-a-milit-9b7cad",
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
-      "excerpt": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-09-20T13:50:51.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
-      "excerptHi": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "archived": true
-    },
-    {
-      "id": "ee446cb11e8f9ab49a04b0f144f618842cfda940",
-      "slug": "trump-claims-triumphal-arch-will-serve-as-a-top-grade-milita-ee446c",
-      "title": "Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons",
-      "excerpt": "US president on Truth Social claims his new plan for the 250ft arch comes at the ‘strong request’ of the US military Donald Trump is proferring a new argument for building his triumphal arch in Washington DC: it will be…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/master/2575.jpg?width=140&quality=85&auto=format&fit=max&s=89b3a5002b60405f1b72982f9c92f7e9",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T13:26:23.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/trump-triumphal-arch-military-complex",
-      "titleHi": "Trump claims triumphal arch will serve as a ‘top grade military complex’ to store weapons",
-      "excerptHi": "US president on Truth Social claims his new plan for the 250ft arch comes at the ‘strong request’ of the US military Donald Trump is proferring a new argument for building his triumphal arch in Washington DC: it will be…",
       "archived": true
     }
   ]
