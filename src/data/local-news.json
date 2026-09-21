@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-20T22:59:56.107Z",
+  "generatedAt": "2026-09-21T01:01:30.233Z",
   "india": [
+    {
+      "id": "0794238b36b40d25a3f55da070b2b01564ecc3c8",
+      "slug": "getting-away-from-gunshots-079423",
+      "title": "Getting away from gunshots",
+      "excerpt": "For many young Israelis, Dharamkot in Himachal Pradesh offers an escape from the pressures of military service and conflict, drawing them to India’s Hummus Trail, in search of peace and healing. Though there has been a…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/6cbkjo/article71484106.ece/alternates/LANDSCAPE_1200/08_RVM_3000.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-21T00:30:58.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/himachal-pradesh/getting-away-from-gunshots/article71484095.ece",
+      "guid": "article-71484095",
+      "titleHi": "गोलियों से दूर रहना",
+      "excerptHi": "कई युवा इजरायलियों के लिए, हिमाचल प्रदेश में धर्मकोट सैन्य सेवा और संघर्ष के दबावों से बचने की पेशकश करता है, उन्हें शांति और उपचार की तलाश में भारत के हमस ट्रेल की ओर खींचता है। हालांकि वहाँ एक...",
+      "archived": false
+    },
     {
       "id": "a583ed0e3ecaa59ec05b1615ba2d2fddc88d33a3",
       "slug": "stop-vizag-data-centers-instagram-account-blocked-in-india-a583ed",
@@ -55,7 +77,7 @@
       "sourceUrl": "https://www.thehindu.com/opinion/lead/indias-ngos-at-a-new-funding-crossroads/article71488462.ece",
       "titleHi": "भारत के गैर सरकारी संगठन एक नए वित्त पोषण चौराहे पर",
       "excerptHi": "भारत के गैर - सरकारी संगठनों को विदेशी और घरेलू वित्त पोषण स्रोतों को स्थानांतरित करने के लिए नेविगेट करना चाहिए",
-      "archived": false
+      "archived": true
     },
     {
       "id": "0f96e747d737638e41177b9f01fc4ba6afd1433b",
@@ -76,7 +98,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/state-level-conclave-to-discuss-strategy-to-address-human-wildlife-conflict-minister/article71487423.ece",
       "titleHi": "मानव - वन्यजीव संघर्ष से निपटने की रणनीति पर चर्चा करने के लिए राज्य स्तरीय सम्मेलन: मंत्री",
       "excerptHi": "पशु चिकित्सा विश्वविद्यालय, केरल कृषि विश्वविद्यालय, भारतीय कृषि अनुसंधान परिषद, भारतीय वन्यजीव संस्थान और केरल वन अनुसंधान संस्थान के विशेषज्ञ, किसानों के अलावा,...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "25f513f9cf37a2b542b8220f6c5b6280a27965b5",
@@ -179,27 +201,29 @@
       "titleHi": "Andhra Pradesh Congress party decides to contest all seats in local body elections",
       "excerptHi": "The party’s PAC also decides to constitute a three-member committee to finalise possible alliances with the INDIA bloc, like-minded parties and organisations opposed to the BJP and NDA",
       "archived": true
-    },
-    {
-      "id": "604a653548c2227abbb2410572f6b7a992b5985b",
-      "slug": "fsda-cancels-16-pharmacy-licences-suspends-8-including-pfize-604a65",
-      "title": "FSDA cancels 16 pharmacy licences, suspends 8, including Pfizer depot",
-      "excerpt": "The action follows the department’s investigation into a large-scale unlicenced drug repacking and relabelling racket uncovered at a farmhouse in Bengaluru South district’s Bidadi on August 18.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/958bpc/article71488630.ece/alternates/LANDSCAPE_1200/_JAI1908.JPG",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:14:46.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/fda-cancels-16-pharmacy-licences-suspends-8-including-pfizer-depot/article71488486.ece",
-      "titleHi": "FSDA cancels 16 pharmacy licences, suspends 8, including Pfizer depot",
-      "excerptHi": "The action follows the department’s investigation into a large-scale unlicenced drug repacking and relabelling racket uncovered at a farmhouse in Bengaluru South district’s Bidadi on August 18.",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "e72adb33c01aa14262c036a1b526ca68590e42c4",
+      "slug": "ice-agent-shoots-and-wounds-man-at-traffic-stop-in-austin-te-e72adb",
+      "title": "ICE agent shoots and wounds man at traffic stop in Austin, Texas, officials say",
+      "excerpt": "Anti-ICE protests break out in push for transparency as unnamed man is in serious but stable condition at hospital A US Immigration and Customs Enforcement (ICE) officer shot and wounded a man on Sunday afternoon in…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fba8e7a11fea398e6b62df4efedfaec5e1490daf/844_2_5091_4075/master/5091.jpg?width=140&quality=85&auto=format&fit=max&s=b4ae922332b1a5c32928ad92ab51bc61",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T23:37:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+      "titleHi": "अधिकारियों का कहना है कि आइस एजेंट ने ऑस्टिन, टेक्सास में ट्रैफ़िक स्टॉप पर एक व्यक्ति को गोली मारकर घायल कर दिया",
+      "excerptHi": "आईसीई - विरोधी विरोध प्रदर्शन पारदर्शिता के लिए धक्का देते हैं क्योंकि अज्ञात व्यक्ति अस्पताल में गंभीर लेकिन स्थिर स्थिति में है एक अमेरिकी आव्रजन और सीमा शुल्क प्रवर्तन (आईसीई) अधिकारी ने रविवार दोपहर को एक व्यक्ति को गोली मारकर घायल कर दिया...",
+      "archived": false
+    },
     {
       "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
       "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
@@ -211,14 +235,12 @@
         "Business"
       ],
       "source": "The Guardian",
-      "author": "Nick Visser",
       "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T22:42:49.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
       "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
       "archived": false
@@ -231,14 +253,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Alan Finkel",
       "image": "https://i.guim.co.uk/img/media/b95961888853edd0e0b05c5fb70cd7d1564b943e/389_0_3932_3145/master/3932.jpg?width=140&quality=85&auto=format&fit=max&s=d178b9ed4f69954a6dcb04e2abd22449",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T22:00:26.000Z",
       "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
-      "guid": "https://www.theguardian.com/commentisfree/2026/sep/21/can-trump-and-xi-cooperate-to-guide-humanity-through-the-ai-revolution-humanity-might-depend-on-it",
       "titleHi": "क्या ट्रम्प और शी AI क्रांति के माध्यम से मानवता का मार्गदर्शन करने के लिए सहयोग कर सकते हैं? मानवता इस पर निर्भर हो सकती है | एलन फिंकल",
       "excerptHi": "तकनीकी फर्मों के सीईओ परिवर्तन की दर पर कड़ी चेतावनी जारी करते हैं, एआई क्षमता हर चार महीने में दोगुनी हो जाती है हाल ही में, एंथ्रोपिक के एक शोधकर्ता जैकब कॉक्सन ने एआई के टकराव की चिंताओं के कारण अपनी नौकरी छोड़ दी...",
       "archived": false
@@ -253,14 +273,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Coral Murphy Marcos",
       "image": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:53:00.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
       "titleHi": "ट्रम्प ने कथित तौर पर स्वास्थ्य वित्त पोषण बोर्ड का गठन किया है जो ‘जागने‘ की पहल पर वीटो कर सकता है",
       "excerptHi": "राष्ट्रपति के नवीनतम आदेश से एनआईएच फंडिंग को ट्रम्प प्रशासन के नियंत्रण में लाने की उम्मीद है ताकि एजेंडे के साथ संरेखित किया जा सके डोनाल्ड ट्रम्प के नवीनतम कार्यकारी आदेश से राष्ट्रीय…",
       "archived": false
@@ -273,14 +291,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/452227c0-b530-11f1-a430-4d16ee157c41.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T20:41:21.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/golf/articles/cwvgyze7603jo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/golf/articles/cwvgyze7603jo#2",
       "titleHi": "वेंटवर्थ में स्पैन की जीत के साथ ही एल्विरा ने तंत्रिका खो दी",
       "excerptHi": "वेंटवर्थ में बीएमडब्ल्यू पीजीए चैंपियनशिप जीतने वाले केवल तीसरे अमेरिकी खिलाड़ी के रूप में मनाए गए जेजे स्पॉन के रूप में मनाए जाने पर मैनुअल एल्विरा ने आंसू बहाए।",
       "archived": false
@@ -379,26 +395,6 @@
       "titleHi": "स्पॉन ने 67 के अंतिम दौर के बाद पीजीए चैंपियनशिप जीती",
       "excerptHi": "जेजे स्पॉन ने पीजीए चैंपियनशिप जीतने के लिए 67 के अंतिम दौर में प्रवेश किया और ऐसा करने वाले तीन वर्षों में दूसरे अमेरिकी बन गए।",
       "archived": true
-    },
-    {
-      "id": "92c39b911de9bbd264949115d57af2d15f4f9882",
-      "slug": "house-republican-doubles-down-on-jab-at-trumps-immigration-e-92c39b",
-      "title": "House Republican doubles down on jab at Trump’s immigration enforcement",
-      "excerpt": "Florida’s María Elvira Salazar warns Trump that advisers are ‘compromising his legacy’ and not showing ‘whole picture’ María Elvira Salazar, the Republican congresswoman who has accused the president of going too far on…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/c6c1ad0d45c1dd7e0d6be690938bf7a113a5d4b2/595_0_4623_3701/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=e26bc8414779f37a2319d2ca830eecf2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T17:04:19.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
-      "titleHi": "हाउस रिपब्लिकन ने ट्रम्प के आव्रजन प्रवर्तन पर प्रतिबंध लगा दिया",
-      "excerptHi": "फ्लोरिडा की मारिया एल्विरा सालाजार ने ट्रम्प को चेतावनी दी है कि सलाहकार ‘उनकी विरासत से समझौता कर रहे हैं’ और रिपब्लिकन कांग्रेस की महिला मारिया एल्विरा सालाजार को ’पूरी तस्वीर’ नहीं दिखा रहे हैं, जिन्होंने राष्ट्रपति पर बहुत दूर जाने का आरोप लगाया है...",
-      "archived": true
     }
   ],
   "europe": [
@@ -413,14 +409,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Australian Associated Press",
       "image": "https://i.guim.co.uk/img/media/24e3e7388851cf2ac03c9b08d5542eca8ea054fd/205_0_4399_3521/master/4399.jpg?width=140&quality=85&auto=format&fit=max&s=7bb044f36f056d94014d7d0359e771eb",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:45:37.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
       "titleHi": "अल्बानिया ने संयुक्त राष्ट्र सुरक्षा परिषद की सीट के लिए बोली शुरू की और मर्डोक के पूर्व सहयोगी को शीर्ष राजनयिक पद के लिए नामित किया",
       "excerptHi": "ऑस्ट्रेलिया और फ़िनलैंड परिषद में एक जगह के लिए दौड़ रहे हैं, और प्रधानमंत्री को उनका समर्थन करने के लिए दो तिहाई सदस्य देशों की आवश्यकता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
       "archived": false
@@ -435,14 +429,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Ben Quinn Political correspondent",
       "image": "https://i.guim.co.uk/img/media/6c463c6aa6acdd0ed4770333f103da83ac48276b/220_0_2471_1977/master/2471.jpg?width=140&quality=85&auto=format&fit=max&s=eeb0715b20854c648c234a109309b27e",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:30:26.000Z",
       "sourceUrl": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
-      "guid": "https://www.theguardian.com/society/2026/sep/20/specialist-courtrooms-to-prioritise-cases-in-england-and-wales",
       "titleHi": "इंग्लैंड और वेल्स में बलात्कार के मामलों को प्राथमिकता देने के लिए विशेषज्ञ अदालतें",
       "excerptHi": "अधिक बचे लोगों को आगे आने के लिए प्रोत्साहित करने के लिए डिज़ाइन किए गए परीक्षणों के लिए सुविधाओं और निश्चित तिथियों के लिए धन को बढ़ावा देना बलात्कार और अन्य गंभीर यौन अपराधों के मामलों को प्राथमिकता देने वाले विशेषज्ञ न्यायालयों को पेश किया जाना है...",
       "archived": false
@@ -455,14 +447,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:17:22.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o#0",
       "titleHi": "ग्रीस में सूर्योदय पर 76 वर्षीय व्यक्ति के साथ समुद्र तट पर लड़ाई के बाद 82 वर्षीय व्यक्ति की मौत हो गई",
       "excerptHi": "एक प्रत्यक्षदर्शी ने कहा कि दृश्य इतना अराजक था कि समुद्र तट के दूसरे छोर से चिल्लाने की आवाज सुनी जा सकती थी।",
       "archived": false
@@ -545,7 +535,7 @@
       "sourceUrl": "https://www.theguardian.com/politics/2026/sep/20/young-tory-defectors-lib-dems-conference",
       "titleHi": "बैडेनोक द्वारा ‘जबरन बाहर’ महसूस कर रहे हैं? लिब डेम्स सम्मेलन युवा टोरी दलबदलुओं का स्वागत करता है",
       "excerptHi": "स्व - वर्णित उदारवादियों का कहना है कि एड डेवी की पार्टी उन्हें एक घर प्रदान करती है क्योंकि कंजर्वेटिव्स ब्राइटन सेंटर की पार्टी - ब्रांडेड सीढ़ियों पर अपने कंधे पर एक लिबरल ब्रिटेन टोटे बैग के साथ आगे बढ़ रहे हैं, कोडी...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c346ef593f3e01c17d8cbc6b4942418e58e2b61e",
@@ -1393,6 +1383,50 @@
   ],
   "oceania": [
     {
+      "id": "e09ded4920107de6c72a35b35c45f1f5975eb30a",
+      "slug": "more-than-800000-bees-stolen-across-far-north-queensland-in-e09ded",
+      "title": "More than 800,000 bees stolen across far north Queensland in ‘sophisticated’ operation",
+      "excerpt": "Apiarists will lose not just the insects but the value of pollination contracts, which can be worth thousands of dollars Follow our Australia news live blog for latest updates Get our breaking news email, free app or…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Andrew Messenger",
+      "image": "https://i.guim.co.uk/img/media/a26c7a2d68a9bf7fd503349fef586b239758bf7f/191_0_2206_1765/master/2206.jpg?width=140&quality=85&auto=format&fit=max&s=ff7aa7bf594ff34757bf9cb9b88d0391",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-21T00:00:29.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
+      "titleHi": "‘परिष्कृत‘ ऑपरेशन में सुदूर उत्तरी क्वींसलैंड में 800,000 से अधिक मधुमक्खियों की चोरी हुई",
+      "excerptHi": "Apiarists न केवल कीड़े बल्कि परागण अनुबंधों का मूल्य खो देंगे, जो हजारों डॉलर के लायक हो सकते हैं नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या …",
+      "archived": false
+    },
+    {
+      "id": "f6c3c78f7aec264b33c3e14c5ae1374dfbf22991",
+      "slug": "police-allege-mother-behind-blue-mountains-stabbing-attack-o-f6c3c7",
+      "title": "Police allege mother behind Blue Mountains stabbing attack on three children that left one dead",
+      "excerpt": "Bystanders found all four on the side of the road at Valley Heights on Sunday with stabbing injuries Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Ima Caldwell and AAP",
+      "image": "https://i.guim.co.uk/img/media/5d5c55abc04c8baa1a4df361336ba73b12310025/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4070d0e07e08ee007831940eb2763512",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T23:43:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
+      "titleHi": "पुलिस का आरोप है कि ब्लू माउंटेन के पीछे मां ने तीन बच्चों पर चाकू से हमला किया, जिसमें एक की मौत हो गई",
+      "excerptHi": "रविवार को वैली हाइट्स पर सड़क के किनारे खड़े दर्शकों को चाकू मारने की चोटों के साथ चारों लोग मिले। नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें...",
+      "archived": false
+    },
+    {
       "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
       "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
       "title": "Australia news live: Albanese to put AI concerns to Trump; former police officer Beau Lamarre-Condon’s murder trial to begin",
@@ -1403,14 +1437,12 @@
         "Business"
       ],
       "source": "The Guardian",
-      "author": "Nick Visser",
       "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T22:42:49.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
       "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
       "archived": false
@@ -1426,14 +1458,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Australian Associated Press",
       "image": "https://i.guim.co.uk/img/media/24e3e7388851cf2ac03c9b08d5542eca8ea054fd/205_0_4399_3521/master/4399.jpg?width=140&quality=85&auto=format&fit=max&s=7bb044f36f056d94014d7d0359e771eb",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:45:37.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/anthony-albanese-un-security-council-bid-siobhan-mckenna-news-corp-consul-general-ntwnfb",
       "titleHi": "अल्बानिया ने संयुक्त राष्ट्र सुरक्षा परिषद की सीट के लिए बोली शुरू की और मर्डोक के पूर्व सहयोगी को शीर्ष राजनयिक पद के लिए नामित किया",
       "excerptHi": "ऑस्ट्रेलिया और फ़िनलैंड परिषद में एक जगह के लिए दौड़ रहे हैं, और प्रधानमंत्री को उनका समर्थन करने के लिए दो तिहाई सदस्य देशों की आवश्यकता है नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक प्राप्त करें...",
       "archived": false
@@ -1560,50 +1590,73 @@
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: टेलर ने ‘इतिहास में सबसे बड़ी आव्रजन कटौती में से एक‘ का संकल्प लिया; प्रधानमंत्री ने कहा कि यूरोपीय संघ की सदस्यता के बजाय मुक्त व्यापार पर ध्यान केंद्रित किया जा रहा है",
       "excerptHi": "लाइव अपडेट का पालन करें हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें प्रधान मंत्री से पूछा गया है कि क्या ऑस्ट्रेलिया की यूरोपीय संघ में शामिल होने की कोई योजना है, कनाडा के प्रधान मंत्री मार्क कार्नी के स्वागत के बाद...",
       "archived": true
-    },
-    {
-      "id": "b4aeda5676d19fb35edbf4c96bd71bf783df74f5",
-      "slug": "as-tobacconist-firebombings-intensify-in-melbourne-nearby-st-b4aeda",
-      "title": "As tobacconist firebombings intensify in Melbourne, nearby stores are being denied insurance",
-      "excerpt": "Arson attacks related to illegal tobacco trade are also causing revenue and reputation problems for neighbouring businesses Get our breaking news email, free app or daily news podcast Small businesses located near…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Business"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a289589fb3b26a9d70097606a90a2d0f0466ebad/0_0_6006_4805/master/6006.jpg?width=140&quality=85&auto=format&fit=max&s=f60f38d6486fcac12c4e1327d75f499f",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-19T20:00:57.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/20/tobacco-shops-attacks-melbourne-ntwnfb",
-      "titleHi": "जैसे - जैसे मेलबर्न में तंबाकू की लपटें तेज़ होती जा रही हैं, आस - पास के स्टोर को बीमा से वंचित किया जा रहा है",
-      "excerptHi": "अवैध तंबाकू व्यापार से संबंधित आगजनी के हमले पड़ोसी व्यवसायों के लिए राजस्व और प्रतिष्ठा की समस्याएं भी पैदा कर रहे हैं हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें निकट स्थित छोटे व्यवसाय...",
-      "archived": true
-    },
-    {
-      "id": "2a687c56c3ed523d84dbdde11d5bcb81b4b8d170",
-      "slug": "new-zealand-cruise-to-victory-over-scotland-in-wxv-2a687c",
-      "title": "New Zealand cruise to victory over Scotland in WXV",
-      "excerpt": "Scotland suffer a second successive defeat in the WXV Global Series as New Zealand run out comfortable winners at Hive Stadium.",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/584a/live/b3ac92c0-b454-11f1-ba76-4da528bd99e6.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-19T18:08:40.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmjrx95lvxgpo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "New Zealand cruise to victory over Scotland in WXV",
-      "excerptHi": "Scotland suffer a second successive defeat in the WXV Global Series as New Zealand run out comfortable winners at Hive Stadium.",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "e09ded4920107de6c72a35b35c45f1f5975eb30a",
+      "slug": "more-than-800000-bees-stolen-across-far-north-queensland-in-e09ded",
+      "title": "More than 800,000 bees stolen across far north Queensland in ‘sophisticated’ operation",
+      "excerpt": "Apiarists will lose not just the insects but the value of pollination contracts, which can be worth thousands of dollars Follow our Australia news live blog for latest updates Get our breaking news email, free app or…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Andrew Messenger",
+      "image": "https://i.guim.co.uk/img/media/a26c7a2d68a9bf7fd503349fef586b239758bf7f/191_0_2206_1765/master/2206.jpg?width=140&quality=85&auto=format&fit=max&s=ff7aa7bf594ff34757bf9cb9b88d0391",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-21T00:00:29.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation",
+      "titleHi": "‘परिष्कृत‘ ऑपरेशन में सुदूर उत्तरी क्वींसलैंड में 800,000 से अधिक मधुमक्खियों की चोरी हुई",
+      "excerptHi": "Apiarists न केवल कीड़े बल्कि परागण अनुबंधों का मूल्य खो देंगे, जो हजारों डॉलर के लायक हो सकते हैं नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या …",
+      "archived": false
+    },
+    {
+      "id": "f6c3c78f7aec264b33c3e14c5ae1374dfbf22991",
+      "slug": "police-allege-mother-behind-blue-mountains-stabbing-attack-o-f6c3c7",
+      "title": "Police allege mother behind Blue Mountains stabbing attack on three children that left one dead",
+      "excerpt": "Bystanders found all four on the side of the road at Valley Heights on Sunday with stabbing injuries Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Ima Caldwell and AAP",
+      "image": "https://i.guim.co.uk/img/media/5d5c55abc04c8baa1a4df361336ba73b12310025/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4070d0e07e08ee007831940eb2763512",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T23:43:41.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
+      "guid": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
+      "titleHi": "पुलिस का आरोप है कि ब्लू माउंटेन के पीछे मां ने तीन बच्चों पर चाकू से हमला किया, जिसमें एक की मौत हो गई",
+      "excerptHi": "रविवार को वैली हाइट्स पर सड़क के किनारे खड़े दर्शकों को चाकू मारने की चोटों के साथ चारों लोग मिले। नवीनतम अपडेट के लिए हमारे ऑस्ट्रेलिया समाचार लाइव ब्लॉग का पालन करें हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें...",
+      "archived": false
+    },
+    {
+      "id": "e72adb33c01aa14262c036a1b526ca68590e42c4",
+      "slug": "ice-agent-shoots-and-wounds-man-at-traffic-stop-in-austin-te-e72adb",
+      "title": "ICE agent shoots and wounds man at traffic stop in Austin, Texas, officials say",
+      "excerpt": "Anti-ICE protests break out in push for transparency as unnamed man is in serious but stable condition at hospital A US Immigration and Customs Enforcement (ICE) officer shot and wounded a man on Sunday afternoon in…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Associated Press",
+      "image": "https://i.guim.co.uk/img/media/fba8e7a11fea398e6b62df4efedfaec5e1490daf/844_2_5091_4075/master/5091.jpg?width=140&quality=85&auto=format&fit=max&s=b4ae922332b1a5c32928ad92ab51bc61",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-09-20T23:37:13.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+      "guid": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+      "titleHi": "अधिकारियों का कहना है कि आइस एजेंट ने ऑस्टिन, टेक्सास में ट्रैफ़िक स्टॉप पर एक व्यक्ति को गोली मारकर घायल कर दिया",
+      "excerptHi": "आईसीई - विरोधी विरोध प्रदर्शन पारदर्शिता के लिए धक्का देते हैं क्योंकि अज्ञात व्यक्ति अस्पताल में गंभीर लेकिन स्थिर स्थिति में है एक अमेरिकी आव्रजन और सीमा शुल्क प्रवर्तन (आईसीई) अधिकारी ने रविवार दोपहर को एक व्यक्ति को गोली मारकर घायल कर दिया...",
+      "archived": false
+    },
     {
       "id": "9a64e86ed79ffc97a4dc8067e526e91799137c20",
       "slug": "australia-news-live-albanese-to-put-ai-concerns-to-trump-for-9a64e8",
@@ -1615,14 +1668,12 @@
         "Business"
       ],
       "source": "The Guardian",
-      "author": "Nick Visser",
       "image": "https://i.guim.co.uk/img/media/98c3f02cefa57c2b4bb8ac0d8048f04867bae7ca/1311_690_5385_4308/master/5385.jpg?width=140&quality=85&auto=format&fit=max&s=2b935a6bda20ed2b09557a7b400597cf",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T22:42:49.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
       "titleHi": "ऑस्ट्रेलिया समाचार LIVE: अल्बानियाई लोग ट्रंप को देंगे AI की चिंता; पूर्व पुलिस अधिकारी ब्यू लैमर - कॉन्डन की हत्या का मुकदमा शुरू",
       "excerptHi": "दिन की खबरों का पालन करें लाइव हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें ऊर्जा मंत्री दान तेहान ने कहा कि गठबंधन की ईंधन योजना के बारे में गैलाघर की आलोचना उचित नहीं थी। तेहान ने कहा कि कॉल...",
       "archived": false
@@ -1637,14 +1688,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Coral Murphy Marcos",
       "image": "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-09-20T21:53:00.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
-      "guid": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
       "titleHi": "ट्रम्प ने कथित तौर पर स्वास्थ्य वित्त पोषण बोर्ड का गठन किया है जो ‘जागने‘ की पहल पर वीटो कर सकता है",
       "excerptHi": "राष्ट्रपति के नवीनतम आदेश से एनआईएच फंडिंग को ट्रम्प प्रशासन के नियंत्रण में लाने की उम्मीद है ताकि एजेंडे के साथ संरेखित किया जा सके डोनाल्ड ट्रम्प के नवीनतम कार्यकारी आदेश से राष्ट्रीय…",
       "archived": false
@@ -1743,65 +1792,6 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/maria-elvira-salazar-republican-trump-immigration",
       "titleHi": "हाउस रिपब्लिकन ने ट्रम्प के आव्रजन प्रवर्तन पर प्रतिबंध लगा दिया",
       "excerptHi": "फ्लोरिडा की मारिया एल्विरा सालाजार ने ट्रम्प को चेतावनी दी है कि सलाहकार ‘उनकी विरासत से समझौता कर रहे हैं’ और रिपब्लिकन कांग्रेस की महिला मारिया एल्विरा सालाजार को ’पूरी तस्वीर’ नहीं दिखा रहे हैं, जिन्होंने राष्ट्रपति पर बहुत दूर जाने का आरोप लगाया है...",
-      "archived": true
-    },
-    {
-      "id": "8ba8dbcd3ce388c023ec08b2911c37f0db087efb",
-      "slug": "one-nation-linked-company-built-56000-shed-on-private-proper-8ba8db",
-      "title": "One Nation-linked company built $56,000 shed on private property of Pauline Hanson’s right-hand man",
-      "excerpt": "Exclusive: James Ashby also drives new Ford Ranger given to party and is main pilot of plane donated by Gina Rinehart, which he says are not for personal use Get our new political email, free app or daily news podcast…",
-      "category": "World",
-      "secondaryCategories": [
-        "Technology",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/c29aa0c171de4e32c033ab447f07ef9b68b43870/14_0_1385_1108/master/1385.jpg?width=140&quality=85&auto=format&fit=max&s=b5477de711a81122ebfbe3bb94dd9c89",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:00:20.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/sep/21/the-populist-one-nation-james-ashby-shed-pauline-hanson-gina-rinehart-ntwnfb",
-      "titleHi": "One Nation-linked company built $56,000 shed on private property of Pauline Hanson’s right-hand man",
-      "excerptHi": "Exclusive: James Ashby also drives new Ford Ranger given to party and is main pilot of plane donated by Gina Rinehart, which he says are not for personal use Get our new political email, free app or daily news podcast…",
-      "archived": true
-    },
-    {
-      "id": "d1bd9487853dc18c52f341ba424d6779a581a38d",
-      "slug": "adults-with-severe-mental-illness-die-15-to-20-years-earlier-d1bd94",
-      "title": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
-      "excerpt": "Exclusive: Stark health inequalities in terms of deaths before age of 75, NHS data reveals Adults with severe mental illness are nearly five times more likely than their peers to die from serious physical diseases…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/2f0972bd12e050c8f88b80f35216f75c55d2eb42/623_0_3737_2989/master/3737.jpg?width=140&quality=85&auto=format&fit=max&s=c360cae7a81d0d64b282af24932c31a2",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T15:00:19.000Z",
-      "sourceUrl": "https://www.theguardian.com/society/2026/sep/20/adults-severe-mental-illness-more-likely-die-earlier-diseases-cancer-nhs-data",
-      "titleHi": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
-      "excerptHi": "Exclusive: Stark health inequalities in terms of deaths before age of 75, NHS data reveals Adults with severe mental illness are nearly five times more likely than their peers to die from serious physical diseases…",
-      "archived": true
-    },
-    {
-      "id": "5c9332ca338659717078cf4629f53b64fe7a0d01",
-      "slug": "bear-y-good-neighbors-humans-and-animals-are-learning-to-liv-5c9332",
-      "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
-      "excerpt": "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence Every year, as summer draws to a close and fall begins, California’s bears get…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/17bcb82ac8452599951cef98f1343ee5763f7c44/49_0_725_580/master/725.jpg?width=140&quality=85&auto=format&fit=max&s=eb9fc4457ba896542755a46d184e1fb7",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-09-20T14:00:17.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
-      "titleHi": "भालू - वाई अच्छे पड़ोसी: मनुष्य और जानवर एक विस्तारित लॉस एंजिल्स में एक साथ रहना सीख रहे हैं",
-      "excerptHi": "लोग जंगली जानवरों के साथ तेजी से रास्तों को पार कर रहे हैं क्योंकि घर जंगलों के बाहरी इलाके में रिंग करते हैं, हर साल सह - अस्तित्व के एक नए युग को जन्म देते हैं, जैसे - जैसे गर्मियां करीब आती हैं और गिरावट शुरू होती है, कैलिफ़ोर्निया के भालू मिलते हैं...",
       "archived": true
     }
   ]
