@@ -23,11 +23,13 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    # A successful run takes ~10-25 min. Without a cap, a stalled upstream
-    # request used to hold the job open until GitHub's 6h ceiling cancelled it,
-    # which both lost that run's commit and ate the slots after it. Fail fast
-    # instead so the next scheduled run gets a clean attempt.
-    timeout-minutes: 25
+    # Without a cap, a stalled upstream request used to hold the job open until
+    # GitHub's 6h ceiling cancelled it, which both lost that run's commit and ate
+    # the slots after it. But 25 min turned out to be too tight: healthy runs take
+    # 10-23 min, so five runs in one 40-run window were cut off mid-fetch at
+    # exactly 25:00 and committed nothing. 40 min still fails fast versus 6h while
+    # leaving real runs room to finish.
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
@@ -50,6 +52,14 @@ jobs:
         run: npm run fetch-news
 
       - name: Fetch latest YouTube uploads
+        # The YouTube archive must NEVER be able to block the news commit. These
+        # are unrelated concerns that were wired in series: YouTube blocks
+        # GitHub's datacenter IPs (consent/captcha pages), fetch-youtube.mjs exits
+        # 1, the job failed, and the "Commit updated data if changed" step below
+        # was skipped — discarding news that the previous step had already
+        # fetched and written to disk. Three runs in one 40-run window lost fresh
+        # news that way. On failure the previous youtube.json simply stays put.
+        continue-on-error: true
         env:
           # Public channel Atom feed — no API key. Override the channel id here if needed.
           YT_CHANNEL_ID: ${{ secrets.YT_CHANNEL_ID }}
