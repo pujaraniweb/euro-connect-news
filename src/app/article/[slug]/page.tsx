@@ -21,7 +21,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const a = findArticle(slug);
+  const a = await findArticle(slug);
   if (!a) return { title: "Article not found" };
   const locale = await getLocale();
   const { title, excerpt } = localize(a, locale);
@@ -43,7 +43,7 @@ export default async function ArticlePage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const article = findArticle(slug);
+  const article = await findArticle(slug);
   if (!article) notFound();
 
   const t = await getTranslations("article");

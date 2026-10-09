@@ -68,7 +68,7 @@ export default async function CategoryPage({
       : KNOWN[slug]
         ? tcat(KNOWN[slug])
         : titleCase(slug);
-  const list = getCategoryArticles(slug);
+  const list = await getCategoryArticles(slug);
   const subcats = SUBCATS[slug] ?? [];
 
   return (

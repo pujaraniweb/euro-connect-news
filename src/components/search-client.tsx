@@ -4,8 +4,7 @@ import { useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Search } from "lucide-react";
 import { useTranslations } from "next-intl";
-import { getSearchCorpus } from "@/lib/archive";
-import type { Category } from "@/lib/types";
+import type { Article, Category } from "@/lib/types";
 import { ArticleCard } from "@/components/article-card";
 import { cn } from "@/lib/utils";
 
@@ -25,10 +24,11 @@ const CATEGORIES: (Category | "All")[] = [
 
 const TRENDING = ["Europe", "AI", "Bitcoin", "Election", "Climate"];
 
-// Current + archived news, so search covers everything ever collected.
-const CORPUS = getSearchCorpus();
-
-export function SearchClient() {
+// Current + archived news, so search covers everything ever collected. The
+// corpus is supplied by the server page: it used to be built here at module
+// scope, which compiled the whole archive into this client chunk (and its ssr
+// counterpart) and was half of what broke the Worker's startup budget.
+export function SearchClient({ corpus }: { corpus: Article[] }) {
   const t = useTranslations("search");
   const tc = useTranslations("common");
   const tcat = useTranslations("categories");
@@ -39,7 +39,7 @@ export function SearchClient() {
 
   const results = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return CORPUS.filter((a) => {
+    return corpus.filter((a) => {
       const matchCat = cat === "All" || a.category === cat;
       if (!matchCat) return false;
       if (!q) return true;
@@ -53,7 +53,7 @@ export function SearchClient() {
         a.source.toLowerCase().includes(q)
       );
     });
-  }, [query, cat]);
+  }, [query, cat, corpus]);
 
   return (
     <div className="py-6">
