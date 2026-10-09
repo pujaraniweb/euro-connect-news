@@ -53,7 +53,16 @@ const CURRENT_ITEMS = 60; // newest items shown as "current" news
 // double the daily article volume, which took the deployed Worker bundle to
 // 2.88 MiB gzipped — 0.12 MiB under the cap, i.e. days away from repeating the
 // silent-deploy failure above. 7 days restores ~0.46 MiB of headroom.
-const ARCHIVE_DAYS = 7; // retention window for the archive (bundle-size bound)
+//
+// EMERGENCY 7 -> 3 (2026-10-09): the site was returning HTTP 500 / Cloudflare
+// error 1101 on every route. archive.json is compiled into TWO ssr chunks, so
+// at 3809 items the Worker had to parse ~8.6 MiB of embedded JSON on every cold
+// start and blew the startup CPU budget before it could render anything. Note
+// this is a DIFFERENT limit from the 3 MiB script-size cap above — the bundle
+// was still under that at 2.79 MiB gz. Temporary: once archive.json is read at
+// runtime instead of bundled, nothing here is bundle-bound and this can go back
+// up well past 7.
+const ARCHIVE_DAYS = 3; // retention window for the archive (bundle-size bound)
 // Fields the site never reads: `guid` is only used while fetching (dedupe is by
 // `id` = sha1 of the canonical URL) and `author` is replaced by the publisher
 // label at render time. Dropping them trims ~9% off the archive.
