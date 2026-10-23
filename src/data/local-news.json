@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-23T21:01:16.197Z",
+  "generatedAt": "2026-10-23T23:50:32.795Z",
   "india": [
+    {
+      "id": "4c392400787d35dc76df804e00441f6137013393",
+      "slug": "students-protest-against-sir-at-mumbai-university-demand-arr-4c3924",
+      "title": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
+      "excerpt": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of Election Commissioners",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/fa8dji/article71617013.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-23%20at%2016.07.20.jpeg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T22:49:21.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece",
+      "guid": "article-71616990",
+      "titleHi": "मुंबई विश्वविद्यालय में सर के खिलाफ छात्रों ने प्रदर्शन किया, सीईसी ज्ञानेश कुमार की गिरफ्तारी की मांग की",
+      "excerptHi": "दिशा छात्र संगठन और भगत सिंह जन अधिकार यात्रा (बीएसजेएवाई) द्वारा आयोजित, प्रदर्शन ने चुनाव आयुक्तों की नियुक्ति को नियंत्रित करने वाले 2023 के कानून को रद्द करने का भी आह्वान किया",
+      "archived": false
+    },
+    {
+      "id": "dc00139d3901b38f4d119d3f6938ff80fad620c2",
+      "slug": "assam-government-to-present-1st-bhupen-hazarika-national-awa-dc0013",
+      "title": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+      "excerpt": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29, says CM Sarma",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/jrt4g2/article71617958.ece/alternates/LANDSCAPE_1200/Deenanath_Awards04.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T22:38:44.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece",
+      "guid": "article-71617957",
+      "titleHi": "असम सरकार उषा मंगेशकर को पहला भूपेन हजारिका राष्ट्रीय पुरस्कार प्रदान करेगी: हिमंत",
+      "excerptHi": "प्रधानमंत्री नरेंद्र मोदी 29 नवंबर को नई दिल्ली के भारत मंडपम में गायक के साल भर चलने वाले जन्म शताब्दी समारोह के समापन समारोह में यह पुरस्कार प्रदान करेंगे।",
+      "archived": false
+    },
     {
       "id": "a4ef5503d5fcaf52eba2aa2288799ab4bdd1b595",
       "slug": "bomb-threat-emails-to-mumbai-mayors-office-three-navi-mumbai-a4ef55",
@@ -9,14 +53,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/xy77ul/article71616107.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-19%20135303.png",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T19:29:49.000Z",
       "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/email-warns-of-attacks-on-mumbai-mayors-office-bachchan-home-diljit-dosanjhs-concert/article71616086.ece",
-      "guid": "article-71616086",
       "titleHi": "मुंबई के मेयर कार्यालय को बम की धमकी देने वाले ईमेल, नवी मुंबई के तीन स्कूलों में सुरक्षा अलर्ट जारी",
       "excerptHi": "धमकी से प्रेरित होकर, कानून प्रवर्तन अधिकारियों ने संदेश की प्रामाणिकता को सत्यापित करने के लिए एक व्यापक जांच शुरू की है",
       "archived": false
@@ -29,14 +71,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/xyj5pk/article71617766.ece/alternates/LANDSCAPE_1200/IMG_7368.JPG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T19:26:39.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/financial-insecurity-drives-older-people-to-seek-jobs-survey-in-bengaluru-finds/article71616137.ece",
-      "guid": "article-71616137",
       "titleHi": "वित्तीय असुरक्षा बुजुर्ग लोगों को नौकरी तलाशने के लिए प्रेरित करती है, बेंगलुरु में सर्वेक्षण से पता चलता है",
       "excerptHi": "रोजगार बाधाओं की रिपोर्ट करने वाले लगभग आधे वरिष्ठ नौकरी चाहने वालों का कहना है कि नियोक्ता युवा उम्मीदवारों को पसंद करते हैं",
       "archived": false
@@ -49,17 +89,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/ni42e9/article71616792.ece/alternates/LANDSCAPE_1200/iran-india.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:41:11.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
-      "guid": "article-71616727",
       "titleHi": "India denies rejecting Iran’s request to transport medicines",
       "excerptHi": "Ministry of External Affairs spokesperson Randhir Jaiswal said, “We remain in contact with our Iranian counterparts to facilitate the transport of life-saving medicines as a humanitarian gesture.”",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f67250c78dee268c8e3055cc8d60a82afd00440b",
@@ -69,17 +107,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/k2eey2/article71617659.ece/alternates/LANDSCAPE_1200/IndiGo-taps-28-GT1GJ28R5.4.jpg.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T18:03:29.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece",
-      "guid": "article-71616665",
       "titleHi": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
       "excerptHi": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ea0d2a57dea243ba839792da137b3344465fa548",
@@ -91,17 +127,15 @@
         "Culture"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/s4p1oa/article71617634.ece/alternates/LANDSCAPE_1200/Actor-assault-cGBQF9BUTT.3.jpg.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T17:44:54.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece",
-      "guid": "article-71617254",
       "titleHi": "Society of Indian Screen Editors formed",
       "excerptHi": "Film editor Bina Paul is the chairperson",
-      "archived": false
+      "archived": true
     },
     {
       "id": "7d05a26eaf9aa3d29912466dc449bb2d0d7fff13",
@@ -122,7 +156,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece",
       "titleHi": "जयशंकर ने अजरबैजान के राष्ट्रपति और विदेश मंत्री से मुलाकात की",
       "excerptHi": "अज़रबैजान के ऑपरेशन सिंदूर की निंदा और कश्मीर मुद्दे के ‘समाधान‘ के आह्वान से द्विपक्षीय संबंधों में खटास आ गई थी; लेकिन शुक्रवार को, अज़रबैजान के विदेश मंत्री बायरामोव ने व्यापार, पर्यटन और ऊर्जा पर प्रकाश डाला...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "6fd97d4f649a54a057ce8edb1d36e841049c4802",
@@ -162,49 +196,49 @@
       "titleHi": "Navy to host Indo-Pacific Regional Dialogue in New Delhi from November 3",
       "excerptHi": "The 3-day event will bring together policymakers and experts from 18 countries seeking to identify practical measures to strengthen regional cooperation in maritime research, ocean governance, climate resilience and…",
       "archived": true
-    },
-    {
-      "id": "5ac143345d2afe4a43fad3f20884760c2d50b269",
-      "slug": "council-polls-for-four-seats-pass-off-peacefully-but-for-min-5ac143",
-      "title": "Council polls for four seats pass off peacefully, but for minor incidents in Bengaluru",
-      "excerpt": "Of the total 3.43 lakh voters, 2.01 lakh voters cast their votes in the four constituencies that went into polls",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T16:40:40.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/council-polls-for-four-seats-pass-off-peacefully-but-for-minor-incidents-in-bengaluru/article71617326.ece",
-      "titleHi": "Council polls for four seats pass off peacefully, but for minor incidents in Bengaluru",
-      "excerptHi": "Of the total 3.43 lakh voters, 2.01 lakh voters cast their votes in the four constituencies that went into polls",
-      "archived": true
-    },
-    {
-      "id": "7d04c3656216269ec50671df6d6b8886cc395913",
-      "slug": "greater-bengaluru-authority-receives-around-1600-objections-7d04c3",
-      "title": "Greater Bengaluru Authority receives around 1,600 objections to tree-felling for Hebbal Short Tunnel",
-      "excerpt": "The National Green Tribunal restrained the BDA from felling any trees till the hearing in the case challenging tree felling for the project is completed",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "author": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/iwltht/article71604880.ece/alternates/LANDSCAPE_1200/ALL_2093.JPG",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T16:21:05.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/greater-bengaluru-authority-receives-over-1500-objections-to-tree-felling-for-hebbal-short-tunnel/article71604304.ece",
-      "guid": "article-71604304",
-      "titleHi": "Greater Bengaluru Authority receives around 1,600 objections to tree-felling for Hebbal Short Tunnel",
-      "excerptHi": "The National Green Tribunal restrained the BDA from felling any trees till the hearing in the case challenging tree felling for the project is completed",
-      "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "2af8136ef58b2fec8cf2fcccd3d2361d7146c682",
+      "slug": "leclerc-fastest-from-antonelli-in-us-gp-practice-2af813",
+      "title": "Leclerc fastest from Antonelli in US GP practice",
+      "excerpt": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+      "category": "Sports",
+      "secondaryCategories": [],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a42/live/e60f9400-cf2b-11f1-89f6-f5ef8a187796.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-10-23T23:40:33.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o#0",
+      "titleHi": "US GP प्रैक्टिस में Antonelli से Leclerc सबसे तेज़",
+      "excerptHi": "फेरारी के चार्ल्स लेक्लेर्क यूनाइटेड स्टेट्स ग्रां प्री में शुक्रवार के अभ्यास में मर्सिडीज के किमी एंटोनेली का नेतृत्व करते हैं।",
+      "archived": false
+    },
+    {
+      "id": "5e248f9cd718d737d26dc2a7373b6b8137c794c6",
+      "slug": "irs-plans-lower-tax-disclosure-penalties-including-for-crypt-5e248f",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "excerpt": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul.",
+      "category": "Crypto",
+      "secondaryCategories": [],
+      "source": "Cointelegraph",
+      "author": "Cointelegraph by Nate Kostar",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5N6SNMRK1BS8PGZSR5F8GRG/hi-taxes-on-crypto-kraken.png",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T20:54:17.000Z",
+      "sourceUrl": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "guid": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+      "titleHi": "आईआरएस ने क्रिप्टो सहित कम कर प्रकटीकरण दंड की योजना बनाई है: फोर्ब्स",
+      "excerptHi": "अमेरिकी कर एजेंसी एक नियोजित कार्यक्रम के तहत पिछले कर उल्लंघनों का स्वेच्छा से खुलासा करने वाले करदाताओं के लिए तेज़ समाधान और अधिक लचीले भुगतान विकल्पों को लक्षित कर रही है।",
+      "archived": false
+    },
     {
       "id": "a344deb0b7aeece1788312e639881e1772b69091",
       "slug": "white-house-says-the-us-is-lifting-tariffs-on-some-canadian-a344de",
@@ -213,14 +247,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:39:39.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o#0",
       "titleHi": "व्हाइट हाउस का कहना है कि अमेरिका कुछ कनाडाई सामानों पर शुल्क हटा रहा है",
       "excerptHi": "अगले महीने होने वाले चुनावों में अपनी सीनेट सीट बनाए रखने के लिए कड़ी दौड़ में शामिल रिपब्लिकन सुसान कोलिन्स ने कहा कि वह टैरिफ राहत पर व्हाइट हाउस के साथ काम कर रही थीं।",
       "archived": false
@@ -236,14 +268,12 @@
         "Business"
       ],
       "source": "The Guardian",
-      "author": "Gaya Gupta in New York",
       "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:36:12.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "guid": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
       "titleHi": "मेन में संकटग्रस्त सुसान कॉलिन्स को बढ़ावा देने के लिए ट्रम्प ने कनाडा के कुछ शुल्क हटा दिए",
       "excerptHi": "रिपब्लिकन सीनेटर को राज्य में फिर से चुनाव लड़ने का सामना करना पड़ता है, जहां राष्ट्रपति के व्यापार युद्ध ने मतदाताओं को नाराज कर दिया है डोनाल्ड ट्रम्प ने शुक्रवार को कनाडा पर अमेरिका के कुछ टैरिफ को \"सार्वजनिक हित की बेहतर सेवा\" के लिए हटा दिया...",
       "archived": false
@@ -256,14 +286,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T20:18:13.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#0",
       "titleHi": "पूर्व यूक्रेनी कैदियों का कहना है कि रिहा किए गए अमेरिकी नागरिक को रूसी जेल में प्रताड़ित किया गया था",
       "excerptHi": "अमेरिकी के साथ पकड़े गए यूक्रेनियों का कहना है कि उन्होंने उनकी हिरासत के दौरान रूसी गार्डों द्वारा मारपीट और यौन अपमान देखा।",
       "archived": false
@@ -276,14 +304,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c49/live/e2c0aa60-cf1b-11f1-9796-954775b3a434.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T20:16:24.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/gymnastics/articles/cm0e0dp9n5zpo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/gymnastics/articles/cm0e0dp9n5zpo#6",
       "titleHi": "ब्लेकली ने वर्ल्ड्स में महिलाओं के हरफनमौला वर्ग में स्वर्ण पदक जीता",
       "excerptHi": "संयुक्त राज्य अमेरिका के स्काई ब्लेकली ने रॉटरडैम में विश्व कलात्मक जिम्नास्टिक चैंपियनशिप में महिलाओं के ऑल - अराउंड में स्वर्ण पदक जीता।",
       "archived": false
@@ -296,14 +322,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Guardian sport",
       "image": "https://i.guim.co.uk/img/media/e5a9c0028f24ce846e56fff48d2556376f3e2b6a/643_0_6425_5140/master/6425.jpg?width=140&quality=85&auto=format&fit=max&s=59f6753ab44ec59aa9dfe98fa74de743",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:14:29.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/oct/23/skye-blakely-caps-remarkable-injury-comeback-with-world-gymnastics-all-around-title",
-      "guid": "https://www.theguardian.com/sport/2026/oct/23/skye-blakely-caps-remarkable-injury-comeback-with-world-gymnastics-all-around-title",
       "titleHi": "स्काई ब्लेकली ने विश्व जिम्नास्टिक ऑल - अराउंड खिताब के साथ शानदार चोट वापसी की",
       "excerptHi": "21 साल के अमेरिकी ने 2024 के ओलंपिक ट्रायल से पहले रॉटरडैम ब्लेकली में वर्ल्ड ऑल - अराउंड खिताब जीता था। तीन साल पहले सिमोन बाइल्स के बाद पहला अमेरिकी चैंपियन स्काई ब्लेकली ने...",
       "archived": false
@@ -316,14 +340,12 @@
       "category": "Opinion",
       "secondaryCategories": [],
       "source": "The New York Times",
-      "author": "The New York Times",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:04:12.000Z",
       "sourceUrl": "https://www.nytimes.com/video/opinion/100000011225553/the-core-appeal-of-america-first.html",
-      "guid": "https://www.nytimes.com/video/opinion/100000011225553/the-core-appeal-of-america-first.html",
       "titleHi": "‘अमेरिका फर्स्ट‘ की मुख्य अपील",
       "excerptHi": "स्विंग मतदाताओं के लिए \"अमेरिका फर्स्ट\" की मुख्य अपील क्या है? राजनीतिक सलाहकार सारा लोंगवेल ने ओपिनियन स्तंभकार एज्रा क्लेन को बताया कि मतदाता विचारधारा से प्रेरित नहीं हैं; वे सिर्फ एक ऐसी सरकार चाहते हैं जो …",
       "archived": false
@@ -336,14 +358,12 @@
       "category": "Opinion",
       "secondaryCategories": [],
       "source": "The New York Times",
-      "author": "The New York Times",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:00:34.000Z",
       "sourceUrl": "https://www.nytimes.com/video/opinion/100000011225549/how-jon-ossoff-broke-through-trumps-white-noise.html",
-      "guid": "https://www.nytimes.com/video/opinion/100000011225549/how-jon-ossoff-broke-through-trumps-white-noise.html",
       "titleHi": "जॉन ओसॉफ़ ने ट्रम्प के ‘व्हाइट नॉइज़‘ के माध्यम से कैसे तोड़ दिया",
       "excerptHi": "ट्रम्प के खिलाफ भ्रष्टाचार का मामला बनाने के लिए आप शोर को कैसे तोड़ते हैं? राजनीतिक सलाहकार सारा लॉन्गवेल का कहना है कि डेमोक्रेट \"एज्रा क्लेन...\" पर जॉन ओसॉफ की चरण - दर - चरण कहानी से सबक सीख सकते हैं।",
       "archived": false
@@ -358,26 +378,47 @@
         "Europe"
       ],
       "source": "The Guardian",
-      "author": "Guardian sport and agencies",
       "image": "https://i.guim.co.uk/img/media/5a4cc8c3d497c2924d034b6a13d91dbca166b35e/1243_0_6388_5110/master/6388.jpg?width=140&quality=85&auto=format&fit=max&s=9194139a5933ebbaccb79e4b09d109c3",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T19:55:09.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
-      "guid": "https://www.theguardian.com/sport/2026/oct/23/aaron-rodgers-nfl-paris-game-protests-steelers-saints",
       "titleHi": "एरोन रॉजर्स का कहना है कि अशांति के बीच PSG रद्द होने के बावजूद NFL का पेरिस गेम सुरक्षित है",
       "excerptHi": "स्टीलर्स, सेंट्स अभी भी रविवार को एनएफएल के पेरिस में पदार्पण के लिए जारी है हिंसक विरोध प्रदर्शनों ने प्रशंसकों के लिए अमेरिकी सुरक्षा चेतावनी को प्रेरित किया पीएसजी ने पेरिस अशांति के बीच रविवार का मैच रद्द कर दिया एनएफएल ने अपना पहला नियमित - सीज़न रद्द कर दिया होगा...",
       "archived": false
-    },
+    }
+  ],
+  "europe": [
     {
-      "id": "c6d55a62db35918a07f5df0bcd8f42f4318081df",
-      "slug": "us-designates-helium-as-critical-material-as-europe-faces-su-c6d55a",
-      "title": "US designates helium as critical material as Europe faces supply squeeze",
-      "excerpt": "The US has declared helium a critical material as war in the Middle East and export curbs by Russia and China squeeze global supplies of a gas vital to chipmaking, leaving Europe scrambling to secure its share.",
+      "id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
+      "slug": "blue-planet-iii-features-cloudier-footage-to-prove-authentic-cafbc3",
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "excerpt": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished…",
       "category": "Europe",
       "secondaryCategories": [
-        "Technology",
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Tara Conlan",
+      "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T23:01:16.000Z",
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "guid": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "titleHi": "ब्लू प्लैनेट III में AI बूम के बीच प्रामाणिकता साबित करने के लिए क्लाउडियर फुटेज हैं",
+      "excerptHi": "बीबीसी श्रृंखला जानबूझकर दर्शकों को आश्वस्त करने के लिए ‘अधिक जैविक’ शॉट्स का उपयोग करती है, निर्माता कहते हैं कि डेविड एटनबोरो - वर्णित श्रृंखला ब्लू प्लैनेट III में जानबूझकर बादल छाए हुए, कम पॉलिश किए गए...",
+      "archived": false
+    },
+    {
+      "id": "83fa48f0c0dbe34eae56f85d3200f829b3bb2007",
+      "slug": "hungary-70-years-after-soviet-crackdown-leaders-honour-upris-83fa48",
+      "title": "Hungary: 70 years after Soviet crackdown, leaders honour uprising victims",
+      "excerpt": "Seventy years after Hungary's 1956 uprising against Soviet rule, Prime Minister Péter Magyar paid tribute to its victims as Ursula von der Leyen highlighted the importance of freedom and democracy.",
+      "category": "Europe",
+      "secondaryCategories": [
         "Politics"
       ],
       "source": "Euronews",
@@ -386,35 +427,13 @@
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-10-23T19:02:40.000Z",
-      "sourceUrl": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-      "guid": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-      "titleHi": "अमेरिका ने हीलियम को महत्वपूर्ण सामग्री के रूप में नामित किया है क्योंकि यूरोप आपूर्ति निचोड़ का सामना कर रहा है",
-      "excerptHi": "अमेरिका ने मध्य पूर्व में युद्ध के रूप में हीलियम को एक महत्वपूर्ण सामग्री घोषित किया है और रूस और चीन द्वारा निर्यात पर अंकुश लगाने के लिए चिपमेकिंग के लिए महत्वपूर्ण गैस की वैश्विक आपूर्ति को निचोड़ दिया है, जिससे यूरोप अपने हिस्से को सुरक्षित करने के लिए पांव मार रहा है।",
+      "publishedAt": "2026-10-23T22:07:01.000Z",
+      "sourceUrl": "https://www.euronews.com/video/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims",
+      "guid": "https://www.euronews.com/video/2026/10/24/hungary-70-years-after-soviet-crackdown-leaders-honour-uprising-victims",
+      "titleHi": "हंगरी: सोवियत क्रैकडाउन के 70 साल बाद, नेताओं ने विद्रोह के पीड़ितों का सम्मान किया",
+      "excerptHi": "सोवियत शासन के खिलाफ हंगरी के 1956 के विद्रोह के सत्तर साल बाद, प्रधान मंत्री पेटर मागयार ने अपने पीड़ितों को श्रद्धांजलि अर्पित की क्योंकि उर्सुला वॉन डेर लेयेन ने स्वतंत्रता और लोकतंत्र के महत्व पर प्रकाश डाला।",
       "archived": false
     },
-    {
-      "id": "2541c014fd926b33eec830e1133cb42fa25b271e",
-      "slug": "mysterious-black-triangles-spotted-over-sensitive-us-site-ne-2541c0",
-      "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
-      "excerpt": "Unidentified object vanished suddenly and silently, anonymous senior military observers claim Two senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "author": "Richard Luscombe",
-      "image": "https://i.guim.co.uk/img/media/88c4a85fbc23a00f87395cdc6dff14db1ee7f624/0_0_1379_1104/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=2f84079c945c1d01fdd7247c53783d65",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T18:45:43.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
-      "guid": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
-      "titleHi": "पेंटागन की UFO की नई फाइलों में हुआ खुलासा, संवेदनशील अमेरिकी साइट पर दिखे रहस्यमय ‘काले त्रिकोण’",
-      "excerptHi": "अज्ञात वस्तु अचानक और चुपचाप गायब हो गई, अज्ञात वरिष्ठ सैन्य पर्यवेक्षकों का दावा है कि दो वरिष्ठ सैन्य पर्यवेक्षकों का कहना है कि उन्होंने एक रहस्यमय काले त्रिकोणीय वस्तु को असाधारण रूप से उच्च गति से उड़ते हुए देखा...",
-      "archived": false
-    }
-  ],
-  "europe": [
     {
       "id": "a64d51764e73ad740b5ba3a5bd6d3b5d670dd52d",
       "slug": "trump-drops-some-canada-tariffs-in-bid-to-boost-embattled-su-a64d51",
@@ -426,14 +445,12 @@
         "Business"
       ],
       "source": "The Guardian",
-      "author": "Gaya Gupta in New York",
       "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:36:12.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "guid": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
       "titleHi": "मेन में संकटग्रस्त सुसान कॉलिन्स को बढ़ावा देने के लिए ट्रम्प ने कनाडा के कुछ शुल्क हटा दिए",
       "excerptHi": "रिपब्लिकन सीनेटर को राज्य में फिर से चुनाव लड़ने का सामना करना पड़ता है, जहां राष्ट्रपति के व्यापार युद्ध ने मतदाताओं को नाराज कर दिया है डोनाल्ड ट्रम्प ने शुक्रवार को कनाडा पर अमेरिका के कुछ टैरिफ को \"सार्वजनिक हित की बेहतर सेवा\" के लिए हटा दिया...",
       "archived": false
@@ -446,14 +463,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T20:18:13.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo#0",
       "titleHi": "पूर्व यूक्रेनी कैदियों का कहना है कि रिहा किए गए अमेरिकी नागरिक को रूसी जेल में प्रताड़ित किया गया था",
       "excerptHi": "अमेरिकी के साथ पकड़े गए यूक्रेनियों का कहना है कि उन्होंने उनकी हिरासत के दौरान रूसी गार्डों द्वारा मारपीट और यौन अपमान देखा।",
       "archived": false
@@ -468,17 +483,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Angelique Chrisafis in Paris",
       "image": "https://i.guim.co.uk/img/media/ed52b753a2b75c6d81fae075e1edfac4bc26ed44/438_0_4377_3502/master/4377.jpg?width=140&quality=85&auto=format&fit=max&s=f82d54c7ed9adfca5f49c60e6cf22489",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T19:23:14.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
-      "guid": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
       "titleHi": "पेरिस के पास ‘आतंकवादी‘ की गोलीबारी में एक व्यक्ति की मौत के बाद मैक्रॉन ने नस्लवाद की निंदा की",
       "excerptHi": "बंदूकधारी ने ट्रैप्स और वेरिएयर में कार से गोलीबारी की, जिसमें एक की मौत हो गई और पांच अन्य घायल हो गए, जिसमें एक 12 वर्षीय लड़की इमैनुएल मैक्रॉन भी शामिल है, जिसने फ्रांसीसी समाज में नस्लवाद की निंदा की है जब एक बंदूकधारी ने पश्चिम में एक कार से गोलीबारी की...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c6d55a62db35918a07f5df0bcd8f42f4318081df",
@@ -491,17 +504,15 @@
         "Politics"
       ],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T19:02:40.000Z",
       "sourceUrl": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-      "guid": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
       "titleHi": "अमेरिका ने हीलियम को महत्वपूर्ण सामग्री के रूप में नामित किया है क्योंकि यूरोप आपूर्ति निचोड़ का सामना कर रहा है",
       "excerptHi": "अमेरिका ने मध्य पूर्व में युद्ध के रूप में हीलियम को एक महत्वपूर्ण सामग्री घोषित किया है और रूस और चीन द्वारा निर्यात पर अंकुश लगाने के लिए चिपमेकिंग के लिए महत्वपूर्ण गैस की वैश्विक आपूर्ति को निचोड़ दिया है, जिससे यूरोप अपने हिस्से को सुरक्षित करने के लिए पांव मार रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f869b6d36f03decae3b9d8fee284747589b80286",
@@ -511,17 +522,15 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/qyl3vy/article71617707.ece/alternates/LANDSCAPE_1200/ki24-painting%201.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:35:34.000Z",
       "sourceUrl": "https://www.thehindu.com/entertainment/art/kerala-artist-tom-vattakuzhys-shows-in-london-and-paris-reflect-the-frailty-of-the-human-condition/article71615481.ece",
-      "guid": "article-71615481",
       "titleHi": "Kerala artist Tom Vattakuzhy’s shows in London and Paris reflect the frailty of the human condition",
       "excerptHi": "Artist Tom Vattakuzhy on showing his works in strife-torn Paris, the excitement of Frieze Week in London and how he views his practice post the controversy surrounding his work at the Kochi Muziris Biennale",
-      "archived": false
+      "archived": true
     },
     {
       "id": "3bb59155dc39457e06db529d054db5b52f780c13",
@@ -578,44 +587,6 @@
       "titleHi": "यूके के बच्चों को क्रैकडाउन के बावजूद सोशल मीडिया पर नुकसान होने की संभावना है",
       "excerptHi": "अभियानकर्ता प्रगति की कमी को ‘चौंका देने वाला’ कहते हैं, क्योंकि OFCOM यह भी स्वीकार करता है कि असुरक्षित सामग्री का सामना करने वाले बच्चों को होने वाले नुकसान की गंभीरता में थोड़ा बदलाव लैंडमार्क ऑनलाइन सुरक्षा उपाय के अनुपात को सीमित करने में विफल रहे हैं...",
       "archived": true
-    },
-    {
-      "id": "f8deac049ef3f2c702051ee48cb912d087bec4c0",
-      "slug": "white-house-says-melania-trump-brokers-truce-for-ukraine-cit-f8deac",
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "excerpt": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Sports"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-10-23T16:59:51.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "व्हाइट हाउस का कहना है कि मेलानिया ट्रम्प दलाल यूक्रेन शहर के लिए संघर्ष विराम 'आपदा के कगार पर'",
-      "excerptHi": "यूक्रेन और रूस रूसी कब्जे वाले ओलेस्की में संघर्ष विराम की पुष्टि करते हैं, जहां निवासियों को जीवित रहने के लिए बगीचे के खरपतवार खाने पड़े हैं।",
-      "archived": true
-    },
-    {
-      "id": "7c46bbe37f8b8592a46ba3190135c579eb065330",
-      "slug": "officer-who-shot-and-killed-black-toddler-in-mississippi-res-7c46bb",
-      "title": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
-      "excerpt": "Hunter Foster fired at vehicle during a shoplifting call at a Walmart, killing one-year-old Kohen Wiley Hunter Foster, the Mississippi police officer who shot into a vehicle and killed one-year-old Kohen Wiley, has…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/1f31283279fe37c8030839d69f01646385988778/313_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=66ffc4bff274fe9fb0d56b359d39fd26",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T16:39:34.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/mississippi-police-officer-shot-kohen-wiley-resigns",
-      "titleHi": "Officer who shot and killed Black toddler in Mississippi resigns from police force",
-      "excerptHi": "Hunter Foster fired at vehicle during a shoplifting call at a Walmart, killing one-year-old Kohen Wiley Hunter Foster, the Mississippi police officer who shot into a vehicle and killed one-year-old Kohen Wiley, has…",
-      "archived": true
     }
   ],
   "asia": [
@@ -630,17 +601,37 @@
         "Politics"
       ],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T19:02:40.000Z",
       "sourceUrl": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-      "guid": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
       "titleHi": "अमेरिका ने हीलियम को महत्वपूर्ण सामग्री के रूप में नामित किया है क्योंकि यूरोप आपूर्ति निचोड़ का सामना कर रहा है",
       "excerptHi": "अमेरिका ने मध्य पूर्व में युद्ध के रूप में हीलियम को एक महत्वपूर्ण सामग्री घोषित किया है और रूस और चीन द्वारा निर्यात पर अंकुश लगाने के लिए चिपमेकिंग के लिए महत्वपूर्ण गैस की वैश्विक आपूर्ति को निचोड़ दिया है, जिससे यूरोप अपने हिस्से को सुरक्षित करने के लिए पांव मार रहा है।",
-      "archived": false
+      "archived": true
+    },
+    {
+      "id": "72b3436037d1d6e1e7157f66e723758f23370e46",
+      "slug": "wales-look-to-show-top-six-credentials-in-japan-72b343",
+      "title": "Wales look to show top-six credentials in Japan",
+      "excerpt": "Wales need to build on encouraging home WXV Global Series performances when playing back-to-back Tests in Japan.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5426/live/6f68cd00-ce2f-11f1-9a39-31b474234113.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-10-23T18:36:35.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgr847gwrx7o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgr847gwrx7o#11",
+      "titleHi": "Wales look to show top-six credentials in Japan",
+      "excerptHi": "Wales need to build on encouraging home WXV Global Series performances when playing back-to-back Tests in Japan.",
+      "archived": true
     },
     {
       "id": "074860b266160a9ae6d46d88a4246a577666579e",
@@ -788,24 +779,6 @@
       "sourceUrl": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "titleHi": "बिटकॉइन 3% के नुकसान के बाद समेकित हो जाता है क्योंकि एआई ने शेयर बाजार की ताजा कमजोरी को बढ़ा दिया है",
       "excerptHi": "बिटकॉइन की कीमत में उतार - चढ़ाव ठंडा हो गया क्योंकि शेयर बाजार शुक्रवार के एशिया ट्रेडिंग सत्र के दौरान पुनरुत्थान एआई भय के एक और दिन से जूझ रहे थे।",
-      "archived": true
-    },
-    {
-      "id": "d71a18256f5fe77cd1395b06aaf8e9078e780fd6",
-      "slug": "live-updates-bitcoin-holds-above-81000-as-markets-calm-oil-c-d71a18",
-      "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
-      "excerpt": "South Korea's Kospi was flat overnight, suggesting some steadying in the AI trade. Nasdaq 100 futures are steady as well, but oil continues its climb.",
-      "category": "Crypto",
-      "secondaryCategories": [],
-      "source": "CoinDesk",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T11:13:01.000Z",
-      "sourceUrl": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-      "titleHi": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
-      "excerptHi": "South Korea's Kospi was flat overnight, suggesting some steadying in the AI trade. Nasdaq 100 futures are steady as well, but oil continues its climb.",
       "archived": true
     }
   ],
@@ -1013,17 +986,15 @@
         "Politics"
       ],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T19:02:40.000Z",
       "sourceUrl": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
-      "guid": "https://www.euronews.com/2026/10/23/us-designates-helium-as-critical-material-as-europe-faces-supply-squeeze",
       "titleHi": "अमेरिका ने हीलियम को महत्वपूर्ण सामग्री के रूप में नामित किया है क्योंकि यूरोप आपूर्ति निचोड़ का सामना कर रहा है",
       "excerptHi": "अमेरिका ने मध्य पूर्व में युद्ध के रूप में हीलियम को एक महत्वपूर्ण सामग्री घोषित किया है और रूस और चीन द्वारा निर्यात पर अंकुश लगाने के लिए चिपमेकिंग के लिए महत्वपूर्ण गैस की वैश्विक आपूर्ति को निचोड़ दिया है, जिससे यूरोप अपने हिस्से को सुरक्षित करने के लिए पांव मार रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "e0fb181025bfd8e4418c8c8c03d1c2abdfaf9c78",
@@ -1033,17 +1004,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/ni42e9/article71616792.ece/alternates/LANDSCAPE_1200/iran-india.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:41:11.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece",
-      "guid": "article-71616727",
       "titleHi": "India denies rejecting Iran’s request to transport medicines",
       "excerptHi": "Ministry of External Affairs spokesperson Randhir Jaiswal said, “We remain in contact with our Iranian counterparts to facilitate the transport of life-saving medicines as a humanitarian gesture.”",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f67250c78dee268c8e3055cc8d60a82afd00440b",
@@ -1053,17 +1022,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/k2eey2/article71617659.ece/alternates/LANDSCAPE_1200/IndiGo-taps-28-GT1GJ28R5.4.jpg.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-10-23T18:03:29.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece",
-      "guid": "article-71616665",
       "titleHi": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
       "excerptHi": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a77c5e49ae6b23bfdc6e45c697ac2a27db71d7c4",
@@ -1199,6 +1166,29 @@
     }
   ],
   "latam": [
+    {
+      "id": "8ce09548c28ff8ace70cf6d20246ee508b17bc33",
+      "slug": "argentina-drops-investigation-into-president-milei-over-cryp-8ce095",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "excerpt": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-10-23T20:59:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo#0",
+      "titleHi": "अर्जेंटीना ने क्रिप्टो धोखाधड़ी के मामले में राष्ट्रपति माइली की जांच छोड़ दी",
+      "excerptHi": "जेवियर माइली ने धोखाधड़ी से कार्य करने से इनकार कर दिया था जब एक क्रिप्टोक्यूरेंसी ने इसके बारे में एक सोशल मीडिया पोस्ट हटा दिया था।",
+      "archived": false
+    },
     {
       "id": "a1694b94f71d42681b85b38246eb16805b8d046a",
       "slug": "chaotic-state-of-football-in-brazil-epitomises-a-nation-wher-a1694b",
@@ -1364,29 +1354,54 @@
       "titleHi": "Blockades, checkpoints and court action: fending off Brazil’s biofuel giants in the Amazon",
       "excerptHi": "After decades of violent displacement and land theft, the country’s quilombola communities are fighting back For most of his 39 years, Josias Dias dos Santos, known as Jota, has endured degrading cycles of displacement…",
       "archived": true
-    },
-    {
-      "id": "4645c3993b175de5cedc40ddf1c17c23c443c976",
-      "slug": "moment-colombian-authorities-seize-76-tonnes-of-cocaine-boun-4645c3",
-      "title": "Moment Colombian authorities seize 7.6 tonnes of cocaine bound for Europe",
-      "excerpt": "Colombia has seized 7.6 tonnes of cocaine at the port of Cartagena in what President Abelardo de la Espriella described as the country's largest drug seizure in a decade.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-22T08:03:17.000Z",
-      "sourceUrl": "https://www.euronews.com/2026/10/22/moment-colombian-authorities-seize-76-tonnes-of-cocaine-bound-for-europe",
-      "titleHi": "Moment Colombian authorities seize 7.6 tonnes of cocaine bound for Europe",
-      "excerptHi": "Colombia has seized 7.6 tonnes of cocaine at the port of Cartagena in what President Abelardo de la Espriella described as the country's largest drug seizure in a decade.",
-      "archived": true
     }
   ],
   "oceania": [
+    {
+      "id": "c2ef0309d085d59e8079d90c7ce72ecb1934e173",
+      "slug": "thunderstorms-heavy-rain-and-flash-flooding-predicted-for-mu-c2ef03",
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "excerpt": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email, free app or daily news podcast Severe thunderstorms and heavy…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Adeshola Ore with Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/559129ca49d22e95b5248f9ae804833a6fd6b9bf/469_283_1995_1595/master/1995.jpg?width=140&quality=85&auto=format&fit=max&s=1bf8c6fb6a15e736ff04391632d1240e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T23:26:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "titleHi": "ऑस्ट्रेलिया के अधिकांश हिस्सों में आंधी - तूफान, भारी बारिश और अचानक बाढ़ आने की भविष्यवाणी की गई है",
+      "excerptHi": "क्वींसलैंड, विक्टोरिया और दक्षिण ऑस्ट्रेलिया के कुछ हिस्सों में शनिवार को भीषण तूफ़ान आने की उम्मीद है, जो रविवार तक एनएसडब्ल्यू और तस्मानिया में प्रवेश कर सकते हैं। हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें गंभीर आंधी - तूफ़ान और भारी...",
+      "archived": false
+    },
+    {
+      "id": "323cb769d431c836a981a4745076fb7c02e2b0d3",
+      "slug": "molly-picklum-claims-lead-in-wsl-title-race-with-dream-win-i-323cb7",
+      "title": "Molly Picklum claims lead in WSL title race with ‘dream’ win in Portugal",
+      "excerpt": "Australian defeats Cailtin Simmers in World Surf League women’s final Griffin Colapinto scores near-perfect barrel to beat ⁠Gabriel Medina Australia’s reigning world champion Molly Picklum won the Portugal Pro in…",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "The Guardian",
+      "author": "Reuters",
+      "image": "https://i.guim.co.uk/img/media/9af71bcb36438fae98c8e9888818b332fa6fd7d3/606_0_2257_1807/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=42d08bb0afa0ff812b5c569efeda8f31",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T22:31:11.000Z",
+      "sourceUrl": "https://www.theguardian.com/sport/2026/oct/24/surfing-molly-picklum-wins-wsl-portugal-pro-colapinto",
+      "guid": "https://www.theguardian.com/sport/2026/oct/24/surfing-molly-picklum-wins-wsl-portugal-pro-colapinto",
+      "titleHi": "मौली पिकलम ने पुर्तगाल में ‘ड्रीम‘ जीत के साथ डब्ल्यूएसएल खिताब की दौड़ में बढ़त हासिल की",
+      "excerptHi": "ऑस्ट्रेलियाई ने विश्व सर्फ लीग महिलाओं के फाइनल में कैल्टिन सिमर्स को हराया ग्रिफिन कोलापिंटो ने सही बैरल के पास स्कोर किया और गैब्रियल मदीना ऑस्ट्रेलिया की मौजूदा विश्व चैंपियन मौली पिकलम ने पुर्तगाल प्रो जीता...",
+      "archived": false
+    },
     {
       "id": "e1332ca48e59be1293dab7311eada0117de87daf",
       "slug": "superb-samoa-run-riot-to-inflict-heavy-defeat-on-woeful-wale-e1332c",
@@ -1397,17 +1412,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b608/live/ebc0fc50-cf07-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T17:43:46.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-league/videos/cqm2d1v0jr48o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-league/videos/cqm2d1v0jr48o#2",
       "titleHi": "Superb Samoa run riot to inflict heavy defeat on woeful Wales",
       "excerptHi": "Samoa score 14 unaswered tries as they thrash Wales 76-0 to secure their first win in Pool A at the 2026 Women's Rugby League World Cup, whilst the result leaves Wales with two defeats from two.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5c505916dfe814641669e8aff94f04762815e0f2",
@@ -1540,51 +1553,95 @@
       "titleHi": "Son of Wallabies great named in spring tour squad as Les Kiss turns to new faces",
       "excerptHi": "Teddy Wilson and Tom Lambert part of 33-man group to tour Europe Australia to face England, Scotland and Wales in Nations Championship Son of a gun Teddy Wilson and prop Tom Lambert are the new faces in the Wallabies’…",
       "archived": true
-    },
-    {
-      "id": "5b870876e3564ccc666212bf141df7e3925f168f",
-      "slug": "australia-offers-astronaut-katherine-bennell-pegg-for-space-5b8708",
-      "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
-      "excerpt": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email, free app or daily news podcast The federal government…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Science",
-        "Technology"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/d23d8f0976a7c8b113da25b1c581dcc0372119fb/846_241_5250_4201/master/5250.jpg?width=140&quality=85&auto=format&fit=max&s=30743bcdb88d07259d50955db30846e8",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-22T23:51:24.000Z",
-      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
-      "titleHi": "ऑस्ट्रेलिया ने अंतरिक्ष यात्री कैथरीन बेनेल - पेग को अंतर्राष्ट्रीय अंतरिक्ष स्टेशन के लिए अंतरिक्ष मिशन की पेशकश की",
-      "excerptHi": "ऑस्ट्रेलियाई वर्ष का पहला अंतरिक्ष यात्री होगा जो ऑस्ट्रेलियाई झंडे के तहत अर्हता प्राप्त करेगा यदि वह 2028 मिशन पर उतरती है हमारे ब्रेकिंग न्यूज ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें संघीय सरकार...",
-      "archived": true
-    },
-    {
-      "id": "cbb52ea7b677d5f788540adc0ba2a6972b172707",
-      "slug": "rebel-wilson-secures-another-australian-court-win-as-co-prod-cbb52e",
-      "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-      "excerpt": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after…",
-      "category": "World",
-      "secondaryCategories": [
-        "Culture",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=429c4ccea26425cd9eb0a5c4090363c0",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-22T23:31:22.000Z",
-      "sourceUrl": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
-      "titleHi": "विद्रोही विल्सन ने एक और ऑस्ट्रेलियाई अदालत जीत हासिल की, क्योंकि द डेब के सह - निर्माता को सिर्फ $ 10 का पुरस्कार दिया गया",
-      "excerptHi": "न्यू साउथ वेल्स सुप्रीम कोर्ट के जज ने फ़िल्म के सह - निर्माता और पुरस्कार विल्सन द्वारा लाए गए मामले को लगभग $ 400,000 में खारिज कर दिया, क्योंकि सितारों ने ऑस्ट्रेलियाई ए - लिस्टर रिबेल विल्सन को...",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "c2ef0309d085d59e8079d90c7ce72ecb1934e173",
+      "slug": "thunderstorms-heavy-rain-and-flash-flooding-predicted-for-mu-c2ef03",
+      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
+      "excerpt": "Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday Get our breaking news email, free app or daily news podcast Severe thunderstorms and heavy…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology",
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Adeshola Ore with Australian Associated Press",
+      "image": "https://i.guim.co.uk/img/media/559129ca49d22e95b5248f9ae804833a6fd6b9bf/469_283_1995_1595/master/1995.jpg?width=140&quality=85&auto=format&fit=max&s=1bf8c6fb6a15e736ff04391632d1240e",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T23:26:05.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "guid": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
+      "titleHi": "ऑस्ट्रेलिया के अधिकांश हिस्सों में आंधी - तूफान, भारी बारिश और अचानक बाढ़ आने की भविष्यवाणी की गई है",
+      "excerptHi": "क्वींसलैंड, विक्टोरिया और दक्षिण ऑस्ट्रेलिया के कुछ हिस्सों में शनिवार को भीषण तूफ़ान आने की उम्मीद है, जो रविवार तक एनएसडब्ल्यू और तस्मानिया में प्रवेश कर सकते हैं। हमारे ब्रेकिंग न्यूज़ ईमेल, मुफ़्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें गंभीर आंधी - तूफ़ान और भारी...",
+      "archived": false
+    },
+    {
+      "id": "d3bdc00e0d8cd6994870a53eb930b52278384796",
+      "slug": "father-who-killed-oregon-school-shooter-speaks-out-for-first-d3bdc0",
+      "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+      "excerpt": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Dani Anguiano",
+      "image": "https://i.guim.co.uk/img/media/d93043fb24be50d446422ceada214e462bca0249/319_0_4052_3241/master/4052.jpg?width=140&quality=85&auto=format&fit=max&s=74a2172573acb951eae2f4d1805307f9",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T23:10:42.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "guid": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+      "titleHi": "ओरेगन स्कूल शूटर को मारने वाले पिता पहली बार बोलते हैं: ‘मुझे अंदर जाना है’",
+      "excerptHi": "Kaylub Giamanco ने उस दिन को याद किया जब उन्होंने सिल्वर रेल प्राथमिक स्कूल शूटर का सामना किया, जिसने तीन लड़कों और एक शिक्षक की हत्या कर दी थी ओरेगन के पिता ने पिछले हफ्ते एक स्कूल की शूटिंग को रोकने के लिए एक नायक के रूप में स्वागत किया...",
+      "archived": false
+    },
+    {
+      "id": "20b828179cc12446c9a7871b0a14796ee6888dd8",
+      "slug": "ohio-man-convicted-of-murder-for-running-over-officer-after-20b828",
+      "title": "Ohio man convicted of murder for running over officer after police killed his son",
+      "excerpt": "Rodney Hinton ran over Larry Henderson after he viewed body-cam footage of police shooting dead his son Ryan An Ohio man who killed a deputy with his car just hours after seeing video of his son killed by Cincinnati…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Auzzy Byrdsell",
+      "image": "https://i.guim.co.uk/img/media/96cc793f6eb7d677e04fdd2fedff759f9646a42c/645_0_4690_3752/master/4690.jpg?width=140&quality=85&auto=format&fit=max&s=66bb8103611ad340ff5b283f4f88591f",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-10-23T22:07:38.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+      "guid": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
+      "titleHi": "ओहियो में पुलिस द्वारा अपने बेटे की हत्या करने के बाद अधिकारी के ऊपर भागने के लिए हत्या का दोषी व्यक्ति",
+      "excerptHi": "रॉडनी हिंटन लैरी हेंडरसन पर भाग गए, जब उन्होंने अपने बेटे रयान की गोली मारकर हत्या करने वाले पुलिस के बॉडी - कैम फुटेज को देखा। एक ओहियो व्यक्ति जिसने सिनसिनाटी द्वारा मारे गए अपने बेटे के वीडियो को देखने के कुछ ही घंटों बाद अपनी कार के साथ एक डिप्टी की हत्या कर दी...",
+      "archived": false
+    },
+    {
+      "id": "8ce09548c28ff8ace70cf6d20246ee508b17bc33",
+      "slug": "argentina-drops-investigation-into-president-milei-over-cryp-8ce095",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "excerpt": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+      "category": "World",
+      "secondaryCategories": [
+        "Crypto",
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-10-23T20:59:39.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo#0",
+      "titleHi": "अर्जेंटीना ने क्रिप्टो धोखाधड़ी के मामले में राष्ट्रपति माइली की जांच छोड़ दी",
+      "excerptHi": "जेवियर माइली ने धोखाधड़ी से कार्य करने से इनकार कर दिया था जब एक क्रिप्टोक्यूरेंसी ने इसके बारे में एक सोशल मीडिया पोस्ट हटा दिया था।",
+      "archived": false
+    },
     {
       "id": "ada5a338697a1948b8a999575224f24e5868a321",
       "slug": "indiana-police-officer-arrested-for-using-flock-cameras-to-s-ada5a3",
@@ -1593,14 +1650,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Marina Dunbar",
       "image": "https://i.guim.co.uk/img/media/90cab358e839784729417f9695e4a77259151919/667_0_6674_5342/master/6674.jpg?width=140&quality=85&auto=format&fit=max&s=e5f956e41961bfed5d0547eacf08ce81",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T20:19:56.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
-      "guid": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
       "titleHi": "पत्नी की खोज करने के लिए झुंड कैमरों का उपयोग करने के लिए इंडियाना पुलिस अधिकारी गिरफ्तार",
       "excerptHi": "पत्नी और ‘पिछले परिचित‘ की प्लेटों की तलाशी लेने के बाद जस्टिन क्रेग पर आधिकारिक कदाचार और धोखाधड़ी का आरोप लगाया गया है इंडियाना के एक पुलिस अधिकारी को इस आरोप में गिरफ्तार किया गया है कि उसने सैकड़ों झुंड कैमरों का दुरुपयोग किया...",
       "archived": false
@@ -1616,17 +1671,15 @@
         "Technology"
       ],
       "source": "The Guardian",
-      "author": "Johana Bhuiyan",
       "image": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=22240fd63146e88296ce67fe0124324c",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:48:48.000Z",
       "sourceUrl": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-      "guid": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
       "titleHi": "‘ब्लैक अक्टूबर ': साइबर सुरक्षा विशेषज्ञों ने AI - सक्षम हैकिंग के नए युग पर अलार्म बजाया",
       "excerptHi": "PHP प्रोग्रामिंग भाषा में गंभीर बग की खोज के बाद, साइबर सुरक्षा में ‘भेद्यता सुनामी’ की चेतावनी देने वाले अधिकारी इस सप्ताह एक बड़ी भेद्यता की खोज के बाद अलार्म बजा रहे हैं। वे हैं...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2541c014fd926b33eec830e1133cb42fa25b271e",
@@ -1636,17 +1689,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Richard Luscombe",
       "image": "https://i.guim.co.uk/img/media/88c4a85fbc23a00f87395cdc6dff14db1ee7f624/0_0_1379_1104/master/1379.jpg?width=140&quality=85&auto=format&fit=max&s=2f84079c945c1d01fdd7247c53783d65",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:45:43.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
-      "guid": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
       "titleHi": "पेंटागन की UFO की नई फाइलों में हुआ खुलासा, संवेदनशील अमेरिकी साइट पर दिखे रहस्यमय ‘काले त्रिकोण’",
       "excerptHi": "अज्ञात वस्तु अचानक और चुपचाप गायब हो गई, अज्ञात वरिष्ठ सैन्य पर्यवेक्षकों का दावा है कि दो वरिष्ठ सैन्य पर्यवेक्षकों का कहना है कि उन्होंने एक रहस्यमय काले त्रिकोणीय वस्तु को असाधारण रूप से उच्च गति से उड़ते हुए देखा...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f1143edd96c8224c041ef1b9257d166b1a09dda5",
@@ -1656,17 +1707,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Hannah Al-Othman North of England correspondent",
       "image": "https://i.guim.co.uk/img/media/06255a9e2eb8bc92d7a776638178e3018c0ffa7b/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=5589ccce844bd1e6a4b26b6be42dc49b",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-10-23T18:19:43.000Z",
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
-      "guid": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
       "titleHi": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
       "excerptHi": "Houses being targeted because they are thought to hold immigrants, with dozens of properties affected in recent weeks Criminals are recruiting vulnerable people, including children, to damage houses suspected of being…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a77c5e49ae6b23bfdc6e45c697ac2a27db71d7c4",
@@ -1706,84 +1755,6 @@
       "sourceUrl": "https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world",
       "titleHi": "जूरी ने बताया कि टॉमी रॉबिन्सन ने ‘लोगों को धमकाया और धमकाने की तरह काम किया’",
       "excerptHi": "अभियोजन पक्ष का कहना है कि रॉबिन्सन डेली मेल पत्रकारों के उत्पीड़न का दोषी है क्योंकि हम ‘सतर्क दुनिया‘ में नहीं रहते हैं टॉमी रॉबिन्सन दो पत्रकारों को परेशान करने का दोषी है क्योंकि हम \"सतर्क दुनिया\" में नहीं रहते हैं,...",
-      "archived": true
-    },
-    {
-      "id": "b5fe0ea57d188a25433737a14b99c493ccce88f7",
-      "slug": "as-midterms-loom-trump-and-his-allies-try-to-change-the-subj-b5fe0e",
-      "title": "As midterms loom, Trump and his allies try to change the subject",
-      "excerpt": "Despite distraction and distortion, voters know what issues will be informing their votes in this election This was originally published in The Stakes 2026, a newsletter about the midterm elections. Sign up to get it in…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/0b2ea761fa10b0dd0c9f6da3e51d32d294dbc250/570_0_6397_5117/master/6397.jpg?width=140&quality=85&auto=format&fit=max&s=7ad32fbfd2ae7bf9c2c174b51b36323d",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T17:00:09.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/22/midterm-elections-trump-changes-subject",
-      "titleHi": "मिडटर्म लूम के रूप में, ट्रम्प और उनके सहयोगी विषय को बदलने की कोशिश करते हैं",
-      "excerptHi": "व्याकुलता और विकृति के बावजूद, मतदाताओं को पता है कि इस चुनाव में उनके वोटों को कौन से मुद्दे सूचित करेंगे। यह मूल रूप से द स्टेक्स 2026 में प्रकाशित हुआ था, जो मध्यावधि चुनावों के बारे में एक समाचार पत्र है। इसे अंदर लाने के लिए साइन अप करें...",
-      "archived": true
-    },
-    {
-      "id": "9c4b47b27a893e68f7cb3aed0cd8e966ff2b8b8c",
-      "slug": "reform-braces-for-farage-standards-verdict-over-undeclared-5-9c4b47",
-      "title": "Reform braces for Farage standards verdict over undeclared £5m gift",
-      "excerpt": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his…",
-      "category": "World",
-      "secondaryCategories": [
-        "Crypto"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/4e3894392038014b4158c1acbb3a04cefe0364cb/871_0_7975_6384/master/7975.jpg?width=140&quality=85&auto=format&fit=max&s=ef9dd10f4c3788f7a4893846e621be20",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T16:45:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
-      "titleHi": "Reform braces for Farage standards verdict over undeclared £5m gift",
-      "excerptHi": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his…",
-      "archived": true
-    },
-    {
-      "id": "45f546718dbb40df636d950f4d3d4e6639ea7a99",
-      "slug": "seven-shot-dead-by-gunmen-at-church-funeral-in-jordan-offici-45f546",
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "excerpt": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-10-23T16:33:11.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "excerptHi": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-      "archived": true
-    },
-    {
-      "id": "93f3d755db6dbc26c345c93508d305718c9c57a7",
-      "slug": "two-ex-fbi-officials-charged-with-lying-about-investigation-93f3d7",
-      "title": "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
-      "excerpt": "Contents of laptop of Joe Biden’s son were part of a bizarre saga in the final weeks of 2020 presidential election Two former FBI intelligence officials who specialized in foreign election interference were charged on…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7ce6a2b860ec932eff317b0ca473d660a1ab62fe/0_0_2699_2159/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=e4f1e935d42f341449a2c05e8b1742a5",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-10-23T16:00:21.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
-      "titleHi": "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
-      "excerptHi": "Contents of laptop of Joe Biden’s son were part of a bizarre saga in the final weeks of 2020 presidential election Two former FBI intelligence officials who specialized in foreign election interference were charged on…",
       "archived": true
     }
   ]
