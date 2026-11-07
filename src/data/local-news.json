@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-11-07T19:53:23.654Z",
+  "generatedAt": "2026-11-07T23:26:34.042Z",
   "india": [
     {
-      "id": "09bef22a672e84aa4e8a45451c706f5cea984f43",
-      "slug": "greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-ben-09bef2",
-      "title": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
-      "excerpt": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
+      "id": "0a340da45144527135505ccdfedf55341db84fea",
+      "slug": "ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-0a340d",
+      "title": "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
+      "excerpt": "Four young men on Saturday (November 7, 2026), from Bengaluru, travelled about 2,200 km riding on an old auto-rickshaw to reach Areraj town, in East Champaran",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T22:23:43.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
+      "guid": "article-71678281",
+      "titleHi": "दीपावली, छठ त्योहारों से पहले, प्रवासी हजारों किलोमीटर की दूरी तय करके बिहार पहुँचते हैं",
+      "excerptHi": "बेंगलुरु से शनिवार (7 नवंबर, 2026) को चार युवकों ने एक पुराने ऑटो - रिक्शा पर सवार होकर पूर्वी चंपारण के अरेराज शहर तक पहुँचने के लिए लगभग 2,200 किलोमीटर की यात्रा की",
+      "archived": false
+    },
+    {
+      "id": "c8c8c79bda82b3d19a29448904020bdcda9c34fc",
+      "slug": "nallur-toll-plaza-on-kolkata-national-highway-to-be-moved-to-c8c8c7",
+      "title": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
+      "excerpt": "Nallur toll plaza on Kolkata National Highway to be moved to Durainallur",
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
@@ -14,9 +36,27 @@
       "imageType": "none",
       "aiImage": false,
       "readTime": 2,
+      "publishedAt": "2026-11-07T20:09:14.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
+      "guid": "article-71678789",
+      "titleHi": "कोलकाता राष्ट्रीय राजमार्ग पर नल्लूर टोल प्लाजा को दुरैनाल्लूर ले जाया जाएगा",
+      "excerptHi": "कोलकाता राष्ट्रीय राजमार्ग पर नल्लूर टोल प्लाजा को दुरैनाल्लूर ले जाया जाएगा",
+      "archived": false
+    },
+    {
+      "id": "09bef22a672e84aa4e8a45451c706f5cea984f43",
+      "slug": "greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-ben-09bef2",
+      "title": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
+      "excerpt": "Greek-themed Salaam Souk to be held at Palace Grounds in Bengaluru on November 8",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Hindu",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 2,
       "publishedAt": "2026-11-07T19:26:57.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-bengaluru-on-november-8/article71678845.ece",
-      "guid": "article-71678845",
       "titleHi": "ग्रीक थीम वाला सलाम सूक 8 नवंबर को बेंगलुरु के पैलेस ग्राउंड में आयोजित किया जाएगा",
       "excerptHi": "ग्रीक थीम वाला सलाम सूक 8 नवंबर को बेंगलुरु के पैलेस ग्राउंड में आयोजित किया जाएगा",
       "archived": false
@@ -29,17 +69,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/c1w8na/article71678995.ece/alternates/LANDSCAPE_1200/Image1%20-%20My%20Bharat%202030.jpeg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T19:18:03.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/sustainable-development-council-unveils-nationwide-citizen-driven-initiative-for-sustainable-india/article71678994.ece",
-      "guid": "article-71678994",
       "titleHi": "सस्टेनेबल डेवलपमेंट काउंसिल ने सस्टेनेबल इंडिया के लिए राष्ट्रव्यापी नागरिक संचालित पहल का अनावरण किया",
       "excerptHi": "सस्टेनेबल डेवलपमेंट काउंसिल ने सस्टेनेबल इंडिया के लिए राष्ट्रव्यापी नागरिक संचालित पहल का अनावरण किया",
-      "archived": false
+      "archived": true
     },
     {
       "id": "48f791085cedd9ebe5b66309aee19f3f61bbf216",
@@ -51,17 +89,15 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/43sb6d/article71679321.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%209.25.35%20PM.jpeg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:30:38.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-      "guid": "article-71679140",
       "titleHi": "पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा कि इजरायल के प्रति भारत का नीतिगत बदलाव खेदजनक है",
       "excerptHi": "Amerikka - Israel Aneethiyum Makkal Samuga Kadamaiyum नामक पुस्तक में संयुक्त राज्य अमेरिका और ईरान और इजरायल - लेबनान संघर्ष के बीच शत्रुता के प्रक्षेपवक्र की जांच करने वाले लेख शामिल हैं",
-      "archived": false
+      "archived": true
     },
     {
       "id": "07afe0761f65dcc3e7a602f76a3a54af88efd82b",
@@ -71,17 +107,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "Hindustan Times",
-      "author": "Hindustan Times",
       "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/PTI05-29-2026-000184B-0_1794074704950_A1zi_1794074705050_WBUS_abf023c4-ddc9-4573-98da-635a731d57be_FZM8.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:17:33.000Z",
       "sourceUrl": "https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html",
-      "guid": "https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html",
       "titleHi": "Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight",
       "excerptHi": "A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "15100d5cccde9d6b14f8e248991ff99764f37360",
@@ -91,17 +125,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T18:12:53.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
-      "guid": "article-71679376",
       "titleHi": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
       "excerptHi": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cd6ddc4d847ac2271681afab7424f10041e0bddb",
@@ -111,17 +143,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/45k0bg/article71679198.ece/alternates/LANDSCAPE_1200/TH04-SAFBL_G5LGG1HGOOLLH.3.jpg.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:52:43.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
-      "guid": "article-71679041",
       "titleHi": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
       "excerptHi": "Flight 6E-451 had departed from Terminal 1 of KIA when cabin crew members found the note that said “This flight is going to hijack at 6.30, ignore and see the consequences”",
-      "archived": false
+      "archived": true
     },
     {
       "id": "21c57451f41c7e612814d4d3435ab2350a55eebb",
@@ -131,17 +161,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:47:05.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
-      "guid": "article-71679044",
       "titleHi": "Students urged to dream big, prepare for a self-reliant India",
       "excerptHi": "Students urged to dream big, prepare for a self-reliant India",
-      "archived": false
+      "archived": true
     },
     {
       "id": "67dbc530a2bb5b28dfb071156355c379edabe180",
@@ -153,62 +181,38 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/692j5v/article71679403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2014.33.58.JPEG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:46:28.000Z",
       "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
-      "guid": "article-71679329",
       "titleHi": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
       "excerptHi": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
-      "archived": false
-    },
-    {
-      "id": "542ca8f62e5e437f3482edce2f365db639ac615b",
-      "slug": "habitual-offender-arrested-for-murdering-65-year-old-woman-i-542ca8",
-      "title": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
-      "excerpt": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "author": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T17:42:25.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/habitual-offender-arrested-for-murdering-65-year-old-woman-in-bengaluru/article71678977.ece",
-      "guid": "article-71678977",
-      "titleHi": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
-      "excerptHi": "Habitual offender arrested for murdering 65-year-old woman in Bengaluru",
-      "archived": false
-    },
-    {
-      "id": "400d53d1a402a4d38d98eae8cfaaa5cba0c8354b",
-      "slug": "bihars-ranivas-mound-declared-monument-of-national-importanc-400d53",
-      "title": "Bihar’s Ranivas Mound declared monument of national importance",
-      "excerpt": "Currently, 70 sites in Bihar are under the stewardship of the Archaeological Survey of India.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "author": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T16:50:53.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihars-ranivas-mound-declared-monument-of-national-importance/article71679038.ece",
-      "guid": "article-71679038",
-      "titleHi": "Bihar’s Ranivas Mound declared monument of national importance",
-      "excerptHi": "Currently, 70 sites in Bihar are under the stewardship of the Archaeological Survey of India.",
       "archived": true
     }
   ],
   "usa": [
+    {
+      "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
+      "slug": "faa-announces-first-us-digital-air-traffic-control-towers-in-81aeae",
+      "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "excerpt": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T20:03:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "guid": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "titleHi": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "excerptHi": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
+      "archived": false
+    },
     {
       "id": "580fb51045f421bbf95d5a89e3db1d25c4e7476c",
       "slug": "nottingham-forest-3-1-manchester-city-premier-league-live-580fb5",
@@ -217,14 +221,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Tom Bassam",
       "image": "https://i.guim.co.uk/img/media/33596b2182620c1c23443c69fba3bd371f83582f/267_833_1997_1598/master/1997.jpg?width=140&quality=85&auto=format&fit=max&s=71860115e69ce8a72fcdcf5af331b59b",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:45:59.000Z",
       "sourceUrl": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-      "guid": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
       "titleHi": "नॉटिंघम फॉरेस्ट 3 -1 मैनचेस्टर सिटी: प्रीमियर लीग – LIVE",
       "excerptHi": "शाम 5.30बजे जीएमटी किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | पूरी टेबल | TikTok पर हमें फ़ॉलो करें | मेल टॉम हम सिटी ग्राउंड पर हैं। किक - ऑफ से पहले, हम द लास्ट पोस्ट सुनेंगे। स्मरण रविवार कल है।...",
       "archived": false
@@ -237,14 +239,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T19:42:46.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo#1",
       "titleHi": "'दाना, कृपया नौकरी कर लो! '- ट्रम्प ने UFC बॉस को व्हाइट हाउस का प्रेस सचिव बनने के लिए कहा",
       "excerptHi": "बीबीसी ने यूएफसी की मूल कंपनी व्हाइट हाउस और टीकेओ होल्डिंग्स से टिप्पणी के लिए कहा है।",
       "archived": false
@@ -260,14 +260,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Nadeem Badshah (now) and Hamish Mackay (earlier)",
       "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:36:28.000Z",
       "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "guid": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "titleHi": "क्राकोव गोलीबारी में ताज़ा अपडेट: पुलिस का कहना है कि छह लोगों की मौत हो गई और एक दर्जन से ज़्यादा लोग घायल हो गए",
       "excerptHi": "पोलैंड के प्रधान मंत्री डोनाल्ड टस्क चार महिलाओं और दो पुरुषों के मारे जाने और एक दर्जन से अधिक लोगों के घायल होने के बाद शहर की ओर जाते हैं, पोलैंड में अमेरिकी राजदूत टॉम रोज ने एक्स पर लिखा: हम सिर्फ...",
       "archived": false
@@ -282,17 +280,15 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/43sb6d/article71679321.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%209.25.35%20PM.jpeg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:30:38.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-      "guid": "article-71679140",
       "titleHi": "पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा कि इजरायल के प्रति भारत का नीतिगत बदलाव खेदजनक है",
       "excerptHi": "Amerikka - Israel Aneethiyum Makkal Samuga Kadamaiyum नामक पुस्तक में संयुक्त राज्य अमेरिका और ईरान और इजरायल - लेबनान संघर्ष के बीच शत्रुता के प्रक्षेपवक्र की जांच करने वाले लेख शामिल हैं",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a190c1df03276bcd49973ef0191ef1ce74144d49",
@@ -304,17 +300,15 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T18:14:38.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
       "titleHi": "US offers $20m reward for information about Iran's nuclear programme",
       "excerptHi": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "41fe170edde9cf36a7e6e85d25bfa4cc460a5970",
@@ -324,17 +318,15 @@
       "category": "Crypto",
       "secondaryCategories": [],
       "source": "CoinDesk",
-      "author": "Francisco Rodrigues",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:36:46.000Z",
       "sourceUrl": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "guid": "fca5b3a9-d4b8-4007-ae74-ed8c0b4a93db",
       "titleHi": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "excerptHi": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "5957c26d40da942978bfa568110a7447fcea1a2f",
@@ -346,14 +338,12 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/b9wbac/article71678038.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_2_1_U0GN4CU9.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:19:56.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
-      "guid": "article-71677912",
       "titleHi": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
       "excerptHi": "ED cannot file private complaint when other agencies decline to act on its information on alleged offences, court said while quashing ED cases against K.Y. Nanjegowda, Congress MLA from Malur",
       "archived": true
@@ -368,14 +358,12 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/o7sdxr/article71679189.ece/alternates/LANDSCAPE_1200/80692_7_11_2026_19_54_27_1_08TVKZCONGRESS.JPG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T16:23:47.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/gyanesh-kumar-will-soon-be-forced-to-step-down-says-kc-venugopal/article71678914.ece",
-      "guid": "article-71678914",
       "titleHi": "Gyanesh Kumar will soon be forced to step down, says K.C. Venugopal",
       "excerptHi": "AICC general secretary accuses Prime Minister Narendra Modi and Union Home Minister Amit Shah of using the Election Commission of India to undermine the Congress and influence electoral outcomes",
       "archived": true
@@ -390,40 +378,60 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/incoming/tmkpxm/article71679221.ece/alternates/LANDSCAPE_1200/2699_6_11_2026_17_36_12_1_07HUBLIAIDSOPROTEST_2.JPG",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T16:15:19.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/aidso-protests-against-alleged-move-to-close-45000-government-schools/article71674332.ece",
-      "guid": "article-71674332",
       "titleHi": "AIDSO protests against Congress government’s move to allow adoption of govt. schools by private institutions",
       "excerptHi": "Hundreds of students under the aegis of All India Democratic Students’ Organisation (AIDSO) staged a protest at Vivekananda Circle in Dharwad on Friday, condemning the State government’s move to allow adoption of…",
-      "archived": true
-    },
-    {
-      "id": "73be1ddc7ff24f89939fa7315d8470755918688e",
-      "slug": "the-us-let-nvidia-sell-chips-to-an-empty-office-in-china-73be1d",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "excerpt": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York…",
-      "category": "Technology",
-      "secondaryCategories": [],
-      "source": "The Verge",
-      "author": "The Verge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:43:45.000Z",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "guid": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "titleHi": "The US let Nvidia sell chips to an empty office in China",
-      "excerptHi": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York…",
       "archived": true
     }
   ],
   "europe": [
+    {
+      "id": "09bcebef1acb298fb3507923a9d29676f536e75c",
+      "slug": "poland-footage-shows-people-taking-cover-as-a-gunman-opens-f-09bceb",
+      "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
+      "excerpt": "Footage shows people fleeing as cars speed away during a deadly shooting at Krakow's Main Market Square, which left six people dead and about 15 injured.",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Business"
+      ],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T22:10:08.000Z",
+      "sourceUrl": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+      "guid": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
+      "titleHi": "पोलैंड: फुटेज में दिखाया गया है कि क्राको में बंदूकधारी के गोली चलाने के दौरान लोग कवर लेते हैं",
+      "excerptHi": "फुटेज में दिखाया गया है कि क्राको के मेन मार्केट स्क्वायर पर एक घातक गोलीबारी के दौरान कारों की रफ्तार बढ़ने के कारण लोग भाग रहे हैं, जिसमें छह लोग मारे गए और लगभग 15 घायल हो गए।",
+      "archived": false
+    },
+    {
+      "id": "5fd1eb060562481215e953f8174bad7472ed5f57",
+      "slug": "ukraine-russian-strikes-hit-kyiv-region-damaging-infrastruct-5fd1eb",
+      "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
+      "excerpt": "Russian strikes have damaged infrastructure in the Kyiv region and left a kindergarten in ruins in the Ukrainian capital. Firefighters battled a major blaze as Ukraine faced renewed attacks on its energy network.",
+      "category": "Europe",
+      "secondaryCategories": [],
+      "source": "Euronews",
+      "author": "Euronews",
+      "image": null,
+      "imageType": "none",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T21:45:27.000Z",
+      "sourceUrl": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+      "guid": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
+      "titleHi": "यूक्रेन: रूसी हमलों ने कीव क्षेत्र को प्रभावित किया, बुनियादी ढांचे को नुकसान पहुंचाया",
+      "excerptHi": "रूसी हमलों ने कीव क्षेत्र में बुनियादी ढांचे को नुकसान पहुंचाया है और यूक्रेनी राजधानी में एक किंडरगार्टन खंडहर में छोड़ दिया है। अग्निशामकों ने एक बड़ी आग से जूझना पड़ा क्योंकि यूक्रेन को अपने ऊर्जा नेटवर्क पर नए सिरे से हमलों का सामना करना पड़ा।",
+      "archived": false
+    },
     {
       "id": "10a11a207755a602a9153d30541579e1ed524360",
       "slug": "what-we-know-about-krakow-mass-shooting-so-far-10a11a",
@@ -432,14 +440,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:51:44.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo#0",
       "titleHi": "क्राको मास शूटिंग के बारे में हम अब तक क्या जानते हैं",
       "excerptHi": "पोलैंड के दूसरे सबसे बड़े शहर में गोलीबारी करने वाले सैन्य थकान में एक बंदूकधारी द्वारा कम से कम छह लोगों की मौत हो गई।",
       "archived": false
@@ -455,14 +461,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Nadeem Badshah (now) and Hamish Mackay (earlier)",
       "image": "https://i.guim.co.uk/img/media/e32b67bd2c480efc91d11a0ef804c62a760ee830/451_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=61703e9a86e28a806ff71546f8571161",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:36:28.000Z",
       "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "guid": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "titleHi": "क्राकोव गोलीबारी में ताज़ा अपडेट: पुलिस का कहना है कि छह लोगों की मौत हो गई और एक दर्जन से ज़्यादा लोग घायल हो गए",
       "excerptHi": "पोलैंड के प्रधान मंत्री डोनाल्ड टस्क चार महिलाओं और दो पुरुषों के मारे जाने और एक दर्जन से अधिक लोगों के घायल होने के बाद शहर की ओर जाते हैं, पोलैंड में अमेरिकी राजदूत टॉम रोज ने एक्स पर लिखा: हम सिर्फ...",
       "archived": false
@@ -475,17 +479,15 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:15:23.000Z",
       "sourceUrl": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
-      "guid": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
       "titleHi": "वीडियो में दिखाया गया है कि क्राकोव, पोलैंड में बंदूकधारी द्वारा गोली चलाए जाने के बाद लोग भाग रहे हैं",
       "excerptHi": "पुलिस के अनुसार, यूजीसी के फुटेज में क्राकोव, पोलैंड में एक घातक गोलीबारी के सामने आने के बाद लोगों को कवर के लिए भागते हुए दिखाया गया है, जिसमें कम से कम छह लोग मारे गए और लगभग एक दर्जन घायल हो गए।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9e8126307cc11e6c48efcd5a797472726d7e2ae8",
@@ -495,17 +497,15 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:15:36.000Z",
       "sourceUrl": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
-      "guid": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
       "titleHi": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
       "excerptHi": "The Pontiff was welcomed by 40,000 people in Paysandú, Uruguay. Leo's sixth apostolic journey comes less than a month after lung adenocarcinoma surgery at Rome's Gemelli Hospital.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "f50d287e94f55242d194d7fe07ba746db39bdc17",
@@ -518,14 +518,12 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Donna Ferguson and agencies",
       "image": "https://i.guim.co.uk/img/media/44d89feb8fd3d623f15ee900fa818b7ea8bacb9e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b1112e07502aff450bcdb9a2908dda9",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:17:23.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-      "guid": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
       "titleHi": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
       "excerptHi": "Poland’s interior minister says there were indications the gunman was “fascinated by far-right ideology” Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in…",
       "archived": true
@@ -538,14 +536,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:00:26.000Z",
       "sourceUrl": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
-      "guid": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
       "titleHi": "Latest news bulletin | November 7th, 2026 – Evening",
       "excerptHi": "Catch up with the most important stories from around Europe and beyond this November 7th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
       "archived": true
@@ -560,14 +556,12 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T16:50:06.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o#1",
       "titleHi": "Italian foreign minister says hackers leaked his personal data",
       "excerptHi": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
       "archived": true
@@ -582,58 +576,40 @@
         "Business"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T15:19:35.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo#0",
       "titleHi": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "excerptHi": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "archived": true
-    },
-    {
-      "id": "306d8dfa440ca4bc87b69225b255b87081b79800",
-      "slug": "vetting-candidates-is-a-tricky-process-but-reform-cant-seem-306d8d",
-      "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
-      "excerpt": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood…",
-      "category": "Europe",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/79076a3b05d8796724e0007bdd12c573ab1f8e2d/1172_0_5860_4688/master/5860.jpg?width=140&quality=85&auto=format&fit=max&s=9a6c47d0cba77ccee4d84a4af2abc56b",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:00:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
-      "titleHi": "उम्मीदवारों की जांच करना एक मुश्किल प्रक्रिया है, लेकिन सुधार सही नहीं लग रहा है",
-      "excerptHi": "इस सप्ताह अपने नए रक्षा प्रवक्ता का अनावरण करने के बाद संवाददाताओं से बात करते हुए, निगेल फैरेज का आनंददायक और उत्साही मूड...",
-      "archived": true
-    },
-    {
-      "id": "d165bac607c247b710f3c82932765524b8f11c36",
-      "slug": "life-changing-parents-welcome-10m-uk-play-centre-for-disable-d165ba",
-      "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
-      "excerpt": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure…",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Science"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/a2fc75b9c99135828cf28282679c71defca50e3a/170_0_1743_1394/master/1743.jpg?width=140&quality=85&auto=format&fit=max&s=c088c79f811c505ddb02589249c77371",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:00:13.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
-      "titleHi": "‘लाइफ - चेंजिंग ': माता - पिता विकलांग बच्चों के लिए £ 10 मिलियन यूके प्ले सेंटर का स्वागत करते हैं",
-      "excerptHi": "ब्रिस्टल के पास जिमपांज़ी अपने प्रकार की पहली यूके साइट होगी, जो नियमित खेल के मैदानों का उपयोग करने में असमर्थ बच्चों के लिए खानपान होगी स्टेफ़नी व्हीन को यूके का पहला नाटक और अवकाश बनाने के लिए तैयार हुए एक दशक से अधिक समय हो गया है...",
       "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "2518760e0561bdeb2daa02dbc416fa5a63a0c0fd",
+      "slug": "wales-let-themselves-down-despite-win---lake-251876",
+      "title": "Wales let themselves down despite win - Lake",
+      "excerpt": "Captain Dewi Lake knows there is plenty to improve following a lacklustre 28-21 Nations Championship victory over Japan.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a5/live/106f6210-daef-11f1-874f-676ba8accebe.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-07T21:03:07.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go#1",
+      "titleHi": "वेल्स ने जीत के बावजूद खुद को निराश किया - झील",
+      "excerptHi": "कैप्टन डेवी लेक जानते हैं कि जापान पर 28 -21 नेशंस चैंपियनशिप की खराब जीत के बाद सुधार करने के लिए बहुत कुछ है।",
+      "archived": false
+    },
     {
       "id": "468ee60237f48789a422933c306261015fcc8bc5",
       "slug": "highlights-wales-28-21-japan-468ee6",
@@ -644,17 +620,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/94e46660-dadd-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T19:02:48.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/videos/ckd6d1496g3wo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/videos/ckd6d1496g3wo#2",
       "titleHi": "हाइलाइट्स: वेल्स 28 -21 जापान",
       "excerptHi": "कार्डिफ़ में नेशंस चैम्पियनशिप के अपने शुरुआती मैच में वेल्स ने जापान को 28 -21 से हराया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "20877cb4347750f33b48892a46f4bf81b396c32f",
@@ -666,17 +640,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3cb/live/47522870-dad2-11f1-bda8-29fb69dbc026.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T18:43:59.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/crd6d1ygjv68o#0",
       "titleHi": "जापान के खिलाफ बोनस - पॉइंट जीत के लिए वेल्स का श्रम",
       "excerptHi": "वेल्स ने प्रिंसिपलिटी स्टेडियम में जापान के खिलाफ 28 -21 की अविश्वसनीय बोनस - पॉइंट जीत के साथ अपने नेशंस चैंपियनशिप अभियान को फिर से शुरू किया।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "d1b4bbec36c201f8e77704c8551658b8b58ec49a",
@@ -686,14 +658,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/257c/live/902193b0-dac8-11f1-bda8-29fb69dbc026.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T16:58:31.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/snooker/articles/c54g1n39g30zo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/snooker/articles/c54g1n39g30zo#6",
       "titleHi": "Wilson beats Higgins to win International Championship",
       "excerptHi": "Kyren Wilson claims the 12th ranking title of his career by beating John Higgins 10-8 in the International Championship final in China.",
       "archived": true
@@ -706,14 +676,12 @@
       "category": "Technology",
       "secondaryCategories": [],
       "source": "The Verge",
-      "author": "The Verge",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T15:43:45.000Z",
       "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "guid": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
       "titleHi": "The US let Nvidia sell chips to an empty office in China",
       "excerptHi": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York…",
       "archived": true
@@ -810,26 +778,6 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
       "titleHi": "पश्चिम एशिया संघर्ष के बीच बढ़ती माल ढुलाई लागत केरल के निर्यात को क्यों निचोड़ रही है",
       "excerptHi": "परिवहन लागत में भारी वृद्धि ने केरल के उत्पादों को विदेशी बाजारों में कम प्रतिस्पर्धी बना दिया है",
-      "archived": true
-    },
-    {
-      "id": "193d0dabee8de19308339f65be7c38308e5e9ae4",
-      "slug": "japan-date-starts-pivotal-month-for-welsh-rugby-193d0d",
-      "title": "Japan date starts pivotal month for Welsh rugby",
-      "excerpt": "With a World Cup on the horizon and plenty of uncertainty remaining, Steve Tandy's side hope to give the game in Wales a boost.",
-      "category": "Sports",
-      "secondaryCategories": [
-        "Europe"
-      ],
-      "source": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/6e698a10-d9e3-11f1-bbe5-797ee05bee69.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T06:25:09.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8ez336g0r1o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Japan date starts pivotal month for Welsh rugby",
-      "excerptHi": "With a World Cup on the horizon and plenty of uncertainty remaining, Steve Tandy's side hope to give the game in Wales a boost.",
       "archived": true
     }
   ],
@@ -987,6 +935,50 @@
   ],
   "middleeast": [
     {
+      "id": "6f06cf85fa1170a401f2d1e2b66e7548b072ed76",
+      "slug": "israels-president-tasks-opposition-leader-eisenkot-with-form-6f06cf",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "excerpt": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-07T22:19:59.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
+      "titleHi": "इज़राइल के राष्ट्रपति ने विपक्षी नेता आइज़ेनकोट को सरकार बनाने का काम सौंपा",
+      "excerptHi": "पिछले सप्ताह के चुनाव में न तो प्रधानमंत्री बेंजामिन नेतन्याहू के ब्लॉक और न ही उनके प्रतिद्वंद्वी ने बहुमत हासिल किया।",
+      "archived": false
+    },
+    {
+      "id": "c58085b689f6dfcf5b3629ce599c89f1fc1a1d39",
+      "slug": "israels-president-picks-yashar-leader-gadi-eisenkot-to-form-c58085",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "excerpt": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T19:49:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "guid": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "titleHi": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "excerptHi": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
+      "archived": false
+    },
+    {
       "id": "737a422cc6b242029c569e1e52a3b5d92cd7bee9",
       "slug": "seventh-tier-guiseley-stun-sutton-with-stoppage-time-penalty-737a42",
       "title": "Seventh-tier Guiseley stun Sutton with stoppage-time penalty",
@@ -994,17 +986,15 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fce/live/948e65e0-dad7-11f1-a701-fddedf244c16.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:32:30.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cm4g1nx3xgdjo#3",
       "titleHi": "सातवें - स्तरीय गुइसेले ने स्टॉप - टाइम पेनल्टी के साथ सटन को रोक दिया",
       "excerptHi": "जॉर्डन थेव्लिस ने स्टॉप - टाइम पेनाल्टी लगाकर सातवें - स्तरीय गुइसेले को सटन यूनाइटेड पर एफए कप के पहले दौर के मुकाबले में 1 -0 से नाटकीय जीत दिलाई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "48f791085cedd9ebe5b66309aee19f3f61bbf216",
@@ -1016,17 +1006,15 @@
         "Politics"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/43sb6d/article71679321.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%209.25.35%20PM.jpeg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:30:38.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-      "guid": "article-71679140",
       "titleHi": "पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा कि इजरायल के प्रति भारत का नीतिगत बदलाव खेदजनक है",
       "excerptHi": "Amerikka - Israel Aneethiyum Makkal Samuga Kadamaiyum नामक पुस्तक में संयुक्त राज्य अमेरिका और ईरान और इजरायल - लेबनान संघर्ष के बीच शत्रुता के प्रक्षेपवक्र की जांच करने वाले लेख शामिल हैं",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a190c1df03276bcd49973ef0191ef1ce74144d49",
@@ -1038,17 +1026,15 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T18:14:38.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
       "titleHi": "US offers $20m reward for information about Iran's nuclear programme",
       "excerptHi": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c334eb223f39033666fe0cbaa634221f184b4e0d",
@@ -1060,17 +1046,15 @@
         "Culture"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:58:41.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#2",
       "titleHi": "Gaza wedding festival sees 250 couples married at the same time",
       "excerptHi": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "41fe170edde9cf36a7e6e85d25bfa4cc460a5970",
@@ -1080,17 +1064,15 @@
       "category": "Crypto",
       "secondaryCategories": [],
       "source": "CoinDesk",
-      "author": "Francisco Rodrigues",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/9b6c50614a95b8691bb96a1027e2c050c8f9b64c-960x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:36:46.000Z",
       "sourceUrl": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "guid": "fca5b3a9-d4b8-4007-ae74-ed8c0b4a93db",
       "titleHi": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "excerptHi": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b3534df0c8743592225e3ea5e38a9511b923dcf1",
@@ -1100,14 +1082,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:09:24.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
       "titleHi": "Houthis say at least 25 killed in Saudi air strike",
       "excerptHi": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "archived": true
@@ -1147,46 +1127,6 @@
       "titleHi": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
       "excerptHi": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with…",
       "archived": true
-    },
-    {
-      "id": "99ee609f31372946851dea6988cb84a9b1b8e9a9",
-      "slug": "us-launches-new-targeted-strikes-on-iran-as-trump-claims-pro-99ee60",
-      "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
-      "excerpt": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war.",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T11:35:53.000Z",
-      "sourceUrl": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-      "titleHi": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
-      "excerptHi": "The US military carried out new airstrikes on Iranian defence systems, sending ripples across the Gulf, but Trump insists they are “minor strikes” while intense diplomatic efforts continue to avert an all-out war.",
-      "archived": true
-    },
-    {
-      "id": "4e39ecaff924633d24699348ba9c00b056f5fdf0",
-      "slug": "us-offers-20-million-reward-and-possible-relocation-for-info-4e39ec",
-      "title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
-      "excerpt": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "Euronews",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T11:31:19.000Z",
-      "sourceUrl": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
-      "titleHi": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
-      "excerptHi": "The State Department said: \"The regime’s lack of compliance with the IAEA on safeguards obligations has led to the agency’s loss of 'continuity of knowledge.'\"",
-      "archived": true
     }
   ],
   "latam": [
@@ -1198,14 +1138,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Philip Cornwall",
       "image": "https://i.guim.co.uk/img/media/69738f76fe0ecde30a5e78bb95a9f81ea16c3eb7/724_258_3806_3044/master/3806.jpg?width=140&quality=85&auto=format&fit=max&s=a22a444eaae2561329c068abdb61bded",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:48:20.000Z",
       "sourceUrl": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-      "guid": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
       "titleHi": "ब्राज़ील में क्वालीफ़ाई कर रहे साओ पाउलो फ़ॉर्मूला वन ग्रैंड प्रिक्स – लाल झंडे के बाद फिर से लाइव",
       "excerptHi": "इंटरलागोस से ️ अपडेट (सेशन शाम 6 बजे GMT से शुरू होता है) द रिकैप न्यूज़लेटर के लिए ️ साइन अप करें | और अपग्रेड किए गए मैकलेरन में एंटोनेली, रसेल और नॉरिस की पोल संभावनाओं के माध्यम से बात करते हुए फिलिप टेड क्रावित्ज़ को ईमेल करें।…",
       "archived": false
@@ -1218,17 +1156,15 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4619/live/4e75a6e0-9d6f-11f1-bdcc-8926c4a74c43.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:33:18.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/articles/crn4ekzyz8jlo#4",
       "titleHi": "फीफा द्वारा अपील खारिज किए जाने के बाद अर्जेंटीना कैस जाने के लिए तैयार है",
       "excerptHi": "अर्जेंटीना फुटबॉल एसोसिएशन का कहना है कि वह फीफा द्वारा विश्व कप दंड के खिलाफ अपनी अपील को खारिज करने को लेकर कोर्ट ऑफ आर्बिट्रेशन फॉर स्पोर्ट में जाने की योजना बना रहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "9e8126307cc11e6c48efcd5a797472726d7e2ae8",
@@ -1238,17 +1174,15 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:15:36.000Z",
       "sourceUrl": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
-      "guid": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
       "titleHi": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
       "excerptHi": "The Pontiff was welcomed by 40,000 people in Paysandú, Uruguay. Leo's sixth apostolic journey comes less than a month after lung adenocarcinoma surgery at Rome's Gemelli Hospital.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b8f1fb73a01c8685401c9e9d4faa03c0009e1004",
@@ -1389,6 +1323,48 @@
   ],
   "oceania": [
     {
+      "id": "6e31703fcb817cd98f11700d43f2b48e72c9ba9e",
+      "slug": "can-new-zealands-new-government-win-over-disillusioned-voter-6e3170",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "excerpt": "The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.",
+      "category": "Business",
+      "secondaryCategories": [],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T21:36:16.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#3",
+      "titleHi": "क्या न्यूजीलैंड की नई सरकार मोहभंग वाले मतदाताओं पर जीत हासिल कर सकती है?",
+      "excerptHi": "मनोदशा कम है, और कीवी का राजनीति में विश्वास और भी कम है - मतदाताओं ने चुनावों में मुख्य दलों को छोड़ दिया है।",
+      "archived": false
+    },
+    {
+      "id": "85113aea00b9688ea09ed1f4dbb773e7b9334f16",
+      "slug": "scotlands-familiar-frailties-brutally-exposed-in-all-blacks-85113a",
+      "title": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
+      "excerpt": "Hopes of a first-ever win over New Zealand were trampled along with Scotland's mission statement, writes Tom English.",
+      "category": "Sports",
+      "secondaryCategories": [
+        "Europe"
+      ],
+      "source": "BBC Sport",
+      "author": "BBC Sport",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d4/live/944d4e20-daeb-11f1-aac9-0789014bcc48.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-07T20:57:12.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o#1",
+      "titleHi": "ऑल ब्लैक स्कूली शिक्षा में स्कॉटलैंड की परिचित कमजोरियों को बेरहमी से उजागर किया गया",
+      "excerptHi": "स्कॉटलैंड के मिशन के बयान के साथ न्यूजीलैंड पर पहली बार जीत की उम्मीदों को कुचल दिया गया था, टॉम इंग्लिश लिखते हैं।",
+      "archived": false
+    },
+    {
       "id": "ca6bcf5a272146d447815b523d9b9959ebb17170",
       "slug": "seven-try-new-zealand-too-strong-for-scotland-ca6bcf",
       "title": "Seven-try New Zealand too strong for Scotland",
@@ -1398,14 +1374,12 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c49/live/00c3cf60-dae3-11f1-a701-fddedf244c16.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T19:40:55.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/videos/c9vgr21ejk40o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/videos/c9vgr21ejk40o#2",
       "titleHi": "सात बार कोशिश करने वाला न्यूजीलैंड स्कॉटलैंड के लिए बहुत मजबूत है",
       "excerptHi": "नेशंस चैंपियनशिप में स्कॉटलैंड के लिए न्यूजीलैंड बहुत मजबूत साबित होने के साथ - साथ मरेफील्ड की हाइलाइट्स देखें",
       "archived": false
@@ -1421,17 +1395,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Graham Readfearn Environment and climate correspondent",
       "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&quality=85&auto=format&fit=max&s=742f8319ef65817b462bb6fc943c7e16",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:00:20.000Z",
       "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-      "guid": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
       "titleHi": "जब आपका अपना देश एक बड़ा कोयला और गैस निर्यातक है तो आप संयुक्त राष्ट्र जलवायु वार्ता को कैसे दलाली करते हैं? क्रिस बोवेन जल्द ही पता लगाने वाले हैं",
       "excerptHi": "Cop31 से पहले, जलवायु परिवर्तन मंत्री इस बारे में चिंताओं को खारिज करते हैं कि क्या ऑस्ट्रेलिया एक प्रमुख उत्पादक के रूप में दुनिया को जीवाश्म ईंधन से दूर रख सकता है पॉडकास्ट सुनें: क्रिस बोवेन इस बात पर आम सहमति तक कैसे पहुंचेंगे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "cd6cee45532d4f78521c7e00f61697e2f76c98fe",
@@ -1443,17 +1415,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e587/live/382e7350-dada-11f1-91ee-75ca1bd2f860.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T18:38:00.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o#1",
       "titleHi": "Tuipulotu ने स्कॉटलैंड के पतन की'पूरी ज़िम्मेदारी' ली",
       "excerptHi": "न्यूजीलैंड के खिलाफ स्कॉटलैंड के दूसरे हाफ नेशंस चैंपियनशिप के पतन की जिम्मेदारी लेते हुए कप्तान सियोन तुइपुलोतु ने कहा कि वे \"कहीं भी सटीक नहीं थे\"।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "82f0f027dda993cf23145ba8b366c1970efcd867",
@@ -1465,14 +1435,12 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c759/live/32801a10-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T16:13:03.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e8l5vlgxl5o#4",
       "titleHi": "Ruthless All Blacks blow Scotland away in second half",
       "excerptHi": "New Zealand canter to a 43-21 Nations Championship win at Murrayfield as Scotland fall away after a thrilling first half.",
       "archived": true
@@ -1485,14 +1453,12 @@
       "category": "Sports",
       "secondaryCategories": [],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1340/live/7ac23fd0-dac1-11f1-a701-fddedf244c16.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T15:47:06.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/videos/cq80z8l8zgzno?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/football/videos/cq80z8l8zgzno#3",
       "titleHi": "New Zealand beat Tonga to reach World Cup final",
       "excerptHi": "Kalyn Ponga returns to inspire New Zealand to a 34-10 victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
       "archived": true
@@ -1554,47 +1520,95 @@
       "titleHi": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
       "excerptHi": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
       "archived": true
+    }
+  ],
+  "world": [
+    {
+      "id": "6f06cf85fa1170a401f2d1e2b66e7548b072ed76",
+      "slug": "israels-president-tasks-opposition-leader-eisenkot-with-form-6f06cf",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "excerpt": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "BBC",
+      "author": "BBC",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-07T22:19:59.000Z",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "guid": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
+      "titleHi": "इज़राइल के राष्ट्रपति ने विपक्षी नेता आइज़ेनकोट को सरकार बनाने का काम सौंपा",
+      "excerptHi": "पिछले सप्ताह के चुनाव में न तो प्रधानमंत्री बेंजामिन नेतन्याहू के ब्लॉक और न ही उनके प्रतिद्वंद्वी ने बहुमत हासिल किया।",
+      "archived": false
     },
     {
-      "id": "d848c86be31a2065722aa288ab29b89c95684609",
-      "slug": "thunderstruck-what-does-the-future-hold-for-lightning-d848c8",
-      "title": "Thunderstruck: what does the future hold for lightning?",
-      "excerpt": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an…",
-      "category": "Science",
-      "secondaryCategories": [],
+      "id": "154e291d30373dd3e5a2bb68b3942561f5e62284",
+      "slug": "richard-lloyd-founding-member-and-guitarist-of-punk-band-tel-154e29",
+      "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+      "excerpt": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement Richard Lloyd, known for his sophisticated musical style as a founding member and guitarist for the…",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
       "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/db20b5e67ea16dc68b43f864c0ec42c03a854557/139_0_3733_2987/master/3733.jpg?width=140&quality=85&auto=format&fit=max&s=916aafaab5c757acf7f05bb8295a5d51",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/bfa67dad8286b03a693134e3e3003bd7248371b6/0_118_2391_1911/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=1396c502fafb87824f07ac1d9b382ab5",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-11-07T14:00:13.000Z",
-      "sourceUrl": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
-      "titleHi": "Thunderstruck: what does the future hold for lightning?",
-      "excerptHi": "Humans have always been awed by the power and beauty of lightning. How does the experience and understanding of it change in a warming world? In a rock shelter in Kakadu national park in the north of Australia is an…",
-      "archived": true
+      "publishedAt": "2026-11-07T20:06:25.000Z",
+      "sourceUrl": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+      "guid": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
+      "titleHi": "पंक बैंड टेलीविज़न के संस्थापक सदस्य और गिटारवादक रिचर्ड लॉयड का 75 साल की उम्र में निधन हो गया",
+      "excerptHi": "बैंड में परिष्कृत संगीत शैली के लिए जाना जाता है जिसने 1970 के दशक के उभरते पंक रॉक आंदोलन रिचर्ड लॉयड में महत्वपूर्ण भूमिका निभाई, जो एक संस्थापक सदस्य और गिटारवादक के रूप में अपनी परिष्कृत संगीत शैली के लिए जाना जाता है...",
+      "archived": false
     },
     {
-      "id": "e5980b093e3f1e00bb0c070763234bffee8bb945",
-      "slug": "new-zealand-faces-weeks-of-uncertainty-with-election-too-clo-e5980b",
-      "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-      "excerpt": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its…",
+      "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
+      "slug": "faa-announces-first-us-digital-air-traffic-control-towers-in-81aeae",
+      "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "excerpt": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Marina Dunbar",
+      "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T20:03:23.000Z",
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "guid": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+      "titleHi": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+      "excerptHi": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
+      "archived": false
+    },
+    {
+      "id": "c58085b689f6dfcf5b3629ce599c89f1fc1a1d39",
+      "slug": "israels-president-picks-yashar-leader-gadi-eisenkot-to-form-c58085",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "excerpt": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
       "category": "World",
       "secondaryCategories": [
         "Politics"
       ],
       "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=030d6b177625782a5ee646ba1c1d9571",
+      "author": "Guardian staff and agencies",
+      "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-11-07T13:48:18.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-      "titleHi": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-      "excerptHi": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its…",
-      "archived": true
-    }
-  ],
-  "world": [
+      "publishedAt": "2026-11-07T19:49:39.000Z",
+      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "guid": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "titleHi": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "excerptHi": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
+      "archived": false
+    },
     {
       "id": "fcc57baef9eb643a5db408a92d4c31a9f53fc1fe",
       "slug": "how-do-you-broker-un-climate-talks-when-your-own-country-is-fcc57b",
@@ -1606,17 +1620,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Graham Readfearn Environment and climate correspondent",
       "image": "https://i.guim.co.uk/img/media/bb286d73fb7d844e4e9bbf6f098aca4d917fe76f/127_0_5701_4561/master/5701.jpg?width=140&quality=85&auto=format&fit=max&s=742f8319ef65817b462bb6fc943c7e16",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:00:20.000Z",
       "sourceUrl": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-      "guid": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
       "titleHi": "जब आपका अपना देश एक बड़ा कोयला और गैस निर्यातक है तो आप संयुक्त राष्ट्र जलवायु वार्ता को कैसे दलाली करते हैं? क्रिस बोवेन जल्द ही पता लगाने वाले हैं",
       "excerptHi": "Cop31 से पहले, जलवायु परिवर्तन मंत्री इस बारे में चिंताओं को खारिज करते हैं कि क्या ऑस्ट्रेलिया एक प्रमुख उत्पादक के रूप में दुनिया को जीवाश्म ईंधन से दूर रख सकता है पॉडकास्ट सुनें: क्रिस बोवेन इस बात पर आम सहमति तक कैसे पहुंचेंगे...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "85f5a1252208f85fb4f2f5ed06c50bd6bd97769f",
@@ -1629,17 +1641,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Henry Belot",
       "image": "https://i.guim.co.uk/img/media/8c639709fffda9b930d49d011734b4c7cba4ef67/294_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=f4cdd0a0f9c2b488500e29ec890f1dd9",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:00:19.000Z",
       "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
-      "guid": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
       "titleHi": "एक बिग बिल्ड रॉयल कमीशन ने बेन कैरोल को प्रमुख बनने में मदद की। क्या यह उसका पतन होगा?",
       "excerptHi": "दो हफ्तों की सार्वजनिक सुनवाई सोमवार सुबह शुरू होगी, ठीक राज्य चुनाव अभियान के बीच में हमारा दैनिक राजनीतिक ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें प्रतिबद्धता जिसने बेन कैरोल को प्रमुख बनाया...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "a190c1df03276bcd49973ef0191ef1ce74144d49",
@@ -1651,17 +1661,15 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T18:14:38.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo#0",
       "titleHi": "US offers $20m reward for information about Iran's nuclear programme",
       "excerptHi": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c334eb223f39033666fe0cbaa634221f184b4e0d",
@@ -1673,17 +1681,15 @@
         "Culture"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:58:41.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o#2",
       "titleHi": "Gaza wedding festival sees 250 couples married at the same time",
       "excerptHi": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "archived": false
+      "archived": true
     },
     {
       "id": "b3534df0c8743592225e3ea5e38a9511b923dcf1",
@@ -1693,14 +1699,12 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T17:09:24.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo#0",
       "titleHi": "Houthis say at least 25 killed in Saudi air strike",
       "excerptHi": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "archived": true
@@ -1713,99 +1717,14 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Denis Campbell Health policy editor",
       "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T17:00:16.000Z",
       "sourceUrl": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-      "guid": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
       "titleHi": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
       "excerptHi": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s…",
-      "archived": true
-    },
-    {
-      "id": "1e8aa65b185318cefb3040dec85b79d60f23dd40",
-      "slug": "stephen-miller-trumps-incoming-chief-of-staff-pledges-total-1e8aa6",
-      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-      "excerpt": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump’s most controversial aide and the architect of his sweeping…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "author": "Adam Gabbatt in New York",
-      "image": "https://i.guim.co.uk/img/media/0513655571bc4088f5bb985eb507ce166bb05875/0_0_1688_1350/master/1688.jpg?width=140&quality=85&auto=format&fit=max&s=2d5272d0b153de2c51ded2a593e0dae8",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:15:11.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-      "guid": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-      "titleHi": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-      "excerptHi": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump’s most controversial aide and the architect of his sweeping…",
-      "archived": true
-    },
-    {
-      "id": "d9a5742fea3d12cdea4290d808b35688bad63f56",
-      "slug": "national-trust-votes-to-seek-banking-partner-more-in-tune-wi-d9a574",
-      "title": "National Trust votes to seek banking partner more in tune with its environment policies",
-      "excerpt": "Charity’s AGM decided overwhelmingly to begin a tendering process amid criticism of current bank Barclays fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a…",
-      "category": "World",
-      "secondaryCategories": [
-        "Science",
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/dc64bc6246e14e6cee84cc37de530fcb20e77631/0_1027_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=ba7e56551d26aadfae97c94f285e92ed",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:06:59.000Z",
-      "sourceUrl": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
-      "titleHi": "नेशनल ट्रस्ट अपनी पर्यावरण नीतियों के अनुरूप बैंकिंग पार्टनर की तलाश करने के लिए वोट करता है",
-      "excerptHi": "चैरिटी की एजीएम ने मौजूदा बैंक बार्कलेज के जीवाश्म ईंधन निवेश की आलोचना के बीच निविदा प्रक्रिया शुरू करने का भारी फैसला किया है नेशनल ट्रस्ट ने एक नए बैंकिंग भागीदार की तलाश के लिए भारी मतदान किया है...",
-      "archived": true
-    },
-    {
-      "id": "ead47727fd918b022731e0735aa28740e2aed8d8",
-      "slug": "las-newer-bluer-wave-nithya-raman-leads-way-as-citys-progres-ead477",
-      "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-      "excerpt": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a…",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/de0553be8f1e9959d7a8cc2b36c929f7d7aa7bef/526_0_5605_4488/master/5605.jpg?width=140&quality=85&auto=format&fit=max&s=2e4b52ad9ae2c6f92ee9e9f538f739ce",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T15:00:14.000Z",
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-      "titleHi": "लॉस एंजिल्स की नई, नीली लहर: शहर के प्रगतिशील अपनी छाप छोड़ते हुए नित्या रमन आगे बढ़ रही हैं",
-      "excerptHi": "डेमोक्रेटिक सोशलिस्टों ने मेयरशिप, यूएस हाउस सीट और लॉस एंजिल्स में शक्तिशाली पदों पर जीत हासिल की – और स्वयंसेवकों के एक बड़े नेटवर्क ने उन्हें ऐसा करने में मदद की क्योंकि इस सप्ताह एक नीली सुनामी ने अमेरिकी राजनीति को पछाड़ दिया, लॉस एंजिल्स ने एक...",
-      "archived": true
-    },
-    {
-      "id": "6627ae0c02183fa742f1a12f7d6592a19b5322af",
-      "slug": "no-clear-winner-after-tight-new-zealand-general-election-6627ae",
-      "title": "No clear winner after tight New Zealand general election",
-      "excerpt": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T15:00:10.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "तंग न्यूजीलैंड आम चुनाव के बाद कोई स्पष्ट विजेता नहीं",
-      "excerptHi": "एक अत्यधिक विभाजित राष्ट्रीय संसद की ओर इशारा करते हुए प्रारंभिक परिणामों के बाद गठबंधन वार्ता के सप्ताह चल सकते हैं।",
       "archived": true
     }
   ]
