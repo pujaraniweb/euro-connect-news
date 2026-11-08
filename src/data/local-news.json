@@ -1,6 +1,132 @@
 {
-  "generatedAt": "2026-11-07T23:26:34.042Z",
+  "generatedAt": "2026-11-08T04:33:00.727Z",
   "india": [
+    {
+      "id": "883e363d292644f24a4bfa53fb7c37a19c554964",
+      "slug": "ht-morning-news-brief-november-8-delhis-worst-diwali-eve-air-883e36",
+      "title": "HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more",
+      "excerpt": "Here are today's top headlines from politics, national and global events, sports, and entertainment.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/htmorningbrief_1794107624441_gzEN_1794107624555_lefi_4899f197-850f-4dff-b993-a4a58dd9276a_EnEq.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-08T03:33:33.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html",
+      "guid": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html",
+      "titleHi": "एचटी मॉर्निंग न्यूज़ संक्षिप्त 8 नवंबर: दिल्ली की दिवाली की पूर्व संध्या पर 10 साल में सबसे खराब हवा; इज़राइल राष्ट्रपति ने नेतन्याहू के प्रतिद्वंद्वी ईसेनकोट को चुना, और भी बहुत कुछ",
+      "excerptHi": "राजनीति, राष्ट्रीय और वैश्विक कार्यक्रमों, खेल और मनोरंजन से आज की शीर्ष सुर्खियां यहां दी गई हैं।",
+      "archived": false
+    },
+    {
+      "id": "21d20988fb9ff4bbef747925d7919ed85e28c559",
+      "slug": "punjab-police-brings-back-wanted-gangster-gurwinder-alias-af-21d209",
+      "title": "Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia",
+      "excerpt": "Gurwinder aka Afridi, against whom the Punjab government had announced a reward of ₹5 lakh, landed at Delhi’s Indira Gandhi International (IGI) Airport",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/gunn_1794103195428_Jjk4_1794103208126_qoHr_ec4f28bf-4267-4d51-9610-3bc659b277e8_A4ki.jpeg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T02:07:04.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/punjab-police-brings-back-wanted-gangster-gurwinder-alias-afridi-from-ethiopia-extradition-africa-101794103211445.html",
+      "guid": "https://www.hindustantimes.com/india-news/punjab-police-brings-back-wanted-gangster-gurwinder-alias-afridi-from-ethiopia-extradition-africa-101794103211445.html",
+      "titleHi": "पंजाब पुलिस ने वांछित गैंगस्टर गुरविंदर उर्फ अफरीदी को इथियोपिया से वापस लाया",
+      "excerptHi": "गुरविंदर उर्फ अफरीदी, जिनके खिलाफ पंजाब सरकार ने ₹ 5 लाख के इनाम की घोषणा की थी, दिल्ली के इंदिरा गांधी अंतर्राष्ट्रीय (IGI) हवाई अड्डे पर उतरे",
+      "archived": false
+    },
+    {
+      "id": "c64998522684586a7f74688126ae17f3ddcdfa05",
+      "slug": "hc-restrains-unauthorised-use-of-amitabhs-name-likeness-c64998",
+      "title": "HC restrains unauthorised use of Amitabh’s name, likeness",
+      "excerpt": "The Delhi high court has permanently protected the personality rights of veteran Bollywood actor Amitabh Bachchan, restraining entities from using his name, image, voice or other aspects of his persona without his…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Amitabh-Bachchan_1794077125656_toJw.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T02:06:30.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/hc-restrains-unauthorised-use-of-amitabh-s-name-likeness-101794077136112.html",
+      "guid": "https://www.hindustantimes.com/india-news/hc-restrains-unauthorised-use-of-amitabh-s-name-likeness-101794077136112.html",
+      "titleHi": "हाईकोर्ट ने अमिताभ के नाम, समानता के अनधिकृत उपयोग पर रोक लगाई",
+      "excerptHi": "दिल्ली उच्च न्यायालय ने दिग्गज बॉलीवुड अभिनेता अमिताभ बच्चन के व्यक्तित्व अधिकारों को स्थायी रूप से संरक्षित किया है, जिससे संस्थाओं को उनके नाम, छवि, आवाज या उनके व्यक्तित्व के अन्य पहलुओं का उपयोग करने से रोक दिया गया है...",
+      "archived": false
+    },
+    {
+      "id": "2864d444e554cd450810c90f645073fdaba1c2b1",
+      "slug": "pm-modi-extends-diwali-wishes-to-celebrate-festival-with-jaw-2864d4",
+      "title": "PM Modi extends Diwali wishes, to celebrate festival with jawans today",
+      "excerpt": "PM Modi extended Diwali greetings to people across the country on Sunday. He will be celebrating the festival with the jawans.",
+      "category": "World",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/modi_1794100098846_M6NF_1794100099275_ZFZ7_91ec6cfc-cdae-4a21-a247-c461c633e111_UKbM.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T01:06:29.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/pm-modi-extends-diwali-greetings-will-continue-tradition-to-celebrate-festival-with-our-jawans-101794099911884.html",
+      "guid": "https://www.hindustantimes.com/india-news/pm-modi-extends-diwali-greetings-will-continue-tradition-to-celebrate-festival-with-our-jawans-101794099911884.html",
+      "titleHi": "पीएम मोदी ने दीपावली की शुभकामनाएं, आज जवानों के साथ मनाएंगे त्योहार",
+      "excerptHi": "पीएम मोदी ने रविवार को देश भर के लोगों को दीपावली की शुभकामनाएं दीं। वह जवानों के साथ त्योहार मनाएंगे।",
+      "archived": false
+    },
+    {
+      "id": "81bb4856050633225b1274eb55d17fde40bafa62",
+      "slug": "delhi-breathes-worst-air-on-diwali-eve-in-10-years-81bb48",
+      "title": "Delhi breathes worst air on Diwali eve in 10 years",
+      "excerpt": "Weak winds are forecast to trap pollution, with forecasts suggesting air quality could reach the severe category by Monday.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/delhi_pollution_1794103949831_s1NZ_1794103949930_oLuD_f648f2c9-c9e4-492c-a453-5749fb329df9_fpBb.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-08T00:50:23.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-breathes-worst-air-on-diwali-eve-in-10-years-101794098326901.html",
+      "guid": "https://www.hindustantimes.com/india-news/delhi-breathes-worst-air-on-diwali-eve-in-10-years-101794098326901.html",
+      "titleHi": "दिवाली की पूर्व संध्या पर दिल्ली ने 10 साल में सबसे खराब हवा में सांस ली",
+      "excerptHi": "कमजोर हवाओं के प्रदूषण को रोकने का अनुमान है, पूर्वानुमान बताते हैं कि सोमवार तक हवा की गुणवत्ता गंभीर श्रेणी तक पहुंच सकती है।",
+      "archived": false
+    },
+    {
+      "id": "e38ead8a3e4845309d8b9cafbf7145fbd85c2a6f",
+      "slug": "a-bridge-between-past-and-present-e38ead",
+      "title": "A bridge between past and present",
+      "excerpt": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/szt7h6/article71678332.ece/alternates/LANDSCAPE_1200/6744_7_11_2026_16_33_50_1_01_BIHAR_MUSEUM.JPG",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T23:12:10.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+      "guid": "article-71678324",
+      "titleHi": "अतीत और वर्तमान के बीच एक सेतु",
+      "excerptHi": "एक जर्मन प्रकाशन ने बिहार संग्रहालय को दुनिया के सर्वश्रेष्ठ में स्थान दिया। मयंक कुमार यह समझने के लिए यात्रा करते हैं कि संग्रहालय के निर्माण में क्या हुआ और आगंतुक भारतीय विकास में इसके योगदान के बारे में क्या सोचते हैं...",
+      "archived": false
+    },
     {
       "id": "0a340da45144527135505ccdfedf55341db84fea",
       "slug": "ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-0a340d",
@@ -11,17 +137,37 @@
         "Culture"
       ],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T22:23:43.000Z",
       "sourceUrl": "https://www.thehindu.com/news/national/bihar/ahead-of-deepavali-chhath-festivals-migrants-reach-bihar-in-hordes-covering-thousands-of-kilometers/article71678281.ece",
-      "guid": "article-71678281",
       "titleHi": "दीपावली, छठ त्योहारों से पहले, प्रवासी हजारों किलोमीटर की दूरी तय करके बिहार पहुँचते हैं",
       "excerptHi": "बेंगलुरु से शनिवार (7 नवंबर, 2026) को चार युवकों ने एक पुराने ऑटो - रिक्शा पर सवार होकर पूर्वी चंपारण के अरेराज शहर तक पहुँचने के लिए लगभग 2,200 किलोमीटर की यात्रा की",
       "archived": false
+    },
+    {
+      "id": "6540d9809f656761751127e250458704cb474316",
+      "slug": "10-years-since-demonetisation-cash-usage-unchanged-fake-note-6540d9",
+      "title": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+      "excerpt": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet",
+      "category": "World",
+      "secondaryCategories": [
+        "Politics"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/news/national/lgtow2/article71678816.ece/alternates/LANDSCAPE_1200/iStock-806907204.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T20:43:26.000Z",
+      "sourceUrl": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece",
+      "guid": "article-71673986",
+      "titleHi": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+      "excerptHi": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced overnight demonetisation of 86% of the country’s cash. Data shows some stated aims of the move remain largely unmet",
+      "archived": true
     },
     {
       "id": "c8c8c79bda82b3d19a29448904020bdcda9c34fc",
@@ -31,17 +177,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Hindu",
-      "author": "The Hindu",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T20:09:14.000Z",
       "sourceUrl": "https://www.thehindu.com/news/cities/chennai/nallur-toll-plaza-on-kolkata-nh-to-be-moved-to-durainallur/article71678789.ece",
-      "guid": "article-71678789",
       "titleHi": "कोलकाता राष्ट्रीय राजमार्ग पर नल्लूर टोल प्लाजा को दुरैनाल्लूर ले जाया जाएगा",
       "excerptHi": "कोलकाता राष्ट्रीय राजमार्ग पर नल्लूर टोल प्लाजा को दुरैनाल्लूर ले जाया जाएगा",
-      "archived": false
+      "archived": true
     },
     {
       "id": "09bef22a672e84aa4e8a45451c706f5cea984f43",
@@ -59,136 +203,6 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/greek-themed-salaam-souk-to-be-held-at-palace-grounds-in-bengaluru-on-november-8/article71678845.ece",
       "titleHi": "ग्रीक थीम वाला सलाम सूक 8 नवंबर को बेंगलुरु के पैलेस ग्राउंड में आयोजित किया जाएगा",
       "excerptHi": "ग्रीक थीम वाला सलाम सूक 8 नवंबर को बेंगलुरु के पैलेस ग्राउंड में आयोजित किया जाएगा",
-      "archived": false
-    },
-    {
-      "id": "ad83fb238ce0513f6e05481f55e68b89563a424c",
-      "slug": "sustainable-development-council-unveils-nationwide-citizen-d-ad83fb",
-      "title": "Sustainable Development Council unveils nationwide citizen driven initiative for sustainable India",
-      "excerpt": "Sustainable Development Council unveils nationwide citizen driven initiative for sustainable India",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/c1w8na/article71678995.ece/alternates/LANDSCAPE_1200/Image1%20-%20My%20Bharat%202030.jpeg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T19:18:03.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/sustainable-development-council-unveils-nationwide-citizen-driven-initiative-for-sustainable-india/article71678994.ece",
-      "titleHi": "सस्टेनेबल डेवलपमेंट काउंसिल ने सस्टेनेबल इंडिया के लिए राष्ट्रव्यापी नागरिक संचालित पहल का अनावरण किया",
-      "excerptHi": "सस्टेनेबल डेवलपमेंट काउंसिल ने सस्टेनेबल इंडिया के लिए राष्ट्रव्यापी नागरिक संचालित पहल का अनावरण किया",
-      "archived": true
-    },
-    {
-      "id": "48f791085cedd9ebe5b66309aee19f3f61bbf216",
-      "slug": "indias-policy-shift-towards-israel-is-regrettable-says-forme-48f791",
-      "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
-      "excerpt": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon conflict",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/43sb6d/article71679321.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%209.25.35%20PM.jpeg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T18:30:38.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-      "titleHi": "पुस्तक विमोचन के अवसर पर मद्रास उच्च न्यायालय के पूर्व न्यायाधीश ने कहा कि इजरायल के प्रति भारत का नीतिगत बदलाव खेदजनक है",
-      "excerptHi": "Amerikka - Israel Aneethiyum Makkal Samuga Kadamaiyum नामक पुस्तक में संयुक्त राज्य अमेरिका और ईरान और इजरायल - लेबनान संघर्ष के बीच शत्रुता के प्रक्षेपवक्र की जांच करने वाले लेख शामिल हैं",
-      "archived": true
-    },
-    {
-      "id": "07afe0761f65dcc3e7a602f76a3a54af88efd82b",
-      "slug": "bengaluru-airport-declares-full-emergency-after-security-thr-07afe0",
-      "title": "Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight",
-      "excerpt": "A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/PTI05-29-2026-000184B-0_1794074704950_A1zi_1794074705050_WBUS_abf023c4-ddc9-4573-98da-635a731d57be_FZM8.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T18:17:33.000Z",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bengaluru-airport-declares-full-emergency-after-security-threat-on-lucknow-bound-indigo-flight-101794074544636.html",
-      "titleHi": "Bengaluru airport declares full emergency after security threat on Lucknow-bound IndiGo flight",
-      "excerptHi": "A full emergency was declared at Bengaluru airport after a suspected hijack threat note was found in the washroom of a Lucknow-bound IndiGo flight.",
-      "archived": true
-    },
-    {
-      "id": "15100d5cccde9d6b14f8e248991ff99764f37360",
-      "slug": "bengaluru-metro-conducts-trial-run-of-blue-line-train-at-bya-15100d",
-      "title": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
-      "excerpt": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T18:12:53.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-conducts-trial-run-of-blue-line-train-at-byappanahalli-depot/article71679376.ece",
-      "titleHi": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
-      "excerptHi": "Bengaluru Metro conducts trial run of Blue Line train at Byappanahalli depot",
-      "archived": true
-    },
-    {
-      "id": "cd6ddc4d847ac2271681afab7424f10041e0bddb",
-      "slug": "lucknow-bound-indigo-flight-returns-to-bengaluru-after-hijac-cd6ddc",
-      "title": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
-      "excerpt": "Flight 6E-451 had departed from Terminal 1 of KIA when cabin crew members found the note that said “This flight is going to hijack at 6.30, ignore and see the consequences”",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/45k0bg/article71679198.ece/alternates/LANDSCAPE_1200/TH04-SAFBL_G5LGG1HGOOLLH.3.jpg.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T17:52:43.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/lucknow-bound-indigo-flight-emergency-returns-to-bengaluru-after-hijack-threat-note-found-onboard/article71679041.ece",
-      "titleHi": "Lucknow-bound IndiGo flight returns to Bengaluru after hijack threat note found onboard",
-      "excerptHi": "Flight 6E-451 had departed from Terminal 1 of KIA when cabin crew members found the note that said “This flight is going to hijack at 6.30, ignore and see the consequences”",
-      "archived": true
-    },
-    {
-      "id": "21c57451f41c7e612814d4d3435ab2350a55eebb",
-      "slug": "students-urged-to-dream-big-prepare-for-a-self-reliant-india-21c574",
-      "title": "Students urged to dream big, prepare for a self-reliant India",
-      "excerpt": "Students urged to dream big, prepare for a self-reliant India",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Hindu",
-      "image": null,
-      "imageType": "none",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T17:47:05.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece",
-      "titleHi": "Students urged to dream big, prepare for a self-reliant India",
-      "excerptHi": "Students urged to dream big, prepare for a self-reliant India",
-      "archived": true
-    },
-    {
-      "id": "67dbc530a2bb5b28dfb071156355c379edabe180",
-      "slug": "bengalurus-gba-launches-phase-2-of-ward-one-67dbc5",
-      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
-      "excerpt": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/692j5v/article71679403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%2014.33.58.JPEG",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T17:46:28.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
-      "titleHi": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
-      "excerptHi": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
       "archived": true
     }
   ],
@@ -201,17 +215,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Marina Dunbar",
       "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T20:03:23.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
-      "guid": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
       "titleHi": "FAA announces first US digital air traffic control towers in Florida and Alaska",
       "excerptHi": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "580fb51045f421bbf95d5a89e3db1d25c4e7476c",
@@ -229,7 +241,7 @@
       "sourceUrl": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
       "titleHi": "नॉटिंघम फॉरेस्ट 3 -1 मैनचेस्टर सिटी: प्रीमियर लीग – LIVE",
       "excerptHi": "शाम 5.30बजे जीएमटी किक - ऑफ ⚽ लाइव स्कोर से⚽ प्रीमियर लीग अपडेट | पूरी टेबल | TikTok पर हमें फ़ॉलो करें | मेल टॉम हम सिटी ग्राउंड पर हैं। किक - ऑफ से पहले, हम द लास्ट पोस्ट सुनेंगे। स्मरण रविवार कल है।...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "92173ed133252cd840775f8888130fe2fe6d7169",
@@ -247,7 +259,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
       "titleHi": "'दाना, कृपया नौकरी कर लो! '- ट्रम्प ने UFC बॉस को व्हाइट हाउस का प्रेस सचिव बनने के लिए कहा",
       "excerptHi": "बीबीसी ने यूएफसी की मूल कंपनी व्हाइट हाउस और टीकेओ होल्डिंग्स से टिप्पणी के लिए कहा है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2836ed32ece6242857373b141637b93394127030",
@@ -268,7 +280,7 @@
       "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "titleHi": "क्राकोव गोलीबारी में ताज़ा अपडेट: पुलिस का कहना है कि छह लोगों की मौत हो गई और एक दर्जन से ज़्यादा लोग घायल हो गए",
       "excerptHi": "पोलैंड के प्रधान मंत्री डोनाल्ड टस्क चार महिलाओं और दो पुरुषों के मारे जाने और एक दर्जन से अधिक लोगों के घायल होने के बाद शहर की ओर जाते हैं, पोलैंड में अमेरिकी राजदूत टॉम रोज ने एक्स पर लिखा: हम सिर्फ...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "48f791085cedd9ebe5b66309aee19f3f61bbf216",
@@ -391,6 +403,28 @@
   ],
   "europe": [
     {
+      "id": "e38ead8a3e4845309d8b9cafbf7145fbd85c2a6f",
+      "slug": "a-bridge-between-past-and-present-e38ead",
+      "title": "A bridge between past and present",
+      "excerpt": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contribution to the development of Indian…",
+      "category": "Europe",
+      "secondaryCategories": [
+        "Culture"
+      ],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/szt7h6/article71678332.ece/alternates/LANDSCAPE_1200/6744_7_11_2026_16_33_50_1_01_BIHAR_MUSEUM.JPG",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-07T23:12:10.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece",
+      "guid": "article-71678324",
+      "titleHi": "अतीत और वर्तमान के बीच एक सेतु",
+      "excerptHi": "एक जर्मन प्रकाशन ने बिहार संग्रहालय को दुनिया के सर्वश्रेष्ठ में स्थान दिया। मयंक कुमार यह समझने के लिए यात्रा करते हैं कि संग्रहालय के निर्माण में क्या हुआ और आगंतुक भारतीय विकास में इसके योगदान के बारे में क्या सोचते हैं...",
+      "archived": false
+    },
+    {
       "id": "09bcebef1acb298fb3507923a9d29676f536e75c",
       "slug": "poland-footage-shows-people-taking-cover-as-a-gunman-opens-f-09bceb",
       "title": "Poland: Footage shows people taking cover as a gunman opens fire in Krakow",
@@ -400,14 +434,12 @@
         "Business"
       ],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T22:10:08.000Z",
       "sourceUrl": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
-      "guid": "https://www.euronews.com/video/2026/11/07/poland-footage-shows-people-taking-cover-as-a-gunman-opens-fire-in-krakow",
       "titleHi": "पोलैंड: फुटेज में दिखाया गया है कि क्राको में बंदूकधारी के गोली चलाने के दौरान लोग कवर लेते हैं",
       "excerptHi": "फुटेज में दिखाया गया है कि क्राको के मेन मार्केट स्क्वायर पर एक घातक गोलीबारी के दौरान कारों की रफ्तार बढ़ने के कारण लोग भाग रहे हैं, जिसमें छह लोग मारे गए और लगभग 15 घायल हो गए।",
       "archived": false
@@ -420,14 +452,12 @@
       "category": "Europe",
       "secondaryCategories": [],
       "source": "Euronews",
-      "author": "Euronews",
       "image": null,
       "imageType": "none",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T21:45:27.000Z",
       "sourceUrl": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
-      "guid": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
       "titleHi": "यूक्रेन: रूसी हमलों ने कीव क्षेत्र को प्रभावित किया, बुनियादी ढांचे को नुकसान पहुंचाया",
       "excerptHi": "रूसी हमलों ने कीव क्षेत्र में बुनियादी ढांचे को नुकसान पहुंचाया है और यूक्रेनी राजधानी में एक किंडरगार्टन खंडहर में छोड़ दिया है। अग्निशामकों ने एक बड़ी आग से जूझना पड़ा क्योंकि यूक्रेन को अपने ऊर्जा नेटवर्क पर नए सिरे से हमलों का सामना करना पड़ा।",
       "archived": false
@@ -448,7 +478,7 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
       "titleHi": "क्राको मास शूटिंग के बारे में हम अब तक क्या जानते हैं",
       "excerptHi": "पोलैंड के दूसरे सबसे बड़े शहर में गोलीबारी करने वाले सैन्य थकान में एक बंदूकधारी द्वारा कम से कम छह लोगों की मौत हो गई।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "2836ed32ece6242857373b141637b93394127030",
@@ -469,7 +499,7 @@
       "sourceUrl": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
       "titleHi": "क्राकोव गोलीबारी में ताज़ा अपडेट: पुलिस का कहना है कि छह लोगों की मौत हो गई और एक दर्जन से ज़्यादा लोग घायल हो गए",
       "excerptHi": "पोलैंड के प्रधान मंत्री डोनाल्ड टस्क चार महिलाओं और दो पुरुषों के मारे जाने और एक दर्जन से अधिक लोगों के घायल होने के बाद शहर की ओर जाते हैं, पोलैंड में अमेरिकी राजदूत टॉम रोज ने एक्स पर लिखा: हम सिर्फ...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "04884ed4805d950e8bd6a35099fd4d6224ab2a1c",
@@ -565,29 +595,69 @@
       "titleHi": "Italian foreign minister says hackers leaked his personal data",
       "excerptHi": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
       "archived": true
-    },
-    {
-      "id": "154908852b78bf4daa158b60c6f4c21f206960cf",
-      "slug": "uk-cannot-cherry-pick-eu-single-market-deal-barnier-tells-bb-154908",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "excerpt": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "category": "Europe",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T15:19:35.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "excerptHi": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "archived": true
     }
   ],
   "asia": [
+    {
+      "id": "b454e695ed8cfd35d94e95b3a35ad40cbc60ac1a",
+      "slug": "uyghurs-facing-deportation-by-thailand-say-they-will-be-like-b454e6",
+      "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+      "excerpt": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority The deportation of two more Uyghurs to China from Thailand would…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Amy Hawkins",
+      "image": "https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=27393216122fc0abfebcbe2607170f1a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T03:00:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "guid": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "titleHi": "थाईलैंड द्वारा निर्वासन का सामना कर रहे उइगरों का कहना है कि वे चीन में ‘गुलामों की तरह’ होंगे",
+      "excerptHi": "कार्यकर्ताओं को डर है कि ज्यादातर मुस्लिम जातीय अल्पसंख्यक के खिलाफ यातना और मानवाधिकारों के हनन की रिपोर्टों के बावजूद बैंकॉक बीजिंग के दबाव में आ जाएगा। थाईलैंड से चीन में दो और उइगरों का निर्वासन...",
+      "archived": false
+    },
+    {
+      "id": "feefbb71401dc9a90200c869838fe82dc95e6375",
+      "slug": "singapore-based-senior-it-executive-shot-dead-over-parking-d-feefbb",
+      "title": "Singapore-based senior IT executive shot dead over parking dispute in Faridabad",
+      "excerpt": "The accused fired several rounds at the victim and his son; the victim succumbed to injuries and the son escaped unhurt",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/iolqc6/article71679416.ece/alternates/LANDSCAPE_1200/20261107224L.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T01:25:25.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/singapore-based-senior-it-executive-shot-dead-over-parking-dispute-in-faridabad/article71678760.ece",
+      "guid": "article-71678760",
+      "titleHi": "फरीदाबाद में पार्किंग विवाद को लेकर सिंगापुर के वरिष्ठ आईटी अधिकारी की गोली मारकर हत्या",
+      "excerptHi": "आरोपी ने पीड़िता और उसके बेटे पर कई गोलियां चलाईं; पीड़िता ने दम तोड़ दिया और बेटा बाल - बाल बच गया",
+      "archived": false
+    },
+    {
+      "id": "434bbdec9c2b3b453e0a6d6c61e68d2ed7bbc71b",
+      "slug": "singapore-based-senior-it-executive-shot-dead-over-parking-d-434bbd",
+      "title": "Singapore-based senior IT executive shot dead over parking dispute in Faridabad",
+      "excerpt": "The accused fired several rounds at the victim and his son; the victim succumbed to injuries and the son escaped unhurt",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Hindu",
+      "author": "The Hindu",
+      "image": "https://th-i.thgim.com/public/incoming/iolqc6/article71679416.ece/alternates/LANDSCAPE_1200/20261107224L.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T01:24:37.000Z",
+      "sourceUrl": "https://www.thehindu.com/news/national/haryana/it-executive-shot-dead-in-faridabad-after-neighbour-fires-nine-rounds/article71679417.ece",
+      "guid": "article-71679417",
+      "titleHi": "फरीदाबाद में पार्किंग विवाद को लेकर सिंगापुर के वरिष्ठ आईटी अधिकारी की गोली मारकर हत्या",
+      "excerptHi": "आरोपी ने पीड़िता और उसके बेटे पर कई गोलियां चलाईं; पीड़िता ने दम तोड़ दिया और बेटा बाल - बाल बच गया",
+      "archived": false
+    },
     {
       "id": "2518760e0561bdeb2daa02dbc416fa5a63a0c0fd",
       "slug": "wales-let-themselves-down-despite-win---lake-251876",
@@ -598,17 +668,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a5/live/106f6210-daef-11f1-874f-676ba8accebe.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T21:03:07.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go#1",
       "titleHi": "वेल्स ने जीत के बावजूद खुद को निराश किया - झील",
       "excerptHi": "कैप्टन डेवी लेक जानते हैं कि जापान पर 28 -21 नेशंस चैंपियनशिप की खराब जीत के बाद सुधार करने के लिए बहुत कुछ है।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "468ee60237f48789a422933c306261015fcc8bc5",
@@ -721,67 +789,31 @@
       "titleHi": "Indian Army debunks ‘unsubstantiated, false’ claims of Chinese troops advancing in Arunachal Pradesh",
       "excerptHi": "The Indian Army accused Pakistan-sponsored social media accounts of circulating \"unsubstantiated\" claims of Chinese troops advancing in Arunachal Pradesh",
       "archived": true
-    },
+    }
+  ],
+  "africa": [
     {
-      "id": "6708aa8fb990b7b124322f1d3782b4a15416768c",
-      "slug": "uttarakhand-sit-arrests-minister-rekha-aryas-husband-girdhar-6708aa",
-      "title": "Uttarakhand SIT arrests minister Rekha Arya’s husband Girdhari Lal Sahu from Jhansi",
-      "excerpt": "Girdhari Lal Sahu (61), who, according to the police, continued to change his locations and even went to the neighbouring country Nepal",
+      "id": "21d20988fb9ff4bbef747925d7919ed85e28c559",
+      "slug": "punjab-police-brings-back-wanted-gangster-gurwinder-alias-af-21d209",
+      "title": "Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia",
+      "excerpt": "Gurwinder aka Afridi, against whom the Punjab government had announced a reward of ₹5 lakh, landed at Delhi’s Indira Gandhi International (IGI) Airport",
       "category": "World",
       "secondaryCategories": [
         "Politics"
       ],
       "source": "Hindustan Times",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/The-minister-accused-him-of-forging-her-signatures_1794047539927_A907.jpg",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/gunn_1794103195428_Jjk4_1794103208126_qoHr_ec4f28bf-4267-4d51-9610-3bc659b277e8_A4ki.jpeg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
-      "publishedAt": "2026-11-07T10:32:27.000Z",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/uttarakhand-sit-arrests-minister-rekha-arya-s-husband-girdhari-lal-sahu-from-jhansi-101794047547591.html",
-      "titleHi": "Uttarakhand SIT arrests minister Rekha Arya’s husband Girdhari Lal Sahu from Jhansi",
-      "excerptHi": "Girdhari Lal Sahu (61), who, according to the police, continued to change his locations and even went to the neighbouring country Nepal",
-      "archived": true
+      "publishedAt": "2026-11-08T02:07:04.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/punjab-police-brings-back-wanted-gangster-gurwinder-alias-afridi-from-ethiopia-extradition-africa-101794103211445.html",
+      "guid": "https://www.hindustantimes.com/india-news/punjab-police-brings-back-wanted-gangster-gurwinder-alias-afridi-from-ethiopia-extradition-africa-101794103211445.html",
+      "titleHi": "पंजाब पुलिस ने वांछित गैंगस्टर गुरविंदर उर्फ अफरीदी को इथियोपिया से वापस लाया",
+      "excerptHi": "गुरविंदर उर्फ अफरीदी, जिनके खिलाफ पंजाब सरकार ने ₹ 5 लाख के इनाम की घोषणा की थी, दिल्ली के इंदिरा गांधी अंतर्राष्ट्रीय (IGI) हवाई अड्डे पर उतरे",
+      "archived": false
     },
-    {
-      "id": "b7ff11958707349fa5f0009ee2396152a61d2e5c",
-      "slug": "the-datacentre-arms-race-hits-pause-in-south-east-asia-b7ff11",
-      "title": "The datacentre arms race hits pause in south-east Asia",
-      "excerpt": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b3dcfcb97fc179796641df3a7d439106",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T10:00:07.000Z",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-      "titleHi": "The datacentre arms race hits pause in south-east Asia",
-      "excerptHi": "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months ago In early 2026, Thailand’s datacentre industry was on a roll. The country’s board of investment had…",
-      "archived": true
-    },
-    {
-      "id": "7f03f0040453810e03b719657c0affb353c39aaf",
-      "slug": "why-soaring-freight-costs-amid-west-asia-conflict-are-squeez-7f03f0",
-      "title": "Why soaring freight costs amid West Asia conflict are squeezing Keralam exports",
-      "excerpt": "Steep rise in transportation costs has made Kerala products less competitive in overseas markets",
-      "category": "World",
-      "secondaryCategories": [
-        "Business"
-      ],
-      "source": "The Hindu",
-      "image": "https://th-i.thgim.com/public/incoming/y7yf9p/article71677568.ece/alternates/LANDSCAPE_1200/11073_16_6_2022_18_16_42_3_COIR12.JPG",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T07:32:08.000Z",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
-      "titleHi": "पश्चिम एशिया संघर्ष के बीच बढ़ती माल ढुलाई लागत केरल के निर्यात को क्यों निचोड़ रही है",
-      "excerptHi": "परिवहन लागत में भारी वृद्धि ने केरल के उत्पादों को विदेशी बाजारों में कम प्रतिस्पर्धी बना दिया है",
-      "archived": true
-    }
-  ],
-  "africa": [
     {
       "id": "cccced87afcb2fe0ef8fd45c23e2d05ec1c0dd6e",
       "slug": "the-young-somali-woman-changing-how-the-world-sees-mogadishu-cccced",
@@ -935,6 +967,26 @@
   ],
   "middleeast": [
     {
+      "id": "883e363d292644f24a4bfa53fb7c37a19c554964",
+      "slug": "ht-morning-news-brief-november-8-delhis-worst-diwali-eve-air-883e36",
+      "title": "HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more",
+      "excerpt": "Here are today's top headlines from politics, national and global events, sports, and entertainment.",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "Hindustan Times",
+      "author": "Hindustan Times",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/htmorningbrief_1794107624441_gzEN_1794107624555_lefi_4899f197-850f-4dff-b993-a4a58dd9276a_EnEq.jpg",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 2,
+      "publishedAt": "2026-11-08T03:33:33.000Z",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html",
+      "guid": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html",
+      "titleHi": "एचटी मॉर्निंग न्यूज़ संक्षिप्त 8 नवंबर: दिल्ली की दिवाली की पूर्व संध्या पर 10 साल में सबसे खराब हवा; इज़राइल राष्ट्रपति ने नेतन्याहू के प्रतिद्वंद्वी ईसेनकोट को चुना, और भी बहुत कुछ",
+      "excerptHi": "राजनीति, राष्ट्रीय और वैश्विक कार्यक्रमों, खेल और मनोरंजन से आज की शीर्ष सुर्खियां यहां दी गई हैं।",
+      "archived": false
+    },
+    {
       "id": "6f06cf85fa1170a401f2d1e2b66e7548b072ed76",
       "slug": "israels-president-tasks-opposition-leader-eisenkot-with-form-6f06cf",
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -944,14 +996,12 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T22:19:59.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
       "titleHi": "इज़राइल के राष्ट्रपति ने विपक्षी नेता आइज़ेनकोट को सरकार बनाने का काम सौंपा",
       "excerptHi": "पिछले सप्ताह के चुनाव में न तो प्रधानमंत्री बेंजामिन नेतन्याहू के ब्लॉक और न ही उनके प्रतिद्वंद्वी ने बहुमत हासिल किया।",
       "archived": false
@@ -966,17 +1016,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Guardian staff and agencies",
       "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:49:39.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "guid": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
       "titleHi": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "excerptHi": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "737a422cc6b242029c569e1e52a3b5d92cd7bee9",
@@ -1109,24 +1157,6 @@
       "titleHi": "Court rules against Home Office in asylum seeker kidnapping case",
       "excerptHi": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped…",
       "archived": true
-    },
-    {
-      "id": "48ebc69d655da24b30802be8333b0da3dcba2e6c",
-      "slug": "a-customer-success-story-leaked-documents-show-cisco-doubled-48ebc6",
-      "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-      "excerpt": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with…",
-      "category": "Business",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cea2e5100ec572f808c1994331acef93",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T12:00:12.000Z",
-      "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-      "titleHi": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-      "excerptHi": "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the war A year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with…",
-      "archived": true
     }
   ],
   "latam": [
@@ -1146,7 +1176,7 @@
       "sourceUrl": "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
       "titleHi": "ब्राज़ील में क्वालीफ़ाई कर रहे साओ पाउलो फ़ॉर्मूला वन ग्रैंड प्रिक्स – लाल झंडे के बाद फिर से लाइव",
       "excerptHi": "इंटरलागोस से ️ अपडेट (सेशन शाम 6 बजे GMT से शुरू होता है) द रिकैप न्यूज़लेटर के लिए ️ साइन अप करें | और अपग्रेड किए गए मैकलेरन में एंटोनेली, रसेल और नॉरिस की पोल संभावनाओं के माध्यम से बात करते हुए फिलिप टेड क्रावित्ज़ को ईमेल करें।…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "96ab2b6707464c4b31e02969c13491f93f0452a3",
@@ -1323,6 +1353,50 @@
   ],
   "oceania": [
     {
+      "id": "bc104d8a3148b0bfc98049edde75286a12e7816e",
+      "slug": "cold-blast-brings-springtime-snow-to-alpine-regions-as-tempe-bc104d",
+      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "excerpt": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email, free app or daily news podcast Snow has fallen across parts of NSW, Victoria and…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian staff",
+      "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T02:34:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "guid": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "titleHi": "ऑस्ट्रेलिया के दक्षिण - पूर्व में तापमान गिरने के कारण ठंडे विस्फोट से अल्पाइन क्षेत्रों में वसंत ऋतु में बर्फबारी होती है",
+      "excerptHi": "थ्रेडबो, पेरिशर और माउंट होथम सभी रिकॉर्ड किए गए झरने, तस्मानिया में कुनानी/माउंट वेलिंगटन के साथ हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें स्नो एनएसडब्ल्यू, विक्टोरिया के कुछ हिस्सों में गिर गया है और...",
+      "archived": false
+    },
+    {
+      "id": "acbc26952a99f06297ef76c6c2f3bc2a7b779f1c",
+      "slug": "victoria-barracks-in-sydney-and-melbourne-to-remain-in-publi-acbc26",
+      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+      "excerpt": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email, free app or daily news podcast Richard Marles has denied claims…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T00:17:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "guid": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "titleHi": "रक्षा संपत्ति की बिक्री पर आंशिक रूप से पीछे हटने के बाद सिडनी और मेलबर्न में विक्टोरिया बैरक सार्वजनिक हाथों में रहेंगे",
+      "excerptHi": "दिग्गजों और पूर्व प्रधानमंत्रियों की प्रतिक्रिया के बाद सामुदायिक उपयोग के लिए चार विरासत - सूचीबद्ध रक्षा संपत्तियों को संरक्षित किया जाना है हमारे दैनिक राजनीतिक ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें रिचर्ड मार्ल्स ने दावों से इनकार किया है...",
+      "archived": false
+    },
+    {
       "id": "6e31703fcb817cd98f11700d43f2b48e72c9ba9e",
       "slug": "can-new-zealands-new-government-win-over-disillusioned-voter-6e3170",
       "title": "Can New Zealand's new government win over disillusioned voters?",
@@ -1330,14 +1404,12 @@
       "category": "Business",
       "secondaryCategories": [],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T21:36:16.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo#3",
       "titleHi": "क्या न्यूजीलैंड की नई सरकार मोहभंग वाले मतदाताओं पर जीत हासिल कर सकती है?",
       "excerptHi": "मनोदशा कम है, और कीवी का राजनीति में विश्वास और भी कम है - मतदाताओं ने चुनावों में मुख्य दलों को छोड़ दिया है।",
       "archived": false
@@ -1352,17 +1424,15 @@
         "Europe"
       ],
       "source": "BBC Sport",
-      "author": "BBC Sport",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d4/live/944d4e20-daeb-11f1-aac9-0789014bcc48.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T20:57:12.000Z",
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o#1",
       "titleHi": "ऑल ब्लैक स्कूली शिक्षा में स्कॉटलैंड की परिचित कमजोरियों को बेरहमी से उजागर किया गया",
       "excerptHi": "स्कॉटलैंड के मिशन के बयान के साथ न्यूजीलैंड पर पहली बार जीत की उम्मीदों को कुचल दिया गया था, टॉम इंग्लिश लिखते हैं।",
-      "archived": false
+      "archived": true
     },
     {
       "id": "ca6bcf5a272146d447815b523d9b9959ebb17170",
@@ -1382,7 +1452,7 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/videos/c9vgr21ejk40o?at_medium=RSS&at_campaign=rss",
       "titleHi": "सात बार कोशिश करने वाला न्यूजीलैंड स्कॉटलैंड के लिए बहुत मजबूत है",
       "excerptHi": "नेशंस चैंपियनशिप में स्कॉटलैंड के लिए न्यूजीलैंड बहुत मजबूत साबित होने के साथ - साथ मरेफील्ड की हाइलाइट्स देखें",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fcc57baef9eb643a5db408a92d4c31a9f53fc1fe",
@@ -1482,47 +1552,73 @@
       "titleHi": "स्कॉटलैंड बनाम न्यूजीलैंड: नेशंस चैंपियनशिप रग्बी यूनियन – LIVE",
       "excerptHi": "नेशंस चैंपियनशिप अपडेट, दोपहर 2.10बजे जीएमटी किक - ऑफ ब्रेकडाउन न्यूज़लेटर के लिए साइन अप करें | कप्तान की अगुवाई में अब हाका के लिए किए गए डैनियल एंथेम्स को ईमेल करें। बस 10 मिनट बाकी हैं। पढ़ना जारी रखें...",
       "archived": true
-    },
-    {
-      "id": "6627ae0c02183fa742f1a12f7d6592a19b5322af",
-      "slug": "no-clear-winner-after-tight-new-zealand-general-election-6627ae",
-      "title": "No clear winner after tight New Zealand general election",
-      "excerpt": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "category": "World",
-      "secondaryCategories": [
-        "Politics"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T15:00:10.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "तंग न्यूजीलैंड आम चुनाव के बाद कोई स्पष्ट विजेता नहीं",
-      "excerptHi": "एक अत्यधिक विभाजित राष्ट्रीय संसद की ओर इशारा करते हुए प्रारंभिक परिणामों के बाद गठबंधन वार्ता के सप्ताह चल सकते हैं।",
-      "archived": true
-    },
-    {
-      "id": "5f52c148516ffbfc948b0c236a3ee61f3e54c347",
-      "slug": "tongue-ruled-out-of-australia-tour-as-rashid-stars-in-warm-u-5f52c1",
-      "title": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-      "excerpt": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-      "category": "Sports",
-      "secondaryCategories": [],
-      "source": "BBC Sport",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df5/live/93643300-dab1-11f1-9da2-b11e4d68c08e.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T14:41:04.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/articles/c875p26gnnp2o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Tongue ruled out of Australia tour as Rashid stars in warm-up",
-      "excerptHi": "England fast bowler Josh Tongue is ruled out of the upcoming white-ball tour of Australia with a toe injury.",
-      "archived": true
     }
   ],
   "world": [
+    {
+      "id": "b454e695ed8cfd35d94e95b3a35ad40cbc60ac1a",
+      "slug": "uyghurs-facing-deportation-by-thailand-say-they-will-be-like-b454e6",
+      "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+      "excerpt": "Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minority The deportation of two more Uyghurs to China from Thailand would…",
+      "category": "World",
+      "secondaryCategories": [],
+      "source": "The Guardian",
+      "author": "Amy Hawkins",
+      "image": "https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=140&quality=85&auto=format&fit=max&s=27393216122fc0abfebcbe2607170f1a",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T03:00:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "guid": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+      "titleHi": "थाईलैंड द्वारा निर्वासन का सामना कर रहे उइगरों का कहना है कि वे चीन में ‘गुलामों की तरह’ होंगे",
+      "excerptHi": "कार्यकर्ताओं को डर है कि ज्यादातर मुस्लिम जातीय अल्पसंख्यक के खिलाफ यातना और मानवाधिकारों के हनन की रिपोर्टों के बावजूद बैंकॉक बीजिंग के दबाव में आ जाएगा। थाईलैंड से चीन में दो और उइगरों का निर्वासन...",
+      "archived": false
+    },
+    {
+      "id": "bc104d8a3148b0bfc98049edde75286a12e7816e",
+      "slug": "cold-blast-brings-springtime-snow-to-alpine-regions-as-tempe-bc104d",
+      "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
+      "excerpt": "Thredbo, Perisher and Mount Hotham all recorded falls, along with Kunanyi/Mount Wellington in Tasmania Get our breaking news email, free app or daily news podcast Snow has fallen across parts of NSW, Victoria and…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Guardian staff",
+      "image": "https://i.guim.co.uk/img/media/cec2d40cb1736bf071e01cfe1c16506146148e45/467_97_1218_975/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=f0b668a0c2353f200a661bd995771642",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T02:34:19.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "guid": "https://www.theguardian.com/australia-news/2026/nov/08/australia-weather-cold-blast-springtime-snow-thredbo-perisher-hotham-victoria-tasmania-el-nino",
+      "titleHi": "ऑस्ट्रेलिया के दक्षिण - पूर्व में तापमान गिरने के कारण ठंडे विस्फोट से अल्पाइन क्षेत्रों में वसंत ऋतु में बर्फबारी होती है",
+      "excerptHi": "थ्रेडबो, पेरिशर और माउंट होथम सभी रिकॉर्ड किए गए झरने, तस्मानिया में कुनानी/माउंट वेलिंगटन के साथ हमारे ब्रेकिंग न्यूज ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें स्नो एनएसडब्ल्यू, विक्टोरिया के कुछ हिस्सों में गिर गया है और...",
+      "archived": false
+    },
+    {
+      "id": "acbc26952a99f06297ef76c6c2f3bc2a7b779f1c",
+      "slug": "victoria-barracks-in-sydney-and-melbourne-to-remain-in-publi-acbc26",
+      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+      "excerpt": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email, free app or daily news podcast Richard Marles has denied claims…",
+      "category": "World",
+      "secondaryCategories": [
+        "Technology"
+      ],
+      "source": "The Guardian",
+      "author": "Sarah Basford Canales",
+      "image": "https://i.guim.co.uk/img/media/4de3f4de1a517d63098209ff6451d828346e519e/407_0_4066_3253/master/4066.jpg?width=140&quality=85&auto=format&fit=max&s=4965429b9c28af04599748c5247ec451",
+      "imageType": "real",
+      "aiImage": false,
+      "readTime": 3,
+      "publishedAt": "2026-11-08T00:17:28.000Z",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "guid": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "titleHi": "रक्षा संपत्ति की बिक्री पर आंशिक रूप से पीछे हटने के बाद सिडनी और मेलबर्न में विक्टोरिया बैरक सार्वजनिक हाथों में रहेंगे",
+      "excerptHi": "दिग्गजों और पूर्व प्रधानमंत्रियों की प्रतिक्रिया के बाद सामुदायिक उपयोग के लिए चार विरासत - सूचीबद्ध रक्षा संपत्तियों को संरक्षित किया जाना है हमारे दैनिक राजनीतिक ईमेल, मुफ्त ऐप या दैनिक समाचार पॉडकास्ट प्राप्त करें रिचर्ड मार्ल्स ने दावों से इनकार किया है...",
+      "archived": false
+    },
     {
       "id": "6f06cf85fa1170a401f2d1e2b66e7548b072ed76",
       "slug": "israels-president-tasks-opposition-leader-eisenkot-with-form-6f06cf",
@@ -1533,14 +1629,12 @@
         "Politics"
       ],
       "source": "BBC",
-      "author": "BBC",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
       "imageType": "real",
       "aiImage": false,
       "readTime": 2,
       "publishedAt": "2026-11-07T22:19:59.000Z",
       "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "guid": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo#0",
       "titleHi": "इज़राइल के राष्ट्रपति ने विपक्षी नेता आइज़ेनकोट को सरकार बनाने का काम सौंपा",
       "excerptHi": "पिछले सप्ताह के चुनाव में न तो प्रधानमंत्री बेंजामिन नेतन्याहू के ब्लॉक और न ही उनके प्रतिद्वंद्वी ने बहुमत हासिल किया।",
       "archived": false
@@ -1555,17 +1649,15 @@
         "Culture"
       ],
       "source": "The Guardian",
-      "author": "Marina Dunbar",
       "image": "https://i.guim.co.uk/img/media/bfa67dad8286b03a693134e3e3003bd7248371b6/0_118_2391_1911/master/2391.jpg?width=140&quality=85&auto=format&fit=max&s=1396c502fafb87824f07ac1d9b382ab5",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T20:06:25.000Z",
       "sourceUrl": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
-      "guid": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
       "titleHi": "पंक बैंड टेलीविज़न के संस्थापक सदस्य और गिटारवादक रिचर्ड लॉयड का 75 साल की उम्र में निधन हो गया",
       "excerptHi": "बैंड में परिष्कृत संगीत शैली के लिए जाना जाता है जिसने 1970 के दशक के उभरते पंक रॉक आंदोलन रिचर्ड लॉयड में महत्वपूर्ण भूमिका निभाई, जो एक संस्थापक सदस्य और गिटारवादक के रूप में अपनी परिष्कृत संगीत शैली के लिए जाना जाता है...",
-      "archived": false
+      "archived": true
     },
     {
       "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
@@ -1575,17 +1667,15 @@
       "category": "World",
       "secondaryCategories": [],
       "source": "The Guardian",
-      "author": "Marina Dunbar",
       "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T20:03:23.000Z",
       "sourceUrl": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
-      "guid": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
       "titleHi": "FAA announces first US digital air traffic control towers in Florida and Alaska",
       "excerptHi": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "c58085b689f6dfcf5b3629ce599c89f1fc1a1d39",
@@ -1597,17 +1687,15 @@
         "Politics"
       ],
       "source": "The Guardian",
-      "author": "Guardian staff and agencies",
       "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/270_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=6659afeee8f4fc9bd6e2837c740eb609",
       "imageType": "real",
       "aiImage": false,
       "readTime": 3,
       "publishedAt": "2026-11-07T19:49:39.000Z",
       "sourceUrl": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "guid": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
       "titleHi": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
       "excerptHi": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try…",
-      "archived": false
+      "archived": true
     },
     {
       "id": "fcc57baef9eb643a5db408a92d4c31a9f53fc1fe",
@@ -1669,62 +1757,6 @@
       "sourceUrl": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "titleHi": "US offers $20m reward for information about Iran's nuclear programme",
       "excerptHi": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-      "archived": true
-    },
-    {
-      "id": "c334eb223f39033666fe0cbaa634221f184b4e0d",
-      "slug": "gaza-wedding-festival-sees-250-couples-married-at-the-same-t-c334eb",
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "excerpt": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "category": "World",
-      "secondaryCategories": [
-        "Culture"
-      ],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/354f/live/49a10e60-daba-11f1-b441-2b33b063138f.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T17:58:41.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Gaza wedding festival sees 250 couples married at the same time",
-      "excerptHi": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "archived": true
-    },
-    {
-      "id": "b3534df0c8743592225e3ea5e38a9511b923dcf1",
-      "slug": "houthis-say-at-least-25-killed-in-saudi-air-strike-b3534d",
-      "title": "Houthis say at least 25 killed in Saudi air strike",
-      "excerpt": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "BBC",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 2,
-      "publishedAt": "2026-11-07T17:09:24.000Z",
-      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "titleHi": "Houthis say at least 25 killed in Saudi air strike",
-      "excerptHi": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "archived": true
-    },
-    {
-      "id": "5351930e6672c6a3db6af56870bb1610926b0d2b",
-      "slug": "rise-in-nhs-birth-centre-closures-shocking-denial-of-womens-535193",
-      "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-      "excerpt": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s…",
-      "category": "World",
-      "secondaryCategories": [],
-      "source": "The Guardian",
-      "image": "https://i.guim.co.uk/img/media/c3c6b99f0a024d3deb184dea44054eed0944f26e/149_0_4233_3386/master/4233.jpg?width=140&quality=85&auto=format&fit=max&s=26c1dba7e069d172d2bf6f8fc2b4be74",
-      "imageType": "real",
-      "aiImage": false,
-      "readTime": 3,
-      "publishedAt": "2026-11-07T17:00:16.000Z",
-      "sourceUrl": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-      "titleHi": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-      "excerptHi": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s…",
       "archived": true
     }
   ]
