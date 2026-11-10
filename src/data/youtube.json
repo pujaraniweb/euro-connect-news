@@ -2,9 +2,19 @@
   "channel": "@euroconnectnews",
   "channelId": "UCSuI6QmSDCfLnKk_sXN9XVg",
   "channelUrl": "https://www.youtube.com/@euroconnectnews",
-  "generatedAt": "2026-11-10T12:16:32.918Z",
-  "total": 55,
+  "generatedAt": "2026-11-10T20:23:25.906Z",
+  "total": 56,
   "items": [
+    {
+      "id": "51q41YftNiw",
+      "title": "Life of a Navy Sailor: From Surface Ship to Submarine.",
+      "publishedAt": "2026-11-10T16:51:40.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/51q41YftNiw/hqdefault.jpg",
+      "description": "The Navy is not just about ships and weapons. It is about protecting the seas, keeping trade routes safe, and operating in one of the most extreme environments on Earth — underwater. In this video you will learn: * How submariners sleep (hot racking & cramped ",
+      "duration": "3:29",
+      "url": "https://www.youtube.com/watch?v=51q41YftNiw",
+      "publishedAtExact": true
+    },
     {
       "id": "3yNWsja-8uQ",
       "title": "Life of the Navy | Surface Ships to Submarines",
