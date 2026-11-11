@@ -2,9 +2,19 @@
   "channel": "@euroconnectnews",
   "channelId": "UCSuI6QmSDCfLnKk_sXN9XVg",
   "channelUrl": "https://www.youtube.com/@euroconnectnews",
-  "generatedAt": "2026-11-11T09:01:24.982Z",
-  "total": 56,
+  "generatedAt": "2026-11-11T17:03:12.097Z",
+  "total": 57,
   "items": [
+    {
+      "id": "GoQfFktl90g",
+      "title": "Life of a Navy Sailor: From Surface Ship to Submarine | EPISODE 3",
+      "publishedAt": "2026-11-11T11:55:29.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/GoQfFktl90g/hqdefault.jpg",
+      "description": "In this episode, we look at how submarine crews handle emergencies deep underwater. You’ll learn: • How the crew responds to fire and flooding • Emergency procedures and damage control • Escape systems and survival training • Why every second matters when some",
+      "duration": "2:20",
+      "url": "https://www.youtube.com/watch?v=GoQfFktl90g",
+      "publishedAtExact": true
+    },
     {
       "id": "51q41YftNiw",
       "title": "Life of a Navy Sailor: From Surface Ship to Submarine.",
