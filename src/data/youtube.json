@@ -2,9 +2,19 @@
   "channel": "@euroconnectnews",
   "channelId": "UCSuI6QmSDCfLnKk_sXN9XVg",
   "channelUrl": "https://www.youtube.com/@euroconnectnews",
-  "generatedAt": "2026-11-11T23:27:46.583Z",
-  "total": 57,
+  "generatedAt": "2026-11-12T14:49:07.138Z",
+  "total": 58,
   "items": [
+    {
+      "id": "HqEp1yqgctk",
+      "title": "Coming Home: Life After Months Underwater || EPISODE 4",
+      "publishedAt": "2026-11-12T09:29:47.000Z",
+      "thumbnail": "https://i.ytimg.com/vi/HqEp1yqgctk/hqdefault.jpg",
+      "description": "What happens when submarine sailors finally return home after months beneath the ocean? 🌊 After spending long periods underwater, sailors return to the surface, experience open skies and fresh air, and reunite with their families. But coming home is more than",
+      "duration": "1:09",
+      "url": "https://www.youtube.com/watch?v=HqEp1yqgctk",
+      "publishedAtExact": true
+    },
     {
       "id": "GoQfFktl90g",
       "title": "Life of a Navy Sailor: From Surface Ship to Submarine | EPISODE 3",
